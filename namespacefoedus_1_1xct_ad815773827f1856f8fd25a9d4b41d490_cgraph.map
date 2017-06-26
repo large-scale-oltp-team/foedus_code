@@ -1,0 +1,8 @@
+<map id="foedus::xct::spin_until" name="foedus::xct::spin_until">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1assorted.html#aba5893ad8aab7d6aafff7be7f92e1372" title="Spin locally until the given condition returns true. " alt="" coords="203,63,353,105"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="624,34,771,75"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1assorted.html#aea055a054d205c76d8f221de4f6aa058" title="foedus::assorted::is\l_running_on_valgrind" alt="" coords="417,30,560,71"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="401,95,576,137"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a0f5961269d79e636777d722ade37dd2e" title="Take another current time tick. " alt="" coords="421,161,556,202"/>
+<area shape="rect" id="node7" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="630,161,765,202"/>
+</map>

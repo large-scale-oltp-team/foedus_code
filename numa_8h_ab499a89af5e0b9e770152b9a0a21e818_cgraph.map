@@ -1,0 +1,5 @@
+<map id="numa_get_membind_compat" name="numa_get_membind_compat">
+<area shape="rect" id="node2" href="$numa_8h.html#a364d7502729f7007d97f4193b51af070" title="copy_bitmask_to_nodemask" alt="" coords="243,5,431,32"/>
+<area shape="rect" id="node3" href="$numa_8h.html#aecafde9ab943547d6134f1fc45a55c33" title="numa_bitmask_free" alt="" coords="269,56,404,83"/>
+<area shape="rect" id="node4" href="$numa_8h.html#afceb65e4c73def1e0d2bea812e61006e" title="numa_get_membind" alt="" coords="267,107,406,133"/>
+</map>

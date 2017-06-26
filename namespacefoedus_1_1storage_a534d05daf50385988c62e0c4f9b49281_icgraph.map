@@ -1,0 +1,4 @@
+<map id="foedus::storage::save_to_xml_masstree" name="foedus::storage::save_to_xml_masstree">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#a83f2453d6adbfbc52375d8c02d0cb24a" title="foedus::storage::Metadata\lSerializer::save_all_storages_to_xml" alt="" coords="199,5,432,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1SnapshotMetadata.html#a559726ceaa8b7887e384b2277292cc8d" title="Writes the content of this object to the given XML element. " alt="" coords="480,5,664,47"/>
+</map>

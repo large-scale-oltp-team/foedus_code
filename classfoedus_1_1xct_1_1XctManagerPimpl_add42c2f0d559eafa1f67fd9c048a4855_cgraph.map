@@ -1,0 +1,51 @@
+<map id="foedus::xct::XctManagerPimpl::precommit_xct_readonly" name="foedus::xct::XctManagerPimpl::precommit_xct_readonly">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#ad75e847585775d7c506815269a176941" title="This marks the position upto which transaction logs are committed by the thread. " alt="" coords="259,312,445,353"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a3077294533a21c3aa0a115cfd4c90224" title="The current cursor to which next log will be written. " alt="" coords="259,377,445,419"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1Thread.html#a9a5d37d6dac9966989e23381f600fcee" title="Returns the private log buffer for this thread. " alt="" coords="275,443,429,484"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="265,508,439,549"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="248,573,456,615"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="808,136,959,177"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1Xct.html#ae523b00cead387e6addb1366fe08546a" title="foedus::xct::Xct::get\l_read_set" alt="" coords="546,340,685,381"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1Xct.html#af7b9c43800807db798d2e58bc07ad5cd" title="foedus::xct::Xct::get\l_read_set_size" alt="" coords="546,405,685,447"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Engine.html#ac27d3734638fe8d18fbdc9b4ee4666b2" title="See Storage Manager. " alt="" coords="816,397,951,439"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="797,201,969,243"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1StorageManager.html#ab3700d71eb463d5b9fae21a2704ea736" title="Returns the name of the given storage ID. " alt="" coords="533,639,697,680"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1xct_1_1XctId.html#ad5be23a25e650f1bad81ce8c87630af0" title="foedus::xct::XctId\l::is_being_written" alt="" coords="554,704,677,745"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a36088cc39846c59f78352695f08fcbf9" title="foedus::xct::RwLockableXct\lId::needs_track_moved" alt="" coords="792,463,975,504"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9090dd1fa81513f61620b44a9a8bbd1d" title="used from verification methods to track moved record " alt="" coords="505,573,725,615"/>
+<area shape="rect" id="node36" href="$classfoedus_1_1Epoch.html#adf886b8b219538b7dac2da820fbec68c" title="Kind of std::max(this, other). " alt="" coords="528,770,703,797"/>
+<area shape="rect" id="node38" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="554,821,677,863"/>
+<area shape="rect" id="node40" href="$classfoedus_1_1xct_1_1Xct.html#a245cedc62930a99cee57290d24932c56" title="foedus::xct::Xct::get\l_lock_free_read_set" alt="" coords="546,887,685,928"/>
+<area shape="rect" id="node41" href="$classfoedus_1_1xct_1_1Xct.html#af39a25162bfa65a4cc2dea0d64460cbe" title="foedus::xct::Xct::get\l_lock_free_read_set_size" alt="" coords="531,952,700,993"/>
+<area shape="rect" id="node42" href="$classfoedus_1_1Engine.html#aa27f031bd1e256d38e616ec9a499eefc" title="See Log Manager. " alt="" coords="548,1017,683,1059"/>
+<area shape="rect" id="node43" href="$classfoedus_1_1log_1_1LogManager.html#ac152369417a895120dac55370f8a750e" title="Non&#45;atomic version of the method. " alt="" coords="507,1083,724,1124"/>
+<area shape="rect" id="node45" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a011f72c9cc830a943b9dccd62d323209" title="Returns false if there is any pointer set conflict. " alt="" coords="504,92,727,133"/>
+<area shape="rect" id="node48" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ab21414e107b53d6276e1d20bc12dce9d" title="Returns false if there is any page version conflict. " alt="" coords="518,259,713,315"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1StorageControlBlock.html#af1f0b118bed183f7daf070409112ca93" title="foedus::storage::Storage\lControlBlock::exists" alt="" coords="1290,799,1454,840"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1StorageManager.html#a62a5d09952fe340dc03da8460f200523" title="Returns the storage of given ID. " alt="" coords="801,740,965,781"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#aea8861d6bf6c13c0df6d0c9777cdaa99" title="foedus::storage::Storage\lManagerPimpl::get_storage" alt="" coords="1048,740,1229,781"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1xct_1_1XctId.html#aa17818f701d2c61588f290c3d2cc1330" title="is_moved() || is_next_layer() " alt="" coords="1066,463,1211,504"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1storage_1_1StorageManager.html#a02513539acf9d7cd9805d34154281076" title="Resolves a &quot;moved&quot; record. " alt="" coords="785,675,981,716"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1thread_1_1Thread.html#aa77cde98794b5a55e0d295284acb3e6d" title="Returns the page resolver to convert page ID to page pointer. " alt="" coords="808,529,959,585"/>
+<area shape="rect" id="node30" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#ace820ba89437e4d3a59fdb47a47525ba" title="Calculate owner_lock_id using the resolver. " alt="" coords="783,609,984,651"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3248d8440d805f772ad7b6122a4d309b" title="foedus::storage::Storage\lManagerPimpl::track_moved\l_record" alt="" coords="1045,659,1232,715"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#ab763d5d37f053808257f662611f2e603" title="Resolves a &quot;moved&quot; record. " alt="" coords="1299,718,1445,774"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a2370f71beab1eb4b8b02e3ac9e4f29bd" title="Resolves a &quot;moved&quot; record. " alt="" coords="1285,638,1459,694"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#af3a7066a8881f653e759362cf39e01c4" title="foedus::storage::hash\l::HashStoragePimpl::track\l_moved_record" alt="" coords="1516,718,1691,774"/>
+<area shape="rect" id="node24" href="$structfoedus_1_1storage_1_1hash_1_1HashCommonLogType.html#ad66913658c856c60c06500b1179db779" title="used only for sanity check. " alt="" coords="1748,786,1936,842"/>
+<area shape="rect" id="node25" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a03782134d5ef0ebb8e187ddbd89f3c36" title="foedus::xct::RwLockableXct\lId::is_moved" alt="" coords="1751,720,1933,761"/>
+<area shape="rect" id="node26" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="1759,658,1925,685"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#aff57df4d2b237e63e459d5fefe9d4cfb" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::track_moved_record" alt="" coords="1517,638,1690,694"/>
+<area shape="rect" id="node31" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#adf2e2a9d414bf5cfe86f33198ebdf434" title="Setter for owner_id_address_/owner_lock_id_. " alt="" coords="1040,528,1237,569"/>
+<area shape="rect" id="node32" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="1066,593,1211,635"/>
+<area shape="rect" id="node33" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="1291,572,1453,613"/>
+<area shape="rect" id="node34" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="1507,507,1700,548"/>
+<area shape="rect" id="node35" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1523,572,1684,613"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="806,857,961,883"/>
+<area shape="rect" id="node39" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="822,908,945,949"/>
+<area shape="rect" id="node44" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a275d6ceca892089d89622fcf866c80d8" title="foedus::log::LogManagerPimpl\l::get_durable_global_epoch_weak" alt="" coords="775,1083,992,1124"/>
+<area shape="rect" id="node46" href="$classfoedus_1_1xct_1_1Xct.html#a91010b6195657c14f3b681da8102163d" title="foedus::xct::Xct::get\l_pointer_set" alt="" coords="814,5,953,47"/>
+<area shape="rect" id="node47" href="$classfoedus_1_1xct_1_1Xct.html#a6b0f4d5bf1485c376f62e97c6053ea43" title="foedus::xct::Xct::get\l_pointer_set_size" alt="" coords="814,71,953,112"/>
+<area shape="rect" id="node49" href="$classfoedus_1_1xct_1_1Xct.html#a98dcc8bc01ee8a365e68c0742c605d08" title="foedus::xct::Xct::get\l_page_version_set" alt="" coords="814,267,953,308"/>
+<area shape="rect" id="node50" href="$classfoedus_1_1xct_1_1Xct.html#a67f1a970106386aa9f367195c0a43208" title="foedus::xct::Xct::get\l_page_version_set_size" alt="" coords="803,332,963,373"/>
+</map>

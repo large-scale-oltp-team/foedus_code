@@ -1,0 +1,5 @@
+<map id="foedus::snapshot::SnapshotOptions::convert_folder_path_pattern" name="foedus::snapshot::SnapshotOptions::convert_folder_path_pattern">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#aea13c9b06029b240ee72b40a450cacf8" title="&#39;folder_path&#39;/snapshot_&#39;snapshot&#45;id&#39;node&#39;node&#45;id&#39;.data. " alt="" coords="249,5,439,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#a33c26d4ec5f1ea63447bf6075f527440" title="Returns the path of first node, which is also used as the primary place to write out global files..." alt="" coords="237,86,451,127"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#a4f9a776fa92af14a054f1dedea7d8ae2" title="foedus::cache::SnapshotFile\lSet::get_or_open_file" alt="" coords="499,13,685,54"/>
+</map>

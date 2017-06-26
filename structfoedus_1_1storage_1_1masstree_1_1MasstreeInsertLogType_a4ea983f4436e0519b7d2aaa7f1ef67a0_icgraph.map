@@ -1,0 +1,8 @@
+<map id="foedus::storage::masstree::MasstreeInsertLogType::populate" name="foedus::storage::masstree::MasstreeInsertLogType::populate">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#af0b96482a874777c4871a152ad733da3" title="implementation of insert_record family. " alt="" coords="227,69,400,125"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#aeeccc272d2f9a4d895f4d117f6b96b27" title="implementation of upsert_record family. " alt="" coords="227,149,400,205"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a86b4db183c677a364c7ddf71100699b9" title="With this method, you can also specify physical_payload_hint, the physical size of the record&#39;s paylo..." alt="" coords="450,5,662,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a6d7f9dea9af7356face9815ac10c37b4" title="With this method, you can also specify physical_payload_hint. " alt="" coords="469,71,643,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a0f917244d33e9cdb2fa6ffd686a2a701" title="With this method, you can also specify physical_payload_hint, the physical size of the record&#39;s paylo..." alt="" coords="448,153,664,195"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a152a0ecbad9b56385ec7f13e8a1fce19" title="With this method, you can also specify physical_payload_hint. " alt="" coords="469,219,643,275"/>
+</map>

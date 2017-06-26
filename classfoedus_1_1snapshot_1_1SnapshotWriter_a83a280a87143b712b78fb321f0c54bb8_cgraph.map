@@ -1,0 +1,7 @@
+<map id="foedus::snapshot::SnapshotWriter::expand_pool_memory" name="foedus::snapshot::SnapshotWriter::expand_pool_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad79701492d232cb5aec1ad4d8c99eb5d" title="If the current size is smaller than the given size, automatically expands. " alt="" coords="245,71,459,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#ab547f0a3936d5cb0c0ee827ea77edd09" title="foedus::snapshot::Snapshot\lWriter::get_page_size" alt="" coords="260,136,444,177"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad11d2289458b26db2aaef9de984045a0" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="507,5,720,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="507,71,720,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="507,136,720,177"/>
+</map>

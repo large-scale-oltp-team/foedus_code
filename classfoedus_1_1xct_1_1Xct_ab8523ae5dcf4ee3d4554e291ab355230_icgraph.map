@@ -1,0 +1,4 @@
+<map id="foedus::xct::Xct::is_read_only" name="foedus::xct::Xct::is_read_only">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="184,5,379,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="427,5,589,47"/>
+</map>

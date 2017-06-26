@@ -1,0 +1,5 @@
+<map id="Transaction Manager" name="Transaction Manager">
+<area shape="rect" id="node1" href="$group__RLL.html" title="Retrospective Lock List (RLL) to avoid deadlocks. " alt="" coords="409,5,566,32"/>
+<area shape="rect" id="node4" href="$group__SYSXCT.html" title="Physical&#45;only, short\l&#45;living system transactions." alt="" coords="397,57,577,98"/>
+<area shape="rect" id="node3" href="$group__COMPONENTS.html" title="Main modules of libfoedus. " alt="" coords="5,35,159,61"/>
+</map>

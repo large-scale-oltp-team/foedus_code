@@ -1,0 +1,38 @@
+var structfoedus_1_1soc_1_1GlobalMemoryAnchors =
+[
+    [ "Constants", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545", [
+      [ "kMasterStatusMemorySize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545a483c66f4b0cada84a76ec7da062b026d", null ],
+      [ "kLogManagerMemorySize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545a5a53b8bf839cf2cd6e406fc1923224c1", null ],
+      [ "kMetaLoggerSize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545a9eeaa3a529263c0a5c788c7f1fa88811", null ],
+      [ "kRestartManagerMemorySize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545a19c7d2bb903886200b85236576f8d713", null ],
+      [ "kSavepointManagerMemorySize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545aa7a2df985ae74439922cac045b8dab2b", null ],
+      [ "kSnapshotManagerMemorySize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545ae43384354b9366870fbd9840bdca2c59", null ],
+      [ "kStorageManagerMemorySize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545aec17b128faf411c04630ee5a7cf26e1d", null ],
+      [ "kXctManagerMemorySize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545a98864eba79f3bca83fc06661bb0344be", null ],
+      [ "kStorageMemorySize", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545ae94b1957ca95c7c2d9ce3dfd302dec2b", null ],
+      [ "kMaxBoundaries", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad087cfa2750075baaf8443032fcde545a495d98eccc9624a5130da255b72b3415", null ]
+    ] ],
+    [ "GlobalMemoryAnchors", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a07c547e94b9663b6da746e8000a859e5", null ],
+    [ "~GlobalMemoryAnchors", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a5791bd268845b89909d2fb8faffe666d", null ],
+    [ "GlobalMemoryAnchors", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ad82eecfead58d25c94b133edae8f3f45", null ],
+    [ "clear", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a46e22c8cac15e20ccea8ac8e77311b23", null ],
+    [ "operator=", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a9423f1b5077c72a3177118e4eccbe39b", null ],
+    [ "log_manager_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#adb764bbb98c6efac00e954cd175441e8", null ],
+    [ "master_status_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ae21c8452d4ace76cd9c71813742964aa", null ],
+    [ "meta_logger_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a37e487a5c15d17a1bbd4d8debbd09e12", null ],
+    [ "options_xml_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#afec3880ea7e4042652fba074f961dd61", null ],
+    [ "options_xml_length_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a9f1c83734cc351e39669b38a0d375e79", null ],
+    [ "partitioner_data_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#ac0d218079e600fd7d18a0ccb291c81bb", null ],
+    [ "partitioner_metadata_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a22ed5a1c1cb1dff07a3395800871ccbc", null ],
+    [ "protected_boundaries_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a5281c012a4e79a5de31434b7939c1fb2", null ],
+    [ "protected_boundaries_count_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#af8a9ab6db1d945d4b3ad0b44410b0560", null ],
+    [ "protected_boundaries_needs_release_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#acd017f6f29b5a120b1fab19d173d8c19", null ],
+    [ "restart_manager_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a1cc355b40b71b42d2c57266d596d3def", null ],
+    [ "savepoint_manager_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a99742df27c99cfbf17df02f644adfe27", null ],
+    [ "snapshot_manager_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a893b2dcb8ca8642925d07b86b78dff97", null ],
+    [ "storage_manager_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a746934fa99f307b88d5e626290ba460e", null ],
+    [ "storage_memories_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a19de66f983ddf0e54eeece1e48082014", null ],
+    [ "storage_name_sort_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#aa05c9ad90df7c55b9ad581ea352e4157", null ],
+    [ "user_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#acb8ce6c2d8fed5d6e8a248da0ad3eaf4", null ],
+    [ "xct_manager_memory_", "structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a3f828465722e4f6d54172dd6e24632af", null ]
+];

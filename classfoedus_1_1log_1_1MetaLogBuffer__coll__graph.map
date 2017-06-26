@@ -1,0 +1,8 @@
+<map id="foedus::log::MetaLogBuffer" name="foedus::log::MetaLogBuffer">
+<area shape="rect" id="node2" href="$classfoedus_1_1Attachable.html" title="foedus::Attachable\l\&lt; MetaLogControlBlock \&gt;" alt="" coords="89,199,259,240"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="21,102,129,129"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1log_1_1MetaLogControlBlock.html" title="Control block for MetaLogBuffer and MetaLogger. " alt="" coords="158,95,342,136"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="161,5,339,32"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="363,5,537,32"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="foedus::fs::FileStatus::is_directory" name="foedus::fs::FileStatus::is_directory">
+<area shape="rect" id="node2" href="$group__FILESYSTEM.html#ga87c90d834f65aad6f7b6540ae226f305" title="Returns if the file is a directory. " alt="" coords="199,132,352,159"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1fs_1_1Path.html#a080a0053aa2d32ca6547d8e5d3474486" title="foedus::fs::Path::child\l_paths" alt="" coords="400,53,548,94"/>
+<area shape="rect" id="node5" href="$group__FILESYSTEM.html#ga08865450d848cb894243005bdd226d1e" title="Makes the content and metadata of the file durable all the way up to devices. " alt="" coords="415,203,533,229"/>
+<area shape="rect" id="node4" href="$group__FILESYSTEM.html#gaaee757fd655c10771e8047fb6226ebba" title="Recursively deletes a directory. " alt="" coords="615,5,761,32"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a4944523eeeba60c3b677a8147b1f9e42" title="Close the file and makes sure all writes become durable (including the directory entry). " alt="" coords="596,225,780,266"/>
+<area shape="rect" id="node9" href="$group__FILESYSTEM.html#ga5cf40c936f78178ef58af0a900031b8b" title="mkdir. " alt="" coords="627,302,749,343"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1externalize_1_1Externalizable.html#af4e4989a732573c1bbd538a3fbfad930" title="Atomically and durably writes out this object to the specified XML file. " alt="" coords="1324,444,1471,500"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a4ae6b016213cb70bb6e5df636b24d129" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="1537,327,1721,383"/>
+<area shape="rect" id="node24" href="$group__FILESYSTEM.html#ga71591d3386f8adc320dac30d0320a3ee" title="fsync() on source file before rename, then fsync() on the parent folder after rename. " alt="" coords="856,425,984,466"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a357db1ed5dbab29245011a2c79d12023" title="Analogues of POSIX fsync(). " alt="" coords="613,107,763,149"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1fs_1_1DirectIoFile.html#ad59b9d5dc37a89ee993565865bb36b01" title="Discard the content of the file after the given offset. " alt="" coords="1083,107,1234,149"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a3c24b7f707e02abf63c2708b0090c02e" title="foedus::snapshot::Snapshot\lWriter::~SnapshotWriter" alt="" coords="828,225,1012,266"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a7d71f940f088efa51d0b5769d4fdd31f" title="Open the file so that the writer can start writing. " alt="" coords="1305,186,1489,227"/>
+<area shape="rect" id="node10" href="$group__FILESYSTEM.html#gaca1dd0a627c83ff76e30603ea67c4816" title="Recursive mkdir (mkdirs). " alt="" coords="859,313,981,354"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1log_1_1MetaLogger.html#a5a3484d094947ced0a08a5e162f08a88" title="foedus::log::MetaLogger\l::initialize_once" alt="" coords="1317,270,1478,311"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a8b2cfe458668cc3f8cf4ccbfeab179dc" title="foedus::log::LogManagerPimpl\l::initialize_once" alt="" coords="1060,393,1257,434"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1fs_1_1DirectIoFile.html#aaa3c1e50680d02783b61f5fe23f98b14" title="Tries to open the file for the specified volume. " alt="" coords="1083,225,1234,266"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1log_1_1Logger.html#a3b1d647f1458d1172a511b7e57a2a237" title="foedus::log::Logger\l::initialize_once" alt="" coords="1331,111,1463,153"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="1794,439,1955,495"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="1549,407,1710,463"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="1769,327,1980,383"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="2056,301,2211,342"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="2028,366,2239,407"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="2287,301,2481,342"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="2287,366,2481,407"/>
+</map>

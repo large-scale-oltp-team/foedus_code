@@ -1,0 +1,14 @@
+<map id="foedus::storage::masstree::SplitIntermediate::migrate_pointers" name="foedus::storage::masstree::SplitIntermediate::migrate_pointers">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="475,5,681,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="485,71,671,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1DualPagePointer.html#aedde91e76a6e345f6d19539942f13a43" title="foedus::storage::DualPage\lPointer::is_both_null" alt="" coords="491,283,665,324"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="241,273,414,315"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageHeader.html#a407bbd604662534963c7fc8f08acc898" title="foedus::storage::PageHeader\l::set_key_count" alt="" coords="232,339,423,380"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a7216fe075ea3db89bbba06f5a156ce81" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::verify_separators" alt="" coords="235,142,420,198"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="749,283,910,324"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="989,283,1150,324"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a14cdcef87b3c0a6ef431df9d06a1a663" title="An empty&#45;range page, either intermediate or border, never has any entries. " alt="" coords="471,217,685,259"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#adc22d21883e15b87cd5ff6b6ec513c35" title="foedus::storage::masstree\l::MasstreePage::is_moved" alt="" coords="490,152,666,193"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1PageVersion.html#a2b63daa9a7f39c8c85bf2d43f4c18d78" title="foedus::storage::PageVersion\l::is_moved" alt="" coords="733,152,925,193"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ac3214863fa74628187ce46b2879994ae" title="foedus::storage::PageVersion\lStatus::is_moved" alt="" coords="973,152,1165,193"/>
+</map>

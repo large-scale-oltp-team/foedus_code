@@ -1,0 +1,18 @@
+<map id="foedus::soc::SharedPolling::initialize" name="foedus::soc::SharedPolling::initialize">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1MetaLogControlBlock.html#a2d5afcdf7b1f510072209d8203a959ae" title="foedus::log::MetaLogControl\lBlock::initialize" alt="" coords="243,5,427,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1savepoint_1_1SavepointManagerControlBlock.html#a62651ba9ef902336444a754277c76ef3" title="foedus::savepoint::\lSavepointManagerControlBlock\l::initialize" alt="" coords="233,71,436,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedRendezvous.html#a2dd1832d66399a5ceec71bbdcf5eafe3" title="foedus::soc::SharedRendezvous\l::initialize" alt="" coords="231,152,439,193"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1XctManagerControlBlock.html#a04554274a71a22a81696461d013ee9ec" title="foedus::xct::XctManagerControl\lBlock::initialize" alt="" coords="233,217,436,259"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1log_1_1LogManagerControlBlock.html#a93a1bd4dcf76bc9cd4f266b2942f2b00" title="foedus::log::LogManagerControl\lBlock::initialize" alt="" coords="232,283,437,324"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1thread_1_1ThreadControlBlock.html#a261b434597087690ad1f65e407a3a221" title="foedus::thread::ThreadControl\lBlock::initialize" alt="" coords="239,348,431,389"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1log_1_1LoggerControlBlock.html#a39d5e48db76c97f972599fee2aa8c241" title="foedus::log::LoggerControl\lBlock::initialize" alt="" coords="248,413,421,455"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html#a797d62d33506815f6945b0c06bab280d" title="foedus::snapshot::Snapshot\lManagerControlBlock::initialize" alt="" coords="234,479,435,520"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1soc_1_1SharedPolling.html#ad0b2a9aaf91e58d5d328b10833e68454" title="foedus::soc::SharedPolling\l::SharedPolling" alt="" coords="246,544,423,585"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1MetaLogger.html#a5a3484d094947ced0a08a5e162f08a88" title="foedus::log::MetaLogger\l::initialize_once" alt="" coords="510,5,671,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="510,71,671,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedRendezvous.html#ac80ac007c6c0c2bf2c557bd4d2264eb2" title="foedus::soc::SharedRendezvous\l::SharedRendezvous" alt="" coords="487,152,695,193"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#aefb36bf03b0bd29c160f5aa36b219d45" title="foedus::xct::XctManagerPimpl\l::initialize_once" alt="" coords="493,217,688,259"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a8b2cfe458668cc3f8cf4ccbfeab179dc" title="foedus::log::LogManagerPimpl\l::initialize_once" alt="" coords="492,283,689,324"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a741208e803d0a0bb5f979ebb099d2a8d" title="foedus::thread::ThreadPimpl\l::initialize_once" alt="" coords="499,348,683,389"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="493,479,688,520"/>
+</map>

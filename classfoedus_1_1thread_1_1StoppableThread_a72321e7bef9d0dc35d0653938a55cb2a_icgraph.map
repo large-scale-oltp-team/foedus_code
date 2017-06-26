@@ -1,0 +1,5 @@
+<map id="foedus::thread::StoppableThread::is_stopped" name="foedus::thread::StoppableThread::is_stopped">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1StoppableThread.html#a3040b11b872cbdc6d55bcb93ffb94e6e" title="If the thread is still running, requests the thread to stop and waits until it exists. " alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1StoppableThread.html#a5b64f08d0a49414586e8b54d0483d046" title="Blocks until the thread stops. " alt="" coords="224,71,395,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1StoppableThread.html#ae9515af70a941a317f94ced1be3f594b" title="request_stop() plus wait_for_stop(). " alt="" coords="443,39,613,80"/>
+</map>

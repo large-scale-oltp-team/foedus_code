@@ -1,0 +1,5 @@
+<map id="foedus::log::LogManagerPimpl::copy_logger_states" name="foedus::log::LogManagerPimpl::copy_logger_states">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LogManager.html#adc4ccdefc3c9b605bd51537e6f376524" title="Fillup the given savepoint with the current information of the loggers. " alt="" coords="251,13,415,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="463,5,624,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="672,5,833,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsWwLock::get_tail_waiter" name="foedus::xct::McsWwLock::get_tail_waiter">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1xct.html#a941f1576fda796ca310b5a915987d105" title="Debug out operators. " alt="" coords="227,5,384,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a23095f2685916d313450e79bdb27b872" title="[WW] Unlcok an MCS lock acquired by this thread. " alt="" coords="223,57,388,98"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a8f37f1ac6ee205126ce76fe7ae2f5d52" title="Releases all locks that were acquired. " alt="" coords="436,57,620,98"/>
+</map>

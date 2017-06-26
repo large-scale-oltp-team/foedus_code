@@ -1,0 +1,8 @@
+<map id="foedus::xct::McsMockAdaptor::get_other_thread" name="foedus::xct::McsMockAdaptor::get_other_thread">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#ada97de36f530f44a6e46142d78abb21f" title="foedus::xct::McsMockAdaptor\l::get_other_cur_block" alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a44902001fcbcc2b977cd53f1101ef50e" title="foedus::xct::McsMockAdaptor\l::get_rw_other_async_block" alt="" coords="493,64,689,105"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#abb0ac860a7c0682159044480c0870e26" title="foedus::xct::McsMockAdaptor\l::get_rw_other_block" alt="" coords="249,123,445,164"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a729ff31eccedd92db8470fdd9007f3bd" title="foedus::xct::McsMockAdaptor\l::get_ww_other_block" alt="" coords="249,188,445,229"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a8a9ff1a65cfd2b91f490eae30825804f" title="foedus::xct::McsMockAdaptor\l::other_waiting" alt="" coords="249,253,445,295"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a168323fea7c51d746908b90ccc3f89fd" title="foedus::xct::McsMockAdaptor\l::dereference_rw_tail_block" alt="" coords="493,129,689,171"/>
+</map>

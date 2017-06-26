@@ -1,0 +1,4 @@
+<map id="Masstree Storage" name="Masstree Storage">
+<area shape="rect" id="node1" href="$group__STORAGE.html" title="Storage Manager, which implements a couple of key/value stores. " alt="" coords="5,212,127,239"/>
+<area shape="rect" id="node3" href="$group__LOGTYPE.html" title="Defines the content and apply logic of transactional operatrions. " alt="" coords="513,212,595,239"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::soc::get_master_path" name="foedus::soc::get_master_path">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a4b6032d62764c145607306973945bb8c" title="Child processes (emulated or not) set a reference to shared memory and receive the EngnieOption value..." alt="" coords="248,5,455,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a1d09b3bd25667fccd9bb831303788401" title="Called as part of initialize_once() if this is a child SOC engine. " alt="" coords="503,5,705,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="753,5,956,47"/>
+</map>

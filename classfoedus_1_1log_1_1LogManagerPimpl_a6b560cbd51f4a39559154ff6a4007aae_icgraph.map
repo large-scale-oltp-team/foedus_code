@@ -1,0 +1,5 @@
+<map id="foedus::log::LogManagerPimpl::announce_new_durable_global_epoch" name="foedus::log::LogManagerPimpl::announce_new_durable_global_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LogManager.html#a970d90dc3ac74ec3e57cb4b833725290" title="Sets the new global durable epoch and also wakes up threads that were waiting for it..." alt="" coords="301,5,467,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="515,5,676,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="724,5,885,61"/>
+</map>

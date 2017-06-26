@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsRwLock::reset" name="foedus::xct::McsRwLock::reset">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="219,5,392,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwLock.html#a252a31f1689940909fe3520162b685f7" title="foedus::xct::McsRwLock\l::set_next_writer" alt="" coords="223,71,388,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwLock.html#a0bd9c402804ed75f85852e0f9e429cba" title="foedus::xct::McsRwLock\l::xchg_next_writer" alt="" coords="440,71,605,112"/>
+</map>

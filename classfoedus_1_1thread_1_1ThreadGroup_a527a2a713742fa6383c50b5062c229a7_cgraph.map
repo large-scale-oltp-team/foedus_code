@@ -1,0 +1,9 @@
+<map id="foedus::thread::ThreadGroup::initialize_once" name="foedus::thread::ThreadGroup::initialize_once">
+<area shape="rect" id="node2" href="$group__THREAD.html#ga3cfa4441e96554e775ec6013c180e192" title="Returns a globally unique ID of Thread (core) for the given node and ordinal in the node..." alt="" coords="263,5,428,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1EngineMemory.html#a0c5065125240df0f59f2cd04ff5f8808" title="foedus::memory::EngineMemory\l::get_local_memory" alt="" coords="240,71,451,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="278,136,413,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="278,201,413,243"/>
+<area shape="rect" id="node6" href="$group__THREAD.html#ga648bd40143c5203075b7ca4ebf3d279c" title="Calculate ThreadGlobalOrdinal from ThreadId. " alt="" coords="284,267,407,308"/>
+<area shape="rect" id="node7" href="$group__THREAD.html#ga93083d6b052db01851cb61c120522c1d" title="Extracts local ordinal from the given globally unique ID of Thread (core). " alt="" coords="499,233,677,275"/>
+<area shape="rect" id="node8" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="499,299,677,340"/>
+</map>

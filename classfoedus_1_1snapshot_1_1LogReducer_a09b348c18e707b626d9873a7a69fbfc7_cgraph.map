@@ -1,0 +1,11 @@
+<map id="foedus::snapshot::LogReducer::handle_process" name="foedus::snapshot::LogReducer::handle_process">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1MapReduceBase.html#a3ba06a325855ed48539cd6f7d40a0412" title="Derived class&#39;s handle_process() should occasionally call this to exit if it&#39;s cancelled. " alt="" coords="254,5,453,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#a6612d60371c0574a953a66da6b929471" title="foedus::snapshot::LogReducer\lControlBlock::get_current\l_buffer_status" alt="" coords="254,71,453,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#adfcf739cfe0fac8aa7c5eca80c8f684b" title="foedus::snapshot::LogReducer\lControlBlock::get_non_current\l_buffer_status" alt="" coords="254,151,453,207"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#aae41c8b743b7c1eae699b809b2dd70b3" title="foedus::snapshot::LogGleaner\lRef::is_all_mappers_completed" alt="" coords="252,232,455,273"/>
+<area shape="rect" id="node8" href="$unionfoedus_1_1snapshot_1_1ReducerBufferStatus.html#a56e3bf6d9682880703bd381a35ba2289" title="foedus::snapshot::Reducer\lBufferStatus::is_clear" alt="" coords="265,297,442,339"/>
+<area shape="rect" id="node9" href="$unionfoedus_1_1snapshot_1_1ReducerBufferStatus.html#add166bd2377a5f285d5f4d184c2f1829" title="foedus::snapshot::Reducer\lBufferStatus::is_no_more\l_writers" alt="" coords="265,363,442,419"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1LogReducer.html#a87f87c814bddb6a113be600ed415d92c" title="Expects &quot;LogReducer&#45;x&quot;, &quot;LogMapper&#45;y&quot; etc. " alt="" coords="254,444,453,485"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#ac5b28bcfdc09bd7fe48cd7dd1e687fd1" title="foedus::snapshot::LogGleaner\lRef::is_error" alt="" coords="505,5,699,47"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#a7c8feb59a8368bdae9ffea4b2e3fa8e8" title="foedus::snapshot::LogReducer\lControlBlock::get_buffer\l_status_atomic" alt="" coords="503,111,701,167"/>
+</map>

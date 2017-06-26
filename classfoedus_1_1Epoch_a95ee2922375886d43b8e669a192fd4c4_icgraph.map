@@ -1,0 +1,9 @@
+<map id="foedus::Epoch::subtract" name="foedus::Epoch::subtract">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1MergeSort.html#a6c611c17929fbf66fdab84a824a82b3c" title="For debug/test only. " alt="" coords="213,5,403,47"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage_1_1array.html#a0d5e107fe3c1885c8984bacd1f5cf188" title="subroutine of sort_batch " alt="" coords="234,71,382,112"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage_1_1hash.html#a213ec023dfa3d7901e0c40ce20fc538d" title="subroutine of sort_batch " alt="" coords="234,136,382,177"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage_1_1masstree.html#ad9efa7b5f1f339fd33444e0e62e46d40" title="subroutine of sort_batch_8bytes " alt="" coords="221,201,395,243"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayPartitioner.html#abcc2f61287dd0e9f643cc7c7b406ed32" title="foedus::storage::array\l::ArrayPartitioner::sort_batch" alt="" coords="451,71,640,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c8909d8a44ae9d6a4afee0ded0add4c" title="Called from log reducer to sort log entries by keys. " alt="" coords="688,104,867,145"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashPartitioner.html#a8255043c6cb91246cbff43cceb88f596" title="foedus::storage::hash\l::HashPartitioner::sort_batch" alt="" coords="451,136,639,177"/>
+</map>

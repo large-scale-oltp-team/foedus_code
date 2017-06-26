@@ -1,0 +1,20 @@
+<map id="foedus::assorted::spin_until" name="foedus::assorted::spin_until">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1xct.html#ad815773827f1856f8fd25a9d4b41d490" title="foedus::xct::spin_until" alt="" coords="225,265,375,291"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#ae9b048fb68813b17ed9da1e872c5b941" title="MCS block classes. " alt="" coords="211,316,389,357"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#aeace6e87cba5c5f3863de14f365ba950" title="foedus::xct::McsRwExtended\lBlock::timeout_granted" alt="" coords="204,381,396,423"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsWwImpl.html#ab45630bd77311e8604ca265ffcbc4edd" title="[WW] Unconditionally takes exclusive&#45;only MCS lock on the given lock. " alt="" coords="471,5,636,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a23095f2685916d313450e79bdb27b872" title="[WW] Unlcok an MCS lock acquired by this thread. " alt="" coords="471,71,636,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a1ccdb01d5d5921f397b5e6e138e4435c" title="[WW&#45;Guest] Unconditionally takes exclusive&#45;only guest lock on the given MCSg lock. " alt="" coords="452,137,655,193"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a401267b664485526790472daafedb231" title="foedus::xct::McsWwOwnerless\lImpl::ownerless_release" alt="" coords="452,217,655,259"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1McsImpl_3_01ADAPTOR_00_01McsRwSimpleBlock_01_4.html#ac713a116ff5be76bf0c654c1c3a59c18" title="foedus::xct::McsImpl\l\&lt; ADAPTOR, McsRwSimpleBlock\l \&gt;::acquire_unconditional\l_rw_reader" alt="" coords="444,283,663,353"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1McsImpl_3_01ADAPTOR_00_01McsRwSimpleBlock_01_4.html#a9286b4d7d998f425b6ee284a7416f05f" title="foedus::xct::McsImpl\l\&lt; ADAPTOR, McsRwSimpleBlock\l \&gt;::release_rw_reader" alt="" coords="444,378,663,434"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1McsImpl_3_01ADAPTOR_00_01McsRwSimpleBlock_01_4.html#af28ba663c64241396718beb6dfd21a4e" title="foedus::xct::McsImpl\l\&lt; ADAPTOR, McsRwSimpleBlock\l \&gt;::acquire_unconditional\l_rw_writer" alt="" coords="444,459,663,529"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1McsImpl_3_01ADAPTOR_00_01McsRwSimpleBlock_01_4.html#a738f4d3121fd8d9ceea494d46b3611ab" title="foedus::xct::McsImpl\l\&lt; ADAPTOR, McsRwSimpleBlock\l \&gt;::release_rw_writer" alt="" coords="444,554,663,610"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a8f37f1ac6ee205126ce76fe7ae2f5d52" title="Releases all locks that were acquired. " alt="" coords="711,71,895,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwLock.html#adb1f6d8968c71a9ce91c7a3c812cb43c" title="foedus::xct::McsWwLock\l::ownerless_acquire_lock" alt="" coords="718,144,887,185"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a42e3a3f1d5511994623010af52ff9a28" title="Acquires the lock. " alt="" coords="943,144,1123,185"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#afc93395843770944d528724b598e390f" title="foedus::xct::McsOwnerless\lLockScope::McsOwnerlessLockScope" alt="" coords="1175,144,1421,185"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1xct_1_1McsWwLock.html#a5d7d7206c9ffc1261829346148361414" title="foedus::xct::McsWwLock\l::ownerless_release_lock" alt="" coords="718,217,887,259"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#abe151a050342dbaed862cfb67e02fab7" title="Release the lock if acquired. " alt="" coords="943,217,1123,259"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a0abce8a09831ca63a4c255a6f6e2132f" title="foedus::xct::McsOwnerless\lLockScope::~McsOwnerlessLockScope" alt="" coords="1171,217,1425,259"/>
+</map>

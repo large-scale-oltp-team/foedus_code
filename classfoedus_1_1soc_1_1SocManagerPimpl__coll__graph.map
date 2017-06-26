@@ -1,0 +1,7 @@
+<map id="foedus::soc::SocManagerPimpl" name="foedus::soc::SocManagerPimpl">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="319,5,491,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="5,27,137,53"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="187,56,295,83"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html" title="Repository of all shared memory in one FOEDUS instance. " alt="" coords="515,184,729,211"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="199,235,283,261"/>
+</map>

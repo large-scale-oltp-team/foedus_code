@@ -1,0 +1,18 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/cache/cache_manager.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/cache/cache_manager.hpp">
+<area shape="rect" id="node3" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="889,117,997,143"/>
+<area shape="rect" id="node4" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="606,206,759,233"/>
+<area shape="rect" id="node16" href="$cache__options_8hpp.html" title="foedus/cache/cache\l_options.hpp" alt="" coords="725,109,864,151"/>
+<area shape="rect" id="node28" href="$cache_2fwd_8hpp.html" title="Forward declarations of classes in cache package. " alt="" coords="1021,117,1168,143"/>
+<area shape="rect" id="node5" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="787,385,911,411"/>
+<area shape="rect" id="node6" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="504,295,659,322"/>
+<area shape="rect" id="node11" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="1171,467,1317,493"/>
+<area shape="rect" id="node13" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="305,385,442,411"/>
+<area shape="rect" id="node14" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="130,385,281,411"/>
+<area shape="rect" id="node15" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="119,467,291,493"/>
+<area shape="rect" id="node17" href="$externalizable_8hpp.html" title="foedus/externalize\l/externalizable.hpp" alt="" coords="1040,199,1171,240"/>
+<area shape="rect" id="node19" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="1083,288,1251,329"/>
+<area shape="rect" id="node23" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="1471,288,1617,329"/>
+<area shape="rect" id="node27" href="$fs_2fwd_8hpp.html" title="Forward declarations of classes in filesystem package. " alt="" coords="835,295,957,322"/>
+<area shape="rect" id="node21" href="$uniform__random_8hpp.html" title="foedus/assorted/uniform\l_random.hpp" alt="" coords="987,377,1147,419"/>
+<area shape="rect" id="node22" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="987,467,1146,493"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::log::LogHeader::is_valid_type" name="foedus::log::LogHeader::is_valid_type">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node3" href="$group__LOGTYPE.html#ga04809ae995b9e83601b69c976facb53f" title="Returns if the LogCode value exists. " alt="" coords="218,71,353,112"/>
+</map>

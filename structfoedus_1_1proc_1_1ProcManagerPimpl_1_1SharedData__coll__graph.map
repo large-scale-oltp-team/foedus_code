@@ -1,0 +1,4 @@
+<map id="foedus::proc::ProcManagerPimpl::SharedData" name="foedus::proc::ProcManagerPimpl::SharedData">
+<area shape="rect" id="node2" href="$structfoedus_1_1proc_1_1ProcManagerControlBlock.html" title="This small control block is used to synchronize the access to the array. " alt="" coords="5,95,184,136"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="7,5,182,32"/>
+</map>

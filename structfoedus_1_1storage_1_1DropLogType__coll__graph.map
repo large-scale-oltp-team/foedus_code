@@ -1,0 +1,6 @@
+<map id="foedus::storage::DropLogType" name="foedus::storage::DropLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1StorageLogType.html" title="Base class for log type of storage&#45;wide operation. " alt="" coords="9,260,196,287"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="17,184,188,211"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1log_1_1LogHeader.html" title="A common header part for all log types. " alt="" coords="25,95,180,121"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="41,5,164,32"/>
+</map>

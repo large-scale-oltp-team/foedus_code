@@ -1,0 +1,13 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePage::append_pointer_snapshot" name="foedus::storage::masstree::MasstreeIntermediatePage::append_pointer_snapshot">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a46dc7e7ac5fab5c66bf0b519e2cebc70" title="Appends a new separator and the initial pointer in new mini page, used only by snapshot composer..." alt="" coords="248,169,439,225"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#aa8c59b8e2944d4a6a68d5fed840a7a29" title="foedus::storage::Volatile\lPagePointer::clear" alt="" coords="519,5,680,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="751,275,957,316"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a8960e682ff51f3ca77aeee1e4bfee9d7" title="Whether this page is full of poiters, used only by snapshot composer (or when no race) ..." alt="" coords="507,267,692,323"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="248,398,439,454"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#abb6557473edd899373ed9399b455be20" title="foedus::storage::masstree\l::MasstreePage::get_high_fence" alt="" coords="239,479,448,520"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a30f922c414bf3a2faaf7e879b2277f0b" title="foedus::storage::masstree\l::MasstreePage::get_low_fence" alt="" coords="241,544,445,585"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#aa0e32e13485c83c100d1153e23e96f88" title="foedus::storage::masstree\l::MasstreePage::is_high\l_fence_supremum" alt="" coords="257,610,430,666"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="507,137,692,193"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3fb331a72c86d72deb59c415e6b9b79c" title="foedus::storage::masstree\l::MasstreePage::set_key_count" alt="" coords="496,71,703,112"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageHeader.html#a407bbd604662534963c7fc8f08acc898" title="foedus::storage::PageHeader\l::set_key_count" alt="" coords="759,71,949,112"/>
+</map>

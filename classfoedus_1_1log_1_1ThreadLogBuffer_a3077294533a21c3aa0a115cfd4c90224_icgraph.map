@@ -1,0 +1,7 @@
+<map id="foedus::log::ThreadLogBuffer::get_offset_tail" name="foedus::log::ThreadLogBuffer::get_offset_tail">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad01b60a93f2e107d9c63e7c28799ac1a" title="User transactions related methods. " alt="" coords="240,5,435,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="240,71,435,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManager.html#a0cd2ffb750756de7132eabf6d6a284ce" title="Begins a new transaction on the thread. " alt="" coords="499,5,661,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="483,71,677,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="725,71,888,112"/>
+</map>

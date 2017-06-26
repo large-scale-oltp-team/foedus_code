@@ -1,0 +1,10 @@
+<map id="foedus::memory::RoundRobinPageGrabBatch::~RoundRobinPageGrabBatch" name="foedus::memory::RoundRobinPageGrabBatch::~RoundRobinPageGrabBatch">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html#a256ca43b80dc2eb1dfdf5fd630fe3dd4" title="Called at the end to return all remaining pages to their pools. " alt="" coords="284,169,477,211"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ac661b8baf462a1e969a8a1c7e619858b" title="foedus::memory::PagePool\lOffsetChunk::empty" alt="" coords="541,5,720,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="563,71,698,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1EngineMemory.html#a8bf8832e627cd97fe92c60d38ed96ac8" title="foedus::memory::EngineMemory\l::get_node_memory" alt="" coords="525,136,736,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a70b68580143ce771f5b5b1f9a209f774" title="foedus::memory::NumaNode\lMemoryRef::get_volatile_pool" alt="" coords="535,201,726,243"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1PagePool.html#a802171ff0578875748d20b4e9c8c9463" title="Returns the specified number of free pages from the chunk. " alt="" coords="541,267,720,308"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#affa4e09fc9e251f5cc259de81c23c6e2" title="foedus::memory::PagePool\lOffsetChunk::size" alt="" coords="541,332,720,373"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a13d785355359fd936c2b3863d296ba2c" title="foedus::memory::PagePool\lPimpl::release" alt="" coords="784,267,963,308"/>
+</map>

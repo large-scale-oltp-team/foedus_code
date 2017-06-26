@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::delete_general" name="foedus::storage::masstree::MasstreeStoragePimpl::delete_general">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#af263fb1494c7ac6a5dbfd28b926ede3b" title="foedus::storage::masstree\l::MasstreeCursor::delete_record" alt="" coords="227,5,435,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ac6b8b9c2d3b756b4559e43fbe93950a5" title="Deletes a record of the given key from this Masstree. " alt="" coords="483,97,697,139"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a0051986148bca838483cf3a81d3f5236" title="Deletes a record of the given primitive key from this Masstree. " alt="" coords="244,122,417,178"/>
+</map>

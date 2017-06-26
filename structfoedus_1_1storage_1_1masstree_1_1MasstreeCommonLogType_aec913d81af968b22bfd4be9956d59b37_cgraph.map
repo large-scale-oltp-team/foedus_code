@@ -1,0 +1,10 @@
+<map id="foedus::storage::masstree::MasstreeCommonLogType::apply_record_prepare" name="foedus::storage::masstree::MasstreeCommonLogType::apply_record_prepare">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="249,5,409,32"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage_1_1masstree.html#a1a5bea4010c2c465bafdec7e4a407123" title="Retrieve masstree layer information from the header of the page that contains the pointer..." alt="" coords="242,57,415,98"/>
+<area shape="rect" id="node5" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="468,123,633,149"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a610d8c1bfd1d86dcde181c3fb0020f0c" title="foedus::xct::RwLockableXct\lId::is_keylocked" alt="" coords="237,174,420,215"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1XctId.html#a41264f4ced33dae443651f57bc09e964" title="foedus::xct::XctId\l::is_moved" alt="" coords="267,239,390,281"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1XctId.html#aa3d33ca4fe97b735ce59594993a1dd94" title="foedus::xct::XctId\l::is_next_layer" alt="" coords="267,305,390,346"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="476,57,625,98"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsRwLock.html#adc5e6612e3cecf3d2f15d02237b4ef8f" title="foedus::xct::McsRwLock\l::is_locked" alt="" coords="468,174,633,215"/>
+</map>

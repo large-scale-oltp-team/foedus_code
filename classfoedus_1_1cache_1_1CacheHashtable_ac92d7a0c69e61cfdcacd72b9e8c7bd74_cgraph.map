@@ -1,0 +1,17 @@
+<map id="foedus::cache::CacheHashtable::find" name="foedus::cache::CacheHashtable::find">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1CacheHashtable.html#a30b6a0b28cce30d50da7e0419c8cad20" title="Returns a bucket number the given page ID should belong to. " alt="" coords="260,158,467,199"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1cache_1_1CacheBucket.html#ab91d1b89c885979b7a6a4ef70b12b54d" title="foedus::cache::CacheBucket\l::get_content_id" alt="" coords="269,223,458,265"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1cache_1_1CacheHashtable.html#acea3236385a3b8d05ed1a60186e32ee8" title="foedus::cache::CacheHashtable\l::get_logical_buckets" alt="" coords="260,289,467,330"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1cache_1_1HashFunc.html#a9470855bb66d98df48f82fc5ba6655c6" title="Returns another hash value used to differentiate IDs with similar hash values. " alt="" coords="278,354,449,395"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1cache_1_1CacheBucket.html#aad7099f48418a335a80260a664bf2f02" title="foedus::cache::CacheBucket\l::get_tag" alt="" coords="269,419,458,461"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1cache_1_1CacheRefCount.html#af555d7665e995d8e65f315c708d28daa" title="foedus::cache::CacheRefCount\l::increment" alt="" coords="263,485,464,526"/>
+<area shape="rect" id="node15" href="$group__ASSORTED.html#ga14adcd2a780f37023df88933f17a5a83" title="Prefetch multiple contiguous cachelines to L1 cache. " alt="" coords="277,550,449,591"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1cache_1_1HashFunc.html#a19737fa3c91676f9c85536f5928b7501" title="Returns a bucket number the given snapshot page ID should belong to. " alt="" coords="515,158,686,199"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1cache_1_1HashFunc.html#aa9020cb1e5915b6777d089521ef618a9" title="Returns a hash value for the given snapshot page ID. " alt="" coords="738,93,909,134"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1assorted_1_1ConstDiv.html#a6892a2d35b9ae08a00190c9440e22a21" title="32&#45;bit integer division that outputs both quotient and remainder. " alt="" coords="735,158,912,199"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1assorted_1_1ConstDiv.html#afbfa08664902f9b633edbd395706b230" title="Calculate remainder. " alt="" coords="735,223,912,265"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="965,5,1155,61"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="966,85,1154,141"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="960,165,1160,221"/>
+<area shape="rect" id="node16" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="515,550,687,591"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePointerIterator" name="foedus::storage::masstree::MasstreeIntermediatePointerIterator">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html" title="Represents one intermediate page in Masstree Storage. " alt="" coords="205,483,391,524"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html" title="Common base of MasstreeIntermediatePage and MasstreeBorderPage. " alt="" coords="211,392,385,433"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageHeader.html" title="Just a marker to denote that a memory region represents a data page. " alt="" coords="53,295,244,322"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1assorted_1_1ProbCounter.html" title="Implements a probabilistic counter [Morris 1978]. " alt="" coords="5,199,204,225"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageVersion.html" title="Just a synonym of XctId to be used as a page lock mechanism. " alt="" coords="229,199,421,225"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageVersionStatus.html" title="foedus::storage::PageVersion\lStatus" alt="" coords="190,95,382,136"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwLock.html" title="An exclusive&#45;only (WW) MCS lock data structure. " alt="" coords="407,102,576,129"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="391,5,592,32"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html" title="Represents a pointer to a volatile page with modification count for preventing ABA. " alt="" coords="268,288,429,329"/>
+</map>

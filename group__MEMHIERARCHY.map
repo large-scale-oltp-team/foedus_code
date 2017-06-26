@@ -1,0 +1,5 @@
+<map id="Memory Hierarchy" name="Memory Hierarchy">
+<area shape="rect" id="node1" href="$group__ENGINE.html" title="Database Engine, the top&#45;level component of foedus. " alt="" coords="410,17,531,44"/>
+<area shape="rect" id="node3" href="$group__THREAD.html" title="Thread and Thread&#45;Group, which abstracts NUMA&#45;core/node and provides API to attach/detach tasks to po..." alt="" coords="387,180,555,207"/>
+<area shape="rect" id="node4" href="$group__MEMORY.html" title="Memory Manager, which controls memory allocations, deallocations, and sharing. " alt="" coords="409,261,532,288"/>
+</map>

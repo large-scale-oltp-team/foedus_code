@@ -1,0 +1,16 @@
+<map id="foedus::xct::McsImpl&lt; ADAPTOR, McsRwSimpleBlock &gt;::release_rw_reader" name="foedus::xct::McsImpl&lt; ADAPTOR, McsRwSimpleBlock &gt;::release_rw_reader">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwLock.html#ac701ea44f884e176015915b43c9a5bdb" title="foedus::xct::McsRwLock\l::decrement_nreaders" alt="" coords="278,5,443,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#ac0e8e7c395e7d7885edf08c1d98975b3" title="foedus::xct::McsRwSimple\lBlock::is_blocked" alt="" coords="272,267,449,308"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#a627b86f9f88e8e32be17c336214235d1" title="foedus::xct::McsRwSimple\lBlock::is_reader" alt="" coords="272,136,449,177"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsRwLock.html#a8af4e142f87e8256f46026ca0b34f88e" title="foedus::xct::McsRwLock\l::nreaders" alt="" coords="278,201,443,243"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1xct.html#ad815773827f1856f8fd25a9d4b41d490" title="foedus::xct::spin_until" alt="" coords="286,398,435,425"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1xct_1_1McsRwLock.html#a097b5035f389e0e33fae82103d839f3b" title="foedus::xct::McsRwLock\l::to_tail_int" alt="" coords="278,332,443,373"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#a20507f3ea00757531c36c11d7868d917" title="foedus::xct::McsRwSimple\lBlock::unblock" alt="" coords="272,71,449,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#a53209644badef9c34fbecb2b4c75e440" title="foedus::xct::McsRwSimple\lBlock::read_state" alt="" coords="497,169,675,211"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1assorted.html#aba5893ad8aab7d6aafff7be7f92e1372" title="Spin locally until the given condition returns true. " alt="" coords="511,391,661,432"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="945,361,1092,403"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1assorted.html#aea055a054d205c76d8f221de4f6aa058" title="foedus::assorted::is\l_running_on_valgrind" alt="" coords="739,357,881,399"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="723,423,897,464"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a0f5961269d79e636777d722ade37dd2e" title="Take another current time tick. " alt="" coords="743,488,877,529"/>
+<area shape="rect" id="node13" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="951,488,1086,529"/>
+</map>

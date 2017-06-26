@@ -1,0 +1,5 @@
+<map id="foedus::storage::Partitioner::SortBatchArguments" name="foedus::storage::Partitioner::SortBatchArguments">
+<area shape="rect" id="node2" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="135,5,349,32"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1LogBuffer.html" title="Packages handling of 4&#45;bytes representation of position in log buffers. " alt="" coords="373,5,556,32"/>
+</map>

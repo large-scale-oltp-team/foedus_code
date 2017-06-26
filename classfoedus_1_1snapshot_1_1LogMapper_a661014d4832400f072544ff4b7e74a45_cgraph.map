@@ -1,0 +1,29 @@
+<map id="foedus::snapshot::LogMapper::handle_process" name="foedus::snapshot::LogMapper::handle_process">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1snapshot.html#aa683c40c30267d3f0bdc27b1f626deaa" title="foedus::snapshot::align\l_io_ceil" alt="" coords="275,61,431,102"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1snapshot.html#a55a5a7f9b4c2a9bde992df8ce496c05e" title="foedus::snapshot::align\l_io_floor" alt="" coords="527,27,683,69"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1MapReduceBase.html#a3ba06a325855ed48539cd6f7d40a0412" title="Derived class&#39;s handle_process() should occasionally call this to exit if it&#39;s cancelled. " alt="" coords="254,126,453,167"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1log_1_1LogOptions.html#ad583679a01a8e4cc2ae87306efb73216" title="construct full path of individual log file (log_folder/LOGGERID_ORDINAL.log) " alt="" coords="258,191,449,233"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1debugging_1_1StopWatch.html#acc122593c59aa99c4bed52c0cb8e9a20" title="foedus::debugging::\lStopWatch::elapsed_sec" alt="" coords="269,257,437,298"/>
+<area shape="rect" id="node11" href="$group__FILESYSTEM.html#ga1048a33bafe4dcea89991112ae2660d8" title="Returns size of the file. " alt="" coords="287,897,420,924"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#a93148c754cfdf2f0beaa1d98b00eb985" title="foedus::snapshot::LogGleaner\lRef::get_base_epoch" alt="" coords="256,387,451,429"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1Engine.html#aa27f031bd1e256d38e616ec9a499eefc" title="See Log Manager. " alt="" coords="286,453,421,494"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1log_1_1LoggerRef.html#a99e27a7bd4247f0729ae154c5a2262b5" title="Constructs the range of log entries that represent the given epoch ranges. " alt="" coords="278,322,429,363"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1log_1_1LogManager.html#af649e09d5ffe1db37deab5215aaf85f8" title="Returns a reference to the logger of the given ID. " alt="" coords="271,583,435,625"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="286,649,421,690"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="247,714,460,755"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#a6e1882e28b982377e1fc0968c62e1395" title="foedus::snapshot::LogGleaner\lRef::get_valid_until_epoch" alt="" coords="256,518,451,559"/>
+<area shape="rect" id="node23" href="$structfoedus_1_1log_1_1LogRange.html#a3ec255c876dc2e1b0f87110c3c8e2dd3" title="foedus::log::LogRange\l::is_empty" alt="" coords="278,831,429,873"/>
+<area shape="rect" id="node24" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="292,780,415,807"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="286,949,421,990"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1snapshot_1_1LogMapper.html#a2ede6520368c235c2b98200db0063eb7" title="Expects &quot;LogReducer&#45;x&quot;, &quot;LogMapper&#45;y&quot; etc. " alt="" coords="257,1014,450,1055"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#ac5b28bcfdc09bd7fe48cd7dd1e687fd1" title="foedus::snapshot::LogGleaner\lRef::is_error" alt="" coords="508,122,703,163"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1log_1_1LogOptions.html#aad38e1d1b3d55acc3f4f4702f9848dbc" title="converts folder_path_pattern_ into a string with the given IDs. " alt="" coords="526,188,685,244"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gaa64b5d5356e69e9d0efa80590617c795" title="target.replaceAll(search, replacement). " alt="" coords="764,177,952,204"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="751,228,965,255"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="530,823,681,849"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#aa21d824a0cd1489c832ed6d6b7105331" title="foedus::snapshot::LogGleaner\lRef::get_cur_snapshot" alt="" coords="508,467,703,509"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1log_1_1LoggerRef.html#a66297efce7a73131e0e0ffc83df0b469" title="Returns this logger&#39;s durable epoch. " alt="" coords="530,351,681,393"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="528,300,683,327"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="525,981,686,1022"/>
+<area shape="rect" id="node27" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="538,915,673,957"/>
+</map>

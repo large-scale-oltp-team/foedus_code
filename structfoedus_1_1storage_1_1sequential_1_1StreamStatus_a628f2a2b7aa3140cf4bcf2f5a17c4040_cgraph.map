@@ -1,0 +1,4 @@
+<map id="foedus::storage::sequential::StreamStatus::wind_stream" name="foedus::storage::sequential::StreamStatus::wind_stream">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#a65275b0d75e1b8c56aaa53e981911e69" title="foedus::snapshot::Sorted\lBuffer::to_relative_pos" alt="" coords="244,5,411,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#a8f65c7b06e89f59db0be2065b4b04c75" title="Loads next data block to be consumed by the caller (composer). " alt="" coords="244,71,411,112"/>
+</map>

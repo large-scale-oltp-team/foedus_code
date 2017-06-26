@@ -1,0 +1,9 @@
+<map id="foedus::storage::PageVersionStatus::increment_version_counter" name="foedus::storage::PageVersionStatus::increment_version_counter">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#aec915d81c404fca9de77c9eed625afa9" title="Appends a record to this page. " alt="" coords="252,34,431,90"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageVersion.html#a2f145c21afa1b661bfb338ef7417d249" title="foedus::storage::PageVersion\l::increment_version_counter" alt="" coords="245,115,437,156"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a3e005713f9a1c12bb2a4771a192b47a5" title="foedus::storage::sequential\l::SequentialComposer::compose" alt="" coords="485,5,696,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#a65a45c9727f65048b1b55b7b69dfdce1" title="Appends an already&#45;commited record to this volatile list. " alt="" coords="501,71,680,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1Composer.html#a28c752ec784b85418c0bfafab7ee60c0" title="Construct snapshot pages from sorted run files of one storage. " alt="" coords="744,5,923,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a4179bc96227e441860739b66e5b676cb" title="Used to apply the effect of appending to volatile list. " alt="" coords="744,71,923,127"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialAppendLogType.html#a18cd427115cf86d01382cd0c7e4df417" title="foedus::storage::sequential\l::SequentialAppendLogType\l::apply_record" alt="" coords="971,71,1153,127"/>
+</map>

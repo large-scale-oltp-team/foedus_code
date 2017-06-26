@@ -1,0 +1,6 @@
+<map id="foedus::storage::sequential::SequentialTruncateLogType::apply_storage" name="foedus::storage::sequential::SequentialTruncateLogType::apply_storage">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#ac9b9bbfc26efa2c3413a43349c8c0fa4" title="foedus::storage::sequential\l::SequentialStorage::apply\l_truncate" alt="" coords="243,39,421,95"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#af9fd4d7cf6f1fcd1a4df6ca7bc7b7ae4" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::apply_truncate" alt="" coords="469,39,648,95"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#ad8cfc752735602f2b1afeacf10a94b6d" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::get_name" alt="" coords="696,5,875,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="714,85,857,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::HashStoragePimpl::hcc_reset_all_temperature_stat_data" name="foedus::storage::hash::HashStoragePimpl::hcc_reset_all_temperature_stat_data">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#aece3aacb3a8a9fd362fbad83321cacaf" title="foedus::storage::hash\l::HashStoragePimpl::hcc\l_reset_all_temperature\l_stat_intermediate" alt="" coords="220,5,387,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a9075ef5e205fc3e6284e56894b1c8c4b" title="For stupid reasons (I&#39;m lazy!) these are defined in _debug.cpp. " alt="" coords="435,13,617,69"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#ace67899d434503ffa7b9ca4b35e2f36c" title="Resets all volatile pages&#39; temperature stat to be zero in this storage. " alt="" coords="665,13,836,69"/>
+</map>

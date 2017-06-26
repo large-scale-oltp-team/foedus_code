@@ -1,0 +1,5 @@
+<map id="foedus::memory::EngineMemory::get_shared_user_memory" name="foedus::memory::EngineMemory::get_shared_user_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SocManager.html#a4f4a98141cedc11e909878cfae62d5df" title="Shortcut for get_shared_memory_repo()&#45;&gt;get_global_user_memory() " alt="" coords="264,5,444,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="287,71,421,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#ab6dda26e594cbef6ceeb6287a1a3092b" title="foedus::soc::SharedMemory\lRepo::get_global_user_memory" alt="" coords="492,5,697,47"/>
+</map>

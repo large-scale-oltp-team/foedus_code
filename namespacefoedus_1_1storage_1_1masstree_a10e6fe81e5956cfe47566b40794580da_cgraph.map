@@ -1,0 +1,12 @@
+<map id="foedus::storage::masstree::allocate_new_border_page" name="foedus::storage::masstree::allocate_new_border_page">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#ac8953b86c90ec5ee1730b05397a259da" title="Returns page resolver to convert only local page ID to page pointer. " alt="" coords="260,5,423,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Thread.html#aa07f33f2b78aa6e6c66a2149b1db52e8" title="foedus::thread::Thread\l::get_numa_node" alt="" coords="266,86,417,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1Thread.html#a4e553f5e14ec00d8ba23fbdfa26d687e" title="Returns the private memory repository of this thread. " alt="" coords="266,151,417,193"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#ad09e335bbca636246cf2c3d60ec22570" title="Acquires one free volatile page from local page pool. " alt="" coords="236,217,447,258"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#ab5ab7bbce35893143d2aac437e526d0e" title="foedus::storage::masstree\l::MasstreePage::header" alt="" coords="255,282,428,323"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#a273a4c4f51c06ebc91663329742e1c69" title="foedus::storage::Volatile\lPagePointer::set" alt="" coords="261,347,422,389"/>
+<area shape="rect" id="node4" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="495,54,673,95"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1Thread.html#af98ed86adde3f5e39c9cab39440f38da" title="foedus::thread::Thread\l::get_thread_id" alt="" coords="509,119,659,161"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ac661b8baf462a1e969a8a1c7e619858b" title="foedus::memory::PagePool\lOffsetChunk::empty" alt="" coords="721,227,900,269"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#af897b38ac1ef4217ff99018436c0112e" title="foedus::memory::PagePool\lOffsetChunk::pop_back" alt="" coords="495,257,673,298"/>
+</map>

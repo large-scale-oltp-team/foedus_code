@@ -1,0 +1,8 @@
+<map id="foedus::savepoint::SavepointManagerPimpl::get_requested_durable_epoch" name="foedus::savepoint::SavepointManagerPimpl::get_requested_durable_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="256,5,417,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a932bf5c252e75e0a305fe524217cb46a" title="foedus::savepoint::\lSavepointManagerPimpl\l::take_savepoint" alt="" coords="256,85,417,141"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="465,5,627,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#a76145762bd869ce338b3f647a7244c30" title="Atomically and durably takes a savepoint for the given epoch advancement. " alt="" coords="465,85,627,141"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#ad75bb7dd8ca8589f86502836f975b2c3" title="foedus::log::LogManagerPimpl\l::refresh_global_durable_epoch" alt="" coords="675,93,876,134"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1log_1_1LogManager.html#aba382b725496593eb3f06b1644ef53c6" title="Called whenever there is a chance that the global durable epoch advances. " alt="" coords="924,93,1125,134"/>
+</map>

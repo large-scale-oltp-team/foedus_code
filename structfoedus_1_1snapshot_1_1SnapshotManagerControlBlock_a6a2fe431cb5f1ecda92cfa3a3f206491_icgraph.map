@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::SnapshotManagerControlBlock::get_previous_snapshot_id_weak" name="foedus::snapshot::SnapshotManagerControlBlock::get_previous_snapshot_id_weak">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a307426b2bbb68497d5ab4c75ceaddd31" title="foedus::snapshot::Snapshot\lManagerPimpl::get_previous\l_snapshot_id_weak" alt="" coords="244,5,429,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManager.html#aff08b1c4ebbb6b14ad8b22996674e47d" title="Non&#45;atomic version. " alt="" coords="477,5,689,61"/>
+</map>

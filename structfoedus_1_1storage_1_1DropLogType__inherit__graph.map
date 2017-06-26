@@ -1,0 +1,4 @@
+<map id="foedus::storage::DropLogType" name="foedus::storage::DropLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1StorageLogType.html" title="Base class for log type of storage&#45;wide operation. " alt="" coords="9,80,196,107"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="17,5,188,32"/>
+</map>

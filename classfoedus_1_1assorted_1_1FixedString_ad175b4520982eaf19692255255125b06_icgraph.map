@@ -1,0 +1,12 @@
+<map id="foedus::assorted::FixedString::clear" name="foedus::assorted::FixedString::clear">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a655d84c0582b445cbbdb5560e5fe4e07" title="foedus::memory::PagePool\lPimpl::attach" alt="" coords="258,37,437,79"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1FixedErrorStack.html#af63be41a8ddae1a9f9246fd3b24c3496" title="Convert ErrorStack to this object. " alt="" coords="266,103,429,144"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1thread_1_1ThreadControlBlock.html#a261b434597087690ad1f65e407a3a221" title="foedus::thread::ThreadControl\lBlock::initialize" alt="" coords="251,168,443,209"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1externalize_1_1TinyxmlGetter_3_01assorted_1_1FixedString_3_01MAXLEN_00_01CHAR_01_4_01_4.html#a38af0a95ec91285550a25a962ccebf3b" title="foedus::externalize\l::TinyxmlGetter\&lt; assorted\l::FixedString\&lt; MAXLEN, CHAR\l \&gt; \&gt;::operator()" alt="" coords="245,233,449,304"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1FixedErrorStack.html#a87aab1a538fb1bb3791f0710a777755c" title="Assignment operator. " alt="" coords="266,328,429,369"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePool.html#a6522fe3b6b37b4e87c0e4170e573b8d2" title="foedus::memory::PagePool\l::attach" alt="" coords="500,37,679,79"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a70fdc4e831999f941d4105de0c3ce3fd" title="foedus::memory::NumaNode\lMemory::initialize_once" alt="" coords="749,5,936,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a8e735f7411d3a28d4ddf0c25f3eced4e" title="foedus::memory::NumaNode\lMemoryRef::NumaNodeMemoryRef" alt="" coords="729,71,956,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a741208e803d0a0bb5f979ebb099d2a8d" title="foedus::thread::ThreadPimpl\l::initialize_once" alt="" coords="497,168,681,209"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1FixedErrorStack.html#ae9938dfe9dd4059b5413c0163738af7a" title="Copy the content of the given ErrorStack. " alt="" coords="508,328,671,369"/>
+</map>

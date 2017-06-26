@@ -1,0 +1,17 @@
+<map id="foedus::xct::SysxctLockList::get_or_add_entry" name="foedus::xct::SysxctLockList::get_or_add_entry">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a10843e662ca3b9986465a44a0b12dc48" title="Inline definitions of SysxctLockList methods. " alt="" coords="255,177,439,218"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="748,326,911,367"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a0e9c6ce804edba9a71509e6523eb8b08" title="When this returns full, it&#39;s catastrophic. " alt="" coords="255,294,439,335"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1SysxctLockList.html#ac48e18b6575b506fc4388c0cd9779b8f" title="Analogous to std::lower_bound() for the given lock. " alt="" coords="505,46,689,87"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1xct_1_1SysxctLockEntry.html#a2bae26bdce0794daafd3c537103d32ca" title="foedus::xct::SysxctLockEntry::set" alt="" coords="237,360,457,387"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a9cc41f0ba309899664d4068bdbb8f2fb" title="foedus::xct::SysxctLockList\l::assert_sorted_impl" alt="" coords="505,177,689,218"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a0fac78a9788fb85d3b8c649309bf8818" title="foedus::xct::SysxctLockList\l::assert_last_locked_entry" alt="" coords="737,13,921,54"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1SysxctLockList.html#aa41d66382b6393bff4444ac3735302b6" title="foedus::xct::SysxctLockList\l::get_array" alt="" coords="737,78,921,119"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1SysxctLockList.html#af26261addcc02e6724d6bba3f31a1214" title="foedus::xct::SysxctLockList\l::get_last_active_entry" alt="" coords="737,143,921,185"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="755,209,904,250"/>
+<area shape="rect" id="node10" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="747,275,912,301"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1SysxctLockList.html#adc26bf8b559e20ce48b16e2a3fce38ee" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="971,13,1161,54"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a7dfb818885a95b3ff1ef8dc3b052baca" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="1211,5,1395,61"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="969,293,1163,334"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="985,358,1147,399"/>
+</map>

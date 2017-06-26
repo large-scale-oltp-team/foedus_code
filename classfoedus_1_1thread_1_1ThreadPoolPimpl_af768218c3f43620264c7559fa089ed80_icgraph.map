@@ -1,0 +1,4 @@
+<map id="foedus::thread::ThreadPoolPimpl::impersonate_on_numa_node" name="foedus::thread::ThreadPoolPimpl::impersonate_on_numa_node">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPool.html#a5e3ba16ba231dab64401f2413a504f1d" title="Overload to specify a NUMA node to run on. " alt="" coords="283,13,479,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPool.html#ad660d97b51456a1a4f819087f7dfeee7" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="527,5,723,61"/>
+</map>

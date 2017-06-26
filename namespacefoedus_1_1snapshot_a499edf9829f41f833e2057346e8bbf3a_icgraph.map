@@ -1,0 +1,17 @@
+<map id="foedus::snapshot::from_buffer_position" name="foedus::snapshot::from_buffer_position">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a4ea0f6f073f92ff447cc34429adafbda" title="Append the log entries of one storage in the given buffer to this reducer&#39;s buffer. " alt="" coords="208,64,407,105"/>
+<area shape="rect" id="node3" href="$unionfoedus_1_1snapshot_1_1ReducerBufferStatus.html#a0a0ef4ca2f2ebeb8bf9fbea20ba8a914" title="foedus::snapshot::Reducer\lBufferStatus::get_tail_bytes" alt="" coords="216,129,399,171"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1LogBuffer.html#a4c866d7cc1684237eca5fff49215b80e" title="foedus::snapshot::LogBuffer\l::resolve" alt="" coords="216,195,399,236"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage_1_1masstree.html#a7df011f1d7015440e30e6013add5a667" title="foedus::storage::masstree\l::resolve_log" alt="" coords="455,129,628,171"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1array_1_1ArrayPartitioner.html#a69580ef7442b8b75d49f3e277614210f" title="foedus::storage::array\l::ArrayPartitioner::partition_batch" alt="" coords="676,5,889,47"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage_1_1array.html#a0d5e107fe3c1885c8984bacd1f5cf188" title="subroutine of sort_batch " alt="" coords="467,195,615,236"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1storage_1_1array.html#a7466ab3ddec9b0f64a0d8a8f0bf170b8" title="subroutine of sort_batch " alt="" coords="467,260,615,301"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1hash_1_1HashPartitioner.html#a7b2f3ff32863d2e4e44c96b93071067e" title="foedus::storage::hash\l::HashPartitioner::partition_batch" alt="" coords="677,71,889,112"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1storage_1_1hash.html#a213ec023dfa3d7901e0c40ce20fc538d" title="subroutine of sort_batch " alt="" coords="467,325,615,367"/>
+<area shape="rect" id="node16" href="$namespacefoedus_1_1storage_1_1masstree.html#ad9efa7b5f1f339fd33444e0e62e46d40" title="subroutine of sort_batch_8bytes " alt="" coords="455,391,628,432"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePartitioner.html#aa88be4c928d4254f51e1e1252680f87e" title="foedus::storage::masstree\l::MasstreePartitioner::\lpartition_batch" alt="" coords="696,137,869,193"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c7b2f626b460815615663be4d22427f" title="Identifies the partition of each log record in a batched fashion. " alt="" coords="937,71,1116,112"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1array_1_1ArrayPartitioner.html#abcc2f61287dd0e9f643cc7c7b406ed32" title="foedus::storage::array\l::ArrayPartitioner::sort_batch" alt="" coords="688,260,877,301"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c8909d8a44ae9d6a4afee0ded0add4c" title="Called from log reducer to sort log entries by keys. " alt="" coords="937,292,1116,333"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1storage_1_1hash_1_1HashPartitioner.html#a8255043c6cb91246cbff43cceb88f596" title="foedus::storage::hash\l::HashPartitioner::sort_batch" alt="" coords="689,325,877,367"/>
+</map>

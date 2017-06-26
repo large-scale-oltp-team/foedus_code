@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePage::is_full_snapshot" name="foedus::storage::masstree::MasstreeIntermediatePage::is_full_snapshot">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a46dc7e7ac5fab5c66bf0b519e2cebc70" title="Appends a new separator and the initial pointer in new mini page, used only by snapshot composer..." alt="" coords="239,5,429,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a2d0f9a395fbf20a9a70a026d611e2af3" title="Appends a new poiner and separator in an existing mini page, used only by snapshot composer..." alt="" coords="477,39,663,95"/>
+</map>

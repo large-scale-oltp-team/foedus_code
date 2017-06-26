@@ -1,0 +1,9 @@
+<map id="foedus::EnginePimpl::on_module_uninitialized" name="foedus::EnginePimpl::on_module_uninitialized">
+<area shape="rect" id="node2" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#a7cf8cc11edfc97633e9120533e1c0cf3" title="foedus::soc::MasterEngine\lStatus::change_uninit_atomic" alt="" coords="234,5,429,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1soc_1_1ChildEngineStatus.html#a561683486b98aeeefcb2bca72b91301a" title="foedus::soc::ChildEngine\lStatus::change_uninit\l_atomic" alt="" coords="248,71,415,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="239,151,424,207"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a2e5d1a0a78c66ac6e1c8ef166d2965c3" title="foedus::soc::SharedMemory\lRepo::get_node_memory_anchors" alt="" coords="221,232,441,273"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="241,297,421,339"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1EnginePimpl.html#a31a1deff452ec36db10d92d42d7e4c4f" title="foedus::EnginePimpl\l::is_master" alt="" coords="261,363,402,404"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="489,43,663,84"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::cache::CacheOverflowEntry" name="foedus::cache::CacheOverflowEntry">
+<area shape="rect" id="node2" href="$structfoedus_1_1cache_1_1CacheBucket.html" title="Hash bucket in cache table. " alt="" coords="5,5,195,32"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1cache_1_1CacheRefCount.html" title="A loosely maintained reference count for CLOCK algorithm. " alt="" coords="219,5,421,32"/>
+</map>

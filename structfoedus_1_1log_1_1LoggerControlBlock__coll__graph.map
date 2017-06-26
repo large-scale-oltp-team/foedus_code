@@ -1,0 +1,6 @@
+<map id="foedus::log::LoggerControlBlock" name="foedus::log::LoggerControlBlock">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="232,5,409,32"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1EpochHistory.html" title="Represents an event where a logger switched its epoch. " alt="" coords="235,119,406,145"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="5,85,111,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="233,169,408,196"/>
+</map>

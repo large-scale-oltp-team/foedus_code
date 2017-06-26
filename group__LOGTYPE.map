@@ -1,0 +1,8 @@
+<map id="Log Types" name="Log Types">
+<area shape="rect" id="node1" href="$group__HASH.html" title="Hashtable Storage, a concurrent hashtable. " alt="" coords="320,281,449,308"/>
+<area shape="rect" id="node2" href="$group__STORAGE.html" title="Storage Manager, which implements a couple of key/value stores. " alt="" coords="324,341,445,368"/>
+<area shape="rect" id="node3" href="$group__MASSTREE.html" title="Masstree Storage, 64&#45;bit B&#45;tries with internal B&#45;trees. " alt="" coords="322,592,447,619"/>
+<area shape="rect" id="node4" href="$group__LOG.html" title="Log Manager, which writes out transactional logs. " alt="" coords="336,64,433,91"/>
+<area shape="rect" id="node5" href="$group__ARRAY.html" title="Array Storage, a dense and regular array. " alt="" coords="333,769,436,796"/>
+<area shape="rect" id="node7" href="$group__SEQUENTIAL.html" title="Sequential Storage, an append/scan only data structure. " alt="" coords="319,859,451,885"/>
+</map>

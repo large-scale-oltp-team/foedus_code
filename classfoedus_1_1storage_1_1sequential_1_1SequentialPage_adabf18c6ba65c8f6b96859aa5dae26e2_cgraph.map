@@ -1,0 +1,7 @@
+<map id="foedus::storage::sequential::SequentialPage::get_record_offset" name="foedus::storage::sequential::SequentialPage::get_record_offset">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="322,5,482,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a38b891ada2a3ed7381bc0d048570fb18" title="foedus::storage::sequential\l::SequentialPage::assert\l_consistent" alt="" coords="571,157,749,213"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#adfc56f09f9e4e09466c4f102b9283076" title="Returns how many records in this page placed so far. " alt="" coords="797,95,1027,137"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a1e9e5ae7d10dd0603fe7aaf31a16127a" title="Returns byte length of payload of the specified record in this page. " alt="" coords="281,107,523,149"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a664f776eddf9d3988a62f5043e57d9e3" title="How many data bytes in this page consumed so far. " alt="" coords="821,161,1003,217"/>
+</map>

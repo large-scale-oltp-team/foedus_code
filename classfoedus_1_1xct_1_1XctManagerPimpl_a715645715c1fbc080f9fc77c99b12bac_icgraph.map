@@ -1,0 +1,5 @@
+<map id="foedus::xct::XctManagerPimpl::is_stop_requested" name="foedus::xct::XctManagerPimpl::is_stop_requested">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ac95c3e56168f87c3550f908720035d60" title="Main routine for epoch_chime_thread_. " alt="" coords="491,5,685,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a881d783a084b1225debd5408a9248a51" title="Makes sure all worker threads will commit with an epoch larger than grace_epoch. " alt="" coords="248,30,443,86"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#aefb36bf03b0bd29c160f5aa36b219d45" title="foedus::xct::XctManagerPimpl\l::initialize_once" alt="" coords="733,5,928,47"/>
+</map>

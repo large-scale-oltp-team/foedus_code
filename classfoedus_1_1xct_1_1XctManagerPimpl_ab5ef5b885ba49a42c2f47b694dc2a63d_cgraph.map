@@ -1,0 +1,12 @@
+<map id="foedus::xct::XctManagerPimpl::precommit_xct_lock_track_write" name="foedus::xct::XctManagerPimpl::precommit_xct_lock_track_write">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#aa77cde98794b5a55e0d295284acb3e6d" title="Returns the page resolver to convert page ID to page pointer. " alt="" coords="296,5,447,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#ac27d3734638fe8d18fbdc9b4ee4666b2" title="See Storage Manager. " alt="" coords="304,86,439,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a36088cc39846c59f78352695f08fcbf9" title="foedus::xct::RwLockableXct\lId::needs_track_moved" alt="" coords="280,151,463,193"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#ace820ba89437e4d3a59fdb47a47525ba" title="Calculate owner_lock_id using the resolver. " alt="" coords="271,217,472,258"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#aa17818f701d2c61588f290c3d2cc1330" title="is_moved() || is_next_layer() " alt="" coords="546,151,691,193"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#adf2e2a9d414bf5cfe86f33198ebdf434" title="Setter for owner_id_address_/owner_lock_id_. " alt="" coords="520,217,717,258"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="546,282,691,323"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="765,282,928,323"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="976,249,1169,290"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="992,314,1153,355"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::storage::PageHeader::contains_hot_records" name="foedus::storage::PageHeader::contains_hot_records">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="259,5,410,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1Xct.html#ae84fb0f1c8c5c81bac74e79e62da49a6" title="foedus::xct::Xct::get\l_hot_threshold_for_this_xct" alt="" coords="244,71,425,112"/>
+</map>

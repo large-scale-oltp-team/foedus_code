@@ -1,0 +1,6 @@
+<map id="foedus::xct::CurrentLockListIteratorForWriteSet::is_valid" name="foedus::xct::CurrentLockListIteratorForWriteSet::is_valid">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="217,13,412,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="460,13,655,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="703,13,897,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="945,13,1108,54"/>
+</map>

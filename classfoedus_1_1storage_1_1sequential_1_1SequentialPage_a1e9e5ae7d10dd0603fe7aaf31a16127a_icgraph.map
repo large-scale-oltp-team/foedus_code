@@ -1,0 +1,5 @@
+<map id="foedus::storage::sequential::SequentialPage::get_payload_length" name="foedus::storage::sequential::SequentialPage::get_payload_length">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a42de87cc36b8a536e759b617ed179478" title="Retrieve positions and lengthes of all records in one batch. " alt="" coords="321,5,500,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#ae939b5e7e7810c4b8d661bca4025e59d" title="Returns byte length of the specified record in this page. " alt="" coords="295,86,527,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#adabf18c6ba65c8f6b96859aa5dae26e2" title="Returns beginning offset of the specified record. " alt="" coords="297,151,525,193"/>
+</map>

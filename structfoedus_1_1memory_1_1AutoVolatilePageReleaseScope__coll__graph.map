@@ -1,0 +1,5 @@
+<map id="foedus::memory::AutoVolatilePageReleaseScope" name="foedus::memory::AutoVolatilePageReleaseScope">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html" title="Repository of memories dynamically acquired within one CPU core (thread). " alt="" coords="9,157,193,199"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="15,81,187,108"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="35,5,167,32"/>
+</map>

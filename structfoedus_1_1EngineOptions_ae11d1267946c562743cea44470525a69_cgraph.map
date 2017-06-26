@@ -1,0 +1,13 @@
+<map id="foedus::EngineOptions::prescreen" name="foedus::EngineOptions::prescreen">
+<area shape="rect" id="node2" href="$structfoedus_1_1EngineOptions.html#ace695b3d0e069ed255df9572f71ecfa4" title="foedus::EngineOptions\l::calculate_required\l_memory" alt="" coords="213,85,367,141"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1EngineOptions.html#aee2f02b9f28162d7af5042284b06c4de" title="A utility method to check how much hugepage memory is currently available. " alt="" coords="207,165,373,221"/>
+<area shape="rect" id="node9" href="$group__ASSORTED.html#gae2beea4717aef7ca9d43b91e48cf5824" title="Efficient ceil(dividee/dividor) for integer. " alt="" coords="220,246,360,287"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1EngineOptions.html#a65b0643feea30ef84e35ecf92efbe947" title="Subroutine of prescreen to check sysctl values. " alt="" coords="213,377,367,418"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1EngineOptions.html#af67ac8ec714d448091e7b0cc38c2ff72" title="Subroutine of prescreen to check ulimit values. " alt="" coords="213,311,367,353"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a9cea4a83fb68a8f86ad43c04165c06e3" title="foedus::soc::SharedMemory\lRepo::calculate_global\l_memory_size" alt="" coords="445,5,630,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#adb12d1c6977fada9ea158addc0e27130" title="foedus::memory::NumaCore\lMemory::calculate_local\l_small_memory_size" alt="" coords="445,85,629,141"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a2e2c4c30186c25585226aabc09e942cf" title="foedus::soc::SharedMemory\lRepo::calculate_node_memory_size" alt="" coords="421,166,653,207"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1thread_1_1ThreadOptions.html#a74b2658ba7a1f73f87a66a2a21fe0c41" title="foedus::thread::ThreadOptions\l::get_total_thread_count" alt="" coords="439,271,635,313"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1soc.html#a91ebb7be5e6cf6cadff3c7b7c2260643" title="foedus::soc::align_4kb" alt="" coords="701,97,853,124"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1EngineOptions.html#a38d4c63087e2022298b6ac30605ce732" title="A utility method to read /proc/ value in linux. " alt="" coords="459,377,616,418"/>
+</map>

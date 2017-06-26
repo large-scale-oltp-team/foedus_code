@@ -1,0 +1,5 @@
+<map id="foedus::snapshot::LogReducerRef::get_cur_snapshot" name="foedus::snapshot::LogReducerRef::get_cur_snapshot">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="252,5,437,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="255,86,435,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="277,151,412,193"/>
+</map>

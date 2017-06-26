@@ -1,0 +1,5 @@
+<map id="foedus::log::Logger::uninitialize_once" name="foedus::log::Logger::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a7888a3b0c169fbc6b2e6e83c86d5f267" title="Close the file if not yet closed. " alt="" coords="217,5,367,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="185,71,399,112"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="447,5,587,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::overwrite_general" name="foedus::storage::masstree::MasstreeStoragePimpl::overwrite_general">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#ab8b1919cb195dd063be409f772b36630" title="foedus::storage::masstree\l::MasstreeCursor::overwrite_record" alt="" coords="227,5,449,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ae7221368afad2669e36cdf1bfe8dcb5f" title="Overwrites a part of one record of the given key in this Masstree. " alt="" coords="497,97,728,139"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ad27ac2a920f1f63adc768f7c95ea5c6f" title="Overwrites a part of one record of the given primitive key in this Masstree. " alt="" coords="245,122,431,178"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#a496370a645284f8578875529c6eacb0f" title="foedus::storage::masstree\l::MasstreeCursor::overwrite\l_record_primitive" alt="" coords="248,202,428,258"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a384c8fadf63901aa055285c7f680570f" title="Overwrites a part of one record of the given key in this Masstree as a primitive value. " alt="" coords="245,282,431,338"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#aadbf62a4594062706294a2402777e223" title="Overwrites a part of one record of the given primitive key in this Masstree as a primitive value..." alt="" coords="243,362,433,418"/>
+</map>

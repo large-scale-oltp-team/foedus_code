@@ -1,0 +1,17 @@
+<map id="foedus::cache::CacheHashtable::CacheHashtable" name="foedus::cache::CacheHashtable::CacheHashtable">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a5166bae2fdad9ffa0d5c279edfd3307e" title="Allocate a memory, releasing the current memory if exists. " alt="" coords="260,199,473,240"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="260,264,473,306"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1cache_1_1CacheBucket.html#aaa52396996e73a08cace2a2dcef82ffb" title="foedus::cache::CacheBucket\l::reset" alt="" coords="272,330,461,371"/>
+<area shape="rect" id="node3" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="761,38,872,65"/>
+<area shape="rect" id="node4" href="$numa_8h.html#aba49c14c68d23dc05d046db02766b928" title="numa_preferred" alt="" coords="541,38,652,65"/>
+<area shape="rect" id="node5" href="$numa_8h.html#a56f33968932f6550e5e5eb4d1acc67b3" title="numa_set_preferred" alt="" coords="529,89,665,116"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#gab3d1892edaa7db4b02029567b7993f37" title="In order to run even on a non&#45;numa machine or a machine with fewer sockets, we allow specifying arbit..." alt="" coords="521,140,672,182"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1memory.html#ac2422aa4fe378da8a9594901762e17df" title="foedus::memory::alloc_mmap" alt="" coords="720,262,913,289"/>
+<area shape="rect" id="node10" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="974,316,1114,358"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1memory.html#ae51e4a90f52316ba9dce8ff783f30d84" title="foedus::memory::alloc\l_mmap_1gb_pages" alt="" coords="521,258,672,299"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="529,375,664,416"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="736,440,897,482"/>
+<area shape="rect" id="node7" href="$numa_8h.html#a22585176d6e08c221de8377637bd72a7" title="numa_num_configured\l_nodes" alt="" coords="741,140,893,182"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1memory.html#af6145d9296231995c84badafb6a2a0a9" title="Returns if 1GB hugepages were enabled. " alt="" coords="961,251,1127,292"/>
+<area shape="rect" id="node13" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="749,375,884,416"/>
+</map>

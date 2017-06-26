@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePage::MiniPage::prefetch" name="foedus::storage::masstree::MasstreeIntermediatePage::MiniPage::prefetch">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga14adcd2a780f37023df88933f17a5a83" title="Prefetch multiple contiguous cachelines to L1 cache. " alt="" coords="239,13,411,54"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="459,13,631,54"/>
+</map>

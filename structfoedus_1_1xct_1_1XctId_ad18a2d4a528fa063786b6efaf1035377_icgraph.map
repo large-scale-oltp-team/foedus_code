@@ -1,0 +1,13 @@
+<map id="foedus::xct::XctId::set" name="foedus::xct::XctId::set">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html#acc93c206465207018eb9e29a5fa5342b" title="Installs it as a fresh&#45;new physical record, assuming the given page is the tail and already locked..." alt="" coords="213,5,384,61"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage_1_1masstree.html#a38db26f5c8d1d4869430a6b580209022" title="foedus::storage::masstree\l::get_initial_xid" alt="" coords="212,86,385,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="201,151,396,193"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a82dc0eaea96412a4ddb70006b450d754" title="A system transaction that creates a logically deleted record in this page for the given key..." alt="" coords="215,217,382,273"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#a8917edb5d2712fba660a33c6cf2fb19f" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::truncate" alt="" coords="209,297,388,353"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html#ad189e0523907caacae334102d9383b15" title="The main loop (well, recursion actually). " alt="" coords="465,5,617,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html#a7e1a17602380cbf9c736d93591a84f5e" title="Execute the system transaction. " alt="" coords="693,13,843,54"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html#aae952c17c2f2b1c760f899da5c368054" title="Execute the system transaction. " alt="" coords="455,86,628,127"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="444,151,639,193"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="687,151,849,193"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a9a4d7e58057f2fb648b7ff9ee6ab7fa0" title="Discards all records in this storage before the given epoch. " alt="" coords="446,305,637,346"/>
+</map>

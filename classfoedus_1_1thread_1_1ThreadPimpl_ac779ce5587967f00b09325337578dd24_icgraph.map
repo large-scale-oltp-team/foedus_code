@@ -1,0 +1,5 @@
+<map id="foedus::thread::ThreadPimpl::sysxct_batch_page_locks" name="foedus::thread::ThreadPimpl::sysxct_batch_page_locks">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a2573902a53ca92a0cf7e19113d5b5979" title="Takes a bunch of page locks for a sysxct running under this thread. " alt="" coords="237,39,419,80"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a16f4727fa2ce3b72468618be684af41d" title="Execute the system transaction. " alt="" coords="467,5,640,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="467,71,640,112"/>
+</map>

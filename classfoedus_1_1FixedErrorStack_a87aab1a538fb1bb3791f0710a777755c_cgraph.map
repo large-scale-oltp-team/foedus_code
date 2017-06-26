@@ -1,0 +1,12 @@
+<map id="foedus::FixedErrorStack::operator=" name="foedus::FixedErrorStack::operator=">
+<area shape="rect" id="node2" href="$classfoedus_1_1assorted_1_1FixedString.html#a4d6e347fcdae7d141e0167ad5a4a4bd2" title="Assign operator for all FixedString objects. " alt="" coords="216,5,408,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1assorted_1_1FixedString.html#ad175b4520982eaf19692255255125b06" title="Clear string. " alt="" coords="216,71,408,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1ErrorStack.html#a0ead03286a01de55cfc861e62366658f" title="Returns the custom error message. " alt="" coords="233,136,391,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1ErrorStack.html#a0a96f87c2cacb10f3e727d3b25142af7" title="Return the integer error code. " alt="" coords="247,201,377,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1ErrorStack.html#a411f27e437ea52e4b45cb5810f9f932c" title="Returns the file name of the given stack position. " alt="" coords="247,267,377,308"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1ErrorStack.html#a63e161abc46fd1a2e33632142fabaae9" title="Returns the function name of the given stack position. " alt="" coords="247,332,377,373"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1ErrorStack.html#ab1e9a5688b96ef146351f27d868c0f7c" title="Returns the line number of the given stack position. " alt="" coords="247,397,377,439"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1ErrorStack.html#a2f8c931c343b7df0e619ed136384b590" title="Global errno of the system as of instantiation of this error stack. " alt="" coords="247,463,377,504"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1ErrorStack.html#af4f02b2490b3177eb139d927b3460117" title="Returns the depth of stack this error code has collected. " alt="" coords="247,528,377,569"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="247,593,377,635"/>
+</map>

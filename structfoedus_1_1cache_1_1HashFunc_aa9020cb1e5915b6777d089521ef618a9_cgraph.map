@@ -1,0 +1,5 @@
+<map id="foedus::cache::HashFunc::get_hash" name="foedus::cache::HashFunc::get_hash">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="224,5,424,61"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="230,85,418,141"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="229,165,419,221"/>
+</map>

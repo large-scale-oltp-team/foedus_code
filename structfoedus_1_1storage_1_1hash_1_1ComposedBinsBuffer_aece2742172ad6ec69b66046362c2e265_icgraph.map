@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::ComposedBinsBuffer::has_more" name="foedus::storage::hash::ComposedBinsBuffer::has_more">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsBuffer.html#a27a70df0aa416ebe9560ab41e19de8fd" title="foedus::storage::hash\l::ComposedBinsBuffer\l::get_cur_bin" alt="" coords="204,49,355,105"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#af617a04eb5df3795abfe4900a20a6db6" title="foedus::storage::hash\l::ComposedBinsMergedStream::init" alt="" coords="403,5,631,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#ac3a65cebf835d18357a69bd523a3bc9d" title="Consumes inputs for the cur_path_[0] page and install snapshot pointers there. " alt="" coords="415,86,618,142"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsWwOwnerlessImpl::ownerless_acquire_unconditional" name="foedus::xct::McsWwOwnerlessImpl::ownerless_acquire_unconditional">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwLock.html#adb1f6d8968c71a9ce91c7a3c812cb43c" title="foedus::xct::McsWwLock\l::ownerless_acquire_lock" alt="" coords="256,13,425,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a42e3a3f1d5511994623010af52ff9a28" title="Acquires the lock. " alt="" coords="473,13,653,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#afc93395843770944d528724b598e390f" title="foedus::xct::McsOwnerless\lLockScope::McsOwnerlessLockScope" alt="" coords="701,13,948,54"/>
+</map>

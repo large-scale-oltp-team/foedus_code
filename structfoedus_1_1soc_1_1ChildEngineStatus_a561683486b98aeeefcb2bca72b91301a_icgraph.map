@@ -1,0 +1,4 @@
+<map id="foedus::soc::ChildEngineStatus::change_uninit_atomic" name="foedus::soc::ChildEngineStatus::change_uninit_atomic">
+<area shape="rect" id="node2" href="$classfoedus_1_1EnginePimpl.html#a5a2c657e4fcf77d3166da849a6af8ffd" title="Called whenever each module has completed its uninitialization. " alt="" coords="220,13,388,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1EnginePimpl.html#a483875a16cf2f469b8b751c9f6e2d673" title="foedus::EnginePimpl\l::uninitialize_once" alt="" coords="436,13,577,54"/>
+</map>

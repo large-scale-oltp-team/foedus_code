@@ -1,0 +1,5 @@
+<map id="foedus::thread::ThreadPimpl::sysxct_batch_record_locks" name="foedus::thread::ThreadPimpl::sysxct_batch_record_locks">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a664a76eb577003d4d4c0d417ecb014cc" title="Takes a bunch of locks in the same page for a sysxct running under this thread. " alt="" coords="243,13,432,54"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html#ae4789d8489571fa435c97a03b4f93619" title="Subroutine to lock existing records in target_. " alt="" coords="480,5,659,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html#ab940fc48706197ec728542a3b4438fc7" title="Border node&#39;s Split. " alt="" coords="707,13,880,54"/>
+</map>

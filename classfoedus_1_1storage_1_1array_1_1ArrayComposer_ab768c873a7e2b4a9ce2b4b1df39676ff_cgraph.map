@@ -1,0 +1,13 @@
+<map id="foedus::storage::array::ArrayComposer::compose" name="foedus::storage::array::ArrayComposer::compose">
+<area shape="rect" id="node2" href="$classfoedus_1_1debugging_1_1StopWatch.html#ac8a42ba406ab38b098e27a19e6803638" title="foedus::debugging::\lStopWatch::elapsed_ms" alt="" coords="241,71,407,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1DefaultInitializable.html#a22a0dc3bbbca682c3bc41eace9b6d1ff" title="Typical implementation of Initializable::initialize() that provides initialize&#45;once semantics..." alt="" coords="238,136,410,177"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="257,267,391,308"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1array_1_1ArrayComposer.html#ae9bd9d37f8a9c300dd188c5a23b938cd" title="foedus::storage::array\l::ArrayComposer::to_string" alt="" coords="235,332,413,373"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="238,201,410,243"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1DefaultInitializable.html#ab8ae37e5f20f312f8b945fc40d3e0250" title="foedus::DefaultInitializable\l::initialize_once" alt="" coords="461,5,633,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="482,71,613,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="461,136,633,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="461,201,633,243"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="467,267,628,308"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="480,332,615,373"/>
+</map>

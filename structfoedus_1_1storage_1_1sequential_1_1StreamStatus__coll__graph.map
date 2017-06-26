@@ -1,0 +1,4 @@
+<map id="foedus::storage::sequential::StreamStatus" name="foedus::storage::sequential::StreamStatus">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="5,13,128,39"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html" title="Represents one input stream of sorted log entries. " alt="" coords="153,5,319,47"/>
+</map>

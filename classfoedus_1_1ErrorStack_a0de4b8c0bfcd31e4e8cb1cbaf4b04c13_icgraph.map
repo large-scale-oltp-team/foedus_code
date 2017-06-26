@@ -1,0 +1,4 @@
+<map id="foedus::ErrorStack::dump_and_abort" name="foedus::ErrorStack::dump_and_abort">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStack.html#aea380eec7175852f420cdd32d3423592" title="Output a warning to stderr if the error is not checked yet. " alt="" coords="184,5,315,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1ErrorStack.html#a0b1ae0f16fdb833f6773c2ba9e594b3f" title="Will warn in stderr if the error code is not checked yet. " alt="" coords="363,5,493,47"/>
+</map>

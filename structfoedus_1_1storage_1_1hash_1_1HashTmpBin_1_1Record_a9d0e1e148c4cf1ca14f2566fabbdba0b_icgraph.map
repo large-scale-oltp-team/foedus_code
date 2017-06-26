@@ -1,0 +1,9 @@
+<map id="foedus::storage::hash::HashTmpBin::Record::get_payload" name="foedus::storage::hash::HashTmpBin::Record::get_payload">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage_1_1hash.html#af4a5992caea964850c8e2e2f19a6b46c" title="foedus::storage::hash\l::operator\&lt;\&lt;" alt="" coords="210,5,357,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1HashTmpBin_1_1Record.html#ac0d8b895512c27bbb528ff5a405cff9e" title="foedus::storage::hash\l::HashTmpBin::Record\l::overwrite_payload" alt="" coords="207,71,360,127"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1hash_1_1HashTmpBin_1_1Record.html#a88c4b2bbb2805dc7c206d46133e17ad5" title="foedus::storage::hash\l::HashTmpBin::Record\l::set_all" alt="" coords="207,151,360,207"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1hash_1_1HashTmpBin_1_1Record.html#af7baf3f0c744ec86455d850489dba62c" title="foedus::storage::hash\l::HashTmpBin::Record\l::set_payload" alt="" coords="207,231,360,287"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ae3f726ea1ce191d9ea5c41202568623b" title="Overwrites a part of the record of the given key. " alt="" coords="408,71,571,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ab5ac0d32ded6cfa7bb3df7f28eafb33e" title="Inserts a new record of the given key and payload. " alt="" coords="416,151,563,207"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ad54d9fdfa4874b6eaa0231bce58fccf8" title="Updates a record of the given key with the given payload, which might change length. " alt="" coords="414,231,565,287"/>
+</map>

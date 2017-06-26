@@ -1,0 +1,4 @@
+<map id="foedus::xct::RecordXctAccess" name="foedus::xct::RecordXctAccess">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1ReadXctAccess.html" title="Represents a record of read&#45;access during a transaction. " alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1WriteXctAccess.html" title="Represents a record of write&#45;access during a transaction. " alt="" coords="216,80,403,107"/>
+</map>

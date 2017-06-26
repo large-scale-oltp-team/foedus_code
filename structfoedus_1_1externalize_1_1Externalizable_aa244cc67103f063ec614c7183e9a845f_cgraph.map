@@ -1,0 +1,9 @@
+<map id="foedus::externalize::Externalizable::add_element" name="foedus::externalize::Externalizable::add_element">
+<area shape="rect" id="node2" href="$structfoedus_1_1externalize_1_1Externalizable.html#a01aa1ed27adbc16030cbabf4e361d691" title="Only declaration in header. " alt="" coords="205,5,347,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1externalize_1_1Externalizable.html#a2e70f708164233ed75ef3f2cd0356a53" title="foedus::externalize\l::Externalizable::append\l_comment" alt="" coords="195,85,357,141"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#ga8987f6c9cf72dc6468cc7c798b96cd42" title="Returns the name of the C++ type as readable as possible. " alt="" coords="204,166,348,207"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1externalize.html#a89713044c4f671566a6d103cfefd1509" title="foedus::externalize\l::insert_comment_impl" alt="" coords="419,13,574,54"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#gaaaeeef9a7bd86c89f96e337fdd88caab" title="Demangle the given C++ type name if possible (otherwise the original string). " alt="" coords="405,166,588,207"/>
+<area shape="rect" id="node7" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="636,173,759,200"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="807,173,957,200"/>
+</map>

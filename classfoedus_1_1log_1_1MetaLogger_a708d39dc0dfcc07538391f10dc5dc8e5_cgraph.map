@@ -1,0 +1,10 @@
+<map id="foedus::log::MetaLogger::uninitialize_once" name="foedus::log::MetaLogger::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a7888a3b0c169fbc6b2e6e83c86d5f267" title="Close the file if not yet closed. " alt="" coords="231,5,382,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="243,71,370,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="218,136,395,177"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1log_1_1MetaLogControlBlock.html#aa3846e3c099e7a776aa3c1b30b6c6f0e" title="foedus::log::MetaLogControl\lBlock::uninitialize" alt="" coords="215,201,399,243"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="472,5,612,47"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="455,80,629,121"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="447,146,637,173"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="455,201,629,243"/>
+</map>

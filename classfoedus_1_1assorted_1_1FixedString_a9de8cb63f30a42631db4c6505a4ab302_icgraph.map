@@ -1,0 +1,8 @@
+<map id="foedus::assorted::FixedString::zero_fill_remaining" name="foedus::assorted::FixedString::zero_fill_remaining">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#af961ec67a7d797595ec92bc6dcfdfc24" title="foedus::storage::Storage\lManagerPimpl::create_storage" alt="" coords="245,104,444,145"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManager.html#a9274ccbcf6b2ff5a0de3ba86d9314031" title="Newly creates a storage with the specified metadata and registers it to this manager. " alt="" coords="492,104,659,145"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManager.html#a3f35f6d6932634ef2c5ab1a33f234773" title="Just a type&#45;wrapper of create_storage() for array storages. " alt="" coords="716,5,880,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1StorageManager.html#a67d343e4f3b79b44916eb8ba7ccfe5d9" title="Just a type&#45;wrapper of create_storage() for hash storages. " alt="" coords="716,71,880,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1StorageManager.html#a717f0b1360023ff339c4732259b8aecd" title="Just a type&#45;wrapper of create_storage() for sequential storages. " alt="" coords="707,136,889,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1StorageManager.html#aed128c33a23f9421b9098247d63c1d23" title="Just a type&#45;wrapper of create_storage() for masstree storages. " alt="" coords="709,201,887,243"/>
+</map>

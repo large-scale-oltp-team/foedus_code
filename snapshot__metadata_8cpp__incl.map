@@ -1,0 +1,43 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/src/foedus/snapshot/snapshot_metadata.cpp" name="/home/shino/foedus_code/foedus&#45;core/src/foedus/snapshot/snapshot_metadata.cpp">
+<area shape="rect" id="node2" href="$snapshot__metadata_8hpp.html" title="foedus/snapshot/snapshot\l_metadata.hpp" alt="" coords="1231,124,1406,165"/>
+<area shape="rect" id="node10" href="$externalizable_8hpp.html" title="foedus/externalize\l/externalizable.hpp" alt="" coords="731,377,861,419"/>
+<area shape="rect" id="node26" href="$metadata_8hpp.html" title="foedus/storage/metadata.hpp" alt="" coords="691,303,882,329"/>
+<area shape="rect" id="node35" href="$shared__memory__repo_8hpp.html" title="foedus/soc/shared_memory\l_repo.hpp" alt="" coords="3599,213,3782,255"/>
+<area shape="rect" id="node4" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="1331,556,1455,583"/>
+<area shape="rect" id="node5" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="1374,474,1498,501"/>
+<area shape="rect" id="node17" href="$aligned__memory_8hpp.html" title="foedus/memory/aligned\l_memory.hpp" alt="" coords="1895,467,2051,508"/>
+<area shape="rect" id="node18" href="$snapshot__id_8hpp.html" title="Typedefs of ID types used in snapshot package. " alt="" coords="2878,467,3053,508"/>
+<area shape="rect" id="node19" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="1773,385,1928,411"/>
+<area shape="rect" id="node20" href="$storage_8hpp.html" title="foedus/storage/storage.hpp" alt="" coords="1432,221,1611,247"/>
+<area shape="rect" id="node27" href="$storage__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1411,377,1565,419"/>
+<area shape="rect" id="node8" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="1983,556,2129,583"/>
+<area shape="rect" id="node11" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="3280,474,3435,501"/>
+<area shape="rect" id="node14" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="1080,467,1248,508"/>
+<area shape="rect" id="node15" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="1522,467,1667,508"/>
+<area shape="rect" id="node16" href="$fs_2fwd_8hpp.html" title="Forward declarations of classes in filesystem package. " alt="" coords="680,474,803,501"/>
+<area shape="rect" id="node13" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="3179,556,3330,583"/>
+<area shape="rect" id="node21" href="$attachable_8hpp.html" title="foedus/attachable.hpp" alt="" coords="907,303,1056,329"/>
+<area shape="rect" id="node22" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="1641,385,1749,411"/>
+<area shape="rect" id="node23" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="3166,385,3319,411"/>
+<area shape="rect" id="node24" href="$log_2fwd_8hpp.html" title="Forward declarations of classes in log manager package. " alt="" coords="3678,385,3807,411"/>
+<area shape="rect" id="node25" href="$shared__mutex_8hpp.html" title="foedus/soc/shared_mutex.hpp" alt="" coords="2391,474,2587,501"/>
+<area shape="rect" id="node30" href="$thread_2fwd_8hpp.html" title="Forward declarations of classes in thread package. " alt="" coords="2307,385,2455,411"/>
+<area shape="rect" id="node31" href="$xct_2fwd_8hpp.html" title="Forward declarations of classes in transaction package. " alt="" coords="4267,385,4397,411"/>
+<area shape="rect" id="node28" href="$raw__atomics_8hpp.html" title="Raw atomic operations that work for both C++11 and non&#45;C++11 code. " alt="" coords="2228,467,2367,508"/>
+<area shape="rect" id="node29" href="$thread__id_8hpp.html" title="Typedefs of ID types used in thread package. " alt="" coords="2611,467,2751,508"/>
+<area shape="rect" id="node36" href="$engine_8hpp.html" title="foedus/engine.hpp" alt="" coords="4017,303,4143,329"/>
+<area shape="rect" id="node37" href="$module__type_8hpp.html" title="foedus/module_type.hpp" alt="" coords="4421,385,4584,411"/>
+<area shape="rect" id="node38" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="4609,385,4767,411"/>
+<area shape="rect" id="node39" href="$proc_2fwd_8hpp.html" title="Forward declarations of classes in proc package. " alt="" coords="4791,385,4929,411"/>
+<area shape="rect" id="node40" href="$restart_2fwd_8hpp.html" title="Forward declarations of classes in restart package. " alt="" coords="4953,385,5103,411"/>
+<area shape="rect" id="node41" href="$savepoint_2fwd_8hpp.html" title="Forward declarations of classes in savepoint manager package. " alt="" coords="5127,385,5294,411"/>
+<area shape="rect" id="node42" href="$snapshot_2fwd_8hpp.html" title="Forward declarations of classes in snapshot manager package. " alt="" coords="5319,385,5484,411"/>
+<area shape="rect" id="node43" href="$soc_2fwd_8hpp.html" title="Forward declarations of classes in SOC package. " alt="" coords="3832,385,3965,411"/>
+<area shape="rect" id="node44" href="$soc__id_8hpp.html" title="Typedefs of ID types used in SOC package. " alt="" coords="3989,385,4141,411"/>
+<area shape="rect" id="node45" href="$engine__options_8hpp.html" title="foedus/engine_options.hpp" alt="" coords="1080,303,1256,329"/>
+<area shape="rect" id="node46" href="$atomic__fences_8hpp.html" title="Atomic fence methods and load/store with fences that work for both C++11/non&#45;C++11 code..." alt="" coords="3445,377,3603,419"/>
+<area shape="rect" id="node47" href="$protected__boundary_8hpp.html" title="foedus/assorted/protected\l_boundary.hpp" alt="" coords="3611,467,3783,508"/>
+<area shape="rect" id="node48" href="$shared__memory_8hpp.html" title="foedus/memory/shared\l_memory.hpp" alt="" coords="2784,377,2939,419"/>
+<area shape="rect" id="node49" href="$proc__id_8hpp.html" title="Typedefs of ID types used in procedure package. " alt="" coords="2459,303,2619,329"/>
+<area shape="rect" id="node50" href="$xct__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="2044,303,2191,329"/>
+</map>

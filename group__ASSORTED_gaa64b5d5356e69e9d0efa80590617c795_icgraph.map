@@ -1,0 +1,24 @@
+<map id="foedus::assorted::replace_all" name="foedus::assorted::replace_all">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogOptions.html#aad38e1d1b3d55acc3f4f4702f9848dbc" title="converts folder_path_pattern_ into a string with the given IDs. " alt="" coords="256,89,415,145"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#aa2874f5cd398cc0907d0a5bee822d1c3" title="converts folder_path_pattern_ into a string with the given node. " alt="" coords="243,194,427,250"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1proc_1_1ProcOptions.html#ae0c3e7b0aac803b1873bd6fff151f845" title="converts shared_library_dir_pattern_ into a string with the given node ID. " alt="" coords="249,274,422,330"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1proc_1_1ProcOptions.html#a0b38b436968e15e08355086ee72d4bb8" title="converts shared_library_path_pattern_ into a string with the given node ID. " alt="" coords="249,354,422,410"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1soc_1_1SocOptions.html#a5c473c8d3058b067409973db5615dcb5" title="converts spawn_executable_pattern_ into a string with the given node ID. " alt="" coords="243,434,428,490"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1soc_1_1SocOptions.html#abac1f48a35cf755dc5ebbbae86f1bc02" title="converts spawn_ld_library_path_pattern_ into a string with the given node ID. " alt="" coords="248,514,423,570"/>
+<area shape="rect" id="node23" href="$group__ASSORTED.html#gab1afe4b27fefca2c6a255702f9d636b7" title="target.replaceAll(search, String.valueOf(replacement)). " alt="" coords="241,594,429,621"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a8b2cfe458668cc3f8cf4ccbfeab179dc" title="foedus::log::LogManagerPimpl\l::initialize_once" alt="" coords="485,5,683,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1log_1_1LogOptions.html#ad583679a01a8e4cc2ae87306efb73216" title="construct full path of individual log file (log_folder/LOGGERID_ORDINAL.log) " alt="" coords="489,71,679,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1log_1_1LogOptions.html#aaeb02caac0ab0347617d2f45b29af968" title="metadata log file is placed in node&#45;0/logger&#45;0 folder " alt="" coords="496,136,672,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1log_1_1Logger.html#a3b1d647f1458d1172a511b7e57a2a237" title="foedus::log::Logger\l::initialize_once" alt="" coords="775,5,907,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1LogMapper.html#a661014d4832400f072544ff4b7e74a45" title="Implements the specific logics in derived class. " alt="" coords="745,71,938,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1log_1_1MetaLogger.html#a5a3484d094947ced0a08a5e162f08a88" title="foedus::log::MetaLogger\l::initialize_once" alt="" coords="761,136,922,177"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#ac587afcb72a4b29b67a56fb49c49b503" title="Redo metadata operation (create/drop storage) since the latest snapshot. " alt="" coords="739,201,944,243"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1016,201,1171,243"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1243,201,1437,243"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#a33c26d4ec5f1ea63447bf6075f527440" title="Returns the path of first node, which is also used as the primary place to write out global files..." alt="" coords="477,201,691,243"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#aea13c9b06029b240ee72b40a450cacf8" title="&#39;folder_path&#39;/snapshot_&#39;snapshot&#45;id&#39;node&#39;node&#45;id&#39;.data. " alt="" coords="489,267,679,323"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#a4f9a776fa92af14a054f1dedea7d8ae2" title="foedus::cache::SnapshotFile\lSet::get_or_open_file" alt="" coords="748,275,935,316"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a4a9091baae2ba21b2cb888da8d391818" title="Launch children via spawn. " alt="" coords="483,481,685,523"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="740,481,943,523"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="992,481,1195,523"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::soc::SharedMemoryRepo::get_master_status" name="foedus::soc::SharedMemoryRepo::get_master_status">
+<area shape="rect" id="node2" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#ac6c964bf07458b5adc1f034705daca34" title="Read status_code_ with fence. " alt="" coords="239,5,421,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="469,5,643,47"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="foedus::log::get_log_code_kind" name="foedus::log::get_log_code_kind">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogHeader.html#ab54b6d5754b5543e7de5b49c6c317499" title="Convenience method to get LogCodeKind. " alt="" coords="188,233,343,274"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1MetaLogBuffer.html#ab94212c9c14361971679c5581c99e7c3" title="Synchronously writes out the given log to metadata log file. " alt="" coords="405,123,581,165"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#ac587afcb72a4b29b67a56fb49c49b503" title="Redo metadata operation (create/drop storage) since the latest snapshot. " alt="" coords="391,233,596,274"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a493bf984062f2615c6788b4c4f6b36df" title="used only in debug mode " alt="" coords="394,298,593,339"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#a8917edb5d2712fba660a33c6cf2fb19f" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::truncate" alt="" coords="654,5,833,61"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a252f35e96555817a5eba6ab2e2275d53" title="foedus::storage::Storage\lManagerPimpl::drop_storage" alt="" coords="649,86,837,127"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a9eec079742233abb22d147da7b4fa50a" title="foedus::storage::Storage\lManagerPimpl::create_storage\l_and_log" alt="" coords="644,152,843,208"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a9a4d7e58057f2fb648b7ff9ee6ab7fa0" title="Discards all records in this storage before the given epoch. " alt="" coords="893,13,1083,54"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1StorageManager.html#a2f5e7bd059656ae653d0a326141e76f1" title="Removes the storage object. " alt="" coords="906,86,1070,127"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="666,233,821,274"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="891,233,1085,274"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a4ea0f6f073f92ff447cc34429adafbda" title="Append the log entries of one storage in the given buffer to this reducer&#39;s buffer. " alt="" coords="644,298,843,339"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::log::EngineLogType" name="foedus::log::EngineLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="11,184,181,211"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1LogHeader.html" title="A common header part for all log types. " alt="" coords="19,95,173,121"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="35,5,157,32"/>
+</map>

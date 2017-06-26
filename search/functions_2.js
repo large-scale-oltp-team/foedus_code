@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['backtracecontext',['BacktraceContext',['../structfoedus_1_1assorted_1_1BacktraceContext.html#ab6381310bc801e0e192a541c95bf9cd0',1,'foedus::assorted::BacktraceContext']]],
+  ['batch_5fget_5for_5fadd_5fentries',['batch_get_or_add_entries',['../classfoedus_1_1xct_1_1SysxctLockList.html#a9a12a820ec2e222073992d584fdf683c',1,'foedus::xct::SysxctLockList']]],
+  ['batch_5finsert_5fwrite_5fplaceholders',['batch_insert_write_placeholders',['../classfoedus_1_1xct_1_1CurrentLockList.html#abaacdb674d1296394cff252f995ce001',1,'foedus::xct::CurrentLockList']]],
+  ['batch_5frequest_5fpage_5flocks',['batch_request_page_locks',['../classfoedus_1_1xct_1_1SysxctLockList.html#ae24498fc6d57f691a45369b1b9c0d50f',1,'foedus::xct::SysxctLockList']]],
+  ['batch_5frequest_5frecord_5flocks',['batch_request_record_locks',['../classfoedus_1_1xct_1_1SysxctLockList.html#ab662f88d863600ff29f2e4bcac1c40d3',1,'foedus::xct::SysxctLockList']]],
+  ['before',['before',['../classfoedus_1_1Epoch.html#aaef554452ea9ac7b072af98cde1558dc',1,'foedus::Epoch::before()'],['../structfoedus_1_1xct_1_1XctId.html#ac151128ff0040de166018da6133f8d85',1,'foedus::xct::XctId::before()']]],
+  ['begin',['begin',['../classfoedus_1_1xct_1_1RetrospectiveLockList.html#aa8816862df9a53481685a257632eaeea',1,'foedus::xct::RetrospectiveLockList::begin()'],['../classfoedus_1_1xct_1_1CurrentLockList.html#ae0cbd2f6b369d0340c3222f124fe122b',1,'foedus::xct::CurrentLockList::begin()'],['../classfoedus_1_1xct_1_1SysxctLockList.html#a357b461dc64f2f7dc38b4c3484d4a1bc',1,'foedus::xct::SysxctLockList::begin()']]],
+  ['begin_5fxct',['begin_xct',['../classfoedus_1_1xct_1_1XctManager.html#a0cd2ffb750756de7132eabf6d6a284ce',1,'foedus::xct::XctManager::begin_xct()'],['../classfoedus_1_1xct_1_1XctManagerPimpl.html#ad01b60a93f2e107d9c63e7c28799ac1a',1,'foedus::xct::XctManagerPimpl::begin_xct()']]],
+  ['betoh',['betoh',['../namespacefoedus_1_1assorted.html#a27a8dbb30930880d0b183a2c62486f17',1,'foedus::assorted']]],
+  ['betoh_3c_20int16_5ft_20_3e',['betoh&lt; int16_t &gt;',['../namespacefoedus_1_1assorted.html#ac63ae58139e367bdad1445333141bb01',1,'foedus::assorted']]],
+  ['betoh_3c_20int32_5ft_20_3e',['betoh&lt; int32_t &gt;',['../namespacefoedus_1_1assorted.html#a1650eeddb70044722b9d66b99a0e766f',1,'foedus::assorted']]],
+  ['betoh_3c_20int64_5ft_20_3e',['betoh&lt; int64_t &gt;',['../namespacefoedus_1_1assorted.html#a2347e6498d06b7ebfb0c441309545200',1,'foedus::assorted']]],
+  ['betoh_3c_20int8_5ft_20_3e',['betoh&lt; int8_t &gt;',['../namespacefoedus_1_1assorted.html#a8d63df11cfeae4bcffc9e57985c44039',1,'foedus::assorted']]],
+  ['betoh_3c_20uint16_5ft_20_3e',['betoh&lt; uint16_t &gt;',['../namespacefoedus_1_1assorted.html#a1018f64e7ae4428eb4b9a80f008e9f10',1,'foedus::assorted']]],
+  ['betoh_3c_20uint32_5ft_20_3e',['betoh&lt; uint32_t &gt;',['../namespacefoedus_1_1assorted.html#a2284b340a9c0d7f403e0f952f938e521',1,'foedus::assorted']]],
+  ['betoh_3c_20uint64_5ft_20_3e',['betoh&lt; uint64_t &gt;',['../namespacefoedus_1_1assorted.html#a79067da0773a3d30bc6c1e1bcff96be8',1,'foedus::assorted']]],
+  ['betoh_3c_20uint8_5ft_20_3e',['betoh&lt; uint8_t &gt;',['../namespacefoedus_1_1assorted.html#a8ebf05e8003bd21c128f35de6142700d',1,'foedus::assorted']]],
+  ['binary_5fsearch',['binary_search',['../classfoedus_1_1xct_1_1RetrospectiveLockList.html#aa962bee534789c572b6c38984c5d5d38',1,'foedus::xct::RetrospectiveLockList::binary_search()'],['../classfoedus_1_1xct_1_1CurrentLockList.html#a3cb71937e25bc68318ef0c9808a4a482',1,'foedus::xct::CurrentLockList::binary_search()']]],
+  ['bins_5fto_5flevel',['bins_to_level',['../group__HASH.html#gacfc9ccab28ee4ffc1a7317ec51b332f4',1,'foedus::storage::hash']]],
+  ['bloom_5ffilter',['bloom_filter',['../classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ad2169cfc93933b2b35fea60fe8be9cf8',1,'foedus::storage::hash::HashDataPage::bloom_filter() const __attribute__((always_inline))'],['../classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac9a49ecf998b324449ddf7776ebaf3df',1,'foedus::storage::hash::HashDataPage::bloom_filter() __attribute__((always_inline))']]],
+  ['broadcast',['broadcast',['../classfoedus_1_1soc_1_1SharedCond.html#a58ecf444b8c8d8fa1f5c54b8c2e9f0bd',1,'foedus::soc::SharedCond']]],
+  ['broadcast_5fnolock',['broadcast_nolock',['../classfoedus_1_1soc_1_1SharedCond.html#aa145ec243e2741932835bf7a28934cb0',1,'foedus::soc::SharedCond']]]
+];

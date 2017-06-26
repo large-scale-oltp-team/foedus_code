@@ -1,0 +1,4 @@
+<map id="foedus::assorted::yield_if_valgrind" name="foedus::assorted::yield_if_valgrind">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1assorted.html#aea055a054d205c76d8f221de4f6aa058" title="foedus::assorted::is\l_running_on_valgrind" alt="" coords="223,5,365,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="207,71,381,112"/>
+</map>

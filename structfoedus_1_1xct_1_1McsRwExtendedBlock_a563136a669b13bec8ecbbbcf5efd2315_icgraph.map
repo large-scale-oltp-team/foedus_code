@@ -1,0 +1,11 @@
+<map id="foedus::xct::McsRwExtendedBlock::pred_flag_is_granted" name="foedus::xct::McsRwExtendedBlock::pred_flag_is_granted">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a5579e723353a3c6b765f23e59e5e1a30" title="foedus::xct::McsRwExtended\lBlock::mark_released" alt="" coords="245,5,437,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a5d1515b944f66ecc59a1a79cb6f03914" title="foedus::xct::McsRwExtended\lBlock::pred_flag_is_waiting" alt="" coords="245,71,437,112"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#acf3dc5b926c8b9a22cbadd137b3f50dc" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_busy\l_granted" alt="" coords="245,137,437,193"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a82bda8480742432f051a421d3c99bb98" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_granted" alt="" coords="485,205,677,247"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#aeace6e87cba5c5f3863de14f365ba950" title="foedus::xct::McsRwExtended\lBlock::timeout_granted" alt="" coords="245,268,437,309"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a41dda0d11554eced6da4153b6cf0b5cb" title="foedus::xct::McsRwExtended\lBlock::set_pred_flag_granted" alt="" coords="485,8,677,49"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a644706bbc96c499426add1d1e73c690f" title="foedus::xct::McsRwExtended\lBlock::init_reader" alt="" coords="485,73,677,115"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#ad36f00f06cd0a11c3cb1e3e2efb27aba" title="foedus::xct::McsRwExtended\lBlock::init_writer" alt="" coords="485,139,677,180"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#ab08788e811a8572f29e84a5ce0eaf8eb" title="foedus::xct::McsRwExtended\lBlock::set_flags_granted" alt="" coords="725,107,917,148"/>
+</map>

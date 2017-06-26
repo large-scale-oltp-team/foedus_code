@@ -1,0 +1,17 @@
+<map id="foedus::xct::McsOwnerlessLockScope::release" name="foedus::xct::McsOwnerlessLockScope::release">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#af86bfb8b4e01dfb27b078fdd19f52971" title="foedus::xct::McsOwnerless\lLockScope::is_locked_by_me" alt="" coords="233,5,429,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a3fa71b3875ae6ffe0ad71bf1f471e709" title="foedus::xct::McsOwnerless\lLockScope::is_valid" alt="" coords="241,71,421,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwLock.html#a5d7d7206c9ffc1261829346148361414" title="foedus::xct::McsWwLock\l::ownerless_release_lock" alt="" coords="247,136,416,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a401267b664485526790472daafedb231" title="foedus::xct::McsWwOwnerless\lImpl::ownerless_release" alt="" coords="477,136,680,177"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1xct.html#abc92f6bf35f5db4360f8596b09f778f8" title="foedus::xct::assert\l_mcs_aligned" alt="" coords="763,12,894,53"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="744,77,913,119"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="977,100,1179,141"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1xct.html#ad815773827f1856f8fd25a9d4b41d490" title="foedus::xct::spin_until" alt="" coords="754,194,903,221"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#ae1dc97f03080589ed7ad1cabbdf07ae3" title="foedus::xct::McsWwBlockData\l::is_guest_relaxed" alt="" coords="728,245,929,287"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1assorted.html#aba5893ad8aab7d6aafff7be7f92e1372" title="Spin locally until the given condition returns true. " alt="" coords="1003,187,1153,228"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="1449,157,1596,199"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1assorted.html#aea055a054d205c76d8f221de4f6aa058" title="foedus::assorted::is\l_running_on_valgrind" alt="" coords="1243,153,1385,195"/>
+<area shape="rect" id="node13" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="1227,219,1401,260"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a0f5961269d79e636777d722ade37dd2e" title="Take another current time tick. " alt="" coords="1247,284,1381,325"/>
+<area shape="rect" id="node15" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="1455,284,1590,325"/>
+</map>

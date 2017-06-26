@@ -1,0 +1,4 @@
+<map id="foedus::storage::hash::HashStoragePimpl::debugout_single_thread_intermediate" name="foedus::storage::hash::HashStoragePimpl::debugout_single_thread_intermediate">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#ae68923a3afe20ce445002b85764a9f17" title="These are defined in hash_storage_debug.cpp. " alt="" coords="252,5,451,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a144b7a6f95482f2ab8f8564776689fb9" title="A super&#45;expensive and single&#45;thread only debugging feature to write out gigantic human&#45;readable texts..." alt="" coords="499,5,665,61"/>
+</map>

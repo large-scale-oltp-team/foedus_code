@@ -1,0 +1,4 @@
+<map id="foedus::thread::Rendezvous::wait_for" name="foedus::thread::Rendezvous::wait_for">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Rendezvous.html#ad320ca3ef13605cfb9160db4d98837de" title="returns whether this thread has stopped (if the thread hasn&#39;t started, false too). " alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ConditionVariable.html#a5333ca0be98a0f2f5e52d70dc96a2d63" title="Block until the event happens or the given period elapses. " alt="" coords="244,71,411,112"/>
+</map>

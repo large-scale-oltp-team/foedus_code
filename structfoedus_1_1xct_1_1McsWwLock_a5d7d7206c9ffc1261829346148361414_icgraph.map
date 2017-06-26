@@ -1,0 +1,4 @@
+<map id="foedus::xct::McsWwLock::ownerless_release_lock" name="foedus::xct::McsWwLock::ownerless_release_lock">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#abe151a050342dbaed862cfb67e02fab7" title="Release the lock if acquired. " alt="" coords="223,5,403,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a0abce8a09831ca63a4c255a6f6e2132f" title="foedus::xct::McsOwnerless\lLockScope::~McsOwnerlessLockScope" alt="" coords="451,5,705,47"/>
+</map>

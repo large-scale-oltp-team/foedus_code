@@ -1,0 +1,7 @@
+<map id="foedus::xct::RwLockableXctId::is_hot" name="foedus::xct::RwLockableXctId::is_hot">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PageHeader.html#a9d43e66022a4171e578fcd79ba10a948" title="foedus::storage::PageHeader\l::contains_hot_records" alt="" coords="236,37,427,79"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="257,103,406,144"/>
+<area shape="rect" id="node6" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="249,169,414,195"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="490,5,641,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1Xct.html#ae84fb0f1c8c5c81bac74e79e62da49a6" title="foedus::xct::Xct::get\l_hot_threshold_for_this_xct" alt="" coords="475,71,656,112"/>
+</map>

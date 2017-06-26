@@ -1,0 +1,9 @@
+<map id="foedus::snapshot::SortedBuffer::assert_checks" name="foedus::snapshot::SortedBuffer::assert_checks">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1sequential_1_1StreamStatus.html#abc4add6d276ba5433d09fbf27a352ad2" title="foedus::storage::sequential\l::StreamStatus::init" alt="" coords="225,5,404,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1MergeSort.html#a990f4ab6b1e22a9ec86184c402decd15" title="foedus::snapshot::MergeSort\l::initialize_once" alt="" coords="220,71,409,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#a1f6a1efd4be5b624219e12d1cd42bfe3" title="foedus::snapshot::Sorted\lBuffer::set_current_block" alt="" coords="231,136,398,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#a52490a3555ee4d1d2eb46d99df59f910" title="foedus::snapshot::Sorted\lBuffer::SortedBuffer" alt="" coords="231,201,398,243"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1DumpFileSortedBuffer.html#a22900418b253b1a5164b63eacd15d654" title="Loads next data block to be consumed by the caller (composer). " alt="" coords="223,267,407,308"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a3e005713f9a1c12bb2a4771a192b47a5" title="foedus::storage::sequential\l::SequentialComposer::compose" alt="" coords="457,5,668,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1Composer.html#a28c752ec784b85418c0bfafab7ee60c0" title="Construct snapshot pages from sorted run files of one storage. " alt="" coords="716,5,895,47"/>
+</map>

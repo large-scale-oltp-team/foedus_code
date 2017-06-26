@@ -1,0 +1,4 @@
+<map id="foedus::memory::get_numa_node_size" name="foedus::memory::get_numa_node_size">
+<area shape="rect" id="node2" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="199,5,310,32"/>
+<area shape="rect" id="node3" href="$numa_8h.html#a1d53a351fd8dd60c3e5b661340eb54ad" title="numa_node_size" alt="" coords="195,56,315,83"/>
+</map>

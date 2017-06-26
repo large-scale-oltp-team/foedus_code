@@ -1,0 +1,26 @@
+var classfoedus_1_1memory_1_1PagePool =
+[
+    [ "PagePool", "classfoedus_1_1memory_1_1PagePool.html#aab9393114275163abc2e45fd45d9cd37", null ],
+    [ "~PagePool", "classfoedus_1_1memory_1_1PagePool.html#a72fdf2bc5015451f3e2f7c9f088256a3", null ],
+    [ "PagePool", "classfoedus_1_1memory_1_1PagePool.html#a8ad6830fcb0e6f6b3d242fbf3b66ccb2", null ],
+    [ "attach", "classfoedus_1_1memory_1_1PagePool.html#a6522fe3b6b37b4e87c0e4170e573b8d2", null ],
+    [ "get_base", "classfoedus_1_1memory_1_1PagePool.html#af9db36a92eb5116e01545d73cc7e1ab8", null ],
+    [ "get_debug_pool_name", "classfoedus_1_1memory_1_1PagePool.html#ab48069fa315e278b85dc3509527f97f7", null ],
+    [ "get_free_pool_capacity", "classfoedus_1_1memory_1_1PagePool.html#adaba316ea864179aa8460a57a61f1ff3", null ],
+    [ "get_memory_size", "classfoedus_1_1memory_1_1PagePool.html#adb83fc01491a9886ee654d377b62696f", null ],
+    [ "get_recommended_pages_per_grab", "classfoedus_1_1memory_1_1PagePool.html#ac3708e19114cb64dbf56c32791686eb2", null ],
+    [ "get_resolver", "classfoedus_1_1memory_1_1PagePool.html#a18916c76eea7aa49572e69e48e75717e", null ],
+    [ "get_stat", "classfoedus_1_1memory_1_1PagePool.html#aae17b661b01fd08a3019128c82227e7c", null ],
+    [ "grab", "classfoedus_1_1memory_1_1PagePool.html#a1fdd8ce2a10921faeccc1fe38ffd25c0", null ],
+    [ "grab_one", "classfoedus_1_1memory_1_1PagePool.html#a3e9390381783077a504116988cae05c4", null ],
+    [ "initialize", "classfoedus_1_1memory_1_1PagePool.html#a88b1043207496ee52b2abf56e065b068", null ],
+    [ "is_initialized", "classfoedus_1_1memory_1_1PagePool.html#aea9acc75679861935dc7d2833ea458e4", null ],
+    [ "operator=", "classfoedus_1_1memory_1_1PagePool.html#a5d0f36ec9bfd9d8387aae9dd81efa24c", null ],
+    [ "release", "classfoedus_1_1memory_1_1PagePool.html#a802171ff0578875748d20b4e9c8c9463", null ],
+    [ "release", "classfoedus_1_1memory_1_1PagePool.html#a71b1e15e332e971b0dd00c9e393ed255", null ],
+    [ "release", "classfoedus_1_1memory_1_1PagePool.html#a560b48480c6d6917496d2ec5c44333eb", null ],
+    [ "release_one", "classfoedus_1_1memory_1_1PagePool.html#aa7220391af1f368d1fd36b48cc1e2995", null ],
+    [ "set_debug_pool_name", "classfoedus_1_1memory_1_1PagePool.html#aeaee1accaade5856ad8786a2f8a3a22a", null ],
+    [ "uninitialize", "classfoedus_1_1memory_1_1PagePool.html#a90b989911378d6bf2d7d75352dc77165", null ],
+    [ "operator<<", "classfoedus_1_1memory_1_1PagePool.html#abe4dd63cab94f7eb13f9665b8e881176", null ]
+];

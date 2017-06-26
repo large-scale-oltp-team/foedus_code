@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsWwOwnerlessImpl::ownerless_initial" name="foedus::xct::McsWwOwnerlessImpl::ownerless_initial">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwLock.html#a6cff23a5832a37c988d10252d07efead" title="The followings are implemented in thread_pimpl.cpp along with the above methods, but these don&#39;t use ..." alt="" coords="256,5,425,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a42e3a3f1d5511994623010af52ff9a28" title="Acquires the lock. " alt="" coords="473,5,653,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#afc93395843770944d528724b598e390f" title="foedus::xct::McsOwnerless\lLockScope::McsOwnerlessLockScope" alt="" coords="701,5,948,47"/>
+</map>

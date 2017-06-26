@@ -1,0 +1,9 @@
+<map id="foedus::xct::McsWwBlockData::get_word_acquire" name="foedus::xct::McsWwBlockData::get_word_acquire">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a09691e08b265e0d82aa231524776dd38" title="foedus::xct::McsWwBlockData\l::copy_acquire" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aba9af78179a529bcefad815ed62f233c" title="foedus::xct::McsWwBlockData\l::is_guest_acquire" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aea0b4528e5f566b470134d7774232138" title="foedus::xct::McsWwBlockData\l::is_valid_acquire" alt="" coords="255,136,456,177"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwLock.html#a28a9118c69105a19fef24f3b95639d82" title="foedus::xct::McsWwLock\l::get_tail_acquire" alt="" coords="507,5,676,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwBlock.html#ab13f4e6a83ccfa940a29cfc2679917bc" title="foedus::xct::McsWwBlock\l::has_successor_acquire" alt="" coords="504,136,679,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a23095f2685916d313450e79bdb27b872" title="[WW] Unlcok an MCS lock acquired by this thread. " alt="" coords="727,136,892,177"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a8f37f1ac6ee205126ce76fe7ae2f5d52" title="Releases all locks that were acquired. " alt="" coords="940,136,1124,177"/>
+</map>

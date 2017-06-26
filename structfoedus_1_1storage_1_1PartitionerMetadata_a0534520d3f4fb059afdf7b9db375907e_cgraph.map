@@ -1,0 +1,6 @@
+<map id="foedus::storage::PartitionerMetadata::locate_data" name="foedus::storage::PartitionerMetadata::locate_data">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="232,5,417,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="257,86,392,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="235,151,415,193"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="257,217,392,258"/>
+</map>

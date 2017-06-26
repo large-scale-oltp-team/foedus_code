@@ -1,0 +1,11 @@
+<map id="foedus::memory::PageReleaseBatch::release_all" name="foedus::memory::PageReleaseBatch::release_all">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#ab725dd6fcc1f7345bb27123575555f6a" title="foedus::storage::array\l::ArrayStorage::drop" alt="" coords="279,5,427,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a72474ba11f14c8e37ab6b9b3bd92d64b" title="foedus::storage::hash\l::HashIntermediatePage\l::release_pages_recursive\l_parallel" alt="" coords="267,71,439,141"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage_1_1masstree.html#a744edfba3574c4c7dd041519321ed5b3" title="foedus::storage::masstree\l::release_parallel" alt="" coords="267,165,440,207"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1PageReleaseBatch.html#ac93d73bec0e959851e5a29482e83c5a9" title="foedus::memory::PageRelease\lBatch::~PageReleaseBatch" alt="" coords="253,231,453,272"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a79c499b589d9e31709b066f1457bc1e3" title="foedus::storage::hash\l::HashStoragePimpl::drop" alt="" coords="509,85,679,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#ab5edd3becb0d83ffab431754e2d80118" title="foedus::storage::hash\l::HashStorage::drop" alt="" coords="759,85,905,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a854ff4750eb7aad99b3cff474882ec5c" title="This method is used when we release a large number of volatile pages, most likely when we drop a stor..." alt="" coords="501,151,687,221"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a67ab7c42dbfd788773d6293ffdb64d52" title="Storage&#45;wide operations, such as drop, create, etc. " alt="" coords="735,165,929,207"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a40e22349aa6902839d3b80ac35e84790" title="foedus::storage::masstree\l::MasstreeStorage::drop" alt="" coords="977,165,1151,207"/>
+</map>

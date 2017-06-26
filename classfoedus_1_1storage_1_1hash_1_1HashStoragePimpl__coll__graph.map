@@ -1,0 +1,13 @@
+<map id="foedus::storage::hash::HashStoragePimpl" name="foedus::storage::hash::HashStoragePimpl">
+<area shape="rect" id="node2" href="$classfoedus_1_1Attachable.html" title="foedus::Attachable\l\&lt; HashStorageControlBlock \&gt;" alt="" coords="1349,53,1544,94"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="1069,21,1177,48"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="717,5,849,32"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1hash_1_1HashStorageControlBlock.html" title="Shared data of this storage type. " alt="" coords="1033,102,1212,143"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1HashMetadata.html" title="Metadata of an hash storage. " alt="" coords="710,57,857,98"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1Metadata.html" title="Metadata of one storage. " alt="" coords="377,64,551,91"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1assorted_1_1FixedString.html" title="foedus::assorted::FixedString\l\&lt; 60 \&gt;" alt="" coords="5,23,197,65"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1Metadata_1_1SnapshotThresholds.html" title="Tuning parameters related to snapshotting. " alt="" coords="15,89,188,130"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1DualPagePointer.html" title="Represents a pointer to another page (usually a child page). " alt="" coords="696,122,871,163"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html" title="Represents a pointer to a volatile page with modification count for preventing ABA. " alt="" coords="383,122,545,163"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="696,188,871,215"/>
+</map>

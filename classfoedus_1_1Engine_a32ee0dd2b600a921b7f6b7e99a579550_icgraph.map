@@ -1,0 +1,8 @@
+<map id="foedus::Engine::get_earliest_epoch" name="foedus::Engine::get_earliest_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#ab9ccf59655effed1a259100c4d46b06b" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::create" alt="" coords="199,5,378,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#aaf7d413df08f874c5d7caf175260c02f" title="foedus::storage::sequential\l::SequentialStoragePimpl::load" alt="" coords="188,86,389,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="208,152,369,208"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a1b3fd99bf6040a5ee42164d31135f433" title="foedus::storage::sequential\l::SequentialStorage::create" alt="" coords="437,13,617,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a2ba6c181226fb2b20ee12b012382f2fa" title="foedus::storage::sequential\l::SequentialStorage::load" alt="" coords="438,86,617,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="447,152,608,208"/>
+</map>

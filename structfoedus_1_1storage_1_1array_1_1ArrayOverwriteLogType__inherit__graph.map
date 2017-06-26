@@ -1,0 +1,5 @@
+<map id="foedus::storage::array::ArrayOverwriteLogType" name="foedus::storage::array::ArrayOverwriteLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1array_1_1ArrayCommonUpdateLogType.html" title="A base class for ArrayOverwriteLogType/ArrayIncrementLogType. " alt="" coords="5,155,208,196"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1RecordLogType.html" title="Base class for log type of record&#45;wise operation. " alt="" coords="15,80,198,107"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="21,5,192,32"/>
+</map>

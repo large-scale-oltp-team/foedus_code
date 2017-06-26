@@ -1,0 +1,16 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/snapshot.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/snapshot.hpp">
+<area shape="rect" id="node3" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="165,206,289,233"/>
+<area shape="rect" id="node9" href="$snapshot__id_8hpp.html" title="Typedefs of ID types used in snapshot package. " alt="" coords="5,288,180,329"/>
+<area shape="rect" id="node10" href="$storage__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="901,109,1055,151"/>
+<area shape="rect" id="node5" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="354,377,501,404"/>
+<area shape="rect" id="node8" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="867,295,991,322"/>
+<area shape="rect" id="node11" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="658,199,826,240"/>
+<area shape="rect" id="node15" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="1132,199,1277,240"/>
+<area shape="rect" id="node20" href="$raw__atomics_8hpp.html" title="Raw atomic operations that work for both C++11 and non&#45;C++11 code. " alt="" coords="1578,199,1717,240"/>
+<area shape="rect" id="node21" href="$memory__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1741,199,1903,240"/>
+<area shape="rect" id="node28" href="$thread__id_8hpp.html" title="Typedefs of ID types used in thread package. " alt="" coords="908,199,1048,240"/>
+<area shape="rect" id="node13" href="$uniform__random_8hpp.html" title="foedus/assorted/uniform\l_random.hpp" alt="" coords="490,288,650,329"/>
+<area shape="rect" id="node14" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="525,377,684,404"/>
+<area shape="rect" id="node22" href="$numa_8h.html" title="numa.h" alt="" coords="1825,377,1891,404"/>
+<area shape="rect" id="node27" href="$mod__numa__node_8hpp.html" title="foedus/assorted/mod\l_numa_node.hpp" alt="" coords="1841,288,1984,329"/>
+</map>

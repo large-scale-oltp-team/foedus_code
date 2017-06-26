@@ -1,0 +1,14 @@
+<map id="foedus::xct::XctManager::advance_current_global_epoch" name="foedus::xct::XctManager::advance_current_global_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a925da0bb4b846daa21eb947e4f67b0c6" title="foedus::xct::XctManagerPimpl\l::advance_current_global_epoch" alt="" coords="260,156,467,197"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="518,5,713,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html#a786afd92afdc87b54dfa11ef093f06f3" title="foedus::Epoch::one_more" alt="" coords="530,71,701,98"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a03678427b184e7ce71f9bbb164dd0bad" title="foedus::xct::XctManagerPimpl\l::set_requested_global_epoch" alt="" coords="518,123,713,164"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#afce787897428bd372c67224acd3e8ea7" title="foedus::xct::XctManagerPimpl\l::wakeup_epoch_chime_thread" alt="" coords="515,188,716,229"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="773,249,950,291"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="527,305,704,347"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a6071efec3ffc3876192101db2a1873b4" title="foedus::xct::XctManagerPimpl\l::get_requested_global_epoch" alt="" coords="764,65,959,107"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="790,131,933,158"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="773,184,950,225"/>
+<area shape="rect" id="node10" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1015,245,1189,287"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="1007,191,1197,218"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="foedus::storage::hash::HashStoragePimpl::verify_single_thread" name="foedus::storage::hash::HashStoragePimpl::verify_single_thread">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a64fa1150b812810a2697bd6293aaac9a" title="foedus::thread::Thread\l::get_engine" alt="" coords="240,455,391,496"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#ae1d255af4c59e5d9eb4696da85b77121" title="These are defined in hash_storage_verify.cpp. " alt="" coords="228,521,403,577"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1EngineMemory.html#a62b2d4de6a72644e9e31d35a7f9beae0" title="Returns the page resolver to convert volatile page ID to page pointer. " alt="" coords="952,849,1163,905"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6ddc93fb5df01249140895435819da2f" title="foedus::storage::hash\l::HashIntermediatePage\l::get_level" alt="" coords="722,307,883,363"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="990,929,1125,971"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="977,425,1138,467"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="451,125,653,167"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#afc1a73e49f6386098d3fff98bc1baf78" title="foedus::storage::hash\l::HashStoragePimpl::verify\l_single_thread_intermediate" alt="" coords="460,667,644,723"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669" title="foedus::storage::PageHeader\l::get_in_layer_level" alt="" coords="962,315,1153,356"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1231,297,1392,339"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="725,125,880,167"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="983,5,1132,47"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="716,191,889,232"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="701,45,904,101"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="980,107,1135,148"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="962,239,1153,280"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a134e444d2b945700fe14d0d6d3dd11f0" title="foedus::storage::hash\l::HashIntermediatePage\l::header" alt="" coords="722,569,883,625"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1storage_1_1PageVersion.html#a301cba19b01cf82d7b576a04180b56e2" title="foedus::storage::PageVersion\l::is_locked" alt="" coords="707,1012,899,1053"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1storage_1_1PageVersion.html#a2b63daa9a7f39c8c85bf2d43f4c18d78" title="foedus::storage::PageVersion\l::is_moved" alt="" coords="707,1077,899,1119"/>
+<area shape="rect" id="node24" href="$structfoedus_1_1storage_1_1PageVersion.html#a61318d7aab5c4ca7334ec05f8de168ca" title="foedus::storage::PageVersion\l::is_retired" alt="" coords="707,1195,899,1236"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#ac5e2de81d5e512b5a0f735a9fc413629" title="foedus::storage::hash\l::HashIntermediatePage\l::get_bin_range" alt="" coords="722,830,883,886"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a9027ebbc2ee535519916906978347be9" title="foedus::storage::hash\l::HashIntermediatePage\l::get_pointer" alt="" coords="722,438,883,494"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#acfa062e1acf64b882f466cca8e190fdd" title="foedus::storage::hash\l::HashDataPage::get_bin" alt="" coords="974,535,1141,576"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#ad137d51b31782b8e525481bb69816848" title="foedus::storage::hash\l::HashStoragePimpl::verify\l_single_thread_data" alt="" coords="715,699,890,755"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="973,1012,1142,1053"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="1211,1012,1412,1053"/>
+<area shape="rect" id="node23" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ac3214863fa74628187ce46b2879994ae" title="foedus::storage::PageVersion\lStatus::is_moved" alt="" coords="961,1077,1153,1119"/>
+<area shape="rect" id="node25" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ab07c3c3d030fab04f79b59dee83ecd2e" title="foedus::storage::PageVersion\lStatus::is_retired" alt="" coords="961,1195,1153,1236"/>
+<area shape="rect" id="node30" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a610d8c1bfd1d86dcde181c3fb0020f0c" title="foedus::xct::RwLockableXct\lId::is_keylocked" alt="" coords="966,665,1149,707"/>
+<area shape="rect" id="node32" href="$structfoedus_1_1xct_1_1XctId.html#ad5be23a25e650f1bad81ce8c87630af0" title="foedus::xct::XctId\l::is_being_written" alt="" coords="996,600,1119,641"/>
+<area shape="rect" id="node33" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="996,783,1119,824"/>
+<area shape="rect" id="node35" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="980,731,1135,758"/>
+<area shape="rect" id="node31" href="$structfoedus_1_1xct_1_1McsRwLock.html#adc5e6612e3cecf3d2f15d02237b4ef8f" title="foedus::xct::McsRwLock\l::is_locked" alt="" coords="1229,665,1394,707"/>
+<area shape="rect" id="node34" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="1250,783,1373,824"/>
+</map>

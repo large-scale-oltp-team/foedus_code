@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::LogReducerRef::get_cur_snapshot" name="foedus::snapshot::LogReducerRef::get_cur_snapshot">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a493bf984062f2615c6788b4c4f6b36df" title="used only in debug mode " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a4ea0f6f073f92ff447cc34429adafbda" title="Append the log entries of one storage in the given buffer to this reducer&#39;s buffer. " alt="" coords="499,5,697,47"/>
+</map>

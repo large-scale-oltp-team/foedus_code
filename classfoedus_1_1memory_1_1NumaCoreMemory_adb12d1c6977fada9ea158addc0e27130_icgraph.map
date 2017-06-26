@@ -1,0 +1,7 @@
+<map id="foedus::memory::NumaCoreMemory::calculate_local_small_memory_size" name="foedus::memory::NumaCoreMemory::calculate_local_small_memory_size">
+<area shape="rect" id="node2" href="$structfoedus_1_1EngineOptions.html#ace695b3d0e069ed255df9572f71ecfa4" title="foedus::EngineOptions\l::calculate_required\l_memory" alt="" coords="253,5,406,61"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#af7bdd6c02647872c28ecb66d89adb965" title="foedus::memory::NumaCore\lMemory::initialize_once" alt="" coords="237,86,421,127"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1EngineOptions.html#ae11d1267946c562743cea44470525a69" title="Checks the machine environment and raises as many errors as possible before the engine starts up..." alt="" coords="469,13,623,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1EnginePimpl.html#ad48323b2f8311ecee663647aeeecdea6" title="foedus::EnginePimpl\l::check_valid_options" alt="" coords="671,13,817,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="865,13,1007,54"/>
+</map>

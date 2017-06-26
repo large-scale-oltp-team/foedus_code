@@ -1,0 +1,6 @@
+<map id="foedus::xct::RetrospectiveLockList::construct" name="foedus::xct::RetrospectiveLockList::construct">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="225,39,420,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="484,5,647,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="468,71,663,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="711,71,873,112"/>
+</map>

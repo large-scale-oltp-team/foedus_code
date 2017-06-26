@@ -1,0 +1,9 @@
+<map id="foedus::xct::CurrentLockList::try_async_single_lock" name="foedus::xct::CurrentLockList::try_async_single_lock">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aed99dee60f9529d5cfabb5e1742038da" title="foedus::xct::CurrentLock\lList::assert_last_locked_entry" alt="" coords="233,5,429,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a03e818494c4d716f9fc996081f6c419f" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="737,27,913,83"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ab360f7fc3d8c0880b394084d45e492e9" title="foedus::xct::CurrentLock\lList::get_entry" alt="" coords="249,123,413,164"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#afe5afad486230afbf7d1b21875a90f13" title="foedus::xct::RwLockableXct\lId::get_key_lock" alt="" coords="240,188,423,229"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1LockEntry.html#a57dc541a4a80230e2fc0b45aeb6b879a" title="foedus::xct::LockEntry\l::is_enough" alt="" coords="255,253,408,295"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a1a668d5dd1b711abed1a9962a8cb4ec1" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="477,5,689,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a78b6d1612fda232b7e8c52dd3f6c2504" title="foedus::xct::CurrentLock\lList::is_valid_entry" alt="" coords="501,123,665,164"/>
+</map>

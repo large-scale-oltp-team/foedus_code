@@ -1,0 +1,4 @@
+<map id="foedus::Engine::get_current_global_epoch" name="foedus::Engine::get_current_global_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#a419a270d62522ede9bd871dd4adc0e2a" title="Returns the current global epoch, the epoch a newly started transaction will be in. " alt="" coords="205,5,384,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="432,5,627,47"/>
+</map>

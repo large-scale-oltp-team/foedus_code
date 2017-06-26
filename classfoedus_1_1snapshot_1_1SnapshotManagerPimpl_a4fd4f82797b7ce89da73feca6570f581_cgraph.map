@@ -1,0 +1,27 @@
+<map id="foedus::snapshot::SnapshotManagerPimpl::uninitialize_once" name="foedus::snapshot::SnapshotManagerPimpl::uninitialize_once">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1LogGleanerResource.html#acf5601b4d2d98698d321a5b6f5c7b80f" title="foedus::snapshot::LogGleaner\lResource::deallocate" alt="" coords="286,5,481,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="301,71,465,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="291,137,476,193"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#aa27f031bd1e256d38e616ec9a499eefc" title="See Log Manager. " alt="" coords="316,217,451,259"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="316,283,451,324"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="293,348,473,389"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="316,413,451,455"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1log_1_1LogManager.html#ac69401e015fb167c3a7739bb6b40bc1e" title="Returns whether the object has been already initialized or not. " alt="" coords="301,479,465,520"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1soc_1_1SharedMutex.html#ae886a5d8af1495da00400cc3c958a3d9" title="foedus::soc::SharedMutex\l::is_initialized" alt="" coords="296,544,471,585"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="595,661,722,703"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#ac35e1cb910337b9d66852e47202fb442" title="This is a hidden API called at the beginning of engine shutdown (namely restart manager). " alt="" coords="263,727,504,768"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html#a2ecbba2c39099b67fb89e4c136f8fcf0" title="foedus::snapshot::Snapshot\lManagerControlBlock::uninitialize" alt="" coords="276,812,491,853"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="297,609,469,651"/>
+<area shape="rect" id="node25" href="$structfoedus_1_1storage_1_1PartitionerMetadata.html#a4a2b866bb37a79a612da1bc3bc67fd23" title="foedus::storage::Partitioner\lMetadata::uninitialize" alt="" coords="294,917,473,959"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="552,5,765,47"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="573,504,745,545"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#ab92f4472ad5436d0a216dd8183f26ec6" title="foedus::snapshot::Snapshot\lManagerPimpl::wakeup" alt="" coords="567,727,751,768"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html#aea6701821c4d7184cac37f3ad552c60f" title="Fires snapshot_children_wakeup_. " alt="" coords="559,793,758,849"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="813,731,991,772"/>
+<area shape="rect" id="node17" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1047,701,1221,743"/>
+<area shape="rect" id="node18" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="1039,767,1229,794"/>
+<area shape="rect" id="node20" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="815,800,989,841"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1snapshot_1_1LogGleanerControlBlock.html#ae813f6d3e5d1e0b6c74db20a8360180c" title="foedus::snapshot::LogGleaner\lControlBlock::uninitialize" alt="" coords="561,873,756,915"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="573,596,745,637"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="571,939,746,980"/>
+</map>

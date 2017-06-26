@@ -1,0 +1,4 @@
+<map id="foedus::xct::McsImpl&lt; ADAPTOR, McsRwSimpleBlock &gt;::retry_async_rw_reader" name="foedus::xct::McsImpl&lt; ADAPTOR, McsRwSimpleBlock &gt;::retry_async_rw_reader">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwLock.html#ae69814fddbf96cd4699ddf18aa23dcc5" title="foedus::xct::McsRwLock\l::increment_nreaders" alt="" coords="272,5,437,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwLock.html#a097b5035f389e0e33fae82103d839f3b" title="foedus::xct::McsRwLock\l::to_tail_int" alt="" coords="272,71,437,112"/>
+</map>

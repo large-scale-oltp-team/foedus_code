@@ -1,0 +1,8 @@
+<map id="foedus::storage::sequential::SequentialCursor::SequentialCursor" name="foedus::storage::sequential::SequentialCursor::SequentialCursor">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#addd36d7a9f38e055767f9a36c0889385" title="Returns the current grace&#45;period epoch (global epoch &#45; 1), the epoch some transaction might be still ..." alt="" coords="289,35,465,76"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1Xct.html#abae2ae5210db8eda39a1507940bf7352" title="Returns the level of isolation for this transaction. " alt="" coords="308,100,447,141"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a48d5e1f7ce2f70161c253f650c75ed95" title="See Transaction Manager. " alt="" coords="310,165,445,207"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="300,231,455,258"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="513,5,708,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html#a701de077839df51ebe44749a116ec10f" title="foedus::Epoch::one_less" alt="" coords="528,71,693,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::xct::XctId::before" name="foedus::xct::XctId::before">
+<area shape="rect" id="node2" href="$classfoedus_1_1Epoch.html#aaef554452ea9ac7b072af98cde1558dc" title="Returns if this epoch is before the given epoch in the sense of distance defined in RFC 1982..." alt="" coords="176,5,324,32"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="189,57,311,98"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="388,86,511,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="189,174,311,215"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="372,5,527,32"/>
+</map>

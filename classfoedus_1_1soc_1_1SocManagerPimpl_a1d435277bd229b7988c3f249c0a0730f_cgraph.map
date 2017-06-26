@@ -1,0 +1,28 @@
+<map id="foedus::soc::SocManagerPimpl::uninitialize_once" name="foedus::soc::SocManagerPimpl::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a45aa9998863c0d0f8548806d06503972" title="foedus::soc::SharedMemory\lRepo::change_master_status" alt="" coords="516,5,708,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#aa961c615ceddd0dd0d3943629fd1a147" title="Detaches and releases the shared memories. " alt="" coords="265,442,450,498"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a8e083b61b71eaf53a3a291d16f7a81ee" title="foedus::soc::SharedMemory\lRepo::get_global_memory" alt="" coords="265,523,450,564"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="294,588,421,629"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#afa01a52797a06b55092eeb900a7f62ef" title="Wait for child SOCs to terminate. " alt="" coords="256,159,459,200"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#aa3f2eb00974e1e60ce9a03e8f8f64954" title="Update the value of status_code_ with fence. " alt="" coords="771,5,970,47"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1024,39,1197,80"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1assorted_1_1ProtectedBoundary.html#a2242e8ed93e24a8cba2097c3433e0216" title="Called at shutdown to check whether these boundaries were not accessed. " alt="" coords="521,449,703,491"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1soc_1_1GlobalMemoryAnchors.html#a46e22c8cac15e20ccea8ac8e77311b23" title="foedus::soc::GlobalMemory\lAnchors::clear" alt="" coords="521,515,703,556"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1SharedMemory.html#acbdca7a06f5b1fe14cba7c718c822ac4" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="507,580,717,621"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a78e80ef586cc59284a2c9af365e1f0b6" title="Marks shared memories as being removed so that it will be reclaimed when all processes detach it..." alt="" coords="519,384,705,425"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1memory_1_1SharedMemory.html#a20f2fb7b7f86ab5c4134452f1267eeb5" title="Releases the memory block IF this process has an ownership. " alt="" coords="507,319,717,360"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1assorted_1_1ProtectedBoundary.html#a10383a5371b4bac033184c7441719fee" title="Removes all access restrictions via mprotect(). " alt="" coords="521,645,703,687"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1SharedMemory.html#a06fa097c286b762b8ae484076592bf0d" title="Marks the shared memory as being removed so that it will be reclaimed when all processes detach it..." alt="" coords="765,384,976,425"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1memory_1_1SharedMemory.html#a83f0c9b29ecfc29550923dd33bc031e7" title="Returns if this process owns this memory and is responsible to delete it. " alt="" coords="765,253,976,295"/>
+<area shape="rect" id="node13" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="801,319,941,360"/>
+<area shape="rect" id="node14" href="$group__FILESYSTEM.html#gad1f62b080fa246b5f8c166f44c72134f" title="Deletes a regular file or an empty directory. " alt="" coords="807,199,934,226"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="1038,189,1183,231"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1fs_1_1FileStatus.html#a76000c37b9fc4c1d9596240409972809" title="foedus::fs::FileStatus\l::is_regular_file" alt="" coords="1038,255,1183,296"/>
+<area shape="rect" id="node17" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="1049,137,1172,163"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="1245,137,1396,163"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1memory_1_1SharedMemory.html#a085dfb81511ba8e4c0563b5a72967113" title="Returns the memory block. " alt="" coords="507,711,717,752"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="545,188,679,229"/>
+<area shape="rect" id="node25" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="525,253,699,295"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a858b2e2cceeb9f8c71722ed5f8c3c069" title="foedus::soc::SharedMemory\lRepo::get_child_status" alt="" coords="519,71,705,112"/>
+<area shape="rect" id="node27" href="$structfoedus_1_1soc_1_1ChildEngineStatus.html#ac8acd97b1b354cda68779ade6a963d04" title="Read status_code_ with fence. " alt="" coords="779,71,962,112"/>
+</map>

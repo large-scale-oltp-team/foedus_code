@@ -1,0 +1,4 @@
+<map id="foedus::soc::SharedPolling::signal" name="foedus::soc::SharedPolling::signal">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="239,5,413,47"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="231,71,421,98"/>
+</map>

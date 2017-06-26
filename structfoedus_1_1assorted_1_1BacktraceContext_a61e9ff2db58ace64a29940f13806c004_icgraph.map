@@ -1,0 +1,12 @@
+<map id="foedus::assorted::BacktraceContext::release" name="foedus::assorted::BacktraceContext::release">
+<area shape="rect" id="node2" href="$structfoedus_1_1assorted_1_1BacktraceContext.html#a3e70d52451e788dc085aec8bacdfad60" title="foedus::assorted::Backtrace\lContext::call_glibc_backtrace" alt="" coords="239,104,432,145"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1assorted_1_1BacktraceContext.html#a9ed0be01e6656cccd04f7b53f29229bf" title="foedus::assorted::Backtrace\lContext::~BacktraceContext" alt="" coords="242,169,429,211"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1assorted.html#aa2bd2568f3a2851d781b7e141073412f" title="Returns the backtrace information of the current stack. " alt="" coords="480,104,624,145"/>
+<area shape="rect" id="node4" href="$namespacefoedus.html#acc3806110789c3309a531109b7d46f3f" title="Prints out backtrace. " alt="" coords="672,111,829,138"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1ErrorStack.html#a0de4b8c0bfcd31e4e8cb1cbaf4b04c13" title="Describe this object to std::cerr and then abort. " alt="" coords="909,5,1039,47"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html#a114c524e1d8efc628c3e7d98f85cfa83" title="Grabs an in&#45;memory page in some NUMA node. " alt="" coords="877,71,1071,112"/>
+<area shape="rect" id="node9" href="$namespacefoedus.html#aed2495460b00a9e5b86bcfc3a31f9b63" title="print_assert() + print_backtrace(). " alt="" coords="906,136,1042,177"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1UninitializeGuard.html#a36b8ea628094e8ed6d0425ccd744c797" title="foedus::UninitializeGuard\l::~UninitializeGuard" alt="" coords="891,201,1057,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1ErrorStack.html#aea380eec7175852f420cdd32d3423592" title="Output a warning to stderr if the error is not checked yet. " alt="" coords="1119,5,1249,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1ErrorStack.html#a0b1ae0f16fdb833f6773c2ba9e594b3f" title="Will warn in stderr if the error code is not checked yet. " alt="" coords="1297,5,1428,47"/>
+</map>

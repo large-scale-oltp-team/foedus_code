@@ -1,0 +1,3 @@
+<map id="foedus::soc::MasterEngineStatus::read_status_atomic" name="foedus::soc::MasterEngineStatus::read_status_atomic">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="236,5,409,47"/>
+</map>

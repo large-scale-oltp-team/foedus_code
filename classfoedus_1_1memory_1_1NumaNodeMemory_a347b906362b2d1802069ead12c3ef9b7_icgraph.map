@@ -1,0 +1,5 @@
+<map id="foedus::memory::NumaNodeMemory::allocate_numa_memory" name="foedus::memory::NumaNodeMemory::allocate_numa_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a70fdc4e831999f941d4105de0c3ce3fd" title="foedus::memory::NumaNode\lMemory::initialize_once" alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#af7bdd6c02647872c28ecb66d89adb965" title="foedus::memory::NumaCore\lMemory::initialize_once" alt="" coords="241,71,425,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1log_1_1Logger.html#a3b1d647f1458d1172a511b7e57a2a237" title="foedus::log::Logger\l::initialize_once" alt="" coords="267,136,399,177"/>
+</map>

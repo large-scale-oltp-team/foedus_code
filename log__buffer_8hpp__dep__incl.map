@@ -1,0 +1,24 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/log_buffer.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/log_buffer.hpp">
+<area shape="rect" id="node2" href="$partitioner_8hpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/include\l/foedus/storage/partitioner.hpp" alt="" coords="1080,117,1276,173"/>
+<area shape="rect" id="node22" href="$log__buffer_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/log_buffer.cpp" alt="" coords="1300,117,1504,173"/>
+<area shape="rect" id="node23" href="$merge__sort_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/merge\l_sort.cpp" alt="" coords="1528,109,1689,180"/>
+<area shape="rect" id="node3" href="$array__partitioner__impl_8hpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/include\l/foedus/storage/array/array\l_partitioner_impl.hpp" alt="" coords="239,228,416,299"/>
+<area shape="rect" id="node5" href="$array__partitioner__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/array\l/array_partitioner_impl.cpp" alt="" coords="5,347,180,417"/>
+<area shape="rect" id="node6" href="$partitioner_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/partitioner.cpp" alt="" coords="800,354,996,410"/>
+<area shape="rect" id="node7" href="$hash__partitioner__impl_8hpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/include\l/foedus/storage/hash/hash\l_partitioner_impl.hpp" alt="" coords="601,228,776,299"/>
+<area shape="rect" id="node9" href="$hash__partitioner__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/hash/hash\l_partitioner_impl.cpp" alt="" coords="403,347,577,417"/>
+<area shape="rect" id="node10" href="$masstree__partitioner__impl_8hpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/include\l/foedus/storage/masstree\l/masstree_partitioner_impl.hpp" alt="" coords="851,228,1051,299"/>
+<area shape="rect" id="node13" href="$sequential__partitioner__impl_8hpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/include\l/foedus/storage/sequential\l/sequential_partitioner_impl.hpp" alt="" coords="1075,228,1281,299"/>
+<area shape="rect" id="node16" href="$log__gleaner__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/log_gleaner\l_impl.cpp" alt="" coords="1305,228,1496,299"/>
+<area shape="rect" id="node17" href="$log__mapper__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/log_mapper\l_impl.cpp" alt="" coords="1521,228,1713,299"/>
+<area shape="rect" id="node18" href="$log__reducer__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/log_reducer\l_impl.cpp" alt="" coords="1737,228,1929,299"/>
+<area shape="rect" id="node19" href="$snapshot__manager__pimpl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/snapshot\l_manager_pimpl.cpp" alt="" coords="1953,228,2131,299"/>
+<area shape="rect" id="node20" href="$shared__memory__repo_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/soc/shared_memory\l_repo.cpp" alt="" coords="2155,228,2342,299"/>
+<area shape="rect" id="node21" href="$storage__manager__pimpl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/storage\l_manager_pimpl.cpp" alt="" coords="2367,228,2525,299"/>
+<area shape="rect" id="node4" href="$array__composer__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/array\l/array_composer_impl.cpp" alt="" coords="204,347,379,417"/>
+<area shape="rect" id="node8" href="$hash__composer__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/hash/hash\l_composer_impl.cpp" alt="" coords="601,347,776,417"/>
+<area shape="rect" id="node11" href="$masstree__composer__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/masstree\l/masstree_composer_impl.cpp" alt="" coords="1245,347,1445,417"/>
+<area shape="rect" id="node12" href="$masstree__partitioner__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/masstree\l/masstree_partitioner_impl.cpp" alt="" coords="1021,347,1221,417"/>
+<area shape="rect" id="node14" href="$sequential__composer__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/sequential\l/sequential_composer_impl.cpp" alt="" coords="1698,347,1903,417"/>
+<area shape="rect" id="node15" href="$sequential__partitioner__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/sequential\l/sequential_partitioner_impl.cpp" alt="" coords="1469,347,1674,417"/>
+</map>

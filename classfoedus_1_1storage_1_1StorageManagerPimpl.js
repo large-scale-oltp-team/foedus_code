@@ -1,0 +1,26 @@
+var classfoedus_1_1storage_1_1StorageManagerPimpl =
+[
+    [ "StorageManagerPimpl", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#aed2f8a83b08dba0ecceb639d5b26f468", null ],
+    [ "StorageManagerPimpl", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a76b0c25f48c683c4f09e63c7764ac2a4", null ],
+    [ "clone_all_storage_metadata", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a7e6f699df114e5e49194791ed183f52f", null ],
+    [ "create_storage", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#af961ec67a7d797595ec92bc6dcfdfc24", null ],
+    [ "create_storage_and_log", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a9eec079742233abb22d147da7b4fa50a", null ],
+    [ "create_storage_apply", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad60396a45220b4b150b3f72fcff5a92a", null ],
+    [ "drop_storage", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a252f35e96555817a5eba6ab2e2275d53", null ],
+    [ "drop_storage_apply", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a451eb4dbf3ec4fce7b8fd264cef28a67", null ],
+    [ "exists", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3eb62d9aa6161550ff86b83ae09e892f", null ],
+    [ "get_max_storages", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a7b63a1d65285c9c32613b38cbbd5183b", null ],
+    [ "get_storage", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#aea8861d6bf6c13c0df6d0c9777cdaa99", null ],
+    [ "get_storage", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a2436ac8c40013438bcecf5c8a2100101", null ],
+    [ "hcc_reset_all_temperature_stat", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#aa6adc636d461b3bc2605e967816cc095", null ],
+    [ "initialize_once", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad89ca2bb2619e01c3b13d65302a3d7c9", null ],
+    [ "initialize_read_latest_snapshot", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a49864b0bae19e6c2fe61a2422d1650af", null ],
+    [ "issue_next_storage_id", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a7d24121294c15dff80f607595723dfad", null ],
+    [ "reinitialize_for_recovered_snapshot", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad5f949c2d00aea4cb2186c93108b7dcc", null ],
+    [ "track_moved_record", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3248d8440d805f772ad7b6122a4d309b", null ],
+    [ "uninitialize_once", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#ae4eaa4425c8c9aa4bfbbbf56303748e5", null ],
+    [ "control_block_", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a7dac7c3a6112fab10cc985cff0f8ce07", null ],
+    [ "engine_", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#a43e605f4f5a1817670c4768d8a808e80", null ],
+    [ "storage_name_sort_", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#af7d3518a820e2f8413e5b33cb556b7b0", null ],
+    [ "storages_", "classfoedus_1_1storage_1_1StorageManagerPimpl.html#aad8e3cd9d82e9e6d7305b7ae1b05370b", null ]
+];

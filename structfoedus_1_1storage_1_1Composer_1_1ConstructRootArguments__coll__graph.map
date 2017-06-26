@@ -1,0 +1,10 @@
+<map id="foedus::storage::Composer::ConstructRootArguments" name="foedus::storage::Composer::ConstructRootArguments">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html" title="Writes out one snapshot file for all data pages in one reducer. " alt="" coords="1137,5,1321,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1Page.html" title="Just a marker to denote that the memory region represents a data page. " alt="" coords="1154,71,1303,98"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html" title="Holds a set of read&#45;only file objects for snapshot files. " alt="" coords="1125,122,1332,149"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="756,98,928,125"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="407,90,539,117"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1snapshot_1_1LogGleanerResource.html" title="Local resource for the log gleaner, which runs only in the master node. " alt="" coords="1131,205,1326,247"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1snapshot_1_1LogGleanerResource_1_1PerNodeResource.html" title="These buffers are used to read intermediate results from each reducer to compose the root page or oth..." alt="" coords="376,283,571,324"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="5,253,219,279"/>
+</map>

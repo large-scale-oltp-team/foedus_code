@@ -1,0 +1,9 @@
+<map id="foedus::snapshot::SnapshotManagerPimpl::stop_snapshot_thread" name="foedus::snapshot::SnapshotManagerPimpl::stop_snapshot_thread">
+<area shape="rect" id="node2" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="331,5,457,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#ab92f4472ad5436d0a216dd8183f26ec6" title="foedus::snapshot::Snapshot\lManagerPimpl::wakeup" alt="" coords="302,71,486,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html#aea6701821c4d7184cac37f3ad552c60f" title="Fires snapshot_children_wakeup_. " alt="" coords="295,137,493,193"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="541,75,719,116"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="775,45,949,87"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="767,111,957,138"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="543,144,717,185"/>
+</map>

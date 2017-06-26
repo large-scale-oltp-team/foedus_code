@@ -1,0 +1,10 @@
+<map id="foedus::storage::hash::operator&lt;&lt;" name="foedus::storage::hash::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#ac5e2de81d5e512b5a0f735a9fc413629" title="foedus::storage::hash\l::HashIntermediatePage\l::get_bin_range" alt="" coords="207,5,368,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6ddc93fb5df01249140895435819da2f" title="foedus::storage::hash\l::HashIntermediatePage\l::get_level" alt="" coords="207,85,368,141"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a9027ebbc2ee535519916906978347be9" title="foedus::storage::hash\l::HashIntermediatePage\l::get_pointer" alt="" coords="207,165,368,221"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a134e444d2b945700fe14d0d6d3dd11f0" title="foedus::storage::hash\l::HashIntermediatePage\l::header" alt="" coords="207,245,368,301"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1DualPagePointer.html#aedde91e76a6e345f6d19539942f13a43" title="foedus::storage::DualPage\lPointer::is_both_null" alt="" coords="200,326,375,367"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669" title="foedus::storage::PageHeader\l::get_in_layer_level" alt="" coords="423,93,613,134"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="437,326,599,367"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="661,326,823,367"/>
+</map>

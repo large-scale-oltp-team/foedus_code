@@ -1,0 +1,12 @@
+<map id="foedus::storage::assert_within_valid_volatile_page" name="foedus::storage::assert_within_valid_volatile_page">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage.html#ad38ebb5eb992249a7b42001fe464ec48" title="foedus::storage::assert\l_within_valid_volatile\l_page_impl" alt="" coords="228,79,383,135"/>
+<area shape="rect" id="node3" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="449,14,615,41"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="953,261,1102,303"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="696,5,869,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="431,116,633,157"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="705,152,860,193"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="681,71,884,127"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="950,65,1105,107"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="947,196,1108,237"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="932,131,1123,172"/>
+</map>

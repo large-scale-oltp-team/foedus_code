@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::resolve_log" name="foedus::storage::masstree::resolve_log">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="241,5,395,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1LogBuffer.html#a4c866d7cc1684237eca5fff49215b80e" title="foedus::snapshot::LogBuffer\l::resolve" alt="" coords="227,71,409,112"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1snapshot.html#a499edf9829f41f833e2057346e8bbf3a" title="foedus::snapshot::from\l_buffer_position" alt="" coords="457,71,612,112"/>
+</map>

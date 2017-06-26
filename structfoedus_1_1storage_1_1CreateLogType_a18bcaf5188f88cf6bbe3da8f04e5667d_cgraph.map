@@ -1,0 +1,12 @@
+<map id="foedus::storage::CreateLogType::apply_storage" name="foedus::storage::CreateLogType::apply_storage">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManager.html#a56a4b11c4be6504525318438852620ec" title="This is called while restart to apply CREATE STORAGE logs. " alt="" coords="232,136,436,177"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Engine.html#ac27d3734638fe8d18fbdc9b4ee4666b2" title="See Storage Manager. " alt="" coords="267,201,401,243"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad60396a45220b4b150b3f72fcff5a92a" title="foedus::storage::Storage\lManagerPimpl::create_storage_apply" alt="" coords="484,136,721,177"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="769,5,961,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3eb62d9aa6161550ff86b83ae09e892f" title="foedus::storage::Storage\lManagerPimpl::exists" alt="" coords="783,71,947,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#aea8861d6bf6c13c0df6d0c9777cdaa99" title="foedus::storage::Storage\lManagerPimpl::get_storage" alt="" coords="775,136,956,177"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1StorageControlBlock.html#a90f70806c6b51d60cf9ada38017f914d" title="foedus::storage::Storage\lControlBlock::initialize" alt="" coords="783,201,947,243"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="800,267,931,308"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="1009,201,1184,243"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="1232,201,1407,243"/>
+</map>

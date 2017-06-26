@@ -1,0 +1,8 @@
+<map id="foedus::savepoint::Savepoint::assert_epoch_values" name="foedus::savepoint::Savepoint::assert_epoch_values">
+<area shape="rect" id="node2" href="$structfoedus_1_1savepoint_1_1Savepoint.html#a1517f86868ed1f2f451c0a5af0fa7a1f" title="Tells if the variables are consistent. " alt="" coords="233,5,380,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1savepoint_1_1Savepoint.html#a68fb65d5f8613cac05fbb61b5936855e" title="Reads the content of this object from the given XML element. " alt="" coords="241,71,372,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1savepoint_1_1Savepoint.html#a975ddac952633742aef4641c568f040a" title="Populate variables as an initial state. " alt="" coords="217,136,396,177"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1savepoint_1_1Savepoint.html#ab3c3b337420c1d82721aeea1f2a705e5" title="Writes the content of this object to the given XML element. " alt="" coords="241,201,372,243"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="226,267,387,323"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="444,129,605,185"/>
+</map>

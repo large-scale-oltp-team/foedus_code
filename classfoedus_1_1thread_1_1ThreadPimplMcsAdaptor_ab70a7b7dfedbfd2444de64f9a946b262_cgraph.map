@@ -1,0 +1,13 @@
+<map id="foedus::thread::ThreadPimplMcsAdaptor::dereference_rw_tail_block" name="foedus::thread::ThreadPimplMcsAdaptor::dereference_rw_tail_block">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a3fec4f48fa468bf3c18986943938a47c" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_rw_other_block" alt="" coords="237,136,449,177"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1xct_1_1McsRwLock.html#a3d8cf73848daf77b739df642dbc6205e" title="foedus::xct::McsRwLock\l::get_tail_waiter" alt="" coords="261,201,426,243"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1xct_1_1McsRwLock.html#acffec9f94307c8b3473e1d21c3999e14" title="foedus::xct::McsRwLock\l::get_tail_waiter_block" alt="" coords="261,267,426,308"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#af52661009b044c7a6553234720d71923" title="foedus::thread::ThreadPimpl\l::get_thread_ref" alt="" coords="497,71,681,112"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1thread_1_1ThreadRef.html#aef24583ba3b89316f31f6f07cef3d5c8" title="foedus::thread::ThreadRef\l::get_mcs_rw_blocks" alt="" coords="504,136,675,177"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1thread_1_1ThreadRef.html#a989d82d0632117ab23c4fd1ad041ff3f" title="foedus::thread::ThreadRef\l::get_control_block" alt="" coords="504,201,675,243"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPool.html#a4af4c3d3fd7a9353d892e5270a900f1c" title="Returns the pimpl of this object. " alt="" coords="729,5,907,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a4243a3e399186727d6bbdda5bc98f8cd" title="See Thread and Thread&#45;Group. " alt="" coords="751,71,885,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a61040189c343e97c3f0ee961df7a9f31" title="For better performance, but for some reason this method causes an issue in MCS lock. " alt="" coords="729,136,907,177"/>
+<area shape="rect" id="node7" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="955,103,1133,144"/>
+<area shape="rect" id="node8" href="$group__THREAD.html#ga93083d6b052db01851cb61c120522c1d" title="Extracts local ordinal from the given globally unique ID of Thread (core). " alt="" coords="955,168,1133,209"/>
+</map>

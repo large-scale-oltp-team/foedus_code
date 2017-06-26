@@ -1,0 +1,7 @@
+<map id="foedus::thread::Thread::get_lock_rnd" name="foedus::thread::Thread::get_lock_rnd">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#aba859c4eb829f83fa767720d5b745646" title="foedus::xct::RwLockableXct\lId::hotter" alt="" coords="204,39,387,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="435,39,629,80"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="693,5,856,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="677,71,872,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="920,71,1083,112"/>
+</map>

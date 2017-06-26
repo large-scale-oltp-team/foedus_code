@@ -1,0 +1,4 @@
+<map id="foedus::savepoint::SavepointManagerPimpl::get_logger_savepoint" name="foedus::savepoint::SavepointManagerPimpl::get_logger_savepoint">
+<area shape="rect" id="node2" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#a0c653ce7e0952e675e79c128a7b8812e" title="Returns the saved information of the given logger in latest savepoint. " alt="" coords="215,5,369,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1Logger.html#a3b1d647f1458d1172a511b7e57a2a237" title="foedus::log::Logger\l::initialize_once" alt="" coords="417,13,549,54"/>
+</map>

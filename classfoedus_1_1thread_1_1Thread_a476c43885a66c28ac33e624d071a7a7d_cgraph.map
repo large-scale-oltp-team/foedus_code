@@ -1,0 +1,15 @@
+<map id="foedus::thread::Thread::cll_try_or_acquire_multiple_locks" name="foedus::thread::Thread::cll_try_or_acquire_multiple_locks">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#ae594169d3ecc7b0d4d356d1ed6dfa8b2" title="foedus::thread::ThreadPimpl\l::cll_try_or_acquire_multiple_locks" alt="" coords="276,100,499,141"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1Xct.html#afc0b909c82e905105f4f9701082a16b8" title="foedus::xct::Xct::get\l_current_lock_list" alt="" coords="589,35,727,76"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a33a1b8b428cd84029b8b377867197ea4" title="foedus::thread::ThreadPimpl\l::is_simple_mcs_rw" alt="" coords="566,100,750,141"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ad7029aa2b4a2d3ec394aa0a0b378b088" title="Acquire multiple locks up to the given position in canonical order. " alt="" coords="547,165,769,207"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aa8023ecc3dc58816a010a3415ebfc1dd" title="Methods below take or release locks, so they receive MCS_RW_IMPL, a template param. " alt="" coords="817,165,1023,207"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ab360f7fc3d8c0880b394084d45e492e9" title="foedus::xct::CurrentLock\lList::get_entry" alt="" coords="1087,5,1251,47"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1LockEntry.html#a57dc541a4a80230e2fc0b45aeb6b879a" title="foedus::xct::LockEntry\l::is_enough" alt="" coords="1092,71,1245,112"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#afe5afad486230afbf7d1b21875a90f13" title="foedus::xct::RwLockableXct\lId::get_key_lock" alt="" coords="1077,136,1260,177"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a03e818494c4d716f9fc996081f6c419f" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="1575,217,1751,273"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aed99dee60f9529d5cfabb5e1742038da" title="foedus::xct::CurrentLock\lList::assert_last_locked_entry" alt="" coords="1071,253,1267,295"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1xct_1_1LockEntry.html#a3aa9be8584009d4fa0d1bea4ab563167" title="foedus::xct::LockEntry\l::is_locked" alt="" coords="1092,319,1245,360"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a78b6d1612fda232b7e8c52dd3f6c2504" title="foedus::xct::CurrentLock\lList::is_valid_entry" alt="" coords="1339,5,1503,47"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a1a668d5dd1b711abed1a9962a8cb4ec1" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="1315,253,1527,295"/>
+</map>

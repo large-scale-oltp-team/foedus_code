@@ -1,0 +1,4 @@
+<map id="foedus::thread::ThreadPoolPimpl::impersonate" name="foedus::thread::ThreadPoolPimpl::impersonate">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPool.html#a34531989c3885ab6e0cccc19bf53d87c" title="Impersonate as one of pre&#45;allocated threads in this engine, executing the procedure on the impersonat..." alt="" coords="231,5,408,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPool.html#abc0bb4530f9e58c38b0e3ce0e1058be4" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="456,5,639,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="foedus::log::LogManager::get_durable_global_epoch_weak" name="foedus::log::LogManager::get_durable_global_epoch_weak">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="271,5,479,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="527,5,721,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="769,5,964,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1012,5,1175,47"/>
+</map>

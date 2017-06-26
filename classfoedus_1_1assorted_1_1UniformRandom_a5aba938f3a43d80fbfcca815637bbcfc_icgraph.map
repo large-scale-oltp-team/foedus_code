@@ -1,0 +1,19 @@
+<map id="foedus::assorted::UniformRandom::next_uint32" name="foedus::assorted::UniformRandom::next_uint32">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage_1_1masstree.html#aed9170c9da66086329b6b675be8b4126" title="foedus::storage::masstree\l::design_partition_first\l_parallel_recurse" alt="" coords="237,5,410,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a7946f96bb3af529d8dabb81b677e3547" title="Fill up the give memory with random data. " alt="" coords="238,86,409,127"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a168e04a3f3aa5c426c6f7980b9f358a7" title="foedus::assorted::ProbCounter\l::increment" alt="" coords="224,151,423,193"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a983054e53a14d3a78571a248ab5d2d98" title="foedus::assorted::Uniform\lRandom::next_uint64" alt="" coords="238,217,409,258"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a32e5a3ae116a7852b63511d3ca2d89f4" title="In TPCC terminology, from=x, to=y. " alt="" coords="238,282,409,323"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1assorted_1_1SpinlockStat.html#ada983d4699b63992edd5dc4439d25a3e" title="foedus::assorted::Spinlock\lStat::yield_backoff" alt="" coords="235,347,411,389"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage_1_1masstree.html#a51b8fa58d4a0c9481b69bcfb5c5a3493" title="foedus::storage::masstree\l::design_partition_first\l_parallel" alt="" coords="487,5,661,61"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#aba859c4eb829f83fa767720d5b745646" title="foedus::xct::RwLockableXct\lId::hotter" alt="" coords="483,151,665,193"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="725,151,920,193"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="984,118,1147,159"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="968,183,1163,225"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1211,183,1373,225"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1assorted_1_1UniformRandom.html#abb5fd7daac18666d69d3da5d603e6531" title="Same as uniform_within() except it avoids the &quot;except&quot; value. " alt="" coords="471,217,677,258"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a354e1d87a99868670fcd977d0d02a68b" title="Non&#45;Uniform random (NURand) in TPCC spec (see Sec 2.1.6). " alt="" coords="480,282,668,323"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1assorted_1_1ZipfianRandom.html#a3e3b7058650846c167ed6317951e7e7a" title="foedus::assorted::Zipfian\lRandom::next" alt="" coords="493,347,655,389"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html#a3066f35f9409c63cea94515dd722c823" title="Subroutine to decide how we will split this page. " alt="" coords="477,413,671,454"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html#ab940fc48706197ec728542a3b4438fc7" title="Border node&#39;s Split. " alt="" coords="736,413,909,454"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::xct::McsRwExtendedBlock::mark_released" name="foedus::xct::McsRwExtendedBlock::mark_released">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#af24c9d681d27ab8dfee8ea278d1fd724" title="foedus::xct::McsRwExtended\lBlock::next_flag_is_granted" alt="" coords="245,5,437,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a563136a669b13bec8ecbbbcf5efd2315" title="foedus::xct::McsRwExtended\lBlock::pred_flag_is_granted" alt="" coords="245,71,437,112"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#aa14e9bea225a04bdcf546ee9fffcab21" title="foedus::xct::McsRwExtended\lBlock::set_next" alt="" coords="245,136,437,177"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a8e1d054f793466ce04b1fee36551050b" title="foedus::xct::McsRwExtended\lBlock::read_next_flags" alt="" coords="485,5,677,47"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a2dfd1adaadb80aaac9bf600f1e25210f" title="foedus::xct::McsRwExtended\lBlock::read_pred_flags" alt="" coords="485,71,677,112"/>
+</map>

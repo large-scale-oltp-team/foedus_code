@@ -1,0 +1,11 @@
+<map id="foedus::storage::StorageManager::get_engine" name="foedus::storage::StorageManager::get_engine">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManager.html#a9573ae6d54aedff970e7c096b7a90900" title="Returns the array storage of given ID. " alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManager.html#a10cecea711823b0c7dfee9f6d2889be1" title="Returns the hash storage of given ID. " alt="" coords="217,71,381,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1StorageManager.html#a90e8875a205c63c97c7a4bccb924cb5c" title="Returns the masstree storage of given ID. " alt="" coords="217,136,381,177"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1StorageManager.html#a5cee05ba10191205d4c7bcff6b309bea" title="Returns the sequential storage of given ID. " alt="" coords="217,209,381,251"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManager.html#a3f35f6d6932634ef2c5ab1a33f234773" title="Just a type&#45;wrapper of create_storage() for array storages. " alt="" coords="439,5,603,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1StorageManager.html#a67d343e4f3b79b44916eb8ba7ccfe5d9" title="Just a type&#45;wrapper of create_storage() for hash storages. " alt="" coords="439,71,603,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1StorageManager.html#aed128c33a23f9421b9098247d63c1d23" title="Just a type&#45;wrapper of create_storage() for masstree storages. " alt="" coords="432,136,609,177"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialAppendLogType.html#a18cd427115cf86d01382cd0c7e4df417" title="foedus::storage::sequential\l::SequentialAppendLogType\l::apply_record" alt="" coords="429,202,612,258"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1StorageManager.html#a717f0b1360023ff339c4732259b8aecd" title="Just a type&#45;wrapper of create_storage() for sequential storages. " alt="" coords="429,283,612,324"/>
+</map>

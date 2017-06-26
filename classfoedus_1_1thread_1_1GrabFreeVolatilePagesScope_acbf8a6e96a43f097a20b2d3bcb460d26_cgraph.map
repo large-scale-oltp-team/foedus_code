@@ -1,0 +1,6 @@
+<map id="foedus::thread::GrabFreeVolatilePagesScope::release" name="foedus::thread::GrabFreeVolatilePagesScope::release">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a4e553f5e14ec00d8ba23fbdfa26d687e" title="Returns the private memory repository of this thread. " alt="" coords="280,5,431,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a6c9bf7d6b21ac33a61d6f7176023ea3a" title="Returns one free volatile page to local page pool. " alt="" coords="241,71,469,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ace44cb03e7da84d29f3a02a790c69191" title="foedus::memory::PagePool\lOffsetChunk::full" alt="" coords="744,71,923,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a6f558bb023b2c5c7dd9bf7ab9d054ef0" title="foedus::memory::PagePool\lOffsetChunk::push_back" alt="" coords="517,100,696,141"/>
+</map>

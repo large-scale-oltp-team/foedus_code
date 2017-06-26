@@ -1,0 +1,4 @@
+<map id="foedus::log::MetaLogControlBlock" name="foedus::log::MetaLogControlBlock">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="207,5,381,32"/>
+</map>

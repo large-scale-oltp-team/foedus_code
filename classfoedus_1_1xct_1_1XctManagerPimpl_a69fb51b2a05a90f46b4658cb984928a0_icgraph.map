@@ -1,0 +1,3 @@
+<map id="foedus::xct::XctManagerPimpl::wait_for_commit" name="foedus::xct::XctManagerPimpl::wait_for_commit">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#a577f44c6f10022d645605d171ef4a781" title="Synchronously blocks until the durable global epoch reaches the given commit epoch or the given durat..." alt="" coords="248,5,411,47"/>
+</map>

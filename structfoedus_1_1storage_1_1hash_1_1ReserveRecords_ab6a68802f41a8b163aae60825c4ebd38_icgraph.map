@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::ReserveRecords::find_and_lock_spacious_tail" name="foedus::storage::hash::ReserveRecords::find_and_lock_spacious_tail">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html#a846dcb3f3938a2b266756e2d95c0df76" title="foedus::storage::hash\l::ReserveRecords::expand\l_record" alt="" coords="217,5,392,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html#ad189e0523907caacae334102d9383b15" title="The main loop (well, recursion actually). " alt="" coords="440,5,592,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html#a7e1a17602380cbf9c736d93591a84f5e" title="Execute the system transaction. " alt="" coords="640,13,791,54"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="foedus::xct::XctManagerPimpl::handle_epoch_chime" name="foedus::xct::XctManagerPimpl::handle_epoch_chime">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="257,5,434,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="495,188,690,229"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#aa27f031bd1e256d38e616ec9a499eefc" title="See Log Manager. " alt="" coords="278,600,413,641"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="278,665,413,707"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a6071efec3ffc3876192101db2a1873b4" title="foedus::xct::XctManagerPimpl\l::get_requested_global_epoch" alt="" coords="248,731,443,772"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a881d783a084b1225debd5408a9248a51" title="Makes sure all worker threads will commit with an epoch larger than grace_epoch. " alt="" coords="248,469,443,525"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="768,253,895,295"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Epoch.html#a786afd92afdc87b54dfa11ef093f06f3" title="foedus::Epoch::one_more" alt="" coords="507,319,678,346"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a715645715c1fbc080f9fc77c99b12bac" title="foedus::xct::XctManagerPimpl\l::is_stop_requested" alt="" coords="495,253,690,295"/>
+<area shape="rect" id="node18" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="745,771,918,812"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="259,796,431,837"/>
+<area shape="rect" id="node25" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="259,861,432,903"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1Epoch.html#a701de077839df51ebe44749a116ec10f" title="foedus::Epoch::one_less" alt="" coords="263,927,428,954"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="257,71,434,112"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="257,979,434,1020"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="274,1045,417,1071"/>
+<area shape="rect" id="node32" href="$classfoedus_1_1log_1_1LogManager.html#a5c844c3bc8d71ce709999fd286a5e7b8" title="Wake up loggers if they are sleeping. " alt="" coords="263,1096,427,1137"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="506,9,679,51"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Engine.html#a4243a3e399186727d6bbdda5bc98f8cd" title="See Thread and Thread&#45;Group. " alt="" coords="525,421,660,463"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1Engine.html#af0ac9dbae9481b295a8492c6d9f6c1d5" title="Shorthand for get_options().thread_.group_count_. " alt="" coords="525,487,660,528"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1thread_1_1ThreadPool.html#a990314c9e1ee9ec3a04c73a683e1066c" title="foedus::thread::ThreadPool\l::get_group_ref" alt="" coords="504,552,681,593"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1thread_1_1ThreadGroupRef.html#a5b15c98366cf1839fe6621f445853fa1" title="Returns the oldest in&#45;commit epoch of the threads in this group. " alt="" coords="491,669,695,711"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="968,669,1123,695"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="525,787,660,828"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="751,836,912,877"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1debugging_1_1StopWatch.html#ac8a42ba406ab38b098e27a19e6803638" title="foedus::debugging::\lStopWatch::elapsed_ms" alt="" coords="510,852,675,893"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a30a6a44047fc684ddf453d6ce6450783" title="foedus::thread::ThreadPool\lPimpl::get_group" alt="" coords="743,552,920,593"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1Epoch.html#ae113d98c40171e4b80526cd7f7502c03" title="Kind of std::min(this, other). " alt="" coords="746,669,917,695"/>
+<area shape="rect" id="node22" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="764,901,899,943"/>
+<area shape="rect" id="node28" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="497,78,688,105"/>
+<area shape="rect" id="node30" href="$namespacefoedus_1_1soc.html#a875ded688a72b32f8f690f37750e609f" title="foedus::soc::get_now\l_microsec" alt="" coords="520,979,665,1020"/>
+<area shape="rect" id="node33" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#ae0a0fc275f36ad22a57786bc7d17413e" title="foedus::log::LogManagerPimpl\l::wakeup_loggers" alt="" coords="494,1096,691,1137"/>
+</map>

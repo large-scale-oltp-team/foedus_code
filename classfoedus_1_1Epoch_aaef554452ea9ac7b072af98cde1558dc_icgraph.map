@@ -1,0 +1,16 @@
+<map id="foedus::Epoch::before" name="foedus::Epoch::before">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#ac151128ff0040de166018da6133f8d85" title="Returns if this XctId is before other in serialization order, meaning this is either an invalid (unus..." alt="" coords="224,161,347,203"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1Xct.html#a208310505c3d16cf2dc10f94f968d4a4" title="Called while a successful commit of xct to issue a new xct id. " alt="" coords="674,129,825,171"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1Epoch.html#a5716815157dd298ffb6175e05f1c0e8e" title="foedus::Epoch::operator\&lt;" alt="" coords="201,239,369,266"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1Epoch.html#aa873047454ec607c4a530c98ada0c6ac" title="foedus::Epoch::operator\&gt;" alt="" coords="201,315,369,342"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1Xct.html#a054cf2fca2ce0e5047c817ed10ae1a80" title="foedus::xct::Xct::remember\l_previous_xct_id" alt="" coords="417,155,596,196"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad91daff37c2b78b8c6620d67869e9d7f" title="Phase 3 of precommit_xct() " alt="" coords="903,129,1097,171"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1XctId.html#a2878cd14b103f72c8bce5a330e03e2b2" title="Kind of std::max(this, other). " alt="" coords="445,37,568,79"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="1145,64,1340,105"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="1388,64,1583,105"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1631,64,1793,105"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="903,5,1097,47"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9534e63f498a012d9fa401a10e2b4e0b" title="Phase 2 of precommit_xct() for read&#45;write case. " alt="" coords="644,64,855,105"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1Epoch.html#a8a059c0d613cd326d376aae5360682a7" title="foedus::Epoch::operator\&gt;=" alt="" coords="419,271,595,298"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1Epoch.html#a2ad15b7c6482069b35e28a32aad23376" title="foedus::Epoch::operator\&lt;=" alt="" coords="419,322,595,349"/>
+</map>

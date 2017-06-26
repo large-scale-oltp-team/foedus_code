@@ -1,0 +1,12 @@
+<map id="foedus::FixedErrorStack::output" name="foedus::FixedErrorStack::output">
+<area shape="rect" id="node2" href="$classfoedus_1_1FixedErrorStack.html#a24e01e0f89b47b93d3d0a547ee8f1017" title="Returns the custom error message. " alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$group__ERRORCODES.html#gaa2ded6dcdd1da8d29d893eeb014a78e9" title="Returns the names of ErrorCode enum defined in error_code.xmacro. " alt="" coords="218,71,377,98"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1FixedErrorStack.html#a77e87960b6fa0c79b0b88d52197041e5" title="Returns the file name of the given stack position. " alt="" coords="216,123,379,164"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1FixedErrorStack.html#ac3e802ea3b5a27d120a1b815216d4a53" title="Returns the function name of the given stack position. " alt="" coords="216,188,379,229"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1FixedErrorStack.html#a7781080b8033dbe9afa7de813e39aa7c" title="Returns the line number of the given stack position. " alt="" coords="216,253,379,295"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1FixedErrorStack.html#adce404a955c1598c740094be0ae796e1" title="Returns the error message inferred by the error code. " alt="" coords="216,319,379,360"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1FixedErrorStack.html#a66b70d71bc70fc6d94c7d8cb6759437d" title="Returns the depth of stack this error code has collected. " alt="" coords="216,384,379,425"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1FixedErrorStack.html#a473b0d84aaa49e9e27d630ded372c641" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="216,449,379,491"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="227,515,367,556"/>
+<area shape="rect" id="node8" href="$group__ERRORCODES.html#gaefc0aeec33bc4adc2f147fd1828b816e" title="Returns the error messages corresponding to ErrorCode enum defined in error_code.xmacro. " alt="" coords="427,326,605,353"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="foedus::soc::SharedMemoryRepo::mark_for_release" name="foedus::soc::SharedMemoryRepo::mark_for_release">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1SharedMemory.html#a06fa097c286b762b8ae484076592bf0d" title="Marks the shared memory as being removed so that it will be reclaimed when all processes detach it..." alt="" coords="239,5,449,47"/>
+</map>

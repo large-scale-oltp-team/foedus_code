@@ -1,0 +1,9 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::find_key_normalized" name="foedus::storage::masstree::MasstreeBorderPage::find_key_normalized">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a4dc67e57eb2c90ffced75953dcef70fa" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_remainder_length" alt="" coords="250,5,429,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a42cee2c2a116efdd26420284e95a20f7" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slice" alt="" coords="233,86,445,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a874518901eb38e4dc3b7b69afb69e5c0" title="foedus::storage::masstree\l::MasstreeBorderPage::prefetch\l_additional_if_needed" alt="" coords="236,152,443,208"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8b7973f3eb0f4f3c6894c278c18d7145" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slot" alt="" coords="493,13,700,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="748,13,955,54"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#ga14adcd2a780f37023df88933f17a5a83" title="Prefetch multiple contiguous cachelines to L1 cache. " alt="" coords="511,159,683,201"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="765,159,937,201"/>
+</map>

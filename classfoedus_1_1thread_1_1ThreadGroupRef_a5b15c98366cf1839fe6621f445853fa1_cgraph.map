@@ -1,0 +1,5 @@
+<map id="foedus::thread::ThreadGroupRef::get_min_in_commit_epoch" name="foedus::thread::ThreadGroupRef::get_min_in_commit_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="479,32,633,59"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="257,25,431,66"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html#ae113d98c40171e4b80526cd7f7502c03" title="Kind of std::min(this, other). " alt="" coords="259,91,429,118"/>
+</map>

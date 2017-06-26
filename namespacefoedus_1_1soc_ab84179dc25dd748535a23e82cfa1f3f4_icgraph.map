@@ -1,0 +1,7 @@
+<map id="foedus::soc::ugly_atomic_dec" name="foedus::soc::ugly_atomic_dec">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedCond.html#a58ecf444b8c8d8fa1f5c54b8c2e9f0bd" title="Unblock all waiters. " alt="" coords="248,5,416,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedCond.html#aa145ec243e2741932835bf7a28934cb0" title="Unblock all waiters without a mutex held by the signaller. " alt="" coords="248,71,416,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedCond.html#a162423ed18fcb6fb1bf7439ef134eceb" title="Unblock one waiter. " alt="" coords="248,136,416,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedCond.html#a314f54ce5c5c37c5dee707f40cfac111" title="Wait for the event up to the given timeout. " alt="" coords="248,201,416,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedCond.html#a4e86d1f4412b765405fe705d082fdd5a" title="Unconditionally wait for the event. " alt="" coords="248,267,416,308"/>
+</map>

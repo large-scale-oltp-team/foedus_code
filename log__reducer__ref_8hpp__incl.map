@@ -1,0 +1,17 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/log_reducer_ref.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/log_reducer_ref.hpp">
+<area shape="rect" id="node6" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="1005,310,1129,337"/>
+<area shape="rect" id="node7" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="1783,131,1891,158"/>
+<area shape="rect" id="node8" href="$snapshot_2fwd_8hpp.html" title="Forward declarations of classes in snapshot manager package. " alt="" coords="1915,131,2081,158"/>
+<area shape="rect" id="node9" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="2105,131,2259,158"/>
+<area shape="rect" id="node10" href="$storage__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="971,124,1126,165"/>
+<area shape="rect" id="node11" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="1439,392,1586,419"/>
+<area shape="rect" id="node13" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="1251,213,1419,255"/>
+<area shape="rect" id="node17" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="809,213,955,255"/>
+<area shape="rect" id="node21" href="$raw__atomics_8hpp.html" title="Raw atomic operations that work for both C++11 and non&#45;C++11 code. " alt="" coords="542,213,681,255"/>
+<area shape="rect" id="node22" href="$memory__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="149,213,311,255"/>
+<area shape="rect" id="node29" href="$thread__id_8hpp.html" title="Typedefs of ID types used in thread package. " alt="" coords="979,213,1119,255"/>
+<area shape="rect" id="node15" href="$uniform__random_8hpp.html" title="foedus/assorted/uniform\l_random.hpp" alt="" coords="1255,303,1415,344"/>
+<area shape="rect" id="node16" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="1256,392,1415,419"/>
+<area shape="rect" id="node23" href="$numa_8h.html" title="numa.h" alt="" coords="148,392,213,419"/>
+<area shape="rect" id="node28" href="$mod__numa__node_8hpp.html" title="foedus/assorted/mod\l_numa_node.hpp" alt="" coords="55,303,197,344"/>
+</map>

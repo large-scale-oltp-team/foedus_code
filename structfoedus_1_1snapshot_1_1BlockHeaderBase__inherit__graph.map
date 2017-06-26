@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::BlockHeaderBase" name="foedus::snapshot::BlockHeaderBase">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1FillerBlockHeader.html" title="A header for a dummy storage block that fills the gap between the end of previous storage block and t..." alt="" coords="5,80,163,121"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1FullBlockHeader.html" title="All blocks that have content start with this header. " alt="" coords="187,80,370,121"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::cache::SnapshotFileSet::read_pages" name="foedus::cache::SnapshotFileSet::read_pages">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsBuffer.html#a5fe3533ff092920e41ddc56ebcd4165c" title="Read pages to buffer_. " alt="" coords="257,5,407,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a4c828d75840906244fd52c44a793232d" title="Read contiguous pages in one shot. " alt="" coords="240,86,424,127"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsBuffer.html#a87975eab41db6a99b88424bd2d6dbb90" title="Moves on to next bin. " alt="" coords="475,5,626,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#ac3a65cebf835d18357a69bd523a3bc9d" title="Consumes inputs for the cur_path_[0] page and install snapshot pointers there. " alt="" coords="677,5,880,61"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1Thread.html#a1455488538dd235b4de2730693bfd718" title="Read contiguous pages in one shot. " alt="" coords="472,86,629,127"/>
+</map>

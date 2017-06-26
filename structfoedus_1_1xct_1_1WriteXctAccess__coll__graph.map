@@ -1,0 +1,10 @@
+<map id="foedus::xct::WriteXctAccess" name="foedus::xct::WriteXctAccess">
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1ReadXctAccess.html" title="Represents a record of read&#45;access during a transaction. " alt="" coords="188,452,375,479"/>
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1RecordXctAccess.html" title="Base of ReadXctAccess and WriteXctAccess. " alt="" coords="41,273,239,300"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1RwLockableXctId.html" title="The MCS reader&#45;writer lock variant of LockableXctId. " alt="" coords="44,184,236,211"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwLock.html" title="An MCS reader&#45;writer lock data structure. " alt="" coords="5,95,171,121"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="305,5,428,32"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1log_1_1LogHeader.html" title="A common header part for all log types. " alt="" coords="289,95,444,121"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1log_1_1RecordLogType.html" title="Base class for log type of record&#45;wise operation. " alt="" coords="263,273,446,300"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="275,184,445,211"/>
+</map>

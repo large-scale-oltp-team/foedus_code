@@ -1,0 +1,6 @@
+<map id="foedus::snapshot::LogReducerControlBlock::get_buffer_status_atomic" name="foedus::snapshot::LogReducerControlBlock::get_buffer_status_atomic">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a4ea0f6f073f92ff447cc34429adafbda" title="Append the log entries of one storage in the given buffer to this reducer&#39;s buffer. " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#a6612d60371c0574a953a66da6b929471" title="foedus::snapshot::LogReducer\lControlBlock::get_current\l_buffer_status" alt="" coords="252,71,451,127"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#adfcf739cfe0fac8aa7c5eca80c8f684b" title="foedus::snapshot::LogReducer\lControlBlock::get_non_current\l_buffer_status" alt="" coords="252,151,451,207"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1LogReducer.html#a09b348c18e707b626d9873a7a69fbfc7" title="Implements the specific logics in derived class. " alt="" coords="499,119,697,160"/>
+</map>

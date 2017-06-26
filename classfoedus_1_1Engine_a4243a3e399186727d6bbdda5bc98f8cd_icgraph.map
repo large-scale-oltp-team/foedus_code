@@ -1,0 +1,17 @@
+<map id="foedus::Engine::get_thread_pool" name="foedus::Engine::get_thread_pool">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#af52661009b044c7a6553234720d71923" title="foedus::thread::ThreadPimpl\l::get_thread_ref" alt="" coords="201,164,385,205"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a881d783a084b1225debd5408a9248a51" title="Makes sure all worker threads will commit with an epoch larger than grace_epoch. " alt="" coords="195,286,390,342"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad89ca2bb2619e01c3b13d65302a3d7c9" title="foedus::storage::Storage\lManagerPimpl::initialize_once" alt="" coords="195,367,390,408"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a8b2cfe458668cc3f8cf4ccbfeab179dc" title="foedus::log::LogManagerPimpl\l::initialize_once" alt="" coords="194,432,391,473"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1log_1_1Logger.html#a3b1d647f1458d1172a511b7e57a2a237" title="foedus::log::Logger\l::initialize_once" alt="" coords="227,497,359,539"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ae4eaa4425c8c9aa4bfbbbf56303748e5" title="foedus::storage::Storage\lManagerPimpl::uninitialize_once" alt="" coords="188,563,397,604"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a9458809a7d4367f362b8775dbd5a18cf" title="foedus::log::LogManagerPimpl\l::uninitialize_once" alt="" coords="194,628,391,669"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a3e8a52b170df473aaaf3efad96b5f6b3" title="foedus::thread::ThreadPimpl\lMcsAdaptor::other_waiting" alt="" coords="462,5,646,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a3e123fc4b38a06c77a0f8f12234eb5e0" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_other_cur_block" alt="" coords="445,71,663,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a6b6b5272a4f797f30df41bd32ad13ad6" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_ww_other_block" alt="" coords="445,136,663,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a3fec4f48fa468bf3c18986943938a47c" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_rw_other_block" alt="" coords="448,201,660,243"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a99408b01841c4cd34977a90b71e04dfa" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_rw_other\l_async_block" alt="" coords="716,249,900,305"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#ab70a7b7dfedbfd2444de64f9a946b262" title="foedus::thread::ThreadPimpl\lMcsAdaptor::dereference\l_rw_tail_block" alt="" coords="716,169,900,225"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ac95c3e56168f87c3550f908720035d60" title="Main routine for epoch_chime_thread_. " alt="" coords="457,323,651,364"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#aefb36bf03b0bd29c160f5aa36b219d45" title="foedus::xct::XctManagerPimpl\l::initialize_once" alt="" coords="711,329,905,371"/>
+</map>

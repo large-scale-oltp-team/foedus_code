@@ -1,0 +1,10 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::get_name" name="foedus::storage::masstree::MasstreeStoragePimpl::get_name">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a192a4976aa71f457b356bf536d9f5fc2" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::create" alt="" coords="237,5,411,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a67ab7c42dbfd788773d6293ffdb64d52" title="Storage&#45;wide operations, such as drop, create, etc. " alt="" coords="227,86,421,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#ac3b15bb4f888327ba49050f62d020f52" title="Defined in masstree_storage_fatify.cpp. " alt="" coords="237,152,411,208"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a99bb085d9e427fc36182b13bb20371e9" title="defined in masstree_storage_prefetch.cpp " alt="" coords="230,232,418,288"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a92ad35031262ae95e767c53746de2e29" title="foedus::storage::masstree\l::MasstreeStorage::create" alt="" coords="474,13,647,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a40e22349aa6902839d3b80ac35e84790" title="foedus::storage::masstree\l::MasstreeStorage::drop" alt="" coords="474,86,647,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a70b1c5e023fa0aac150e7b607e37727c" title="Deliberately causes splits under the volatile root of first layer, or &quot;fatify&quot; it. " alt="" coords="474,152,647,208"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a10db264b9d354e1813bd20ef8fdb72bb" title="Prefetch data pages in this storage. " alt="" coords="469,232,652,288"/>
+</map>

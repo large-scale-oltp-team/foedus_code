@@ -1,0 +1,10 @@
+<map id="foedus::memory::operator&lt;&lt;" name="foedus::memory::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1SharedMemory.html#a085dfb81511ba8e4c0563b5a72967113" title="Returns the memory block. " alt="" coords="240,5,451,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1SharedMemory.html#ac24326b29b0401f44562037b832b3b50" title="Returns the path of the meta file. " alt="" coords="240,71,451,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1SharedMemory.html#a130260a4506071e814d2c2a531d82913" title="Where the physical memory is allocated. " alt="" coords="240,136,451,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1SharedMemory.html#a36936f0f3e6544b85ac6c96639ea78f6" title="If non&#45;zero, it means the ID of the process that allocated the shared memory. " alt="" coords="240,201,451,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1SharedMemory.html#aaec93b4eba6a84195c7a8310bf6acaf4" title="Returns the ID of this shared memory. " alt="" coords="240,267,451,308"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1SharedMemory.html#abb4a83545d0c98d5def2b8763d3757cd" title="Returns the key of this shared memory. " alt="" coords="240,332,451,373"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1SharedMemory.html#aab37b24a74d0fd12e840ea3bf4940201" title="Returns the byte size of the memory block. " alt="" coords="240,397,451,439"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1SharedMemory.html#a83f0c9b29ecfc29550923dd33bc031e7" title="Returns if this process owns this memory and is responsible to delete it. " alt="" coords="240,463,451,504"/>
+</map>

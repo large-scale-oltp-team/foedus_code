@@ -1,0 +1,13 @@
+<map id="foedus::snapshot::LogGleanerRef::get_cur_snapshot" name="foedus::snapshot::LogGleanerRef::get_cur_snapshot">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#a93148c754cfdf2f0beaa1d98b00eb985" title="foedus::snapshot::LogGleaner\lRef::get_base_epoch" alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#a429b6bdd5e14d8ce0ad71aaf44d25f93" title="foedus::snapshot::LogGleaner\lRef::get_snapshot_id" alt="" coords="248,136,443,177"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#a6e1882e28b982377e1fc0968c62e1395" title="foedus::snapshot::LogGleaner\lRef::get_valid_until_epoch" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1LogMapper.html#a661014d4832400f072544ff4b7e74a45" title="Implements the specific logics in derived class. " alt="" coords="491,39,685,80"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1LogGleaner.html#a617c3de45c34c6533c7f3e82216557f4" title="Main routine of log gleaner. " alt="" coords="491,136,685,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a75c5d41290ab6f960725a004622dc3be" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="733,136,917,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="965,129,1176,185"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1252,103,1407,144"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="1224,168,1435,209"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1483,103,1677,144"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1483,168,1677,209"/>
+</map>

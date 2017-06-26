@@ -1,0 +1,20 @@
+<map id="foedus::xct::McsWwImpl::release" name="foedus::xct::McsWwImpl::release">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1xct.html#abc92f6bf35f5db4360f8596b09f778f8" title="foedus::xct::assert\l_mcs_aligned" alt="" coords="254,5,385,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwBlock.html#a23c86b1f40afff35086201b0e1c7e091" title="Carefully use this! In some places you must call copy_once() then call this on the copy..." alt="" coords="232,71,407,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwLock.html#a7d38b992d2324394011b44322f3961e1" title="This is a &quot;relaxed&quot; check. " alt="" coords="235,152,404,193"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwBlock.html#ab13f4e6a83ccfa940a29cfc2679917bc" title="foedus::xct::McsWwBlock\l::has_successor_acquire" alt="" coords="232,217,407,259"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#ae1dc97f03080589ed7ad1cabbdf07ae3" title="foedus::xct::McsWwBlockData\l::is_guest_relaxed" alt="" coords="219,283,420,324"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="235,348,404,389"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="468,369,669,411"/>
+<area shape="rect" id="node13" href="$namespacefoedus_1_1xct.html#ad815773827f1856f8fd25a9d4b41d490" title="foedus::xct::spin_until" alt="" coords="245,465,394,491"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3d5ca0f6b8e220f611eabfa5418640fa" title="Carefully use this! In some places you must call get_word_once() then call this on the copy..." alt="" coords="468,116,669,157"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#ae6932458ac7fb8835390cd6c5fb70df9" title="foedus::xct::McsWwBlockData\l::decompose_thread_id" alt="" coords="717,116,919,157"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aea0b4528e5f566b470134d7774232138" title="foedus::xct::McsWwBlockData\l::is_valid_acquire" alt="" coords="468,217,669,259"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#ab9d405536ed7fa9ea2b3f71ea9e21d8f" title="foedus::xct::McsWwBlockData\l::get_word_acquire" alt="" coords="717,217,919,259"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1assorted.html#aba5893ad8aab7d6aafff7be7f92e1372" title="Spin locally until the given condition returns true. " alt="" coords="493,457,644,499"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="967,428,1113,469"/>
+<area shape="rect" id="node16" href="$namespacefoedus_1_1assorted.html#aea055a054d205c76d8f221de4f6aa058" title="foedus::assorted::is\l_running_on_valgrind" alt="" coords="747,424,889,465"/>
+<area shape="rect" id="node17" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="731,489,905,531"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a0f5961269d79e636777d722ade37dd2e" title="Take another current time tick. " alt="" coords="751,555,885,596"/>
+<area shape="rect" id="node19" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="973,555,1107,596"/>
+</map>

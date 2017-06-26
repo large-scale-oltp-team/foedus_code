@@ -1,0 +1,6 @@
+<map id="foedus::log::on_non_durable_meta_log_found" name="foedus::log::on_non_durable_meta_log_found">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="226,5,349,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="226,71,349,112"/>
+<area shape="rect" id="node4" href="$group__LOGTYPE.html#ga19bd845c7aa1bc5039169263bdd175a1" title="Invokes the ostream operator for the given log type defined in log_type.xmacro. " alt="" coords="223,136,352,177"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="400,136,555,177"/>
+</map>

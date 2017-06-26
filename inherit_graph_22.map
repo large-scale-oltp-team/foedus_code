@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfoedus_1_1Attachable.html" title="foedus::Attachable\l\&lt; LogGleanerControlBlock \&gt;" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html" title="A remote view of LogGleaner from all engines. " alt="" coords="240,13,455,39"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1LogGleaner.html" title="A log&#45;gleaner, which constructs a new set of snapshot files during snapshotting. " alt="" coords="503,13,697,39"/>
+</map>

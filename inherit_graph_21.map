@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfoedus_1_1Attachable.html" title="foedus::Attachable\l\&lt; HashStorageControlBlock \&gt;" alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html" title="Pimpl object of HashStorage. " alt="" coords="272,5,419,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1Storage.html" title="foedus::storage::Storage\l\&lt; HashStorageControlBlock \&gt;" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html" title="Represents a key&#45;value store based on a dense and regular hash. " alt="" coords="491,71,637,112"/>
+</map>

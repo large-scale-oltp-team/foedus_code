@@ -1,0 +1,6 @@
+<map id="foedus::xct::XctManagerPimpl::precommit_xct_verify_pointer_set" name="foedus::xct::XctManagerPimpl::precommit_xct_verify_pointer_set">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="287,5,437,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1Xct.html#a91010b6195657c14f3b681da8102163d" title="foedus::xct::Xct::get\l_pointer_set" alt="" coords="293,71,431,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1Xct.html#a6b0f4d5bf1485c376f62e97c6053ea43" title="foedus::xct::Xct::get\l_pointer_set_size" alt="" coords="293,136,431,177"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="276,201,448,243"/>
+</map>

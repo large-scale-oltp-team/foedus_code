@@ -1,0 +1,4 @@
+<map id="foedus::storage::hash::prepare_sort_entries" name="foedus::storage::hash::prepare_sort_entries">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashPartitioner.html#a8255043c6cb91246cbff43cceb88f596" title="foedus::storage::hash\l::HashPartitioner::sort_batch" alt="" coords="201,5,389,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c8909d8a44ae9d6a4afee0ded0add4c" title="Called from log reducer to sort log entries by keys. " alt="" coords="437,5,616,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="foedus::memory::PagePoolPimpl::release_impl" name="foedus::memory::PagePoolPimpl::release_impl">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#ab2c94997f724139b950b66b18d786bd5" title="Not thread safe. " alt="" coords="248,57,427,99"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#aa545fc1cffac905225d3a7c7c457b5a8" title="foedus::memory::PagePool\lPimpl::free_pool_head" alt="" coords="509,5,687,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="509,81,687,123"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#abd594ac94d8ac0445ebef734b7305fb6" title="foedus::memory::PagePool\lPimpl::get_debug_pool_name" alt="" coords="241,175,434,216"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a3b5b895c26ed502d93e753389ce0a21b" title="foedus::memory::PagePool\lPimpl::increase_free_pool_count" alt="" coords="232,240,443,281"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="502,169,694,211"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="491,235,705,262"/>
+</map>

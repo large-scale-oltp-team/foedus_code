@@ -1,0 +1,5 @@
+<map id="foedus::xct::LockableXctId" name="foedus::xct::LockableXctId">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="5,95,128,121"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwLock.html" title="An exclusive&#45;only (WW) MCS lock data structure. " alt="" coords="153,95,322,121"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="137,5,338,32"/>
+</map>

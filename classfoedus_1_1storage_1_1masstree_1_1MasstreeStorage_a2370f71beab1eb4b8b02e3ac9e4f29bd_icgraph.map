@@ -1,0 +1,11 @@
+<map id="foedus::storage::masstree::MasstreeStorage::track_moved_record" name="foedus::storage::masstree::MasstreeStorage::track_moved_record">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3248d8440d805f772ad7b6122a4d309b" title="foedus::storage::Storage\lManagerPimpl::track_moved\l_record" alt="" coords="227,31,413,87"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManager.html#a02513539acf9d7cd9805d34154281076" title="Resolves a &quot;moved&quot; record. " alt="" coords="461,39,657,80"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9090dd1fa81513f61620b44a9a8bbd1d" title="used from verification methods to track moved record " alt="" coords="705,39,925,80"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="975,5,1183,47"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9534e63f498a012d9fa401a10e2b4e0b" title="Phase 2 of precommit_xct() for read&#45;write case. " alt="" coords="973,71,1184,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="1232,5,1427,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="1475,39,1669,80"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1717,39,1880,80"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="1232,71,1427,112"/>
+</map>

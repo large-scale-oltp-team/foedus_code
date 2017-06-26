@@ -1,0 +1,8 @@
+<map id="foedus::savepoint::SavepointManagerPimpl::uninitialize_once" name="foedus::savepoint::SavepointManagerPimpl::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="253,5,379,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="227,71,405,112"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1savepoint_1_1SavepointManagerControlBlock.html#a6a7f10077455b8b4f5447d194d7718bc" title="foedus::savepoint::\lSavepointManagerControlBlock\l::uninitialize" alt="" coords="215,137,417,193"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="474,20,647,61"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="465,86,656,113"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="473,144,648,185"/>
+</map>

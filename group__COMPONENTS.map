@@ -1,0 +1,15 @@
+<map id="FOEDUS Components" name="FOEDUS Components">
+<area shape="rect" id="node1" href="$group__DEBUGGING.html" title="Debug&#45;Support functionalities. " alt="" coords="208,5,399,32"/>
+<area shape="rect" id="node2" href="$group__STORAGE.html" title="Storage Manager, which implements a couple of key/value stores. " alt="" coords="243,56,364,83"/>
+<area shape="rect" id="node3" href="$group__RESTART.html" title="Restart Manager, which recovers the state of database by re&#45;playing transaction logs at start&#45;up..." alt="" coords="244,107,363,133"/>
+<area shape="rect" id="node4" href="$group__SOC.html" title="System On Chip (SOC) and interprocess communication (IPC). " alt="" coords="253,157,353,184"/>
+<area shape="rect" id="node5" href="$group__SNAPSHOT.html" title="Snapshot Manager, which manages snapshot files of the database. " alt="" coords="238,208,369,235"/>
+<area shape="rect" id="node6" href="$group__XCT.html" title="Transaction Manager, which provides APIs to begin/commit/abort transactions. " alt="" coords="232,259,375,285"/>
+<area shape="rect" id="node8" href="$group__LOG.html" title="Log Manager, which writes out transactional logs. " alt="" coords="255,309,352,336"/>
+<area shape="rect" id="node9" href="$group__ENGINE.html" title="Database Engine, the top&#45;level component of foedus. " alt="" coords="243,360,364,387"/>
+<area shape="rect" id="node10" href="$group__THREAD.html" title="Thread and Thread&#45;Group, which abstracts NUMA&#45;core/node and provides API to attach/detach tasks to po..." alt="" coords="219,411,387,437"/>
+<area shape="rect" id="node11" href="$group__CACHE.html" title="Snapshot Cache Manager, which caches data pages retrieved from snapshot files. " alt="" coords="217,461,389,488"/>
+<area shape="rect" id="node12" href="$group__MEMORY.html" title="Memory Manager, which controls memory allocations, deallocations, and sharing. " alt="" coords="242,512,365,539"/>
+<area shape="rect" id="node13" href="$group__PROC.html" title="System and User Procedures. " alt="" coords="207,563,400,589"/>
+<area shape="rect" id="node14" href="$group__SAVEPOINT.html" title="Savepoint Manager, which durably and atomically remembers what happened in the engine occasionally (e..." alt="" coords="237,613,369,640"/>
+</map>

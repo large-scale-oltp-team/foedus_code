@@ -1,0 +1,21 @@
+<map id="foedus::storage::hash::hash_data_volatile_page_init" name="foedus::storage::hash::hash_data_volatile_page_init">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#acfa062e1acf64b882f466cca8e190fdd" title="foedus::storage::hash\l::HashDataPage::get_bin" alt="" coords="432,5,599,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#ac5e2de81d5e512b5a0f735a9fc413629" title="foedus::storage::hash\l::HashIntermediatePage\l::get_bin_range" alt="" coords="435,71,596,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a6dc142a2ed0509104e377e10a6d6a034" title="foedus::storage::hash\l::HashStorage::get_bin\l_shifts" alt="" coords="209,407,363,463"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1Thread.html#a64fa1150b812810a2697bd6293aaac9a" title="foedus::thread::Thread\l::get_engine" alt="" coords="211,488,361,529"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="441,152,590,193"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6ddc93fb5df01249140895435819da2f" title="foedus::storage::hash\l::HashIntermediatePage\l::get_level" alt="" coords="435,218,596,274"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="420,591,611,632"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a03dc5746931434bcc27b2b3b6856c33f" title="foedus::storage::hash\l::HashDataPage::initialize\l_volatile_page" alt="" coords="200,277,372,333"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1storage_1_1hash_1_1HashBinRange.html#ae2b145559047e486059fec93c35ebfc1" title="foedus::storage::hash\l::HashBinRange::length" alt="" coords="207,553,365,595"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669" title="foedus::storage::PageHeader\l::get_in_layer_level" alt="" coords="663,225,853,267"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1PageHeader.html#a5a84eed10b8675e5df2f35f791991eb5" title="foedus::storage::PageHeader\l::init_volatile" alt="" coords="420,525,611,567"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ad76f0d1e0caffa655e5ffe03c2a59864" title="this method should be called only in page creation. " alt="" coords="426,298,605,354"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1storage_1_1hash_1_1HashBinRange.html#af492eb6df181653434b727ba29e5c833" title="foedus::storage::hash\l::HashBinRange::contains" alt="" coords="429,379,602,420"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a47a8118e0aa8c3ce3c5c6138f2f1aa8c" title="foedus::storage::hash\l::HashDataPage::get_bin\l_shifts" alt="" coords="432,445,599,501"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="659,559,857,600"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1PageVersion.html#ae40168c82f16645e85bb66f9019e53cf" title="used only while page initialization " alt="" coords="662,493,854,535"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1xct_1_1McsWwLock.html#a4114c2dec151ad650a294dedac4f239d" title="used only while page initialization " alt="" coords="917,460,1086,501"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#af49ef4f3320148130f46f494f1c845aa" title="foedus::storage::PageVersion\lStatus::reset" alt="" coords="905,525,1097,567"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3161e47c41388e9c1b50929f585e366b" title="foedus::xct::McsWwBlockData\l::clear" alt="" coords="1145,460,1347,501"/>
+</map>

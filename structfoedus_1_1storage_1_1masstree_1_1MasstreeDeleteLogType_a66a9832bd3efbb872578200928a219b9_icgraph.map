@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeDeleteLogType::calculate_log_length" name="foedus::storage::masstree::MasstreeDeleteLogType::calculate_log_length">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a45396b70b246f330355397b447af55f3" title="implementation of delete_record family. " alt="" coords="227,57,400,113"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#af263fb1494c7ac6a5dbfd28b926ede3b" title="foedus::storage::masstree\l::MasstreeCursor::delete_record" alt="" coords="448,5,656,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ac6b8b9c2d3b756b4559e43fbe93950a5" title="Deletes a record of the given key from this Masstree. " alt="" coords="704,97,919,139"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a0051986148bca838483cf3a81d3f5236" title="Deletes a record of the given primitive key from this Masstree. " alt="" coords="465,122,639,178"/>
+</map>

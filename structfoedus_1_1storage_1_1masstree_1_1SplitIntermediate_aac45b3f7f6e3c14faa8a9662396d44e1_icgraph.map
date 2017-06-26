@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::SplitIntermediate::migrate_pointers" name="foedus::storage::masstree::SplitIntermediate::migrate_pointers">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#a96de88f03cf5683529e00d2c209a07e9" title="The core implementation after locking relevant pages and acquiring free page resource. " alt="" coords="232,5,405,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="453,13,627,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::HashStorage::insert_record" name="foedus::storage::hash::HashStorage::insert_record">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a10d5a66f64174ea898dea0033f8fe68b" title="Inserts a new record of the given key in this hash storage. " alt="" coords="200,5,347,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#aaccce5ffedbeebe88d6845dd03e2c1ea" title="Prepares a set of information that are used in many places, extracted from the given key..." alt="" coords="395,13,547,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a47a258c2edd9e4d3b3b4a5b472a07d62" title="foedus::storage::hash\l::HashStorage::get_hash\l_metadata" alt="" coords="595,5,761,61"/>
+</map>

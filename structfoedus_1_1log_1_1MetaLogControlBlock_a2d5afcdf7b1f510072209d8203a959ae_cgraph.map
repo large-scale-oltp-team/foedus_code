@@ -1,0 +1,6 @@
+<map id="foedus::log::MetaLogControlBlock::initialize" name="foedus::log::MetaLogControlBlock::initialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="239,5,413,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedPolling.html#ace449e19d0a13388da16570aefd42994" title="foedus::soc::SharedPolling\l::initialize" alt="" coords="237,71,415,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="463,5,637,47"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="463,71,637,112"/>
+</map>

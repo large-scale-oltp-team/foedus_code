@@ -1,0 +1,5 @@
+<map id="foedus::snapshot::SnapshotOptions::construct_snapshot_file_path" name="foedus::snapshot::SnapshotOptions::construct_snapshot_file_path">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#aa2874f5cd398cc0907d0a5bee822d1c3" title="converts folder_path_pattern_ into a string with the given node. " alt="" coords="243,16,427,72"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaa64b5d5356e69e9d0efa80590617c795" title="target.replaceAll(search, replacement). " alt="" coords="488,5,676,32"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="475,56,689,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::proc::ProcManager::get_proc" name="foedus::proc::ProcManager::get_proc">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a73a9dfcab4771b1a5c6362406b27faeb" title="Main routine of the worker thread. " alt="" coords="232,5,416,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a741208e803d0a0bb5f979ebb099d2a8d" title="foedus::thread::ThreadPimpl\l::initialize_once" alt="" coords="464,5,648,47"/>
+</map>

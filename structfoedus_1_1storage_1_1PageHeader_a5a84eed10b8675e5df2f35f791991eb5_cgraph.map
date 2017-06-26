@@ -1,0 +1,7 @@
+<map id="foedus::storage::PageHeader::init_volatile" name="foedus::storage::PageHeader::init_volatile">
+<area shape="rect" id="node2" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="244,5,443,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1PageVersion.html#ae40168c82f16645e85bb66f9019e53cf" title="used only while page initialization " alt="" coords="247,71,439,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwLock.html#a4114c2dec151ad650a294dedac4f239d" title="used only while page initialization " alt="" coords="502,37,671,79"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#af49ef4f3320148130f46f494f1c845aa" title="foedus::storage::PageVersion\lStatus::reset" alt="" coords="491,103,683,144"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3161e47c41388e9c1b50929f585e366b" title="foedus::xct::McsWwBlockData\l::clear" alt="" coords="731,37,932,79"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="foedus::memory::NumaNodeMemoryRef::NumaNodeMemoryRef" name="foedus::memory::NumaNodeMemoryRef::NumaNodeMemoryRef">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePool.html#a6522fe3b6b37b4e87c0e4170e573b8d2" title="foedus::memory::PagePool\l::attach" alt="" coords="301,39,479,80"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a2e5d1a0a78c66ac6e1c8ef166d2965c3" title="foedus::soc::SharedMemory\lRepo::get_node_memory_anchors" alt="" coords="280,104,500,145"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="323,169,457,211"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="300,235,480,276"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="323,300,457,341"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a7e03c4b7d87150fb9175a239ca657f71" title="foedus::soc::SharedMemory\lRepo::get_volatile_pool" alt="" coords="297,365,483,407"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a655d84c0582b445cbbdb5560e5fe4e07" title="foedus::memory::PagePool\lPimpl::attach" alt="" coords="548,39,727,80"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1assorted_1_1FixedString.html#ad175b4520982eaf19692255255125b06" title="Clear string. " alt="" coords="775,5,967,47"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gae2beea4717aef7ca9d43b91e48cf5824" title="Efficient ceil(dividee/dividor) for integer. " alt="" coords="801,71,941,112"/>
+</map>

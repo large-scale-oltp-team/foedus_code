@@ -1,0 +1,7 @@
+<map id="foedus::storage::hash::IntermediateRoute::convert_back" name="foedus::storage::hash::IntermediateRoute::convert_back">
+<area shape="rect" id="node2" href="$unionfoedus_1_1storage_1_1hash_1_1IntermediateRoute.html#a0212c25f878f45d0936d9df0271fd41b" title="Calculates the rout for the given hash bin. " alt="" coords="200,35,347,91"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1HashCombo.html#a0b01cbd3892778b43b051d68daf8246d" title="foedus::storage::hash\l::HashCombo::HashCombo" alt="" coords="406,5,586,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#a230f7dbb47f1b22e7295fe7c00a96fa4" title="Recursively opens pages down from fixed_upto_level. " alt="" coords="395,71,597,127"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#af617a04eb5df3795abfe4900a20a6db6" title="foedus::storage::hash\l::ComposedBinsMergedStream::init" alt="" coords="645,41,873,83"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#ad9d314f5d6c1a5f698ca623ef7d0188e" title="Moves cur_path_ to a page that cotains the specified bin. " alt="" coords="658,107,861,163"/>
+</map>

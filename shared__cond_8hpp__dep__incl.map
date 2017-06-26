@@ -1,0 +1,10 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/soc/shared_cond.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/soc/shared_cond.hpp">
+<area shape="rect" id="node2" href="$log__reducer__impl_8hpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/include\l/foedus/snapshot/log_reducer\l_impl.hpp" alt="" coords="545,109,737,180"/>
+<area shape="rect" id="node9" href="$shared__cond_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/soc/shared_cond.cpp" alt="" coords="761,117,953,173"/>
+<area shape="rect" id="node3" href="$log__gleaner__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/log_gleaner\l_impl.cpp" alt="" coords="5,228,196,299"/>
+<area shape="rect" id="node4" href="$log__mapper__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/log_mapper\l_impl.cpp" alt="" coords="221,228,413,299"/>
+<area shape="rect" id="node5" href="$log__reducer__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/log_reducer\l_impl.cpp" alt="" coords="437,228,629,299"/>
+<area shape="rect" id="node6" href="$log__reducer__ref_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/log_reducer\l_ref.cpp" alt="" coords="653,228,845,299"/>
+<area shape="rect" id="node7" href="$snapshot__manager__pimpl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/snapshot\l_manager_pimpl.cpp" alt="" coords="869,228,1047,299"/>
+<area shape="rect" id="node8" href="$snapshot__writer__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/snapshot/snapshot\l_writer_impl.cpp" alt="" coords="1071,228,1250,299"/>
+</map>

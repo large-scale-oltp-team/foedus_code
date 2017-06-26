@@ -1,0 +1,4 @@
+<map id="foedus::thread::ConditionVariable::wait_for" name="foedus::thread::ConditionVariable::wait_for">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1StoppableThread.html#af4a8cfe3be20d1f9131c27e1f8f91db0" title="Sleep until the interval elapses or someone requests to stop this thread. " alt="" coords="226,5,397,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Rendezvous.html#ae34b5634d5c3eb7a2582a9453c053579" title="Block until the event happens or the given period elapses. " alt="" coords="220,71,403,112"/>
+</map>

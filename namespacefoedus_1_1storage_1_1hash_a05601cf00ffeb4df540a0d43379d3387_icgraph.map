@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::release_parallel" name="foedus::storage::hash::release_parallel">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a72474ba11f14c8e37ab6b9b3bd92d64b" title="foedus::storage::hash\l::HashIntermediatePage\l::release_pages_recursive\l_parallel" alt="" coords="200,5,372,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a79c499b589d9e31709b066f1457bc1e3" title="foedus::storage::hash\l::HashStoragePimpl::drop" alt="" coords="420,20,591,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#ab5edd3becb0d83ffab431754e2d80118" title="foedus::storage::hash\l::HashStorage::drop" alt="" coords="639,20,785,61"/>
+</map>

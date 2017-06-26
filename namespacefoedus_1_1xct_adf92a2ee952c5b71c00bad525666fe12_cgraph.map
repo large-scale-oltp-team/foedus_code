@@ -1,0 +1,17 @@
+<map id="foedus::xct::operator&lt;&lt;" name="foedus::xct::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#a0b0e9bc8c0227311e3b1fe1412272992" title="foedus::xct::Xct::get\l_default_hot_threshold\l_for_this_xct" alt="" coords="225,5,377,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1Xct.html#afc8817e57a047f64148add6e63fbd661" title="foedus::xct::Xct::get\l_default_rll_threshold\l_for_this_xct" alt="" coords="229,85,373,141"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1Xct.html#ae84fb0f1c8c5c81bac74e79e62da49a6" title="foedus::xct::Xct::get\l_hot_threshold_for_this_xct" alt="" coords="211,166,392,207"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1Xct.html#a07b332c0f7f0896ad37dc93373af1cb2" title="Returns the ID of this transaction, but note that it is not issued until commit time! ..." alt="" coords="224,232,379,259"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1Xct.html#af39a25162bfa65a4cc2dea0d64460cbe" title="foedus::xct::Xct::get\l_lock_free_read_set_size" alt="" coords="217,283,386,325"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1Xct.html#a4dfc3cd9b70a93615c3a0a8014aafbe1" title="foedus::xct::Xct::get\l_lock_free_write_set_size" alt="" coords="216,349,387,390"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1Xct.html#a67f1a970106386aa9f367195c0a43208" title="foedus::xct::Xct::get\l_page_version_set_size" alt="" coords="221,414,381,455"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1Xct.html#a6b0f4d5bf1485c376f62e97c6053ea43" title="foedus::xct::Xct::get\l_pointer_set_size" alt="" coords="232,479,371,521"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1Xct.html#af7b9c43800807db798d2e58bc07ad5cd" title="foedus::xct::Xct::get\l_read_set_size" alt="" coords="232,545,371,586"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1Xct.html#a8a5728b0376ffa45b801a560051d7d7a" title="foedus::xct::Xct::get\l_rll_threshold_for_this_xct" alt="" coords="215,610,388,651"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1xct_1_1Xct.html#aca66ae9959651b7c6fa86a75db287f54" title="foedus::xct::Xct::get\l_sysxct_workspace" alt="" coords="232,675,371,717"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1Xct.html#a674e3ce0252c1c9d2f73edf3b3c4307e" title="foedus::xct::Xct::get\l_write_set_size" alt="" coords="232,741,371,782"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1Xct.html#a9a76be25f22fd49683d2a4138ab7b199" title="Returns whether the object is an active transaction. " alt="" coords="236,806,367,847"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1Xct.html#a69664ddec7511d43c04cee6d66b1c1a2" title="foedus::xct::Xct::is\l_default_rll_for_this_xct" alt="" coords="222,871,381,913"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1Xct.html#aae4b0ccd575851276efddf752c90a273" title="foedus::xct::Xct::is\l_enable_rll_for_this_xct" alt="" coords="222,937,381,978"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::soc::SocManagerPimpl::report_engine_fatal_error" name="foedus::soc::SocManagerPimpl::report_engine_fatal_error">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SocManager.html#abffe61e3c3cd7959937bf3f81b4579d7" title="Announce fatal error state of this (either master or child) engine if possible. " alt="" coords="256,5,428,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="476,5,617,47"/>
+</map>

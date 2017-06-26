@@ -1,0 +1,7 @@
+<map id="foedus::storage::PageHeader" name="foedus::storage::PageHeader">
+<area shape="rect" id="node2" href="$structfoedus_1_1assorted_1_1ProbCounter.html" title="Implements a probabilistic counter [Morris 1978]. " alt="" coords="5,199,204,225"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1PageVersion.html" title="Just a synonym of XctId to be used as a page lock mechanism. " alt="" coords="229,199,421,225"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageVersionStatus.html" title="foedus::storage::PageVersion\lStatus" alt="" coords="158,95,350,136"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwLock.html" title="An exclusive&#45;only (WW) MCS lock data structure. " alt="" coords="375,102,544,129"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="359,5,560,32"/>
+</map>

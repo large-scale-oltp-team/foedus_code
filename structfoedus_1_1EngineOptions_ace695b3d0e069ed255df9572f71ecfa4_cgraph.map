@@ -1,0 +1,7 @@
+<map id="foedus::EngineOptions::calculate_required_memory" name="foedus::EngineOptions::calculate_required_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a9cea4a83fb68a8f86ad43c04165c06e3" title="foedus::soc::SharedMemory\lRepo::calculate_global\l_memory_size" alt="" coords="230,5,415,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#adb12d1c6977fada9ea158addc0e27130" title="foedus::memory::NumaCore\lMemory::calculate_local\l_small_memory_size" alt="" coords="231,85,415,141"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a2e2c4c30186c25585226aabc09e942cf" title="foedus::soc::SharedMemory\lRepo::calculate_node_memory_size" alt="" coords="207,166,439,207"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1thread_1_1ThreadOptions.html#a74b2658ba7a1f73f87a66a2a21fe0c41" title="foedus::thread::ThreadOptions\l::get_total_thread_count" alt="" coords="225,231,421,273"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1soc.html#a91ebb7be5e6cf6cadff3c7b7c2260643" title="foedus::soc::align_4kb" alt="" coords="487,97,639,124"/>
+</map>

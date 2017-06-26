@@ -1,0 +1,16 @@
+<map id="foedus::xct::CurrentLockListIteratorForWriteSet::CurrentLockListIteratorForWriteSet" name="foedus::xct::CurrentLockListIteratorForWriteSet::CurrentLockListIteratorForWriteSet">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1CurrentLockList.html#acbed8e324b88389217b42a132e0547b8" title="foedus::xct::CurrentLock\lList::assert_sorted" alt="" coords="284,118,448,159"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1xct_1_1CurrentLockListIteratorForWriteSet.html#a08009fe2c6acb0bf1c484e194dfe7bb4" title="Look for next record&#39;s write&#45;set(s). " alt="" coords="284,184,448,240"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a7485f0d26810767b3bef18e12233daa7" title="foedus::xct::CurrentLock\lList::assert_sorted_impl" alt="" coords="496,118,660,159"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aed99dee60f9529d5cfabb5e1742038da" title="foedus::xct::CurrentLock\lList::assert_last_locked_entry" alt="" coords="708,27,904,69"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1xct.html#a736225e9852f9c75b92e134dbbe40a68" title="foedus::xct::lock_assert\l_sorted" alt="" coords="725,122,887,163"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a1a668d5dd1b711abed1a9962a8cb4ec1" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="952,13,1164,54"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a03e818494c4d716f9fc996081f6c419f" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="1221,5,1397,61"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="983,78,1133,119"/>
+<area shape="rect" id="node9" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="975,144,1141,171"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="977,195,1139,237"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="1212,162,1405,203"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1228,227,1389,269"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ab360f7fc3d8c0880b394084d45e492e9" title="foedus::xct::CurrentLock\lList::get_entry" alt="" coords="496,191,660,233"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a78b6d1612fda232b7e8c52dd3f6c2504" title="foedus::xct::CurrentLock\lList::is_valid_entry" alt="" coords="724,191,888,233"/>
+</map>

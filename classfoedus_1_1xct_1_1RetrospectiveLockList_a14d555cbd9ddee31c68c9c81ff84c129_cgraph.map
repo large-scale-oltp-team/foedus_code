@@ -1,0 +1,8 @@
+<map id="foedus::xct::RetrospectiveLockList::assert_sorted_impl" name="foedus::xct::RetrospectiveLockList::assert_sorted_impl">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1xct.html#a736225e9852f9c75b92e134dbbe40a68" title="foedus::xct::lock_assert\l_sorted" alt="" coords="243,64,404,105"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="460,5,609,47"/>
+<area shape="rect" id="node4" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="452,71,617,98"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="453,123,616,164"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="665,89,859,131"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="681,155,843,196"/>
+</map>

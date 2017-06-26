@@ -1,0 +1,5 @@
+<map id="foedus::assorted::BacktraceContext::get_results" name="foedus::assorted::BacktraceContext::get_results">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#gaaaeeef9a7bd86c89f96e337fdd88caab" title="Demangle the given C++ type name if possible (otherwise the original string). " alt="" coords="239,5,421,47"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="469,13,592,39"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="640,13,791,39"/>
+</map>

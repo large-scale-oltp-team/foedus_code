@@ -1,0 +1,6 @@
+<map id="foedus::xct::XctId::compare_epoch_and_orginal" name="foedus::xct::XctId::compare_epoch_and_orginal">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#a105eb120235425e73380a9b943a9bf66" title="Logically deletes a record of the given key. " alt="" coords="212,5,359,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ab5ac0d32ded6cfa7bb3df7f28eafb33e" title="Inserts a new record of the given key and payload. " alt="" coords="212,85,359,141"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ae3f726ea1ce191d9ea5c41202568623b" title="Overwrites a part of the record of the given key. " alt="" coords="204,165,367,221"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ad54d9fdfa4874b6eaa0231bce58fccf8" title="Updates a record of the given key with the given payload, which might change length. " alt="" coords="210,245,361,301"/>
+</map>

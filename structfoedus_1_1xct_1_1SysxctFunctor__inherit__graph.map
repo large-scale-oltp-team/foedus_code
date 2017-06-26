@@ -1,0 +1,9 @@
+<map id="foedus::xct::SysxctFunctor" name="foedus::xct::SysxctFunctor">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html" title="A system transaction to reserve a physical record(s) in a hash data page. " alt="" coords="245,5,392,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html" title="A system transaction to adopt foster twins into an intermediate page. " alt="" coords="232,71,405,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1GrowFirstLayerRoot.html" title="A system transaction to grow a first&#45;layer root. " alt="" coords="232,136,405,177"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1GrowNonFirstLayerRoot.html" title="A system transaction to grow a second&#45; or depper&#45;layer root. " alt="" coords="232,201,405,243"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html" title="A system transaction to reserve a physical record(s) in a border page. " alt="" coords="232,267,405,308"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html" title="A system transaction to split a border page in Master&#45;Tree. " alt="" coords="232,332,405,373"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html" title="A system transaction to split an intermediate page in Master&#45;Tree. " alt="" coords="232,397,405,439"/>
+</map>

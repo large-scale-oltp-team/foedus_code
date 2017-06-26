@@ -1,0 +1,10 @@
+<map id="foedus::thread::GrabFreeVolatilePagesScope::grab" name="foedus::thread::GrabFreeVolatilePagesScope::grab">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a4e553f5e14ec00d8ba23fbdfa26d687e" title="Returns the private memory repository of this thread. " alt="" coords="521,136,672,177"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#ad09e335bbca636246cf2c3d60ec22570" title="Acquires one free volatile page from local page pool. " alt="" coords="224,57,435,99"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1GrabFreeVolatilePagesScope.html#acbf8a6e96a43f097a20b2d3bcb460d26" title="Idempotent. " alt="" coords="235,175,423,216"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a6c9bf7d6b21ac33a61d6f7176023ea3a" title="Returns one free volatile page to local page pool. " alt="" coords="483,227,711,268"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ac661b8baf462a1e969a8a1c7e619858b" title="foedus::memory::PagePool\lOffsetChunk::empty" alt="" coords="759,35,937,76"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#af897b38ac1ef4217ff99018436c0112e" title="foedus::memory::PagePool\lOffsetChunk::pop_back" alt="" coords="507,5,686,47"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ace44cb03e7da84d29f3a02a790c69191" title="foedus::memory::PagePool\lOffsetChunk::full" alt="" coords="985,227,1164,268"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a6f558bb023b2c5c7dd9bf7ab9d054ef0" title="foedus::memory::PagePool\lOffsetChunk::push_back" alt="" coords="759,256,937,297"/>
+</map>

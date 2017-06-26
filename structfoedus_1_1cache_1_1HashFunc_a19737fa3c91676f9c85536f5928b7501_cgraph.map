@@ -1,0 +1,8 @@
+<map id="foedus::cache::HashFunc::get_bucket_number" name="foedus::cache::HashFunc::get_bucket_number">
+<area shape="rect" id="node2" href="$structfoedus_1_1assorted_1_1ConstDiv.html#a6892a2d35b9ae08a00190c9440e22a21" title="32&#45;bit integer division that outputs both quotient and remainder. " alt="" coords="224,27,401,69"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1cache_1_1HashFunc.html#aa9020cb1e5915b6777d089521ef618a9" title="Returns a hash value for the given snapshot page ID. " alt="" coords="227,93,398,134"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1assorted_1_1ConstDiv.html#afbfa08664902f9b633edbd395706b230" title="Calculate remainder. " alt="" coords="224,158,401,199"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="454,5,645,61"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="455,85,643,141"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="449,165,649,221"/>
+</map>

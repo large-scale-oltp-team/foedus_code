@@ -1,0 +1,12 @@
+<map id="foedus::xct::XctManager::wait_for_current_global_epoch" name="foedus::xct::XctManager::wait_for_current_global_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#af5cb0928185cf79dda519313f05fe0ee" title="foedus::xct::XctManagerPimpl\l::wait_for_current_global_epoch" alt="" coords="257,165,461,207"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a03678427b184e7ce71f9bbb164dd0bad" title="foedus::xct::XctManagerPimpl\l::set_requested_global_epoch" alt="" coords="509,35,704,76"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="509,100,704,141"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="518,165,695,207"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="518,231,695,272"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="518,296,695,337"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a6071efec3ffc3876192101db2a1873b4" title="foedus::xct::XctManagerPimpl\l::get_requested_global_epoch" alt="" coords="752,5,947,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="778,71,921,98"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="763,165,936,207"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1soc.html#a875ded688a72b32f8f690f37750e609f" title="foedus::soc::get_now\l_microsec" alt="" coords="777,296,922,337"/>
+</map>

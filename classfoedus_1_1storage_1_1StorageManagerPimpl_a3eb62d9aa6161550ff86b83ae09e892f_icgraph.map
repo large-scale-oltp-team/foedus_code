@@ -1,0 +1,14 @@
+<map id="foedus::storage::StorageManagerPimpl::exists" name="foedus::storage::StorageManagerPimpl::exists">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#af961ec67a7d797595ec92bc6dcfdfc24" title="foedus::storage::Storage\lManagerPimpl::create_storage" alt="" coords="237,137,435,179"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad60396a45220b4b150b3f72fcff5a92a" title="foedus::storage::Storage\lManagerPimpl::create_storage_apply" alt="" coords="217,203,455,244"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a49864b0bae19e6c2fe61a2422d1650af" title="foedus::storage::Storage\lManagerPimpl::initialize\l_read_latest_snapshot" alt="" coords="254,269,418,325"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ae4eaa4425c8c9aa4bfbbbf56303748e5" title="foedus::storage::Storage\lManagerPimpl::uninitialize_once" alt="" coords="231,349,441,391"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManager.html#a9274ccbcf6b2ff5a0de3ba86d9314031" title="Newly creates a storage with the specified metadata and registers it to this manager. " alt="" coords="521,136,688,177"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManager.html#a3f35f6d6932634ef2c5ab1a33f234773" title="Just a type&#45;wrapper of create_storage() for array storages. " alt="" coords="764,5,928,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1StorageManager.html#a67d343e4f3b79b44916eb8ba7ccfe5d9" title="Just a type&#45;wrapper of create_storage() for hash storages. " alt="" coords="764,71,928,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1StorageManager.html#aed128c33a23f9421b9098247d63c1d23" title="Just a type&#45;wrapper of create_storage() for masstree storages. " alt="" coords="757,136,935,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1StorageManager.html#a717f0b1360023ff339c4732259b8aecd" title="Just a type&#45;wrapper of create_storage() for sequential storages. " alt="" coords="755,201,937,243"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1StorageManager.html#a56a4b11c4be6504525318438852620ec" title="This is called while restart to apply CREATE STORAGE logs. " alt="" coords="503,205,707,247"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1CreateLogType.html#a18bcaf5188f88cf6bbe3da8f04e5667d" title="foedus::storage::CreateLog\lType::apply_storage" alt="" coords="757,267,935,308"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad89ca2bb2619e01c3b13d65302a3d7c9" title="foedus::storage::Storage\lManagerPimpl::initialize_once" alt="" coords="507,276,702,317"/>
+</map>

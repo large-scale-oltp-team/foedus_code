@@ -1,0 +1,8 @@
+<map id="foedus::soc::SocManager::wait_for_master_module" name="foedus::soc::SocManager::wait_for_master_module">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a1e8d5c98af1d33d7a77a05503eedc7be" title="foedus::soc::SocManagerPimpl\l::wait_for_master_module" alt="" coords="224,101,427,142"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="506,5,629,32"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="475,56,660,112"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="480,137,655,178"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="481,202,654,243"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="708,5,859,32"/>
+</map>

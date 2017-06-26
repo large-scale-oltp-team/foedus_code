@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::HashMetadataSerializer::load" name="foedus::storage::hash::HashMetadataSerializer::load">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage.html#a7b97cc7201e910b51acae0b84c2cd1e1" title="foedus::storage::load\l_from_xml_hash" alt="" coords="253,13,396,54"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#a4fe5fe5b830b408ce398ae72e0202b96" title="foedus::storage::Metadata\lSerializer::load_all_storages\l_from_xml" alt="" coords="444,5,629,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1SnapshotMetadata.html#ad8bed3780996c99cd78149538dca67ab" title="Reads the content of this object from the given XML element. " alt="" coords="677,13,861,54"/>
+</map>

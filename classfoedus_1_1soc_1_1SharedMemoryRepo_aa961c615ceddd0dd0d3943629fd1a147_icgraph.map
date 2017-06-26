@@ -1,0 +1,13 @@
+<map id="foedus::soc::SharedMemoryRepo::deallocate_shared_memories" name="foedus::soc::SharedMemoryRepo::deallocate_shared_memories">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#aa42d7f6cd529569e79e4cfc298adb39b" title="Master process creates shared memories by calling this method. " alt="" coords="493,61,708,103"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="756,151,959,192"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a4b6032d62764c145607306973945bb8c" title="Child processes (emulated or not) set a reference to shared memory and receive the EngnieOption value..." alt="" coords="239,5,445,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#ad9ef70c0b175a6535731e2cf0c2370f1" title="Launch children via fork. " alt="" coords="499,179,702,220"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a4a9091baae2ba21b2cb888da8d391818" title="Launch children via spawn. " alt="" coords="499,309,702,351"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a1d435277bd229b7988c3f249c0a0730f" title="foedus::soc::SocManagerPimpl\l::uninitialize_once" alt="" coords="241,295,443,336"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a998409bf9e2aff10ec8dfb02f17bb956" title="Wait for child SOCs to start up and at least finish attaching shared memory. " alt="" coords="241,229,443,271"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#ae93958bcd01826cc39e3b84333d1c3d9" title="foedus::soc::SharedMemory\lRepo::~SharedMemoryRepo" alt="" coords="249,412,435,453"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="1007,91,1209,132"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a1d09b3bd25667fccd9bb831303788401" title="Called as part of initialize_once() if this is a child SOC engine. " alt="" coords="756,31,959,72"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a77d275f92471e6ac9e0c4bb4c609665f" title="Launch emulated children as threads. " alt="" coords="499,244,702,285"/>
+</map>

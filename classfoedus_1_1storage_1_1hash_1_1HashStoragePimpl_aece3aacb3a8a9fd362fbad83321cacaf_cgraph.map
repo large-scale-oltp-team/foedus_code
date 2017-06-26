@@ -1,0 +1,12 @@
+<map id="foedus::storage::hash::HashStoragePimpl::hcc_reset_all_temperature_stat_intermediate" name="foedus::storage::hash::HashStoragePimpl::hcc_reset_all_temperature_stat_intermediate">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1EngineMemory.html#a62b2d4de6a72644e9e31d35a7f9beae0" title="Returns the page resolver to convert volatile page ID to page pointer. " alt="" coords="435,5,645,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6ddc93fb5df01249140895435819da2f" title="foedus::storage::hash\l::HashIntermediatePage\l::get_level" alt="" coords="223,291,384,347"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="473,86,607,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a9027ebbc2ee535519916906978347be9" title="foedus::storage::hash\l::HashIntermediatePage\l::get_pointer" alt="" coords="223,371,384,427"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#ab283888fe4b6038d8885f385a136f40b" title="foedus::storage::hash\l::HashStoragePimpl::hcc\l_reset_all_temperature\l_stat_data" alt="" coords="220,145,387,215"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="459,282,621,323"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669" title="foedus::storage::PageHeader\l::get_in_layer_level" alt="" coords="445,347,635,389"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac653a03fd75011048550f8e9f5dd198d" title="foedus::storage::hash\l::HashDataPage::header" alt="" coords="458,151,622,193"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="441,217,639,258"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="693,282,855,323"/>
+</map>

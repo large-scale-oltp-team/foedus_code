@@ -1,0 +1,8 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePage::append_minipage_snapshot" name="foedus::storage::masstree::MasstreeIntermediatePage::append_minipage_snapshot">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#aa8c59b8e2944d4a6a68d5fed840a7a29" title="foedus::storage::Volatile\lPagePointer::clear" alt="" coords="267,5,428,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="499,137,705,179"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="255,122,440,178"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a8960e682ff51f3ca77aeee1e4bfee9d7" title="Whether this page is full of poiters, used only by snapshot composer (or when no race) ..." alt="" coords="255,202,440,258"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3fb331a72c86d72deb59c415e6b9b79c" title="foedus::storage::masstree\l::MasstreePage::set_key_count" alt="" coords="244,283,451,324"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageHeader.html#a407bbd604662534963c7fc8f08acc898" title="foedus::storage::PageHeader\l::set_key_count" alt="" coords="507,283,697,324"/>
+</map>

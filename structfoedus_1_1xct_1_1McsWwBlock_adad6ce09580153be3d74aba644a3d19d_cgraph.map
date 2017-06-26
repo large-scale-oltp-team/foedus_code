@@ -1,0 +1,4 @@
+<map id="foedus::xct::McsWwBlock::get_successor_block_relaxed" name="foedus::xct::McsWwBlock::get_successor_block_relaxed">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a7d13abc0ec8ebfd397f92cace54e706c" title="Carefully use this! In some places you must call get_word_once() then call this on the copy..." alt="" coords="228,13,429,54"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a5b66eb196341fdaea96fb04653344b37" title="foedus::xct::McsWwBlockData\l::decompose_block" alt="" coords="477,13,679,54"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="foedus::storage::combine_volatile_page_pointer" name="foedus::storage::combine_volatile_page_pointer">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a93883e6731ee4a8f2efc4cf7cec2560f" title="foedus::storage::sequential\l::SequentialComposer::drop\l_volatiles" alt="" coords="221,31,404,87"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1Composer.html#a0995635b97031b208127004382947acd" title="Drops volatile pages that have not been modified since the snapshotted epoch. " alt="" coords="452,39,631,80"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a26c51902174b692c91aedd15218f01b7" title="subroutine invoked by one thread for one node. " alt="" coords="679,31,863,87"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a5d474e7a6b4de127153103f2295cb0fa" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="911,39,1137,80"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="1185,31,1396,87"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="1444,5,1655,47"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1472,71,1627,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1703,5,1897,47"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1703,71,1897,112"/>
+</map>

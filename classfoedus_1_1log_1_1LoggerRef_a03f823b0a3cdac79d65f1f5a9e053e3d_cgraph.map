@@ -1,0 +1,5 @@
+<map id="foedus::log::LoggerRef::wakeup_for_durable_epoch" name="foedus::log::LoggerRef::wakeup_for_durable_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LoggerRef.html#a66297efce7a73131e0e0ffc83df0b469" title="Returns this logger&#39;s durable epoch. " alt="" coords="251,5,402,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="240,71,413,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1log_1_1LoggerRef.html#a4849d838114e7ffc525f242cdf5b9a44" title="Wakes up this logger if it is sleeping. " alt="" coords="251,136,402,177"/>
+</map>

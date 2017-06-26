@@ -1,0 +1,10 @@
+<map id="foedus::xct::XctId::set_ordinal" name="foedus::xct::XctId::set_ordinal">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#a78db26b61257eee09981c77721ef6595" title="foedus::xct::XctId\l::increment_ordinal" alt="" coords="193,5,325,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1Xct.html#a9dd027b4a8d21f45a60f82d110c5a529" title="foedus::xct::Xct::initialize" alt="" coords="176,71,343,98"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1Xct.html#a208310505c3d16cf2dc10f94f968d4a4" title="Called while a successful commit of xct to issue a new xct id. " alt="" coords="184,124,335,165"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a741208e803d0a0bb5f979ebb099d2a8d" title="foedus::thread::ThreadPimpl\l::initialize_once" alt="" coords="396,61,580,103"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad91daff37c2b78b8c6620d67869e9d7f" title="Phase 3 of precommit_xct() " alt="" coords="391,127,585,168"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="633,127,828,168"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="876,127,1071,168"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1119,127,1281,168"/>
+</map>

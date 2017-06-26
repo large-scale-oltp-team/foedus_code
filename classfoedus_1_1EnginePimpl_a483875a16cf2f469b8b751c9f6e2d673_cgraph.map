@@ -1,0 +1,28 @@
+<map id="foedus::EnginePimpl::uninitialize_once" name="foedus::EnginePimpl::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a45aa9998863c0d0f8548806d06503972" title="foedus::soc::SharedMemory\lRepo::change_master_status" alt="" coords="195,260,387,301"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1EnginePimpl.html#a361db01caeca068890f345f01651bd2e" title="foedus::EnginePimpl\l::describe_short" alt="" coords="220,556,361,597"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="209,621,373,663"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1EnginePimpl.html#a02a768be5e10125bc11720a03987c282" title="Returns in initialization order. " alt="" coords="220,687,361,728"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="446,512,626,553"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManager.html#ab6dd284be4b99ed64f2de739b149af9d" title="Returns whether the object has been already initialized or not. " alt="" coords="451,743,621,784"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1EnginePimpl.html#a31a1deff452ec36db10d92d42d7e4c4f" title="foedus::EnginePimpl\l::is_master" alt="" coords="465,577,607,619"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1EnginePimpl.html#a5a2c657e4fcf77d3166da849a6af8ffd" title="Called whenever each module has completed its uninitialization. " alt="" coords="207,388,375,429"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1soc_1_1SocManager.html#a682c59396c07f64db698d0b5fcb76ba4" title="An idempotent method to release all resources of this object, if any. " alt="" coords="205,805,376,847"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1soc_1_1SocManager.html#a7a9cd36f9f5daf08d2424026f611dc11" title="Wait for other engines to finish init/uninit the module. " alt="" coords="203,83,378,124"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1soc_1_1SocManager.html#a73369a529df5147ddacd8d749ae2e002" title="Wait for master engine to finish init/uninit the module. " alt="" coords="205,164,376,205"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#aa3f2eb00974e1e60ce9a03e8f8f64954" title="Update the value of status_code_ with fence. " alt="" coords="437,197,635,239"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="709,253,882,295"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="709,743,881,784"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#a7cf8cc11edfc97633e9120533e1c0cf3" title="foedus::soc::MasterEngine\lStatus::change_uninit_atomic" alt="" coords="439,315,633,356"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1soc_1_1ChildEngineStatus.html#a561683486b98aeeefcb2bca72b91301a" title="foedus::soc::ChildEngine\lStatus::change_uninit\l_atomic" alt="" coords="453,381,619,437"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="703,383,888,439"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a2e5d1a0a78c66ac6e1c8ef166d2965c3" title="foedus::soc::SharedMemory\lRepo::get_node_memory_anchors" alt="" coords="685,188,905,229"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="450,808,622,849"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="709,808,881,849"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#ab34e312e55cd449909c9096b45c200fe" title="foedus::soc::SocManagerPimpl\l::wait_for_children_module" alt="" coords="435,67,637,108"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="728,5,863,47"/>
+<area shape="rect" id="node23" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="708,71,883,112"/>
+<area shape="rect" id="node24" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="734,137,857,163"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="953,137,1104,163"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a1e8d5c98af1d33d7a77a05503eedc7be" title="foedus::soc::SocManagerPimpl\l::wait_for_master_module" alt="" coords="435,132,637,173"/>
+</map>

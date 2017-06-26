@@ -1,0 +1,6 @@
+<map id="numa_bind_compat" name="numa_bind_compat">
+<area shape="rect" id="node2" href="$numa_8h.html#aea0a442bcdafca87cc44182c23cba390" title="copy_nodemask_to_bitmask" alt="" coords="188,5,376,32"/>
+<area shape="rect" id="node3" href="$numa_8h.html#ad9ae72f7022bf345d9290fc92612ffa8" title="numa_allocate_nodemask" alt="" coords="195,56,369,83"/>
+<area shape="rect" id="node4" href="$numa_8h.html#a4b966c11760722536532dfecbe108682" title="numa_bind" alt="" coords="239,107,325,133"/>
+<area shape="rect" id="node5" href="$numa_8h.html#aecafde9ab943547d6134f1fc45a55c33" title="numa_bitmask_free" alt="" coords="215,157,349,184"/>
+</map>

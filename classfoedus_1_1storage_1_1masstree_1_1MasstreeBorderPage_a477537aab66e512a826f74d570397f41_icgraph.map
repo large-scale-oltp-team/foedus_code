@@ -1,0 +1,9 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::available_space" name="foedus::storage::masstree::MasstreeBorderPage::available_space">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a6ce21d6a92abc597380b8385509464ed" title="foedus::storage::masstree\l::MasstreeBorderPage::can\l_accomodate" alt="" coords="324,121,505,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a027ba66a84d7617e1f954edb3c3c4f56" title="Slightly different from can_accomodate() as follows: " alt="" coords="324,201,505,257"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a49c67f561e5748dbaf947cc22325a8a5" title="A physical&#45;only method to expand a record within this page without any logical change. " alt="" coords="304,281,525,337"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#ac7ca15bf233b941d860679b88c8bc87f" title="Installs a new physical record that doesn&#39;t exist logically (delete bit on). " alt="" coords="574,5,775,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html#aae952c17c2f2b1c760f899da5c368054" title="Execute the system transaction. " alt="" coords="824,111,997,153"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a2be77538e13226dbc44134039be0dc73" title="For creating a record that is initially a next&#45;layer. " alt="" coords="574,136,775,192"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a35973b360ff80fe5c939e971c373ee05" title="Installs a next layer pointer. " alt="" coords="573,216,776,272"/>
+</map>

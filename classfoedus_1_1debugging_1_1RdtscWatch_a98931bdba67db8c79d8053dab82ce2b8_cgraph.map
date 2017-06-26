@@ -1,0 +1,4 @@
+<map id="foedus::debugging::RdtscWatch::RdtscWatch" name="foedus::debugging::RdtscWatch::RdtscWatch">
+<area shape="rect" id="node2" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a3a99892cf6abe4e0b189b757fb9292c4" title="Take current time tick. " alt="" coords="228,5,363,47"/>
+<area shape="rect" id="node3" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="411,5,545,47"/>
+</map>

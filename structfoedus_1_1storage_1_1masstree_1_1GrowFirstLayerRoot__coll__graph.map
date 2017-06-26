@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::GrowFirstLayerRoot" name="foedus::storage::masstree::GrowFirstLayerRoot">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1SysxctFunctor.html" title="A functor representing the logic in a system transaction via virtual&#45;function. " alt="" coords="5,81,184,108"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Thread.html" title="Represents one thread running on one NUMA core. " alt="" coords="209,81,359,108"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="218,5,350,32"/>
+</map>

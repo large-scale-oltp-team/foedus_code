@@ -1,0 +1,9 @@
+<map id="foedus::storage::hash::RecordLocation::populate_physical" name="foedus::storage::hash::RecordLocation::populate_physical">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ab696a16e6a995a515736ff0a28b47885" title="same as &amp;get_slot(), but this is more explicit and easier to understand/maintain " alt="" coords="232,5,403,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#ad5be23a25e650f1bad81ce8c87630af0" title="foedus::xct::XctId\l::is_being_written" alt="" coords="256,86,379,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html#aa3d33ca4fe97b735ce59594993a1dd94" title="foedus::xct::XctId\l::is_next_layer" alt="" coords="256,151,379,193"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#a449da7fea452dd81c194f94b28e7a7e2" title="foedus::xct::XctId\l::is_valid" alt="" coords="256,217,379,258"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a49863802f2bfb024c928a37ea7abce07" title="foedus::storage::hash\l::HashDataPage::record\l_from_offset" alt="" coords="237,283,398,339"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1XctId.html#a5c7082819f333ce0b621c2c34fe91a41" title="Returns a version of this Xid whose being_written flag is off. " alt="" coords="231,363,404,405"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="452,217,575,258"/>
+</map>

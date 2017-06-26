@@ -1,0 +1,4 @@
+<map id="foedus::Engine::get_durable_global_epoch" name="foedus::Engine::get_durable_global_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LogManager.html#a3d0f1491c5d6ef15601986b7b1dd6aaa" title="Returns the durable epoch of the entire engine. " alt="" coords="208,5,388,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a61e44b4b7bb5dfc3d4111bb6bef25ea9" title="foedus::log::LogManagerPimpl\l::get_durable_global_epoch" alt="" coords="436,5,633,47"/>
+</map>

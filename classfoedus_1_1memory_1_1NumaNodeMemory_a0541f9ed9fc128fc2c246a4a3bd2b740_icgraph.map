@@ -1,0 +1,6 @@
+<map id="foedus::memory::NumaNodeMemory::get_snapshot_pool" name="foedus::memory::NumaNodeMemory::get_snapshot_pool">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#af04416fadb8ec5160408982fa67a08c1" title="foedus::cache::CacheManager\lPimpl::initialize_once" alt="" coords="240,5,439,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#af7bdd6c02647872c28ecb66d89adb965" title="foedus::memory::NumaCore\lMemory::initialize_once" alt="" coords="247,71,431,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a741208e803d0a0bb5f979ebb099d2a8d" title="foedus::thread::ThreadPimpl\l::initialize_once" alt="" coords="247,136,431,177"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1CacheManager.html#a9181ec7d7e0ee1faa942ba9eec6c1345" title="foedus::cache::CacheManager\l::initialize_once" alt="" coords="487,5,685,47"/>
+</map>

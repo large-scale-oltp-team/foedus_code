@@ -1,0 +1,28 @@
+var namespacefoedus_1_1snapshot =
+[
+    [ "BlockHeaderBase", "structfoedus_1_1snapshot_1_1BlockHeaderBase.html", "structfoedus_1_1snapshot_1_1BlockHeaderBase" ],
+    [ "DumpFileSortedBuffer", "classfoedus_1_1snapshot_1_1DumpFileSortedBuffer.html", "classfoedus_1_1snapshot_1_1DumpFileSortedBuffer" ],
+    [ "FillerBlockHeader", "structfoedus_1_1snapshot_1_1FillerBlockHeader.html", null ],
+    [ "FullBlockHeader", "structfoedus_1_1snapshot_1_1FullBlockHeader.html", "structfoedus_1_1snapshot_1_1FullBlockHeader" ],
+    [ "InMemorySortedBuffer", "classfoedus_1_1snapshot_1_1InMemorySortedBuffer.html", "classfoedus_1_1snapshot_1_1InMemorySortedBuffer" ],
+    [ "LogBuffer", "structfoedus_1_1snapshot_1_1LogBuffer.html", "structfoedus_1_1snapshot_1_1LogBuffer" ],
+    [ "LogGleaner", "classfoedus_1_1snapshot_1_1LogGleaner.html", "classfoedus_1_1snapshot_1_1LogGleaner" ],
+    [ "LogGleanerControlBlock", "structfoedus_1_1snapshot_1_1LogGleanerControlBlock.html", "structfoedus_1_1snapshot_1_1LogGleanerControlBlock" ],
+    [ "LogGleanerRef", "classfoedus_1_1snapshot_1_1LogGleanerRef.html", "classfoedus_1_1snapshot_1_1LogGleanerRef" ],
+    [ "LogGleanerResource", "structfoedus_1_1snapshot_1_1LogGleanerResource.html", "structfoedus_1_1snapshot_1_1LogGleanerResource" ],
+    [ "LogMapper", "classfoedus_1_1snapshot_1_1LogMapper.html", "classfoedus_1_1snapshot_1_1LogMapper" ],
+    [ "LogReducer", "classfoedus_1_1snapshot_1_1LogReducer.html", "classfoedus_1_1snapshot_1_1LogReducer" ],
+    [ "LogReducerControlBlock", "structfoedus_1_1snapshot_1_1LogReducerControlBlock.html", "structfoedus_1_1snapshot_1_1LogReducerControlBlock" ],
+    [ "LogReducerRef", "classfoedus_1_1snapshot_1_1LogReducerRef.html", "classfoedus_1_1snapshot_1_1LogReducerRef" ],
+    [ "MapReduceBase", "classfoedus_1_1snapshot_1_1MapReduceBase.html", "classfoedus_1_1snapshot_1_1MapReduceBase" ],
+    [ "MergeSort", "classfoedus_1_1snapshot_1_1MergeSort.html", "classfoedus_1_1snapshot_1_1MergeSort" ],
+    [ "ReducerBufferStatus", "unionfoedus_1_1snapshot_1_1ReducerBufferStatus.html", "unionfoedus_1_1snapshot_1_1ReducerBufferStatus" ],
+    [ "Snapshot", "structfoedus_1_1snapshot_1_1Snapshot.html", "structfoedus_1_1snapshot_1_1Snapshot" ],
+    [ "SnapshotManager", "classfoedus_1_1snapshot_1_1SnapshotManager.html", "classfoedus_1_1snapshot_1_1SnapshotManager" ],
+    [ "SnapshotManagerControlBlock", "structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html", "structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock" ],
+    [ "SnapshotManagerPimpl", "classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html", "classfoedus_1_1snapshot_1_1SnapshotManagerPimpl" ],
+    [ "SnapshotMetadata", "structfoedus_1_1snapshot_1_1SnapshotMetadata.html", "structfoedus_1_1snapshot_1_1SnapshotMetadata" ],
+    [ "SnapshotOptions", "structfoedus_1_1snapshot_1_1SnapshotOptions.html", "structfoedus_1_1snapshot_1_1SnapshotOptions" ],
+    [ "SnapshotWriter", "classfoedus_1_1snapshot_1_1SnapshotWriter.html", "classfoedus_1_1snapshot_1_1SnapshotWriter" ],
+    [ "SortedBuffer", "classfoedus_1_1snapshot_1_1SortedBuffer.html", "classfoedus_1_1snapshot_1_1SortedBuffer" ]
+];

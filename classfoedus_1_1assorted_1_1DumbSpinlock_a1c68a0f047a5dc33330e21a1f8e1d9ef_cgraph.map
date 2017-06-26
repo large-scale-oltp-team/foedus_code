@@ -1,0 +1,4 @@
+<map id="foedus::assorted::DumbSpinlock::~DumbSpinlock" name="foedus::assorted::DumbSpinlock::~DumbSpinlock">
+<area shape="rect" id="node2" href="$classfoedus_1_1assorted_1_1DumbSpinlock.html#a0851db74c3d11d83b2e8c82dc01471f2" title="Unlocks it if I locked it. " alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="523,5,696,47"/>
+</map>

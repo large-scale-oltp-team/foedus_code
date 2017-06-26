@@ -1,0 +1,11 @@
+<map id="foedus::storage::hash::operator&lt;&lt;" name="foedus::storage::hash::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a28a11a7b04e04d895b21f29709eacd1f" title="foedus::storage::hash\l::DataPageBloomFilter\l::extract_fingerprint" alt="" coords="236,5,389,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1HashDataPage_1_1Slot.html#a35da6a7faa712cb7cf70355803634063" title="foedus::storage::hash\l::HashDataPage::Slot\l::get_aligned_key_length" alt="" coords="229,85,396,141"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#acfa062e1acf64b882f466cca8e190fdd" title="foedus::storage::hash\l::HashDataPage::get_bin" alt="" coords="229,166,396,207"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac6b4a13e6f057be1874f637fb9f87c51" title="foedus::storage::hash\l::HashDataPage::get_record_count" alt="" coords="200,231,425,273"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ab696a16e6a995a515736ff0a28b47885" title="same as &amp;get_slot(), but this is more explicit and easier to understand/maintain " alt="" coords="227,297,398,353"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac653a03fd75011048550f8e9f5dd198d" title="foedus::storage::hash\l::HashDataPage::header" alt="" coords="231,378,395,419"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac977ed25935d3fa3a8d9651f96349c32" title="foedus::storage::hash\l::HashDataPage::next_page" alt="" coords="220,443,405,485"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a49863802f2bfb024c928a37ea7abce07" title="foedus::storage::hash\l::HashDataPage::record\l_from_offset" alt="" coords="232,509,393,565"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="473,100,633,127"/>
+</map>

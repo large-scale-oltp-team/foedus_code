@@ -1,0 +1,13 @@
+<map id="foedus::FixedErrorStack::to_error_stack" name="foedus::FixedErrorStack::to_error_stack">
+<area shape="rect" id="node2" href="$classfoedus_1_1FixedErrorStack.html#a473b0d84aaa49e9e27d630ded372c641" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="427,5,589,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1FixedErrorStack.html#ab8644e6aea98412c534fac81e88e9203" title="Describe this object to the given stream. " alt="" coords="216,221,379,263"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1FixedErrorStack.html#a24e01e0f89b47b93d3d0a547ee8f1017" title="Returns the custom error message. " alt="" coords="427,71,589,112"/>
+<area shape="rect" id="node5" href="$group__ERRORCODES.html#gaa2ded6dcdd1da8d29d893eeb014a78e9" title="Returns the names of ErrorCode enum defined in error_code.xmacro. " alt="" coords="429,137,587,163"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1FixedErrorStack.html#a77e87960b6fa0c79b0b88d52197041e5" title="Returns the file name of the given stack position. " alt="" coords="427,188,589,229"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1FixedErrorStack.html#ac3e802ea3b5a27d120a1b815216d4a53" title="Returns the function name of the given stack position. " alt="" coords="427,253,589,295"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1FixedErrorStack.html#a7781080b8033dbe9afa7de813e39aa7c" title="Returns the line number of the given stack position. " alt="" coords="427,319,589,360"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1FixedErrorStack.html#adce404a955c1598c740094be0ae796e1" title="Returns the error message inferred by the error code. " alt="" coords="427,384,589,425"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1FixedErrorStack.html#a66b70d71bc70fc6d94c7d8cb6759437d" title="Returns the depth of stack this error code has collected. " alt="" coords="427,449,589,491"/>
+<area shape="rect" id="node12" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="438,515,578,556"/>
+<area shape="rect" id="node10" href="$group__ERRORCODES.html#gaefc0aeec33bc4adc2f147fd1828b816e" title="Returns the error messages corresponding to ErrorCode enum defined in error_code.xmacro. " alt="" coords="637,391,816,418"/>
+</map>

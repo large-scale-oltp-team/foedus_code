@@ -1,0 +1,13 @@
+<map id="foedus::storage::MetadataSerializer::save_all_storages_to_xml" name="foedus::storage::MetadataSerializer::save_all_storages_to_xml">
+<area shape="rect" id="node2" href="$group__FILESYSTEM.html#ga4f8f53901e9c98fce72b6b3c52cf83a4" title="Returns if the file exists. " alt="" coords="299,42,420,69"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage.html#a68223dd4f3c911054e105dc792abc4bc" title="foedus::storage::save\l_to_xml_array" alt="" coords="287,93,432,135"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1storage.html#a0628adfe9868845acc64ec911a5db742" title="foedus::storage::save\l_to_xml_hash" alt="" coords="287,159,432,200"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1storage.html#a534d05daf50385988c62e0c4f9b49281" title="foedus::storage::save\l_to_xml_masstree" alt="" coords="287,224,432,265"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1storage.html#a629b262a9f0a67f4019f6a0b935a52ea" title="foedus::storage::save\l_to_xml_sequential" alt="" coords="287,289,432,331"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="480,5,625,47"/>
+<area shape="rect" id="node4" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="491,71,614,98"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="675,71,826,98"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1externalize_1_1Externalizable.html#a2417512c982e79faeaf02649f8e62e3c" title="child Externalizable version " alt="" coords="482,185,623,241"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1externalize.html#a89713044c4f671566a6d103cfefd1509" title="foedus::externalize\l::insert_comment_impl" alt="" coords="673,159,828,200"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1externalize_1_1Externalizable.html#a19c407586854a4765981cf165b653ef5" title="Writes the content of this object to the given XML element. " alt="" coords="677,224,824,265"/>
+</map>

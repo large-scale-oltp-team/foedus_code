@@ -1,0 +1,8 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::get_record_payload_from_offsets" name="foedus::storage::masstree::MasstreeBorderPage::get_record_payload_from_offsets">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#ae8535da84525f0147643f5f827d83844" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_next_layer_from_offsets" alt="" coords="262,85,441,141"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a9e24c3f7398235571f6f0b0e013f1f23" title="Copy the initial record that will be the only record for a new root page. " alt="" coords="248,165,455,221"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a35973b360ff80fe5c939e971c373ee05" title="Installs a next layer pointer. " alt="" coords="505,5,707,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a2be77538e13226dbc44134039be0dc73" title="For creating a record that is initially a next&#45;layer. " alt="" coords="505,85,707,141"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html#aae952c17c2f2b1c760f899da5c368054" title="Execute the system transaction. " alt="" coords="757,133,931,174"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a867f696df8da3aeeab003663a439a535" title="A physical&#45;only method to initialize this page as a volatile page of a layer&#45;root pointed from the gi..." alt="" coords="503,165,709,221"/>
+</map>

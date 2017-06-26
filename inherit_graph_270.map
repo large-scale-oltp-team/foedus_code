@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structfoedus_1_1xct_1_1RecordXctAccess.html" title="Base of ReadXctAccess and WriteXctAccess. " alt="" coords="5,31,203,57"/>
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1ReadXctAccess.html" title="Represents a record of read&#45;access during a transaction. " alt="" coords="251,5,437,32"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1WriteXctAccess.html" title="Represents a record of write&#45;access during a transaction. " alt="" coords="251,56,437,83"/>
+</map>

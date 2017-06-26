@@ -1,0 +1,30 @@
+<map id="foedus::DefaultInitializable" name="foedus::DefaultInitializable">
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1CacheManager.html" title="Snapshot cache manager. " alt="" coords="420,5,619,32"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html" title="Pimpl object of CacheManager. " alt="" coords="420,57,619,98"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html" title="Holds a set of read&#45;only file objects for snapshot files. " alt="" coords="416,123,623,149"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1debugging_1_1DebuggingSupports.html" title="APIs to support debugging functionalities. " alt="" coords="452,174,587,215"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1EnginePimpl.html" title="Pimpl object of Engine. " alt="" coords="449,240,590,267"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1log_1_1Logger.html" title="A log writer that writes out buffered logs to stable storages. " alt="" coords="453,291,585,317"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1log_1_1LogManagerPimpl.html" title="Pimpl object of LogManager. " alt="" coords="421,341,618,368"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1log_1_1MetaLogger.html" title="A log writer for metadata operation. " alt="" coords="439,392,600,419"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html" title="A thread&#45;local log buffer. " alt="" coords="426,443,613,469"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1memory_1_1EngineMemory.html" title="Repository of all memories dynamically acquired and shared within one database engine. " alt="" coords="414,493,625,520"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html" title="Repository of memories dynamically acquired within one CPU core (thread). " alt="" coords="427,545,611,586"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html" title="Repository of memories dynamically acquired and shared within one NUMA node (socket). " alt="" coords="426,610,613,651"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html" title="Pimpl object of PagePool. " alt="" coords="430,675,609,717"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html" title="Pimpl object of ProcManager. " alt="" coords="430,741,609,782"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html" title="Pimpl object of RestartManager. " alt="" coords="442,806,597,847"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html" title="Pimpl object of SavepointManager. " alt="" coords="439,871,600,913"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1snapshot_1_1MapReduceBase.html" title="Base class for LogMapper and LogReducer to share common code. " alt="" coords="405,937,633,964"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1snapshot_1_1MergeSort.html" title="Receives an arbitrary number of sorted buffers and emits one fully sorted stream of logs..." alt="" coords="425,988,614,1015"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html" title="Pimpl object of SnapshotManager. " alt="" coords="427,1039,611,1081"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html" title="Pimpl object of SocManager. " alt="" coords="418,1105,621,1132"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html" title="Pimpl object of StorageManager. " alt="" coords="437,1157,601,1198"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1thread_1_1ThreadGroup.html" title="Represents a group of pre&#45;allocated threads running in one NUMA node. " alt="" coords="426,1223,613,1249"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1thread_1_1ThreadPimpl.html" title="Pimpl object of Thread. " alt="" coords="427,1273,611,1300"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html" title="Pimpl object of ThreadPool. " alt="" coords="431,1325,608,1366"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html" title="Pimpl object of XctManager. " alt="" coords="422,1391,617,1417"/>
+<area shape="rect" id="node2" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="5,683,137,709"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1snapshot_1_1LogMapper.html" title="A log mapper, which reads log files from one logger and sends them to corresponding log reducers..." alt="" coords="684,912,877,939"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1snapshot_1_1LogReducer.html" title="A log reducer, which receives log entries sent from mappers and applies them to construct new snapsho..." alt="" coords="681,963,880,989"/>
+</map>

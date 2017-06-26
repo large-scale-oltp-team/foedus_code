@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::prefetch_pages_follow" name="foedus::storage::masstree::MasstreeStoragePimpl::prefetch_pages_follow">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a4c4630d85af99ceafad404bc5c5c7eef" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::prefetch_pages_normalized\l_recurse" alt="" coords="227,5,415,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a99bb085d9e427fc36182b13bb20371e9" title="defined in masstree_storage_prefetch.cpp " alt="" coords="463,13,651,69"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a10db264b9d354e1813bd20ef8fdb72bb" title="Prefetch data pages in this storage. " alt="" coords="699,13,881,69"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="foedus::storage::hash::ReserveRecords::search_within_page" name="foedus::storage::hash::ReserveRecords::search_within_page">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac6b4a13e6f057be1874f637fb9f87c51" title="foedus::storage::hash\l::HashDataPage::get_record_count" alt="" coords="464,195,689,236"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac653a03fd75011048550f8e9f5dd198d" title="foedus::storage::hash\l::HashDataPage::header" alt="" coords="238,71,402,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageVersion.html#a301cba19b01cf82d7b576a04180b56e2" title="foedus::storage::PageVersion\l::is_locked" alt="" coords="224,5,416,47"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="239,136,401,177"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac977ed25935d3fa3a8d9651f96349c32" title="foedus::storage::hash\l::HashDataPage::next_page" alt="" coords="227,253,413,295"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#aa03f1438dc159688f49de6e73c851d6e" title="Search for a physical slot that exactly contains the given key. " alt="" coords="238,355,402,411"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="492,5,661,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="737,5,939,47"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="496,129,657,171"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a4e5601b652daaffbcb9fa81aee6746c6" title="foedus::storage::hash\l::DataPageBloomFilter\l::contains" alt="" coords="500,471,653,527"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a28a11a7b04e04d895b21f29709eacd1f" title="foedus::storage::hash\l::DataPageBloomFilter\l::extract_fingerprint" alt="" coords="500,551,653,607"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac2e82163d7348a6c88fecff711025b08" title="foedus::storage::hash\l::HashDataPage::get_slot" alt="" coords="491,632,662,673"/>
+<area shape="rect" id="node14" href="$group__HASH.html#ga8c4ca78e36b2188f1feac100ce7df679" title="Calculates hash value for general input. " alt="" coords="503,260,650,301"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1xct_1_1XctId.html#a41264f4ced33dae443651f57bc09e964" title="foedus::xct::XctId\l::is_moved" alt="" coords="515,325,638,367"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a49863802f2bfb024c928a37ea7abce07" title="foedus::storage::hash\l::HashDataPage::record\l_from_offset" alt="" coords="496,391,657,447"/>
+</map>

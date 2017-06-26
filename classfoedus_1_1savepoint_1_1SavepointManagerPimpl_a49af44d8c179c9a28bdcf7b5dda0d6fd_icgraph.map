@@ -1,0 +1,10 @@
+<map id="foedus::savepoint::SavepointManagerPimpl::get_earliest_epoch" name="foedus::savepoint::SavepointManagerPimpl::get_earliest_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#ac8c418cf8e39002b4a55cc3b3120807f" title="foedus::savepoint::\lSavepointManager::get\l_earliest_epoch" alt="" coords="215,79,369,135"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a32ee0dd2b600a921b7f6b7e99a579550" title="Returns the Earliest&#45;Epoch, the minimum epoch that is valid within this engine. " alt="" coords="417,86,552,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#ab9ccf59655effed1a259100c4d46b06b" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::create" alt="" coords="611,5,790,61"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#aaf7d413df08f874c5d7caf175260c02f" title="foedus::storage::sequential\l::SequentialStoragePimpl::load" alt="" coords="600,86,801,127"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="620,152,781,208"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a1b3fd99bf6040a5ee42164d31135f433" title="foedus::storage::sequential\l::SequentialStorage::create" alt="" coords="849,13,1029,54"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a2ba6c181226fb2b20ee12b012382f2fa" title="foedus::storage::sequential\l::SequentialStorage::load" alt="" coords="850,86,1029,127"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="859,152,1020,208"/>
+</map>

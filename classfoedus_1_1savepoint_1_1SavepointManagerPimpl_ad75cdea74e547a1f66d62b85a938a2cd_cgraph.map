@@ -1,0 +1,51 @@
+<map id="foedus::savepoint::SavepointManagerPimpl::initialize_once" name="foedus::savepoint::SavepointManagerPimpl::initialize_once">
+<area shape="rect" id="node2" href="$structfoedus_1_1savepoint_1_1Savepoint.html#a1517f86868ed1f2f451c0a5af0fa7a1f" title="Tells if the variables are consistent. " alt="" coords="249,5,395,47"/>
+<area shape="rect" id="node4" href="$group__FILESYSTEM.html#ga4f8f53901e9c98fce72b6b3c52cf83a4" title="Returns if the file exists. " alt="" coords="1222,254,1343,281"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="767,1829,902,1871"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="489,532,669,573"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="511,597,646,639"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1savepoint_1_1SavepointManagerControlBlock.html#a62651ba9ef902336444a754277c76ef3" title="foedus::savepoint::\lSavepointManagerControlBlock\l::initialize" alt="" coords="221,1618,423,1674"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="259,1888,385,1929"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1externalize_1_1Externalizable.html#a6f66d8519bcfee0a582cae47a822fe18" title="Load the content of this object from the specified XML file. " alt="" coords="993,107,1137,163"/>
+<area shape="rect" id="node19" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="492,663,665,704"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1savepoint_1_1Savepoint.html#a975ddac952633742aef4641c568f040a" title="Populate variables as an initial state. " alt="" coords="233,71,411,112"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1externalize_1_1Externalizable.html#af4e4989a732573c1bbd538a3fbfad930" title="Atomically and durably writes out this object to the specified XML file. " alt="" coords="505,451,652,507"/>
+<area shape="rect" id="node34" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="241,981,403,1037"/>
+<area shape="rect" id="node46" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a0694ca2a32591b1c9e4be56ce67c2c52" title="foedus::savepoint::\lSavepointManagerPimpl\l::update_shared_savepoint" alt="" coords="491,1757,667,1813"/>
+<area shape="rect" id="node50" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="215,1954,429,1981"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1savepoint_1_1Savepoint.html#a18f976884dd7968beaaf188cd276ddca" title="Check invariants on current_epoch_/durable_epoch_. " alt="" coords="497,57,661,113"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="1425,247,1571,288"/>
+<area shape="rect" id="node6" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="1437,327,1559,354"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="1619,367,1769,394"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="491,1691,666,1732"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1soc_1_1SharedPolling.html#ace449e19d0a13388da16570aefd42994" title="foedus::soc::SharedPolling\l::initialize" alt="" coords="490,1625,667,1667"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="747,1691,922,1732"/>
+<area shape="rect" id="node15" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="748,1007,921,1048"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1externalize_1_1Externalizable.html#a546988f0869a3899e671f702ecbc5b17" title="Reads the content of this object from the given XML element. " alt="" coords="1211,115,1355,156"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a5166bae2fdad9ffa0d5c279edfd3307e" title="Allocate a memory, releasing the current memory if exists. " alt="" coords="728,459,941,500"/>
+<area shape="rect" id="node23" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="995,575,1135,616"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a7888a3b0c169fbc6b2e6e83c86d5f267" title="Close the file if not yet closed. " alt="" coords="759,524,910,565"/>
+<area shape="rect" id="node25" href="$group__FILESYSTEM.html#gaca1dd0a627c83ff76e30603ea67c4816" title="Recursive mkdir (mkdirs). " alt="" coords="1003,457,1126,499"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1fs_1_1Path.html#a9859706102ecca097e723d762ec468ae" title="foedus::fs::Path::parent_path" alt="" coords="1188,641,1377,667"/>
+<area shape="rect" id="node27" href="$group__FILESYSTEM.html#ga71591d3386f8adc320dac30d0320a3ee" title="fsync() on source file before rename, then fsync() on the parent folder after rename. " alt="" coords="771,889,899,931"/>
+<area shape="rect" id="node28" href="$group__FILESYSTEM.html#ga08865450d848cb894243005bdd226d1e" title="Makes the content and metadata of the file durable all the way up to devices. " alt="" coords="1006,858,1123,885"/>
+<area shape="rect" id="node29" href="$structfoedus_1_1externalize_1_1Externalizable.html#ad6b9ab6485d761a9d2d5402da7c97700" title="Returns an XML tag name for this object as a root element. " alt="" coords="765,691,904,747"/>
+<area shape="rect" id="node30" href="$classfoedus_1_1fs_1_1DirectIoFile.html#aaa3c1e50680d02783b61f5fe23f98b14" title="Tries to open the file for the specified volume. " alt="" coords="759,341,910,383"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a9f19d10be82ac60706853e106a5de0e1" title="Sequentially write the given amount of contents from the current position. " alt="" coords="989,289,1140,331"/>
+<area shape="rect" id="node32" href="$structfoedus_1_1externalize_1_1Externalizable.html#a19c407586854a4765981cf165b653ef5" title="Writes the content of this object to the given XML element. " alt="" coords="761,772,908,813"/>
+<area shape="rect" id="node33" href="$group__FILESYSTEM.html#ga3bc4f808e645c94d80e86221b0d32301" title="Equivalent to unique_path(&quot;%%%%&#45;%%%%&#45;%%%%&#45;%%%%&quot;). " alt="" coords="753,838,916,865"/>
+<area shape="rect" id="node35" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ab2abb00a253c25ccf137b48963c5343f" title="foedus::savepoint::\lSavepointManagerPimpl\l::is_stop_requested" alt="" coords="498,809,659,865"/>
+<area shape="rect" id="node36" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="490,889,667,931"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="490,1020,667,1061"/>
+<area shape="rect" id="node38" href="$classfoedus_1_1Engine.html#a48d5e1f7ce2f70161c253f650c75ed95" title="See Transaction Manager. " alt="" coords="511,1085,646,1127"/>
+<area shape="rect" id="node39" href="$classfoedus_1_1xct_1_1XctManager.html#a419a270d62522ede9bd871dd4adc0e2a" title="Returns the current global epoch, the epoch a newly started transaction will be in. " alt="" coords="489,1151,668,1192"/>
+<area shape="rect" id="node40" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="507,1217,650,1243"/>
+<area shape="rect" id="node41" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a259c92984615e6e503b8bcc5702f708e" title="foedus::savepoint::\lSavepointManagerPimpl\l::get_requested_durable_epoch" alt="" coords="477,1267,680,1323"/>
+<area shape="rect" id="node42" href="$classfoedus_1_1Engine.html#a32ee0dd2b600a921b7f6b7e99a579550" title="Returns the Earliest&#45;Epoch, the minimum epoch that is valid within this engine. " alt="" coords="511,1348,646,1389"/>
+<area shape="rect" id="node43" href="$classfoedus_1_1Engine.html#aa27f031bd1e256d38e616ec9a499eefc" title="See Log Manager. " alt="" coords="511,1413,646,1455"/>
+<area shape="rect" id="node44" href="$classfoedus_1_1log_1_1LogManager.html#adc4ccdefc3c9b605bd51537e6f376524" title="Fillup the given savepoint with the current information of the loggers. " alt="" coords="497,1479,661,1520"/>
+<area shape="rect" id="node45" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="486,1545,671,1601"/>
+<area shape="rect" id="node48" href="$classfoedus_1_1log_1_1LogManager.html#a970d90dc3ac74ec3e57cb4b833725290" title="Sets the new global durable epoch and also wakes up threads that were waiting for it..." alt="" coords="496,729,661,785"/>
+<area shape="rect" id="node49" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="490,955,667,996"/>
+<area shape="rect" id="node47" href="$structfoedus_1_1savepoint_1_1FixedSavepoint.html#afe30d4315c613f09e96a07c7651b0d28" title="Write out the content of the given Savepoint to this object. " alt="" coords="756,1764,913,1805"/>
+</map>

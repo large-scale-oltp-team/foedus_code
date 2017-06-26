@@ -1,0 +1,4 @@
+<map id="foedus::log::ThreadLogBufferMeta" name="foedus::log::ThreadLogBufferMeta">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1ThreadEpockMark.html" title="A thread&#45;buffer&#39;s epoch marker, which indicates where a thread switched an epoch. ..." alt="" coords="13,109,212,136"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="60,5,165,32"/>
+</map>

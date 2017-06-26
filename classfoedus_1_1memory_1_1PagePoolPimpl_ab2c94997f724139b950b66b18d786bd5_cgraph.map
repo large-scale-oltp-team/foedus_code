@@ -1,0 +1,4 @@
+<map id="foedus::memory::PagePoolPimpl::assert_free_pool" name="foedus::memory::PagePoolPimpl::assert_free_pool">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#aa545fc1cffac905225d3a7c7c457b5a8" title="foedus::memory::PagePool\lPimpl::free_pool_head" alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="232,71,411,112"/>
+</map>

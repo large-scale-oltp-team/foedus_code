@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structfoedus_1_1snapshot_1_1BlockHeaderBase.html" title="All log blocks in mapper/reducers start with this header. " alt="" coords="5,46,239,73"/>
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1FillerBlockHeader.html" title="A header for a dummy storage block that fills the gap between the end of previous storage block and t..." alt="" coords="299,5,457,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1FullBlockHeader.html" title="All blocks that have content start with this header. " alt="" coords="287,71,469,112"/>
+</map>

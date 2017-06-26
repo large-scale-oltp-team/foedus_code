@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreePage" name="foedus::storage::masstree::MasstreePage">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html" title="Represents one border page in Masstree Storage. " alt="" coords="233,5,406,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html" title="Represents one intermediate page in Masstree Storage. " alt="" coords="227,71,412,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Sequential Storage" name="Sequential Storage">
+<area shape="rect" id="node1" href="$group__STORAGE.html" title="Storage Manager, which implements a couple of key/value stores. " alt="" coords="5,51,127,77"/>
+<area shape="rect" id="node2" href="$group__LOGTYPE.html" title="Defines the content and apply logic of transactional operatrions. " alt="" coords="524,51,605,77"/>
+</map>

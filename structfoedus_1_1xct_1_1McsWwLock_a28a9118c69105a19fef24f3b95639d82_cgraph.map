@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsWwLock::get_tail_acquire" name="foedus::xct::McsWwLock::get_tail_acquire">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a09691e08b265e0d82aa231524776dd38" title="foedus::xct::McsWwBlockData\l::copy_acquire" alt="" coords="223,39,424,80"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#ab9d405536ed7fa9ea2b3f71ea9e21d8f" title="foedus::xct::McsWwBlockData\l::get_word_acquire" alt="" coords="472,5,673,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a49a183b7955d6d6a74fa0902e98ad19d" title="foedus::xct::McsWwBlockData\l::McsWwBlockData" alt="" coords="472,71,673,112"/>
+</map>

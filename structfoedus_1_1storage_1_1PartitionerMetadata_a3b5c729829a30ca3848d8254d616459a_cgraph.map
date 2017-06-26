@@ -1,0 +1,8 @@
+<map id="foedus::storage::PartitionerMetadata::allocate_data" name="foedus::storage::PartitionerMetadata::allocate_data">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PartitionerMetadata.html#a889951c15caacc4d60b446f6c6c56cde" title="Returns the special index&#45;0 entry that manages data block allocation for partitioners. " alt="" coords="232,71,440,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMutexScope.html#a51a27729ac214786ce97d32ae80dd6f7" title="foedus::soc::SharedMutex\lScope::get_mutex" alt="" coords="249,136,423,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMutexScope.html#a9576d709cf25478f4fe81a8362ba7636" title="foedus::soc::SharedMutex\lScope::is_locked_by_me" alt="" coords="249,201,423,243"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="513,5,648,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="491,71,671,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="488,137,673,193"/>
+</map>

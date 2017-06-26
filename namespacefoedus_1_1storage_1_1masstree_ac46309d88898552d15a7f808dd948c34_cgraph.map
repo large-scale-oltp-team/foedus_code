@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::copy_input_key" name="foedus::storage::masstree::copy_input_key">
+<area shape="rect" id="node2" href="$group__MASSTREE.html#gabfe21e7cd7f1a689891743d93c6996c8" title="Extract a part of a big&#45;endian byte array of given length as KeySlice. " alt="" coords="227,35,400,76"/>
+<area shape="rect" id="node3" href="$group__MASSTREE.html#gaa6842bc28437a9d4319e51471f4e3237" title="Convert a big&#45;endian byte array of given length to KeySlice. " alt="" coords="448,5,651,47"/>
+<area shape="rect" id="node4" href="$group__MASSTREE.html#ga6818c708d9ac34b794cb1f91fa6f5296" title="Convert a big&#45;endian byte array of at least 8&#45;bytes&#45;length to KeySlice. " alt="" coords="699,35,872,76"/>
+</map>

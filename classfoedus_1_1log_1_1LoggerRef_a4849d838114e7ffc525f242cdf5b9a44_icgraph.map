@@ -1,0 +1,3 @@
+<map id="foedus::log::LoggerRef::wakeup" name="foedus::log::LoggerRef::wakeup">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LoggerRef.html#a03f823b0a3cdac79d65f1f5a9e053e3d" title="Wakes up this logger if its durable_epoch has not reached the given epoch yet. " alt="" coords="204,5,391,47"/>
+</map>

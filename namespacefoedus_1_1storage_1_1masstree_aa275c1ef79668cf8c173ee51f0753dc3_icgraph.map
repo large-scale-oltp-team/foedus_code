@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::count_children_approximate" name="foedus::storage::masstree::count_children_approximate">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#ad6c9eb02ad32cc1bffe9daac3521ad24" title="Returns the count of direct children in the first&#45;root node. " alt="" coords="245,5,419,76"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a32332060560b864a857a839bb0adb4fd" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::fatify_first_root_double" alt="" coords="467,78,640,134"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#ac3b15bb4f888327ba49050f62d020f52" title="Defined in masstree_storage_fatify.cpp. " alt="" coords="688,46,861,102"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a70b1c5e023fa0aac150e7b607e37727c" title="Deliberately causes splits under the volatile root of first layer, or &quot;fatify&quot; it. " alt="" coords="909,46,1083,102"/>
+</map>

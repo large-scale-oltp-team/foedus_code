@@ -1,0 +1,16 @@
+<map id="foedus::storage::hash::ComposedBinsBuffer::next_bin" name="foedus::storage::hash::ComposedBinsBuffer::next_bin">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsBuffer.html#a5fe3533ff092920e41ddc56ebcd4165c" title="Read pages to buffer_. " alt="" coords="204,139,355,195"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#aae67209f9aa9d03e45a9934067c8245b" title="Read contiguous pages in one shot. " alt="" coords="403,146,589,187"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="637,23,837,79"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#ae5b153acb9f3115c44a48e10ff2262fb" title="foedus::cache::SnapshotFile\lSet::get_or_open_file" alt="" coords="644,103,831,145"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a5353bbb3b2a815d6c858c8190edeccf4" title="A version that receives a raw pointer that has to be aligned (be careful to use this ver)..." alt="" coords="662,286,813,327"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a35814dfec4dab81d5bb46e453f1993e6" title="Sets the position of the next byte to be written/extracted from/to the stream. " alt="" coords="662,189,813,230"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="887,85,1075,141"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="885,5,1076,61"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1fs.html#a1a3ea81bf627928d9a5f154986af9c48" title="foedus::fs::is_odirect\l_aligned" alt="" coords="909,166,1052,207"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1d89a9c761a388f13f9b59490b6caa00" title="Whether the file is already and successfully opened. " alt="" coords="905,427,1056,469"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="911,231,1051,273"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1c6bff6aafc955fd4c2a8e11e7f41f40" title="Sequentially read the given amount of contents from the current position. " alt="" coords="905,362,1056,403"/>
+<area shape="rect" id="node13" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="913,297,1048,338"/>
+<area shape="rect" id="node14" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="1124,297,1259,338"/>
+</map>

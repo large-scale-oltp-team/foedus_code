@@ -1,0 +1,8 @@
+<map id="foedus::xct::XctManagerPimpl::precommit_xct_sort_access" name="foedus::xct::XctManagerPimpl::precommit_xct_sort_access">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#a148038efa6f37e2b89f057c5d5cd4cb3" title="This debug method checks whether the related_read_ and related_write_ fileds in read/write sets are c..." alt="" coords="263,5,419,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1WriteXctAccess.html#a4ff6663f61aa1e2ea251c15f16796974" title="foedus::xct::WriteXctAccess\l::compare" alt="" coords="248,71,435,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="266,136,417,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1Xct.html#ae5fa3dcdb891b99e5bc7d83ff2029f46" title="foedus::xct::Xct::get\l_write_set" alt="" coords="272,201,411,243"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1Xct.html#a674e3ce0252c1c9d2f73edf3b3c4307e" title="foedus::xct::Xct::get\l_write_set_size" alt="" coords="272,267,411,308"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#ab99f8c62595322b828742165a3cbb9d8" title="sort the write set in a unique order. " alt="" coords="483,71,680,112"/>
+</map>

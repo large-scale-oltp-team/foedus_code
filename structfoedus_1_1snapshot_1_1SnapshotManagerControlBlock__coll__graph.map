@@ -1,0 +1,6 @@
+<map id="foedus::snapshot::SnapshotManagerControlBlock" name="foedus::snapshot::SnapshotManagerControlBlock">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1LogGleanerControlBlock.html" title="Shared data for LogGleaner. " alt="" coords="5,199,200,240"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1Snapshot.html" title="Represents one snapshot that converts all logs from base epoch to valid_until epoch into snapshot fil..." alt="" coords="11,109,195,136"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="50,5,155,32"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="225,206,402,233"/>
+</map>

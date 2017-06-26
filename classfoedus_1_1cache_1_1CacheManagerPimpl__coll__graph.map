@@ -1,0 +1,15 @@
+<map id="foedus::cache::CacheManagerPimpl" name="foedus::cache::CacheManagerPimpl">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="760,5,932,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="369,32,501,59"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="792,63,900,89"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePool.html" title="Page pool for volatile read/write store (VolatilePage) and the read&#45;only bufferpool (SnapshotPage)..." alt="" coords="757,127,935,153"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1cache_1_1CacheHashtable.html" title="A NUMA&#45;local hashtable of cached snapshot pages. " alt="" coords="743,204,949,231"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1cache_1_1HashFunc.html" title="A simple hash function logic used in snasphot cache. " alt="" coords="349,100,520,127"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1assorted_1_1ConstDiv.html" title="The pre&#45;calculated p&#45;m pair for optimized integer division by constant. " alt="" coords="17,100,195,127"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="347,152,522,179"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1cache.html#structfoedus_1_1cache_1_1CacheOverflowEntry" title="An entry in the overflow linked list for snapshot cache. " alt="" coords="337,266,533,307"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1cache_1_1CacheBucket.html" title="Hash bucket in cache table. " alt="" coords="11,228,201,255"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1cache_1_1CacheRefCount.html" title="A loosely maintained reference count for CLOCK algorithm. " alt="" coords="5,300,207,327"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="328,412,541,439"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="804,491,888,517"/>
+</map>

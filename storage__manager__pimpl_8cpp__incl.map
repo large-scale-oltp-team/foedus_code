@@ -1,0 +1,43 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/src/foedus/storage/storage_manager_pimpl.cpp" name="/home/shino/foedus_code/foedus&#45;core/src/foedus/storage/storage_manager_pimpl.cpp">
+<area shape="rect" id="node2" href="$storage__manager__pimpl_8hpp.html" title="foedus/storage/storage\l_manager_pimpl.hpp" alt="" coords="899,124,1053,165"/>
+<area shape="rect" id="node11" href="$shared__memory__repo_8hpp.html" title="foedus/soc/shared_memory\l_repo.hpp" alt="" coords="354,213,537,255"/>
+<area shape="rect" id="node13" href="$engine_8hpp.html" title="foedus/engine.hpp" alt="" coords="359,310,486,337"/>
+<area shape="rect" id="node15" href="$engine__options_8hpp.html" title="foedus/engine_options.hpp" alt="" coords="57,310,233,337"/>
+<area shape="rect" id="node16" href="$storage__options_8hpp.html" title="foedus/storage/storage\l_options.hpp" alt="" coords="5,392,160,433"/>
+<area shape="rect" id="node17" href="$atomic__fences_8hpp.html" title="Atomic fence methods and load/store with fences that work for both C++11/non&#45;C++11 code..." alt="" coords="2380,303,2537,344"/>
+<area shape="rect" id="node19" href="$storage_8hpp.html" title="foedus/storage/storage.hpp" alt="" coords="3509,310,3688,337"/>
+<area shape="rect" id="node20" href="$metadata_8hpp.html" title="foedus/storage/metadata.hpp" alt="" coords="4495,399,4686,426"/>
+<area shape="rect" id="node24" href="$error__stack__batch_8hpp.html" title="foedus/error_stack\l_batch.hpp" alt="" coords="2315,124,2445,165"/>
+<area shape="rect" id="node25" href="$snapshot__file__set_8hpp.html" title="foedus/cache/snapshot\l_file_set.hpp" alt="" coords="663,303,819,344"/>
+<area shape="rect" id="node26" href="$stop__watch_8hpp.html" title="foedus/debugging/stop\l_watch.hpp" alt="" coords="2469,124,2621,165"/>
+<area shape="rect" id="node27" href="$log__manager_8hpp.html" title="foedus/log/log_manager.hpp" alt="" coords="2771,310,2954,337"/>
+<area shape="rect" id="node28" href="$meta__log__buffer_8hpp.html" title="foedus/log/meta_log\l_buffer.hpp" alt="" coords="2979,303,3117,344"/>
+<area shape="rect" id="node29" href="$thread__log__buffer_8hpp.html" title="foedus/log/thread_log\l_buffer.hpp" alt="" coords="1213,213,1358,255"/>
+<area shape="rect" id="node30" href="$engine__memory_8hpp.html" title="foedus/memory/engine\l_memory.hpp" alt="" coords="1557,213,1710,255"/>
+<area shape="rect" id="node31" href="$savepoint__manager_8hpp.html" title="foedus/savepoint/savepoint\l_manager.hpp" alt="" coords="2015,303,2191,344"/>
+<area shape="rect" id="node32" href="$snapshot__manager_8hpp.html" title="foedus/snapshot/snapshot\l_manager.hpp" alt="" coords="997,303,1171,344"/>
+<area shape="rect" id="node33" href="$snapshot__metadata_8hpp.html" title="foedus/snapshot/snapshot\l_metadata.hpp" alt="" coords="1786,213,1961,255"/>
+<area shape="rect" id="node34" href="$soc__manager_8hpp.html" title="foedus/soc/soc_manager.hpp" alt="" coords="2037,221,2227,247"/>
+<area shape="rect" id="node35" href="$partitioner_8hpp.html" title="foedus/storage/partitioner.hpp" alt="" coords="3243,310,3435,337"/>
+<area shape="rect" id="node36" href="$storage__log__types_8hpp.html" title="Declares common log types for all (or at least multiple) storage types. " alt="" coords="4824,124,4979,165"/>
+<area shape="rect" id="node37" href="$array__log__types_8hpp.html" title="Declares all log types used in this storage type. " alt="" coords="3698,124,3841,165"/>
+<area shape="rect" id="node38" href="$array__metadata_8hpp.html" title="foedus/storage/array\l/array_metadata.hpp" alt="" coords="4304,303,4445,344"/>
+<area shape="rect" id="node39" href="$array__storage_8hpp.html" title="foedus/storage/array\l/array_storage.hpp" alt="" coords="3699,213,3839,255"/>
+<area shape="rect" id="node40" href="$hash__log__types_8hpp.html" title="Declares all log types used in this storage type. " alt="" coords="4313,213,4455,255"/>
+<area shape="rect" id="node41" href="$hash__metadata_8hpp.html" title="foedus/storage/hash\l/hash_metadata.hpp" alt="" coords="4673,303,4813,344"/>
+<area shape="rect" id="node42" href="$hash__storage_8hpp.html" title="foedus/storage/hash\l/hash_storage.hpp" alt="" coords="3152,213,3291,255"/>
+<area shape="rect" id="node43" href="$masstree__log__types_8hpp.html" title="Declares all log types used in this storage type. " alt="" coords="3997,124,4165,165"/>
+<area shape="rect" id="node44" href="$masstree__metadata_8hpp.html" title="foedus/storage/masstree\l/masstree_metadata.hpp" alt="" coords="4531,213,4698,255"/>
+<area shape="rect" id="node45" href="$masstree__storage_8hpp.html" title="foedus/storage/masstree\l/masstree_storage.hpp" alt="" coords="3509,213,3675,255"/>
+<area shape="rect" id="node46" href="$sequential__log__types_8hpp.html" title="Declares all log types used in this storage type. " alt="" coords="3292,124,3465,165"/>
+<area shape="rect" id="node47" href="$sequential__metadata_8hpp.html" title="foedus/storage/sequential\l/sequential_metadata.hpp" alt="" coords="4117,213,4288,255"/>
+<area shape="rect" id="node48" href="$sequential__storage_8hpp.html" title="foedus/storage/sequential\l/sequential_storage.hpp" alt="" coords="3315,213,3485,255"/>
+<area shape="rect" id="node49" href="$thread__pool_8hpp.html" title="foedus/thread/thread\l_pool.hpp" alt="" coords="2215,303,2355,344"/>
+<area shape="rect" id="node50" href="$xct__manager_8hpp.html" title="foedus/xct/xct_manager.hpp" alt="" coords="2562,310,2747,337"/>
+<area shape="rect" id="node7" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="2601,399,2709,426"/>
+<area shape="rect" id="node8" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="1850,399,2003,426"/>
+<area shape="rect" id="node9" href="$aligned__memory_8hpp.html" title="foedus/memory/aligned\l_memory.hpp" alt="" coords="1399,303,1555,344"/>
+<area shape="rect" id="node10" href="$snapshot_2fwd_8hpp.html" title="Forward declarations of classes in snapshot manager package. " alt="" coords="501,399,667,426"/>
+<area shape="rect" id="node14" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="2491,481,2645,508"/>
+<area shape="rect" id="node18" href="$shared__mutex_8hpp.html" title="foedus/soc/shared_mutex.hpp" alt="" coords="3054,399,3250,426"/>
+</map>

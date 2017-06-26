@@ -1,0 +1,3 @@
+<map id="foedus::xct::XctManager::pause_accepting_xct" name="foedus::xct::XctManager::pause_accepting_xct">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a19be4bae2114e48eb5c041c29e991983" title="Pause all begin_xct until you call resume_accepting_xct() " alt="" coords="216,5,411,47"/>
+</map>

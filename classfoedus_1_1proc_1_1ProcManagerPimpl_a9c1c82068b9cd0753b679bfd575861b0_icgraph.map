@@ -1,0 +1,5 @@
+<map id="foedus::proc::ProcManagerPimpl::get_proc" name="foedus::proc::ProcManagerPimpl::get_proc">
+<area shape="rect" id="node2" href="$classfoedus_1_1proc_1_1ProcManager.html#a22da584f85fbfd412c0637f737e32740" title="Returns the function pointer of the specified procedure. " alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a73a9dfcab4771b1a5c6362406b27faeb" title="Main routine of the worker thread. " alt="" coords="459,5,643,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a741208e803d0a0bb5f979ebb099d2a8d" title="foedus::thread::ThreadPimpl\l::initialize_once" alt="" coords="691,5,875,47"/>
+</map>

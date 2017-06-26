@@ -1,0 +1,9 @@
+<map id="foedus::storage::PageVersion::set_has_next_page" name="foedus::storage::PageVersion::set_has_next_page">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PageVersion.html#a301cba19b01cf82d7b576a04180b56e2" title="foedus::storage::PageVersion\l::is_locked" alt="" coords="245,23,437,64"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ac07d54d78de464e4f8a52d606e140b35" title="foedus::storage::PageVersion\lStatus::set_has_next_page" alt="" coords="245,120,437,161"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="497,5,666,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="725,5,927,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ac3214863fa74628187ce46b2879994ae" title="foedus::storage::PageVersion\lStatus::is_moved" alt="" coords="485,71,677,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ab07c3c3d030fab04f79b59dee83ecd2e" title="foedus::storage::PageVersion\lStatus::is_retired" alt="" coords="485,136,677,177"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#a8360836cebd9fbeadfeb2a31809270c2" title="foedus::storage::PageVersion\lStatus::has_next_page" alt="" coords="485,201,677,243"/>
+</map>

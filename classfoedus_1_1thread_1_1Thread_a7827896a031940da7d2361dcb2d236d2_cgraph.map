@@ -1,0 +1,20 @@
+<map id="foedus::thread::Thread::cll_giveup_all_locks_at_and_after" name="foedus::thread::Thread::cll_giveup_all_locks_at_and_after">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a94b9b35db175ad18d7e889b3bd57ea85" title="This gives&#45;up locks in CLL that are not yet taken. " alt="" coords="204,71,380,113"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a4197d522317d6177fd0d9a0ee811cdf5" title="foedus::thread::ThreadPimpl\l::cll_giveup_all_locks_after" alt="" coords="428,71,612,113"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1Xct.html#afc0b909c82e905105f4f9701082a16b8" title="foedus::xct::Xct::get\l_current_lock_list" alt="" coords="683,6,821,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a33a1b8b428cd84029b8b377867197ea4" title="foedus::thread::ThreadPimpl\l::is_simple_mcs_rw" alt="" coords="660,71,844,113"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a3ac4e854509ec8a1cf9a70fcba501a68" title="This gives&#45;up locks in CLL that are not yet taken. " alt="" coords="670,137,834,178"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1CurrentLockList.html#acbed8e324b88389217b42a132e0547b8" title="foedus::xct::CurrentLock\lList::assert_sorted" alt="" coords="892,71,1056,113"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ae0cbd2f6b369d0340c3222f124fe122b" title="foedus::xct::CurrentLock\lList::begin" alt="" coords="892,137,1056,178"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ad34e69a6289f0860fe000c3bbecda1cb" title="foedus::xct::CurrentLock\lList::end" alt="" coords="892,202,1056,243"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a7485f0d26810767b3bef18e12233daa7" title="foedus::xct::CurrentLock\lList::assert_sorted_impl" alt="" coords="1104,71,1268,113"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aed99dee60f9529d5cfabb5e1742038da" title="foedus::xct::CurrentLock\lList::assert_last_locked_entry" alt="" coords="1316,26,1512,67"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1xct.html#a736225e9852f9c75b92e134dbbe40a68" title="foedus::xct::lock_assert\l_sorted" alt="" coords="1333,117,1495,158"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a1a668d5dd1b711abed1a9962a8cb4ec1" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="1560,13,1772,54"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a03e818494c4d716f9fc996081f6c419f" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="1829,5,2005,61"/>
+<area shape="rect" id="node13" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="1583,79,1749,105"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="1591,130,1741,171"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="1585,195,1747,237"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="1820,162,2013,203"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1836,227,1997,269"/>
+</map>

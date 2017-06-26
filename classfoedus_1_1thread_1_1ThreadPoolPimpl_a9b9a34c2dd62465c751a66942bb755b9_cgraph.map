@@ -1,0 +1,11 @@
+<map id="foedus::thread::ThreadPoolPimpl::initialize_once" name="foedus::thread::ThreadPoolPimpl::initialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="249,5,384,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="249,71,384,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="249,136,384,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1DefaultInitializable.html#a22a0dc3bbbca682c3bc41eace9b6d1ff" title="Typical implementation of Initializable::initialize() that provides initialize&#45;once semantics..." alt="" coords="231,201,403,243"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="451,267,623,308"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="253,319,380,360"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1DefaultInitializable.html#ab8ae37e5f20f312f8b945fc40d3e0250" title="foedus::DefaultInitializable\l::initialize_once" alt="" coords="451,71,623,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="471,136,602,177"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="451,201,623,243"/>
+</map>

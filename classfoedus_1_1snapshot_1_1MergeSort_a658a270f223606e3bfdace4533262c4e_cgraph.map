@@ -1,0 +1,9 @@
+<map id="foedus::snapshot::MergeSort::change_log_type_at" name="foedus::snapshot::MergeSort::change_log_type_at">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1PositionEntry.html#ade50de5fc7a19e758b40a86cfd31eae9" title="foedus::snapshot::MergeSort\l::PositionEntry::get_log_type" alt="" coords="492,5,683,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1MergeSort.html#aaea2c0035dc8f7ded86d489efc27ff96" title="foedus::snapshot::MergeSort\l::get_log_type_from_sort\l_position" alt="" coords="243,46,432,102"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1SortEntry.html#a06c43522d72ce417cee4f65a39bbd06a" title="foedus::snapshot::MergeSort\l::SortEntry::get_position" alt="" coords="493,103,682,144"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="260,177,415,219"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1MergeSort.html#ac5b40173dd8850ab1b926744a2081d9b" title="foedus::snapshot::MergeSort\l::resolve_merged_position" alt="" coords="243,243,432,284"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a8acd43e9fab8cc63c74cbf8e52cc6f43" title="foedus::snapshot::MergeSort\l::InputStatus::from_compact_pos" alt="" coords="480,243,695,284"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a9003eeeddcb3213f0cc42116345feb8d" title="foedus::snapshot::MergeSort\l::InputStatus::assert_consistent" alt="" coords="743,243,949,284"/>
+</map>

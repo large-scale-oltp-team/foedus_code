@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::can_accomodate" name="foedus::storage::masstree::MasstreeBorderPage::can_accomodate">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a35973b360ff80fe5c939e971c373ee05" title="Installs a next layer pointer. " alt="" coords="235,5,437,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a2be77538e13226dbc44134039be0dc73" title="For creating a record that is initially a next&#45;layer. " alt="" coords="235,85,437,141"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html#aae952c17c2f2b1c760f899da5c368054" title="Execute the system transaction. " alt="" coords="485,158,659,199"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#ac7ca15bf233b941d860679b88c8bc87f" title="Installs a new physical record that doesn&#39;t exist logically (delete bit on). " alt="" coords="235,216,437,272"/>
+</map>

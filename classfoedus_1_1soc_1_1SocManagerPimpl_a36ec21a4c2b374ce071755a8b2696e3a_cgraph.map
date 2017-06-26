@@ -1,0 +1,12 @@
+<map id="foedus::soc::SocManagerPimpl::report_engine_fatal_error" name="foedus::soc::SocManagerPimpl::report_engine_fatal_error">
+<area shape="rect" id="node2" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#aa3f2eb00974e1e60ce9a03e8f8f64954" title="Update the value of status_code_ with fence. " alt="" coords="267,5,465,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1soc_1_1ChildEngineStatus.html#aa4e9303cf9cd2299bd7e9f44f6e837e0" title="Update the value of status_code_ with fence. " alt="" coords="283,71,449,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="273,151,459,207"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a2e5d1a0a78c66ac6e1c8ef166d2965c3" title="foedus::soc::SharedMemory\lRepo::get_node_memory_anchors" alt="" coords="256,232,476,273"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="299,297,433,339"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="280,363,452,404"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="303,428,429,469"/>
+<area shape="rect" id="node10" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="305,494,427,521"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="524,43,697,84"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="535,494,686,521"/>
+</map>

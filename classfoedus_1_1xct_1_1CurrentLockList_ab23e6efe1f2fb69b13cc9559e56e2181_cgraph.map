@@ -1,0 +1,6 @@
+<map id="foedus::xct::CurrentLockList::cancel_async_single_lock" name="foedus::xct::CurrentLockList::cancel_async_single_lock">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ab360f7fc3d8c0880b394084d45e492e9" title="foedus::xct::CurrentLock\lList::get_entry" alt="" coords="265,5,429,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#afe5afad486230afbf7d1b21875a90f13" title="foedus::xct::RwLockableXct\lId::get_key_lock" alt="" coords="256,71,439,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1LockEntry.html#a57dc541a4a80230e2fc0b45aeb6b879a" title="foedus::xct::LockEntry\l::is_enough" alt="" coords="271,136,424,177"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a78b6d1612fda232b7e8c52dd3f6c2504" title="foedus::xct::CurrentLock\lList::is_valid_entry" alt="" coords="487,5,651,47"/>
+</map>

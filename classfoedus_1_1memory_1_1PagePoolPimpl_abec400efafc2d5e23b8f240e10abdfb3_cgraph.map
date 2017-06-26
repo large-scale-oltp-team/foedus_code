@@ -1,0 +1,13 @@
+<map id="foedus::memory::PagePoolPimpl::grab" name="foedus::memory::PagePoolPimpl::grab">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#ab2c94997f724139b950b66b18d786bd5" title="Not thread safe. " alt="" coords="250,56,429,97"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#aa545fc1cffac905225d3a7c7c457b5a8" title="foedus::memory::PagePool\lPimpl::free_pool_head" alt="" coords="513,10,691,52"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="513,101,691,142"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a73a995a98dc72fa504271482bf14ac56" title="foedus::memory::PagePool\lOffsetChunk::capacity" alt="" coords="250,173,429,214"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a1a41295b63274fb300e5937a9bb1eca7" title="foedus::memory::PagePool\lPimpl::decrease_free_pool_count" alt="" coords="232,238,447,280"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#abd594ac94d8ac0445ebef734b7305fb6" title="foedus::memory::PagePool\lPimpl::get_debug_pool_name" alt="" coords="243,304,436,345"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a6f558bb023b2c5c7dd9bf7ab9d054ef0" title="foedus::memory::PagePool\lOffsetChunk::push_back" alt="" coords="250,369,429,410"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#affa4e09fc9e251f5cc259de81c23c6e2" title="foedus::memory::PagePool\lOffsetChunk::size" alt="" coords="250,434,429,476"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="506,248,698,289"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="495,314,709,340"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ace44cb03e7da84d29f3a02a790c69191" title="foedus::memory::PagePool\lOffsetChunk::full" alt="" coords="513,369,691,410"/>
+</map>

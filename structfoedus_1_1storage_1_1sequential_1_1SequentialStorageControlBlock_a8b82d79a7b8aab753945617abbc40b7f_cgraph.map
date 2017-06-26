@@ -1,0 +1,7 @@
+<map id="foedus::storage::sequential::SequentialStorageControlBlock::optimistic_read_truncate_epoch" name="foedus::storage::sequential::SequentialStorageControlBlock::optimistic_read_truncate_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#a52e75f1bf22a2b3553b6960799d7f6d6" title="Add the given record to the special read&#45;set that is not placed in usual data pages. " alt="" coords="277,5,433,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="279,71,430,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1Xct.html#a9a76be25f22fd49683d2a4138ab7b199" title="Returns whether the object is an active transaction. " alt="" coords="289,136,420,177"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#ad5be23a25e650f1bad81ce8c87630af0" title="foedus::xct::XctId\l::is_being_written" alt="" coords="293,201,416,243"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="268,267,441,308"/>
+</map>

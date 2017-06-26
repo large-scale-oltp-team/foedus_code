@@ -1,0 +1,45 @@
+<map id="foedus::cache::CacheManagerPimpl::handle_cleaner" name="foedus::cache::CacheManagerPimpl::handle_cleaner">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#aa75089821b48c98a00cd7e4ddc0615da" title="Requests to advance the current global epoch as soon as possible and blocks until it actually does..." alt="" coords="261,293,468,335"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Epoch.html#a786afd92afdc87b54dfa11ef093f06f3" title="foedus::Epoch::one_more" alt="" coords="798,71,969,98"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a2876d026b658af099cdf153ed1529369" title="foedus::cache::CacheManager\lPimpl::describe" alt="" coords="265,101,464,143"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1memory_1_1PagePool.html#aae17b661b01fd08a3019128c82227e7c" title="foedus::memory::PagePool\l::get_stat" alt="" coords="539,36,718,77"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1debugging_1_1StopWatch.html#a7f1f05f4dd494dd57c3ecafb5d9131fb" title="foedus::debugging::\lStopWatch::elapsed_us" alt="" coords="1057,565,1219,607"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1xct_1_1XctManager.html#a419a270d62522ede9bd871dd4adc0e2a" title="Returns the current global epoch, the epoch a newly started transaction will be in. " alt="" coords="539,219,718,260"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1Engine.html#a48d5e1f7ce2f70161c253f650c75ed95" title="See Transaction Manager. " alt="" coords="297,456,432,497"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a0b5e7574ed3474be65757a9f1d2595fc" title="Evicts pages up to about target_count (maybe a bit more or less). " alt="" coords="252,599,477,640"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="1071,892,1205,933"/>
+<area shape="rect" id="node36" href="$classfoedus_1_1xct_1_1XctManager.html#a8c2222c8c5db52f4f1175b1250bf1a4a" title="Returns whether the object has been already initialized or not. " alt="" coords="283,664,446,705"/>
+<area shape="rect" id="node38" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="278,729,451,771"/>
+<area shape="rect" id="node39" href="$classfoedus_1_1memory_1_1PagePool.html#a802171ff0578875748d20b4e9c8c9463" title="Returns the specified number of free pages from the chunk. " alt="" coords="275,795,454,836"/>
+<area shape="rect" id="node41" href="$classfoedus_1_1xct_1_1XctManager.html#aa3178a6ce1c815fb88b6c8d5607da5d4" title="Passively wait until the current global epoch becomes the given value. " alt="" coords="263,371,467,412"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a925da0bb4b846daa21eb947e4f67b0c6" title="foedus::xct::XctManagerPimpl\l::advance_current_global_epoch" alt="" coords="525,284,732,325"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="786,188,981,229"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a03678427b184e7ce71f9bbb164dd0bad" title="foedus::xct::XctManagerPimpl\l::set_requested_global_epoch" alt="" coords="786,384,981,425"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#afce787897428bd372c67224acd3e8ea7" title="foedus::xct::XctManagerPimpl\l::wakeup_epoch_chime_thread" alt="" coords="783,123,984,164"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="795,319,972,360"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="795,253,972,295"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a6071efec3ffc3876192101db2a1873b4" title="foedus::xct::XctManagerPimpl\l::get_requested_global_epoch" alt="" coords="1041,317,1235,359"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="1067,383,1209,410"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="1049,133,1227,175"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1298,211,1471,252"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="1289,141,1480,167"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="561,101,696,143"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a55ba648cb98718804a890ea3b4965e39" title="foedus::memory::PagePool\lPimpl::get_stat" alt="" coords="794,5,973,47"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="1049,5,1227,47"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1cache_1_1CacheHashtable.html#a8e9c6560b489d4709183256c6e6d332a" title="Evict some entries from the hashtable. " alt="" coords="525,599,732,640"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1cache_1_1CacheHashtable.html#a090081806f98e5bb1184632b9fce6293" title="foedus::cache::CacheHashtable\l::evict_main_loop" alt="" coords="780,631,987,672"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1cache_1_1CacheHashtable.html#abd3c185877f109817850f92eab7ff4b3" title="foedus::cache::CacheHashtable\l::get_physical_buckets" alt="" coords="1035,500,1241,541"/>
+<area shape="rect" id="node34" href="$classfoedus_1_1cache_1_1CacheHashtable.html#abcd23e94ab45dd35b1ae158a498e4344" title="foedus::cache::CacheHashtable\l::evict_overflow_loop" alt="" coords="780,729,987,771"/>
+<area shape="rect" id="node26" href="$structfoedus_1_1cache_1_1CacheHashtable_1_1EvictArgs.html#abf10e784be4a89750374654daa89d1d3" title="foedus::cache::CacheHashtable\l::EvictArgs::add_evicted" alt="" coords="1035,696,1241,737"/>
+<area shape="rect" id="node27" href="$structfoedus_1_1cache_1_1CacheRefCount.html#a13f4ce6af05ea4a063dbce09a4479439" title="returns whether the counter is still non&#45;zero " alt="" coords="1037,761,1239,803"/>
+<area shape="rect" id="node29" href="$group__ASSORTED.html#ga14adcd2a780f37023df88933f17a5a83" title="Prefetch multiple contiguous cachelines to L1 cache. " alt="" coords="1052,631,1224,672"/>
+<area shape="rect" id="node30" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="1299,631,1471,672"/>
+<area shape="rect" id="node32" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="1317,859,1452,900"/>
+<area shape="rect" id="node33" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="1304,924,1465,965"/>
+<area shape="rect" id="node35" href="$structfoedus_1_1cache_1_1CacheBucket.html#ab91d1b89c885979b7a6a4ef70b12b54d" title="foedus::cache::CacheBucket\l::get_content_id" alt="" coords="1043,827,1233,868"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="543,664,715,705"/>
+<area shape="rect" id="node40" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a13d785355359fd936c2b3863d296ba2c" title="foedus::memory::PagePool\lPimpl::release" alt="" coords="539,795,718,836"/>
+<area shape="rect" id="node42" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#af5cb0928185cf79dda519313f05fe0ee" title="foedus::xct::XctManagerPimpl\l::wait_for_current_global_epoch" alt="" coords="527,355,731,396"/>
+<area shape="rect" id="node43" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="795,449,972,491"/>
+<area shape="rect" id="node44" href="$namespacefoedus_1_1soc.html#a875ded688a72b32f8f690f37750e609f" title="foedus::soc::get_now\l_microsec" alt="" coords="1065,435,1211,476"/>
+</map>

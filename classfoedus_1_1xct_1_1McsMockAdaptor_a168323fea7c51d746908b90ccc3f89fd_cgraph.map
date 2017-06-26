@@ -1,0 +1,8 @@
+<map id="foedus::xct::McsMockAdaptor::dereference_rw_tail_block" name="foedus::xct::McsMockAdaptor::dereference_rw_tail_block">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#abb0ac860a7c0682159044480c0870e26" title="foedus::xct::McsMockAdaptor\l::get_rw_other_block" alt="" coords="249,39,445,80"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsRwLock.html#a3d8cf73848daf77b739df642dbc6205e" title="foedus::xct::McsRwLock\l::get_tail_waiter" alt="" coords="265,104,430,145"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsRwLock.html#acffec9f94307c8b3473e1d21c3999e14" title="foedus::xct::McsRwLock\l::get_tail_waiter_block" alt="" coords="265,169,430,211"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a4c191006302da5e849dba51583e3ca89" title="foedus::xct::McsMockAdaptor\l::get_other_thread" alt="" coords="493,39,689,80"/>
+<area shape="rect" id="node4" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="737,5,916,47"/>
+<area shape="rect" id="node5" href="$group__THREAD.html#ga93083d6b052db01851cb61c120522c1d" title="Extracts local ordinal from the given globally unique ID of Thread (core). " alt="" coords="737,71,916,112"/>
+</map>

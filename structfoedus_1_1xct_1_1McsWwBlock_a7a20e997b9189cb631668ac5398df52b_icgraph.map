@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsWwBlock::clear_successor_release" name="foedus::xct::McsWwBlock::clear_successor_release">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a9fb4308bc32337299f9532ac5c2b6813" title="[WW] Try to take an exclusive lock. " alt="" coords="228,5,393,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsWwImpl.html#ab45630bd77311e8604ca265ffcbc4edd" title="[WW] Unconditionally takes exclusive&#45;only MCS lock on the given lock. " alt="" coords="228,71,393,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a3f003ff88719197e91776ee5368cf492" title="[WW] This doesn&#39;t use any atomic operation. " alt="" coords="228,136,393,177"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="foedus::thread::ThreadPoolPimpl::uninitialize_once" name="foedus::thread::ThreadPoolPimpl::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="235,5,399,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="249,71,384,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="451,159,623,200"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="253,188,380,229"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="231,253,403,295"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="451,253,623,295"/>
+</map>

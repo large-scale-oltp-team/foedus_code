@@ -1,0 +1,8 @@
+<map id="foedus::memory::LocalPageResolver::resolve_offset" name="foedus::memory::LocalPageResolver::resolve_offset">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="252,103,407,144"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1memory_1_1LocalPageResolver.html#aa9d2266686c3a66678b37241a3ac434f" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="237,169,421,225"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="487,5,642,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="490,71,639,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="469,136,660,177"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="484,201,645,243"/>
+</map>

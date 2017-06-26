@@ -1,0 +1,20 @@
+<map id="foedus::xct::McsOwnerlessLockScope::acquire" name="foedus::xct::McsOwnerlessLockScope::acquire">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#af86bfb8b4e01dfb27b078fdd19f52971" title="foedus::xct::McsOwnerless\lLockScope::is_locked_by_me" alt="" coords="233,69,429,111"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a3fa71b3875ae6ffe0ad71bf1f471e709" title="foedus::xct::McsOwnerless\lLockScope::is_valid" alt="" coords="241,135,421,176"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwLock.html#adb1f6d8968c71a9ce91c7a3c812cb43c" title="foedus::xct::McsWwLock\l::ownerless_acquire_lock" alt="" coords="247,200,416,241"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1xct_1_1McsWwLock.html#a6cff23a5832a37c988d10252d07efead" title="The followings are implemented in thread_pimpl.cpp along with the above methods, but these don&#39;t use ..." alt="" coords="247,267,416,308"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a1ccdb01d5d5921f397b5e6e138e4435c" title="[WW&#45;Guest] Unconditionally takes exclusive&#45;only guest lock on the given MCSg lock. " alt="" coords="477,190,680,246"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1xct.html#abc92f6bf35f5db4360f8596b09f778f8" title="foedus::xct::assert\l_mcs_aligned" alt="" coords="747,271,878,312"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1xct.html#ad815773827f1856f8fd25a9d4b41d490" title="foedus::xct::spin_until" alt="" coords="738,103,887,130"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="945,184,1147,225"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="728,205,897,247"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1assorted.html#aba5893ad8aab7d6aafff7be7f92e1372" title="Spin locally until the given condition returns true. " alt="" coords="971,96,1121,137"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="1417,5,1564,47"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1assorted.html#aea055a054d205c76d8f221de4f6aa058" title="foedus::assorted::is\l_running_on_valgrind" alt="" coords="1211,129,1353,171"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="1195,195,1369,236"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a0f5961269d79e636777d722ade37dd2e" title="Take another current time tick. " alt="" coords="1215,64,1349,105"/>
+<area shape="rect" id="node13" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="1423,71,1558,112"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a7ef284a7c1407d3136647b9f162533c3" title="foedus::xct::McsWwOwnerless\lImpl::ownerless_initial" alt="" coords="477,271,680,312"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1xct_1_1McsWwLock.html#aeb9387704d4395c40dc90ad7743a56a6" title="foedus::xct::McsWwLock\l::reset_guest_id_release" alt="" coords="728,336,897,377"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a91e84e53293e5aff556661071d20ca3c" title="foedus::xct::McsWwBlockData\l::set_combined_release" alt="" coords="945,336,1147,377"/>
+</map>

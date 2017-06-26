@@ -1,0 +1,9 @@
+<map id="foedus::xct::Xct::get_pointer_set" name="foedus::xct::Xct::get_pointer_set">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a011f72c9cc830a943b9dccd62d323209" title="Returns false if there is any pointer set conflict. " alt="" coords="192,39,415,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="464,5,672,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9534e63f498a012d9fa401a10e2b4e0b" title="Phase 2 of precommit_xct() for read&#45;write case. " alt="" coords="463,71,673,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="721,5,916,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="964,39,1159,80"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1207,39,1369,80"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="721,71,916,112"/>
+</map>

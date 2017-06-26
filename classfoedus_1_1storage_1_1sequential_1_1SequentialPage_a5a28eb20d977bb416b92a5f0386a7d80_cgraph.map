@@ -1,0 +1,5 @@
+<map id="foedus::storage::sequential::SequentialPage::set_payload_length" name="foedus::storage::sequential::SequentialPage::set_payload_length">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a38b891ada2a3ed7381bc0d048570fb18" title="foedus::storage::sequential\l::SequentialPage::assert\l_consistent" alt="" coords="295,35,473,91"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#adfc56f09f9e4e09466c4f102b9283076" title="Returns how many records in this page placed so far. " alt="" coords="521,5,751,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a664f776eddf9d3988a62f5043e57d9e3" title="How many data bytes in this page consumed so far. " alt="" coords="545,71,727,127"/>
+</map>

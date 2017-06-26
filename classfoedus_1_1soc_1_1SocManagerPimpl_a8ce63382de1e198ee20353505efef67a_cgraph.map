@@ -1,0 +1,7 @@
+<map id="foedus::soc::SocManagerPimpl::wait_for_master_status" name="foedus::soc::SocManagerPimpl::wait_for_master_status">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a91712157cc54f8072a0c1664a902f388" title="foedus::soc::SharedMemory\lRepo::get_master_status" alt="" coords="256,5,441,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="285,71,412,112"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="261,136,436,177"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#ac6c964bf07458b5adc1f034705daca34" title="Read status_code_ with fence. " alt="" coords="489,5,672,47"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="720,5,893,47"/>
+</map>

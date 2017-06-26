@@ -1,0 +1,5 @@
+<map id="foedus::Engine::get_current_grace_epoch" name="foedus::Engine::get_current_grace_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#addd36d7a9f38e055767f9a36c0889385" title="Returns the current grace&#45;period epoch (global epoch &#45; 1), the epoch some transaction might be still ..." alt="" coords="204,35,380,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="428,5,623,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html#a701de077839df51ebe44749a116ec10f" title="foedus::Epoch::one_less" alt="" coords="443,71,608,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="foedus::proc::ProcManagerPimpl::local_register" name="foedus::proc::ProcManagerPimpl::local_register">
+<area shape="rect" id="node2" href="$group__ERRORCODES.html#gaefc0aeec33bc4adc2f147fd1828b816e" title="Returns the error messages corresponding to ErrorCode enum defined in error_code.xmacro. " alt="" coords="232,5,411,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#ab44be75337e69f54c8952842f2179b0e" title="foedus::proc::ProcManager\lPimpl::get_local_data" alt="" coords="232,57,411,98"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="485,111,611,153"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#acbcaf42a8076afae40a010323557ad54" title="foedus::proc::ProcManager\lPimpl::insert" alt="" coords="232,174,411,215"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="235,239,407,281"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="481,46,615,87"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#aa92f0d777803a8ee817ac6141875ad1a" title="foedus::proc::ProcManager\lPimpl::find_by_name" alt="" coords="459,177,637,218"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="685,177,859,218"/>
+</map>

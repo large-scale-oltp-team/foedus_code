@@ -1,0 +1,4 @@
+<map id="foedus::soc::SharedMemoryRepo::attach_shared_memories" name="foedus::soc::SharedMemoryRepo::attach_shared_memories">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a1d09b3bd25667fccd9bb831303788401" title="Called as part of initialize_once() if this is a child SOC engine. " alt="" coords="260,5,463,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="511,5,713,47"/>
+</map>

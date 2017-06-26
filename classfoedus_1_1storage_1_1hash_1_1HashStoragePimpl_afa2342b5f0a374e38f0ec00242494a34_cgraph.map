@@ -1,0 +1,13 @@
+<map id="foedus::storage::hash::HashStoragePimpl::locate_record_reserve_physical" name="foedus::storage::hash::HashStoragePimpl::locate_record_reserve_physical">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a2a5e6b008138d755e7e401f25927400c" title="Methods related to System transactions (sysxct) nested under this thread. " alt="" coords="235,104,385,145"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a498a6a07313bf9fbb2c0e3d02f075221" title="Sysxct&#45;related. " alt="" coords="433,104,617,145"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1Xct.html#aca66ae9959651b7c6fa86a75db287f54" title="foedus::xct::Xct::get\l_sysxct_workspace" alt="" coords="688,5,827,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a6ff575610172c3b1ed337665a277f761" title="foedus::thread::ThreadPimpl\l::cll_get_max_locked_id" alt="" coords="665,71,849,112"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a33a1b8b428cd84029b8b377867197ea4" title="foedus::thread::ThreadPimpl\l::is_simple_mcs_rw" alt="" coords="665,136,849,177"/>
+<area shape="rect" id="node11" href="$group__SYSXCT.html#gaf49955c6d4efe3d92e6e09b4ff890618" title="Runs a system transaction nested in a user transaction. " alt="" coords="678,201,837,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1Xct.html#afc0b909c82e905105f4f9701082a16b8" title="foedus::xct::Xct::get\l_current_lock_list" alt="" coords="931,39,1069,80"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a398ec264786992d102b8edd74d5767b3" title="foedus::xct::CurrentLock\lList::get_max_locked_id" alt="" coords="918,104,1082,145"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ab360f7fc3d8c0880b394084d45e492e9" title="foedus::xct::CurrentLock\lList::get_entry" alt="" coords="1151,104,1315,145"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a78b6d1612fda232b7e8c52dd3f6c2504" title="foedus::xct::CurrentLock\lList::is_valid_entry" alt="" coords="1363,104,1527,145"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1xct_1_1SysxctFunctor.html#a383a9cfd5d8fa5caf45c7ffb6dc05535" title="Execute the system transaction. " alt="" coords="897,209,1103,235"/>
+</map>

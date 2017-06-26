@@ -1,0 +1,6 @@
+<map id="foedus::savepoint::SavepointManagerControlBlock::initialize" name="foedus::savepoint::SavepointManagerControlBlock::initialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="257,5,432,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedPolling.html#ace449e19d0a13388da16570aefd42994" title="foedus::soc::SharedPolling\l::initialize" alt="" coords="256,71,433,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="481,5,656,47"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="482,71,655,112"/>
+</map>

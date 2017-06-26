@@ -1,0 +1,17 @@
+<map id="foedus::externalize::Externalizable::insert_comment" name="foedus::externalize::Externalizable::insert_comment">
+<area shape="rect" id="node2" href="$structfoedus_1_1restart_1_1RestartOptions.html#a613bd23688e10399361d0b25cdb88298" title="Writes the content of this object to the given XML element. " alt="" coords="235,5,390,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1savepoint_1_1SavepointOptions.html#a9a7c3b3e31640ce9b2fa1eca0f7d741c" title="Writes the content of this object to the given XML element. " alt="" coords="234,71,391,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1SnapshotMetadata.html#a559726ceaa8b7887e384b2277292cc8d" title="Writes the content of this object to the given XML element. " alt="" coords="221,136,405,177"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1StorageOptions.html#ae3a23520524b3a1d65a9e29e139ff972" title="Writes the content of this object to the given XML element. " alt="" coords="231,201,395,243"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1XctOptions.html#a57f9bf11ce8b0d73573bda3f6b6992f9" title="Writes the content of this object to the given XML element. " alt="" coords="234,267,391,308"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1thread_1_1ThreadOptions.html#a7fe7c94583fa7b9f14e8b77a040088a1" title="Writes the content of this object to the given XML element. " alt="" coords="215,332,411,373"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1proc_1_1ProcOptions.html#af4009040a8f404363f283503770176a5" title="Writes the content of this object to the given XML element. " alt="" coords="226,397,399,439"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1soc_1_1SocOptions.html#ac0f9ddce95b736d4063dac8aa354b4b6" title="Writes the content of this object to the given XML element. " alt="" coords="230,463,395,504"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1cache_1_1CacheOptions.html#a1d1e274b969d6b72f5d035b049dfaaea" title="Writes the content of this object to the given XML element. " alt="" coords="216,528,409,569"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1debugging_1_1DebuggingOptions.html#ae7056febc00a401707b542506186fae8" title="Writes the content of this object to the given XML element. " alt="" coords="231,593,394,635"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1log_1_1LogOptions.html#a62dc497f343a1d962c748b79f8d4959b" title="Writes the content of this object to the given XML element. " alt="" coords="233,659,392,700"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1savepoint_1_1Savepoint.html#ab3c3b337420c1d82721aeea1f2a705e5" title="Writes the content of this object to the given XML element. " alt="" coords="247,724,378,765"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1memory_1_1MemoryOptions.html#aeb54987f286ef8ded97f0a65b54ac554" title="Writes the content of this object to the given XML element. " alt="" coords="205,789,420,831"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1EngineOptions.html#a7d6579621caf6f984df2daac1e5d981b" title="Writes the content of this object to the given XML element. " alt="" coords="236,855,389,896"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#ab8bf2b593d1dedb4377861225ba9345f" title="Writes the content of this object to the given XML element. " alt="" coords="221,920,405,961"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::xct::McsWwBlockData::get_word_consume" name="foedus::xct::McsWwBlockData::get_word_consume">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a649ee739462f9d3de9bd9a5d7b4357e5" title="foedus::xct::McsWwBlockData\l::copy_consume" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a9613a2be6b1da365f9479206494e2eb8" title="foedus::xct::McsWwBlockData\l::is_guest_consume" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#ab2d9ba0c15faf443f851a7a288b7b791" title="foedus::xct::McsWwBlockData\l::is_valid_consume" alt="" coords="255,136,456,177"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwLock.html#aa40ce297742e5005c829b09e1a01eef4" title="foedus::xct::McsWwLock\l::get_tail_consume" alt="" coords="509,5,678,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwBlock.html#abce445de5d3ce04de9063983cd9ce11e" title="foedus::xct::McsWwBlock\l::has_successor_consume" alt="" coords="504,136,683,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="foedus::assorted::get_current_executable_path" name="foedus::assorted::get_current_executable_path">
+<area shape="rect" id="node2" href="$structfoedus_1_1soc_1_1SocOptions.html#a5c473c8d3058b067409973db5615dcb5" title="converts spawn_executable_pattern_ into a string with the given node ID. " alt="" coords="224,5,409,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a4a9091baae2ba21b2cb888da8d391818" title="Launch children via spawn. " alt="" coords="457,13,660,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="708,13,911,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="959,13,1161,54"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="foedus::proc::ProcManagerPimpl::local_register" name="foedus::proc::ProcManagerPimpl::local_register">
+<area shape="rect" id="node2" href="$classfoedus_1_1proc_1_1ProcManager.html#a9cb7a5d09ab09f65251e40f2f1e6de76" title="Register a function pointer as a user procedure in the current SOC. " alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#adfd1a1b588c61f7b8efaf8e0e9fd5f8f" title="foedus::soc::SocManagerPimpl\l::child_main_common" alt="" coords="459,71,661,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a2b7bbec9fe5f7713ae184361dcd658f8" title="Main routine of emulated SOCs. " alt="" coords="709,5,912,47"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a15ec97d18049b472d172cb50c25e489b" title="Main routine of forked SOCs. " alt="" coords="709,71,912,112"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a328e5ee7367152a0033bcc5843867eb1" title="Main routine of spawned SOCs. " alt="" coords="709,136,912,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a77d275f92471e6ac9e0c4bb4c609665f" title="Launch emulated children as threads. " alt="" coords="960,5,1163,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="1211,39,1413,80"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="1461,39,1664,80"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#ad9ef70c0b175a6535731e2cf0c2370f1" title="Launch children via fork. " alt="" coords="960,71,1163,112"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1soc_1_1SocManager.html#a8b8ea1146fa76120be0fcb5ace838d0f" title="This version also receives user&#45;defined procedures to be registered in this SOC. " alt="" coords="975,136,1148,177"/>
+</map>

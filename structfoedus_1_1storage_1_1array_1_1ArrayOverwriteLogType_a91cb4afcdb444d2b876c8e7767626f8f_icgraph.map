@@ -1,0 +1,6 @@
+<map id="foedus::storage::array::ArrayOverwriteLogType::calculate_log_length" name="foedus::storage::array::ArrayOverwriteLogType::calculate_log_length">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a435ff8b148161ca7296b12eea744a344" title="foedus::storage::array\l::ArrayStoragePimpl::increment\l_record" alt="" coords="216,5,420,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a7dde5581eee977242b5373e30365183f" title="foedus::storage::array\l::ArrayStoragePimpl::overwrite\l_record" alt="" coords="219,85,417,141"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a7d324da4dcd35490820cb97e7124001b" title="foedus::storage::array\l::ArrayStoragePimpl::overwrite\l_record_primitive" alt="" coords="219,165,417,221"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a3cfbd23c4239f8a63ac5719007a8305b" title="This one further optimizes overwrite_record_primitive() for the frequent use case of incrementing som..." alt="" coords="468,5,639,61"/>
+</map>

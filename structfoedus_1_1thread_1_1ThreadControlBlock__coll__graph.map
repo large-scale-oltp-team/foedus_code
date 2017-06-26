@@ -1,0 +1,7 @@
+<map id="foedus::thread::ThreadControlBlock" name="foedus::thread::ThreadControlBlock">
+<area shape="rect" id="node2" href="$classfoedus_1_1FixedErrorStack.html" title="Representation of ErrorStack that can be copied to other processes and even serialized to files..." alt="" coords="20,5,183,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="13,77,190,104"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="49,128,154,155"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1assorted_1_1FixedString.html" title="foedus::assorted::FixedString\l\&lt; 60 \&gt;" alt="" coords="5,179,197,221"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="14,245,189,272"/>
+</map>

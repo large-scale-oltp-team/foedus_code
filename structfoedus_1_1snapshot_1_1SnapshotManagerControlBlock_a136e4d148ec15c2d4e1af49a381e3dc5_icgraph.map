@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::SnapshotManagerControlBlock::get_previous_snapshot_id" name="foedus::snapshot::SnapshotManagerControlBlock::get_previous_snapshot_id">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a4304c74f47b7ec19d5e126dd161ca664" title="foedus::snapshot::Snapshot\lManagerPimpl::get_previous\l_snapshot_id" alt="" coords="237,5,423,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManager.html#a2c35663dd056a2bfd5f97c002dbabdaa" title="Returns the most recent snapshot&#39;s ID. " alt="" coords="471,13,700,54"/>
+</map>

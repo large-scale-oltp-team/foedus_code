@@ -1,0 +1,5 @@
+<map id="foedus::snapshot::MergeSort::next_batch" name="foedus::snapshot::MergeSort::next_batch">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1array_1_1ArrayComposeContext.html#af8cf7022dc9e7592977e6dcc2b7a4d02" title="foedus::storage::array\l::ArrayComposeContext\l::execute" alt="" coords="254,5,415,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashComposeContext.html#aa55b6ec5e0174d4122bdb9b728cd2088" title="foedus::storage::hash\l::HashComposeContext\l::execute" alt="" coords="255,85,415,141"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeComposeContext.html#a1d9ff2d2af85b6d09ecb6e310bae6888" title="MasstreeComposeContext::execute() and subroutines for log groups. " alt="" coords="243,165,427,221"/>
+</map>

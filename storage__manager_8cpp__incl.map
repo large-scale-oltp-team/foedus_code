@@ -1,0 +1,44 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/src/foedus/storage/storage_manager.cpp" name="/home/shino/foedus_code/foedus&#45;core/src/foedus/storage/storage_manager.cpp">
+<area shape="rect" id="node2" href="$storage__manager_8hpp.html" title="foedus/storage/storage\l_manager.hpp" alt="" coords="5061,213,5216,255"/>
+<area shape="rect" id="node18" href="$array__storage_8hpp.html" title="foedus/storage/array\l/array_storage.hpp" alt="" coords="1243,303,1383,344"/>
+<area shape="rect" id="node29" href="$array__metadata_8hpp.html" title="foedus/storage/array\l/array_metadata.hpp" alt="" coords="997,392,1139,433"/>
+<area shape="rect" id="node33" href="$hash__storage_8hpp.html" title="foedus/storage/hash\l/hash_storage.hpp" alt="" coords="5029,303,5168,344"/>
+<area shape="rect" id="node38" href="$masstree__storage_8hpp.html" title="foedus/storage/masstree\l/masstree_storage.hpp" alt="" coords="5417,303,5583,344"/>
+<area shape="rect" id="node41" href="$sequential__storage_8hpp.html" title="foedus/storage/sequential\l/sequential_storage.hpp" alt="" coords="6391,303,6561,344"/>
+<area shape="rect" id="node43" href="$storage__manager__pimpl_8hpp.html" title="foedus/storage/storage\l_manager_pimpl.hpp" alt="" coords="5159,124,5313,165"/>
+<area shape="rect" id="node48" href="$hash__metadata_8hpp.html" title="foedus/storage/hash\l/hash_metadata.hpp" alt="" coords="2885,392,3025,433"/>
+<area shape="rect" id="node49" href="$masstree__metadata_8hpp.html" title="foedus/storage/masstree\l/masstree_metadata.hpp" alt="" coords="1333,392,1499,433"/>
+<area shape="rect" id="node50" href="$sequential__metadata_8hpp.html" title="foedus/storage/sequential\l/sequential_metadata.hpp" alt="" coords="2052,392,2223,433"/>
+<area shape="rect" id="node4" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="4135,749,4259,776"/>
+<area shape="rect" id="node5" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="5787,578,5895,605"/>
+<area shape="rect" id="node6" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="4266,489,4419,515"/>
+<area shape="rect" id="node12" href="$snapshot_2fwd_8hpp.html" title="Forward declarations of classes in snapshot manager package. " alt="" coords="6969,489,7135,515"/>
+<area shape="rect" id="node13" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="5323,578,5477,605"/>
+<area shape="rect" id="node14" href="$storage__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1692,571,1847,612"/>
+<area shape="rect" id="node26" href="$thread_2fwd_8hpp.html" title="Forward declarations of classes in thread package. " alt="" coords="5919,578,6067,605"/>
+<area shape="rect" id="node27" href="$xct_2fwd_8hpp.html" title="Forward declarations of classes in transaction package. " alt="" coords="5172,489,5303,515"/>
+<area shape="rect" id="node30" href="$storage_2array_2fwd_8hpp.html" title="Forward declarations of classes in array storage package. " alt="" coords="663,481,803,523"/>
+<area shape="rect" id="node32" href="$storage_2hash_2fwd_8hpp.html" title="Forward declarations of classes in hash storage package. " alt="" coords="3151,481,3289,523"/>
+<area shape="rect" id="node36" href="$xct__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="4748,489,4895,515"/>
+<area shape="rect" id="node37" href="$storage_2masstree_2fwd_8hpp.html" title="Forward declarations of classes in masstree storage package. " alt="" coords="3881,481,4047,523"/>
+<area shape="rect" id="node40" href="$storage_2sequential_2fwd_8hpp.html" title="Forward declarations of classes in sequential storage package. " alt="" coords="4071,481,4241,523"/>
+<area shape="rect" id="node7" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="1921,667,2076,694"/>
+<area shape="rect" id="node11" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="1645,749,1792,776"/>
+<area shape="rect" id="node15" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="2415,660,2583,701"/>
+<area shape="rect" id="node16" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="1701,660,1846,701"/>
+<area shape="rect" id="node17" href="$raw__atomics_8hpp.html" title="Raw atomic operations that work for both C++11 and non&#45;C++11 code. " alt="" coords="2252,660,2391,701"/>
+<area shape="rect" id="node19" href="$attachable_8hpp.html" title="foedus/attachable.hpp" alt="" coords="6087,489,6236,515"/>
+<area shape="rect" id="node20" href="$const__div_8hpp.html" title="foedus/assorted/const\l_div.hpp" alt="" coords="1018,660,1169,701"/>
+<area shape="rect" id="node21" href="$storage_8hpp.html" title="foedus/storage/storage.hpp" alt="" coords="5336,399,5515,426"/>
+<area shape="rect" id="node28" href="$array__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="499,481,639,523"/>
+<area shape="rect" id="node31" href="$array__route_8hpp.html" title="foedus/storage/array\l/array_route.hpp" alt="" coords="315,392,455,433"/>
+<area shape="rect" id="node22" href="$shared__mutex_8hpp.html" title="foedus/soc/shared_mutex.hpp" alt="" coords="4286,578,4482,605"/>
+<area shape="rect" id="node23" href="$metadata_8hpp.html" title="foedus/storage/metadata.hpp" alt="" coords="2378,489,2569,515"/>
+<area shape="rect" id="node24" href="$externalizable_8hpp.html" title="foedus/externalize\l/externalizable.hpp" alt="" coords="2583,571,2713,612"/>
+<area shape="rect" id="node34" href="$hash__combo_8hpp.html" title="foedus/storage/hash\l/hash_combo.hpp" alt="" coords="3567,392,3705,433"/>
+<area shape="rect" id="node35" href="$hash__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="3313,481,3452,523"/>
+<area shape="rect" id="node39" href="$masstree__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1081,481,1247,523"/>
+<area shape="rect" id="node42" href="$sequential__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1929,481,2100,523"/>
+<area shape="rect" id="node46" href="$aligned__memory_8hpp.html" title="foedus/memory/aligned\l_memory.hpp" alt="" coords="2941,660,3097,701"/>
+<area shape="rect" id="node47" href="$shared__memory__repo_8hpp.html" title="foedus/soc/shared_memory\l_repo.hpp" alt="" coords="4698,392,4881,433"/>
+</map>

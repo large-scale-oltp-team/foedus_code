@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::HashTmpBin::steal_memory" name="foedus::storage::hash::HashTmpBin::steal_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#a8e54f04414874188fa9d656aa0eba85c" title="Removes all tuple data for the current bin. " alt="" coords="281,13,428,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad11d2289458b26db2aaef9de984045a0" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="248,78,461,119"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#a766152ddf547a633d9d2bf39c6d324e2" title="foedus::storage::hash\l::HashTmpBin::get_first\l_record" alt="" coords="509,5,668,61"/>
+</map>

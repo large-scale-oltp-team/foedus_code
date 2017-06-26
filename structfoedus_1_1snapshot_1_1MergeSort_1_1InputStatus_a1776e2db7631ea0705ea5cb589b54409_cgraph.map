@@ -1,0 +1,6 @@
+<map id="foedus::snapshot::MergeSort::InputStatus::is_last_chunk_in_window" name="foedus::snapshot::MergeSort::InputStatus::is_last_chunk_in_window">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#af2cd9de685569fee1b253b10d041f01d" title="foedus::snapshot::MergeSort\l::InputStatus::get_chunk_log" alt="" coords="486,5,675,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#add9e6093f86c41f57d4a31b8d0cd3213" title="foedus::snapshot::MergeSort\l::InputStatus::is_last_window" alt="" coords="243,64,433,105"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a005e2553fad64c3bae6adf7bdc22e0fa" title="foedus::snapshot::MergeSort\l::InputStatus::to_absolute_pos" alt="" coords="481,123,680,164"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a9003eeeddcb3213f0cc42116345feb8d" title="foedus::snapshot::MergeSort\l::InputStatus::assert_consistent" alt="" coords="728,64,935,105"/>
+</map>

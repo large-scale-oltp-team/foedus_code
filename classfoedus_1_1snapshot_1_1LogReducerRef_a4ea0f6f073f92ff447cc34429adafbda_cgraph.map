@@ -1,0 +1,29 @@
+<map id="foedus::snapshot::LogReducerRef::append_log_chunk" name="foedus::snapshot::LogReducerRef::append_log_chunk">
+<area shape="rect" id="node2" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="535,10,682,51"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1snapshot.html#a499edf9829f41f833e2057346e8bbf3a" title="foedus::snapshot::from\l_buffer_position" alt="" coords="274,308,429,350"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a01c6454d8099e0d74a325af05718dc12" title="foedus::snapshot::LogReducer\lRef::get_buffer" alt="" coords="252,614,451,655"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a3e0caf4a8a65cb0278425414b581cd9b" title="foedus::snapshot::LogReducer\lRef::get_buffer_size" alt="" coords="252,796,451,838"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="541,803,676,844"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#a35ab8a50220c6e05a6c9685d74fd461c" title="foedus::snapshot::LogReducer\lControlBlock::get_buffer\l_status_address" alt="" coords="252,862,451,918"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#a7c8feb59a8368bdae9ffea4b2e3fa8e8" title="foedus::snapshot::LogReducer\lControlBlock::get_buffer\l_status_atomic" alt="" coords="252,942,451,998"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#af2b01584170849f37da7780d8480c7bd" title="foedus::snapshot::LogReducer\lRef::get_current_buffer\l_index_atomic" alt="" coords="252,1022,451,1078"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a0f5961269d79e636777d722ade37dd2e" title="Take another current time tick. " alt="" coords="284,75,419,116"/>
+<area shape="rect" id="node16" href="$namespacefoedus_1_1snapshot.html#a6ecb433ddae550c78d00cbbbdc510301" title="foedus::snapshot::to\l_buffer_position" alt="" coords="281,1103,421,1144"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a9bb712be85bef103cc9d1bb5f81ee6db" title="foedus::snapshot::LogReducer\lRef::to_string" alt="" coords="252,679,451,720"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a493bf984062f2615c6788b4c4f6b36df" title="used only in debug mode " alt="" coords="252,374,451,415"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="792,607,927,648"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="769,520,949,562"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a2e5d1a0a78c66ac6e1c8ef166d2965c3" title="foedus::soc::SharedMemory\lRepo::get_node_memory_anchors" alt="" coords="499,672,719,714"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#ab473882f640fcd29c56af54ffb9957a1" title="foedus::snapshot::LogReducer\lRef::get_id" alt="" coords="509,738,708,779"/>
+<area shape="rect" id="node15" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="541,75,676,116"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#aa4a57d52ef10b270b50d0e00511b24e5" title="foedus::snapshot::LogReducer\lRef::get_cur_snapshot" alt="" coords="509,308,708,350"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="531,192,686,218"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="782,152,937,194"/>
+<area shape="rect" id="node23" href="$structfoedus_1_1log_1_1LogHeader.html#ab54b6d5754b5543e7de5b49c6c317499" title="Convenience method to get LogCodeKind. " alt="" coords="531,243,686,284"/>
+<area shape="rect" id="node25" href="$structfoedus_1_1xct_1_1XctId.html#a449da7fea452dd81c194f94b28e7a7e2" title="foedus::xct::XctId\l::is_valid" alt="" coords="547,439,670,480"/>
+<area shape="rect" id="node27" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="547,374,670,415"/>
+<area shape="rect" id="node28" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="547,504,670,546"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="767,305,952,361"/>
+<area shape="rect" id="node24" href="$group__LOGTYPE.html#gaa283974b1bc0fdbf11e034f8a11c4b9c" title="Returns the kind of the given log code. " alt="" coords="792,239,927,280"/>
+<area shape="rect" id="node26" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="798,444,921,486"/>
+</map>

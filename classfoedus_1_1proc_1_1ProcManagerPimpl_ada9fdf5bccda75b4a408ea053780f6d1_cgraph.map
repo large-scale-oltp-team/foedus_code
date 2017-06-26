@@ -1,0 +1,5 @@
+<map id="foedus::proc::ProcManagerPimpl::describe_registered_procs" name="foedus::proc::ProcManagerPimpl::describe_registered_procs">
+<area shape="rect" id="node2" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#ab44be75337e69f54c8952842f2179b0e" title="foedus::proc::ProcManager\lPimpl::get_local_data" alt="" coords="268,64,447,105"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="499,5,625,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="495,71,629,112"/>
+</map>

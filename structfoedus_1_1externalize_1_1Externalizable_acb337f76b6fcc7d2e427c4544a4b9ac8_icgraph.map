@@ -1,0 +1,5 @@
+<map id="foedus::externalize::Externalizable::get_child_element" name="foedus::externalize::Externalizable::get_child_element">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogOptions.html#ab34b917a96387b9bd9cc1d668aeae09b" title="Reads the content of this object from the given XML element. " alt="" coords="205,5,363,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1EngineOptions.html#a7113a752f368fbfa9926185c6ebdadac" title="Reads the content of this object from the given XML element. " alt="" coords="207,71,361,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#a0bd2192a2180b6d962fd8850ef577759" title="Reads the content of this object from the given XML element. " alt="" coords="192,136,376,177"/>
+</map>

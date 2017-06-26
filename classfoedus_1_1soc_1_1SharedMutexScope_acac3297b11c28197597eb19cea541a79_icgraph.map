@@ -1,0 +1,5 @@
+<map id="foedus::soc::SharedMutexScope::unlock" name="foedus::soc::SharedMutexScope::unlock">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedCond.html#a58ecf444b8c8d8fa1f5c54b8c2e9f0bd" title="Unblock all waiters. " alt="" coords="239,5,407,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedCond.html#a162423ed18fcb6fb1bf7439ef134eceb" title="Unblock one waiter. " alt="" coords="239,71,407,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMutexScope.html#ab2abf6bab27bbdd7d99d309db9e15358" title="foedus::soc::SharedMutex\lScope::~SharedMutexScope" alt="" coords="228,136,417,177"/>
+</map>

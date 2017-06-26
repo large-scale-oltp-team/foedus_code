@@ -1,0 +1,6 @@
+<map id="foedus::storage::load_from_xml_hash" name="foedus::storage::load_from_xml_hash">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1HashMetadataSerializer.html#a191ed0d443e3b5435949319ca0ef260b" title="Reads the content of this object from the given XML element. " alt="" coords="196,42,396,83"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#a114b65f4e093ca6789527cadf82c0ade" title="common routine for the implementation of load() " alt="" coords="444,71,617,113"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1externalize_1_1Externalizable.html#a6bfc085f34d1c10a4e97b9733970943c" title="Only declaration in header. " alt="" coords="665,5,804,61"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1externalize_1_1Externalizable.html#a7e62a778a3cc034152968775c9a40959" title="enum version " alt="" coords="665,85,804,141"/>
+</map>

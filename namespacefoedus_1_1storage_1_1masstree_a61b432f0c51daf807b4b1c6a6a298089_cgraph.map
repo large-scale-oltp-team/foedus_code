@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::fill_payload_padded" name="foedus::storage::masstree::fill_payload_padded">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="259,5,419,32"/>
+<area shape="rect" id="node3" href="$group__MASSTREE.html#gaca11c6ba81d4c4c7708ca3bcdff3bfa0" title="Returns if the given key is 8&#45;bytes aligned and also zero&#45;padded to 8&#45;bytes for easier slicing (which..." alt="" coords="227,57,452,98"/>
+</map>

@@ -1,0 +1,26 @@
+var structfoedus_1_1storage_1_1PageHeader =
+[
+    [ "PageHeader", "structfoedus_1_1storage_1_1PageHeader.html#a35c13eff561d2f53199002dcf3a35852", null ],
+    [ "PageHeader", "structfoedus_1_1storage_1_1PageHeader.html#a611d14ace870a60d173a81ffbd5eb05d", null ],
+    [ "contains_hot_records", "structfoedus_1_1storage_1_1PageHeader.html#a9d43e66022a4171e578fcd79ba10a948", null ],
+    [ "get_in_layer_level", "structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669", null ],
+    [ "get_page_type", "structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956", null ],
+    [ "increment_key_count", "structfoedus_1_1storage_1_1PageHeader.html#a3f361aa72342a7354ef9b8130b10d21f", null ],
+    [ "init_snapshot", "structfoedus_1_1storage_1_1PageHeader.html#a65c4acd213d2f482eb29c6dee0818915", null ],
+    [ "init_volatile", "structfoedus_1_1storage_1_1PageHeader.html#a5a84eed10b8675e5df2f35f791991eb5", null ],
+    [ "operator=", "structfoedus_1_1storage_1_1PageHeader.html#ab5f3373606a7a9f0e6fec09fca3130fb", null ],
+    [ "set_in_layer_level", "structfoedus_1_1storage_1_1PageHeader.html#a1956943904b68b6472f53b4e9ed6df87", null ],
+    [ "set_key_count", "structfoedus_1_1storage_1_1PageHeader.html#a407bbd604662534963c7fc8f08acc898", null ],
+    [ "operator<<", "structfoedus_1_1storage_1_1PageHeader.html#a31884f3f3f1678558c994ca8d3c69073", null ],
+    [ "checksum_", "structfoedus_1_1storage_1_1PageHeader.html#a7ef0babc9a10d334832e52d24f959ad0", null ],
+    [ "hotness_", "structfoedus_1_1storage_1_1PageHeader.html#a640f2815b10642380b272863a516b6c7", null ],
+    [ "key_count_", "structfoedus_1_1storage_1_1PageHeader.html#a58cd9c4e7b12226634c1c7e5ca392890", null ],
+    [ "masstree_in_layer_level_", "structfoedus_1_1storage_1_1PageHeader.html#a7bd38dfe4e87951dc615e1df8f6a4557", null ],
+    [ "masstree_layer_", "structfoedus_1_1storage_1_1PageHeader.html#aedb491bd51b577feeb9ff84976548afc", null ],
+    [ "page_id_", "structfoedus_1_1storage_1_1PageHeader.html#a59128590fdc568e894a8973a319a0154", null ],
+    [ "page_type_", "structfoedus_1_1storage_1_1PageHeader.html#ad3e98a0cec5c4a8d6aff5bfe5058a3d0", null ],
+    [ "page_version_", "structfoedus_1_1storage_1_1PageHeader.html#a44c12d47d4b478bac2076df4760fc990", null ],
+    [ "snapshot_", "structfoedus_1_1storage_1_1PageHeader.html#ac0baf9ee636d13c02d334ce779cc6a8f", null ],
+    [ "stat_last_updater_node_", "structfoedus_1_1storage_1_1PageHeader.html#a79fd2ce938148e214062b663ee8ce524", null ],
+    [ "storage_id_", "structfoedus_1_1storage_1_1PageHeader.html#a4a8c3c363862348530e4ea0be879f694", null ]
+];

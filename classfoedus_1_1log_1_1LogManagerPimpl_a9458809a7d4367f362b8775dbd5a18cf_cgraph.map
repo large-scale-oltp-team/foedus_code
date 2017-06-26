@@ -1,0 +1,16 @@
+<map id="foedus::log::LogManagerPimpl::uninitialize_once" name="foedus::log::LogManagerPimpl::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="509,5,673,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a4f168d41ea00249fefe905def87e80c8" title="See Savepoint Manager. " alt="" coords="283,129,423,171"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a4243a3e399186727d6bbdda5bc98f8cd" title="See Thread and Thread&#45;Group. " alt="" coords="286,195,421,236"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#a5b4f71aec6abe7d6023f5bef2c5b2809" title="Returns whether the object has been already initialized or not. " alt="" coords="280,261,427,317"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1thread_1_1ThreadPool.html#a364984c53be46fcfec75c7a370214f1f" title="Returns whether the object has been already initialized or not. " alt="" coords="265,341,442,383"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="290,472,417,513"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1log_1_1LogManagerControlBlock.html#aa35df44c776ba7910373a755ab739200" title="foedus::log::LogManagerControl\lBlock::uninitialize" alt="" coords="251,537,456,579"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="267,407,439,448"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1ErrorStackBatch.html#a6c6e566983e136b5c6a63bf110c6cef5" title="A convenience method to uninitialize and delete all Initializable objects in a vector, storing all errors in this batch. " alt="" coords="263,64,444,105"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="505,341,677,383"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="504,537,679,579"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="505,407,677,448"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1ErrorStackBatch.html#a1127d5a2207c91c4dacb7f2bc0f77d7b" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="509,71,673,112"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="727,71,857,112"/>
+</map>

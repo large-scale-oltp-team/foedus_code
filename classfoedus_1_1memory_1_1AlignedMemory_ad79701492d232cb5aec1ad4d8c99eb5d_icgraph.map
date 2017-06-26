@@ -1,0 +1,15 @@
+<map id="foedus::memory::AlignedMemory::assure_capacity" name="foedus::memory::AlignedMemory::assure_capacity">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsBuffer.html#a10d0ce3242bd7bdcc9d9c2fe1520f56d" title="If needed, expand the given read buffer to be used with the inputs. " alt="" coords="820,23,991,79"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePartitioner.html#a1aedc45cc5621bd3889f1bf2d47ab79c" title="foedus::storage::masstree\l::MasstreePartitioner::\ldesign_partition" alt="" coords="299,74,473,130"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#ad43c975601c7bced5a548c4872c498e4" title="Expands intermediate_memory_ in case it is too small. " alt="" coords="267,154,505,196"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a83a280a87143b712b78fb321f0c54bb8" title="Expands pool_memory_ in case it is too small. " alt="" coords="290,220,482,261"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1snapshot_1_1MergeSort.html#a990f4ab6b1e22a9ec86184c402decd15" title="foedus::snapshot::MergeSort\l::initialize_once" alt="" coords="291,285,481,326"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1hash_1_1HashPartitioner.html#a8255043c6cb91246cbff43cceb88f596" title="foedus::storage::hash\l::HashPartitioner::sort_batch" alt="" coords="292,350,480,392"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1array_1_1ArrayPartitioner.html#abcc2f61287dd0e9f643cc7c7b406ed32" title="foedus::storage::array\l::ArrayPartitioner::sort_batch" alt="" coords="291,416,481,457"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#af617a04eb5df3795abfe4900a20a6db6" title="foedus::storage::hash\l::ComposedBinsMergedStream::init" alt="" coords="1055,41,1283,82"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1Partitioner.html#a31a7e393bf1f87a9a039c60b291ac9d1" title="Determines partitioning scheme for this storage. " alt="" coords="565,81,744,122"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#adbaff9aeb65615f7af84b820fd3bf241" title="Subroutine to flush the writer if needed to make sure it has enough room. " alt="" coords="553,147,756,203"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#a230f7dbb47f1b22e7295fe7c00a96fa4" title="Recursively opens pages down from fixed_upto_level. " alt="" coords="804,118,1007,174"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#ad9d314f5d6c1a5f698ca623ef7d0188e" title="Moves cur_path_ to a page that cotains the specified bin. " alt="" coords="1067,118,1270,174"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c8909d8a44ae9d6a4afee0ded0add4c" title="Called from log reducer to sort log entries by keys. " alt="" coords="565,382,744,424"/>
+</map>

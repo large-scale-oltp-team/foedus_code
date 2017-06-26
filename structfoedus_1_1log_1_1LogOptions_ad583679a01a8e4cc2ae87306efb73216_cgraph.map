@@ -1,0 +1,5 @@
+<map id="foedus::log::LogOptions::construct_suffixed_log_path" name="foedus::log::LogOptions::construct_suffixed_log_path">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogOptions.html#aad38e1d1b3d55acc3f4f4702f9848dbc" title="converts folder_path_pattern_ into a string with the given IDs. " alt="" coords="244,16,403,72"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaa64b5d5356e69e9d0efa80590617c795" title="target.replaceAll(search, replacement). " alt="" coords="464,5,652,32"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="451,56,665,83"/>
+</map>

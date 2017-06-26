@@ -1,0 +1,5 @@
+<map id="numa_get_interleave_mask_compat" name="numa_get_interleave_mask_compat">
+<area shape="rect" id="node2" href="$numa_8h.html#a364d7502729f7007d97f4193b51af070" title="copy_bitmask_to_nodemask" alt="" coords="193,5,381,32"/>
+<area shape="rect" id="node3" href="$numa_8h.html#aecafde9ab943547d6134f1fc45a55c33" title="numa_bitmask_free" alt="" coords="220,56,355,83"/>
+<area shape="rect" id="node4" href="$numa_8h.html#a032e56c4337b6f5f1d584547fb96f723" title="numa_get_interleave_mask" alt="" coords="198,107,377,133"/>
+</map>

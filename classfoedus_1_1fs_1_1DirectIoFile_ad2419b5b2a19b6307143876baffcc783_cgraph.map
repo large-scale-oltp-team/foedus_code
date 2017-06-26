@@ -1,0 +1,13 @@
+<map id="foedus::fs::DirectIoFile::write" name="foedus::fs::DirectIoFile::write">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a781e5fea7e2fa128936ed3321b7312a4" title="Returns the alignment of the memory block. " alt="" coords="204,5,417,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1memory_1_1AlignedMemorySlice.html#ae3127a9ce40b34e15bc7257ddd332365" title="foedus::memory::AlignedMemory\lSlice::get_block" alt="" coords="204,71,417,112"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1fs.html#a1a3ea81bf627928d9a5f154986af9c48" title="foedus::fs::is_odirect\l_aligned" alt="" coords="501,129,643,171"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1memory_1_1AlignedMemorySlice.html#a61e89ebc636e95e61698c2a523daac29" title="foedus::memory::AlignedMemory\lSlice::is_valid" alt="" coords="204,188,417,229"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1fs_1_1DirectIoFile.html#abee93267c52644978643dedc44965970" title="A version that receives a raw pointer that has to be aligned (be careful to use this ver)..." alt="" coords="235,257,386,299"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="465,64,679,105"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1d89a9c761a388f13f9b59490b6caa00" title="Whether the file is already and successfully opened. " alt="" coords="497,195,647,236"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a9f19d10be82ac60706853e106a5de0e1" title="Sequentially write the given amount of contents from the current position. " alt="" coords="497,260,647,301"/>
+<area shape="rect" id="node10" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="502,325,642,367"/>
+<area shape="rect" id="node11" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="505,391,639,432"/>
+<area shape="rect" id="node12" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="727,391,861,432"/>
+</map>

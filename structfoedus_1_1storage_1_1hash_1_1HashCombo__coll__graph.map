@@ -1,0 +1,4 @@
+<map id="foedus::storage::hash::HashCombo" name="foedus::storage::hash::HashCombo">
+<area shape="rect" id="node2" href="$unionfoedus_1_1storage_1_1hash_1_1IntermediateRoute.html" title="Compactly represents the route of intermediate pages to reach the given hash bin. ..." alt="" coords="11,5,157,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1BloomFilterFingerprint.html" title="A fingerprint for bloom filter in each HashDataPage. " alt="" coords="5,71,163,112"/>
+</map>

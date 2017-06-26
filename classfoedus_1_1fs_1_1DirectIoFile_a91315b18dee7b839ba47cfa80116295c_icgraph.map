@@ -1,0 +1,7 @@
+<map id="foedus::fs::DirectIoFile::get_path" name="foedus::fs::DirectIoFile::get_path">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a4944523eeeba60c3b677a8147b1f9e42" title="Close the file and makes sure all writes become durable (including the directory entry). " alt="" coords="204,37,388,79"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1fs.html#accc36bb6a6995d99162f835fe186d2ef" title="foedus::fs::operator\&lt;\&lt;" alt="" coords="221,103,371,130"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1DumpFileSortedBuffer.html#a0aff73ef8d123277b26335ddca043cca" title="Returns a short string that briefly describes this object. " alt="" coords="204,155,388,196"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a3c24b7f707e02abf63c2708b0090c02e" title="foedus::snapshot::Snapshot\lWriter::~SnapshotWriter" alt="" coords="436,5,620,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a7d71f940f088efa51d0b5769d4fdd31f" title="Open the file so that the writer can start writing. " alt="" coords="436,71,620,112"/>
+</map>

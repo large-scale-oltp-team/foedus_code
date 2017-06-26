@@ -1,0 +1,9 @@
+<map id="foedus::storage::masstree::MasstreePage::set_key_count" name="foedus::storage::masstree::MasstreePage::set_key_count">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a46dc7e7ac5fab5c66bf0b519e2cebc70" title="Appends a new separator and the initial pointer in new mini page, used only by snapshot composer..." alt="" coords="266,5,457,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a35973b360ff80fe5c939e971c373ee05" title="Installs a next layer pointer. " alt="" coords="260,85,463,141"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html#af12f943f013c35e9b4a549afd4075920" title="Subroutine to construct a new page. " alt="" coords="275,165,448,221"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#a96de88f03cf5683529e00d2c209a07e9" title="The core implementation after locking relevant pages and acquiring free page resource. " alt="" coords="275,245,448,301"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a2d0f9a395fbf20a9a70a026d611e2af3" title="Appends a new poiner and separator in an existing mini page, used only by snapshot composer..." alt="" coords="511,5,696,61"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html#ab940fc48706197ec728542a3b4438fc7" title="Border node&#39;s Split. " alt="" coords="517,173,690,214"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="517,253,690,294"/>
+</map>

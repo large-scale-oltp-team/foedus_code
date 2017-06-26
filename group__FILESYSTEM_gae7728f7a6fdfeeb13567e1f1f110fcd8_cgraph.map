@@ -1,0 +1,4 @@
+<map id="foedus::fs::atomic_rename" name="foedus::fs::atomic_rename">
+<area shape="rect" id="node2" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="179,5,329,32"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#ga9e0f9ca119eb0d4fc1159716c95822eb" title="Just a synonym of atomic_rename() to avoid confusion. " alt="" coords="189,56,319,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::fs::rename" name="foedus::fs::rename">
+<area shape="rect" id="node2" href="$group__FILESYSTEM.html#gae7728f7a6fdfeeb13567e1f1f110fcd8" title="Renames the old file to the new file with the POSIX atomic&#45;rename semantics. " alt="" coords="183,5,308,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="356,13,507,39"/>
+</map>

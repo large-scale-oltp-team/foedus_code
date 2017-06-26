@@ -1,0 +1,7 @@
+<map id="foedus::xct::RwLockableXctId::hotter" name="foedus::xct::RwLockableXctId::hotter">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="261,5,410,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Thread.html#a83bb972b117e155dc7f0faa56751571b" title="foedus::thread::Thread\l::get_lock_rnd" alt="" coords="260,71,411,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a168e04a3f3aa5c426c6f7980b9f358a7" title="foedus::assorted::ProbCounter\l::increment" alt="" coords="236,136,435,177"/>
+<area shape="rect" id="node6" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="253,202,418,229"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a5aba938f3a43d80fbfcca815637bbcfc" title="foedus::assorted::Uniform\lRandom::next_uint32" alt="" coords="483,136,653,177"/>
+</map>

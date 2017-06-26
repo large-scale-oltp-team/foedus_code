@@ -1,0 +1,7 @@
+<map id="foedus::xct::McsWwBlockData::get_word_atomic" name="foedus::xct::McsWwBlockData::get_word_atomic">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a099dd22546845ea9d8b50a57e41626f6" title="foedus::xct::McsWwBlockData\l::copy_atomic" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa7c2036a1ffee7d1c430ca41f388fbcd" title="foedus::xct::McsWwBlockData\l::is_guest_atomic" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a7010400358bf1734117f745f8fae8686" title="foedus::xct::McsWwBlockData\l::is_valid_atomic" alt="" coords="255,136,456,177"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwLock.html#a95c38e466e7f1552c659ef088d092034" title="foedus::xct::McsWwLock\l::get_tail_atomic" alt="" coords="507,5,676,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwBlock.html#ae87a8109f61a493b66b2b8a2afb1b765" title="foedus::xct::McsWwBlock\l::has_successor_atomic" alt="" coords="504,136,679,177"/>
+</map>

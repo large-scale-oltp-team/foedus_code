@@ -1,0 +1,8 @@
+<map id="foedus::xct::McsWwLock::ownerless_initial_lock" name="foedus::xct::McsWwLock::ownerless_initial_lock">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a7ef284a7c1407d3136647b9f162533c3" title="foedus::xct::McsWwOwnerless\lImpl::ownerless_initial" alt="" coords="223,71,425,112"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1xct.html#abc92f6bf35f5db4360f8596b09f778f8" title="foedus::xct::assert\l_mcs_aligned" alt="" coords="493,5,623,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="473,71,643,112"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwLock.html#aeb9387704d4395c40dc90ad7743a56a6" title="foedus::xct::McsWwLock\l::reset_guest_id_release" alt="" coords="473,136,643,177"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="691,71,892,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a91e84e53293e5aff556661071d20ca3c" title="foedus::xct::McsWwBlockData\l::set_combined_release" alt="" coords="691,136,892,177"/>
+</map>

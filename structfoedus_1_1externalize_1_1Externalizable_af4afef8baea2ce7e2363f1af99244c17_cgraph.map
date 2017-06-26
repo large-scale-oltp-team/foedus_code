@@ -1,0 +1,5 @@
+<map id="foedus::externalize::Externalizable::save_to_stream" name="foedus::externalize::Externalizable::save_to_stream">
+<area shape="rect" id="node2" href="$structfoedus_1_1externalize_1_1Externalizable.html#ad6b9ab6485d761a9d2d5402da7c97700" title="Returns an XML tag name for this object as a root element. " alt="" coords="204,5,343,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="208,86,339,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1externalize_1_1Externalizable.html#a19c407586854a4765981cf165b653ef5" title="Writes the content of this object to the given XML element. " alt="" coords="200,151,347,193"/>
+</map>

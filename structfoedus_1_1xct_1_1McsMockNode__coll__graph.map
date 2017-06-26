@@ -1,0 +1,13 @@
+<map id="foedus::xct::McsMockNode&lt; RW_BLOCK &gt;" name="foedus::xct::McsMockNode&lt; RW_BLOCK &gt;">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsMockDataPage.html" title="A dummy page layout to store RwLockableXctId. " alt="" coords="1199,141,1407,168"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1RwLockableXctId.html" title="The MCS reader&#45;writer lock variant of LockableXctId. " alt="" coords="905,56,1097,83"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwLock.html" title="An MCS reader&#45;writer lock data structure. " alt="" coords="589,5,754,32"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="610,56,733,83"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageHeader.html" title="Just a marker to denote that a memory region represents a data page. " alt="" coords="906,141,1097,168"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1assorted_1_1ProbCounter.html" title="Implements a probabilistic counter [Morris 1978]. " alt="" coords="572,107,771,133"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageVersion.html" title="Just a synonym of XctId to be used as a page lock mechanism. " alt="" coords="575,157,767,184"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1PageVersionStatus.html" title="foedus::storage::PageVersion\lStatus" alt="" coords="284,111,476,153"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsWwLock.html" title="An exclusive&#45;only (WW) MCS lock data structure. " alt="" coords="295,192,465,219"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="5,192,207,219"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="1196,272,1409,299"/>
+</map>

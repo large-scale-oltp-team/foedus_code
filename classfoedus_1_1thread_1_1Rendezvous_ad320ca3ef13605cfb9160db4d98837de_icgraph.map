@@ -1,0 +1,6 @@
+<map id="foedus::thread::Rendezvous::is_signaled" name="foedus::thread::Rendezvous::is_signaled">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Rendezvous.html#af7e23e2d55331fd410d253c8645cbe68" title="Notify all waiters that the event has happened. " alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Rendezvous.html#a914c96602fcbd41ff1c8af43d49f020c" title="Block until the event happens. " alt="" coords="236,71,419,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1Rendezvous.html#ae34b5634d5c3eb7a2582a9453c053579" title="Block until the event happens or the given period elapses. " alt="" coords="236,136,419,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1Rendezvous.html#ad9833689b9e12cde79a12b4ecd29dc4e" title="Block until the event happens or the given time point arrives. " alt="" coords="236,201,419,243"/>
+</map>

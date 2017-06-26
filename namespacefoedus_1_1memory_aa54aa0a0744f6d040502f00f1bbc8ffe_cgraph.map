@@ -1,0 +1,8 @@
+<map id="foedus::memory::operator&lt;&lt;" name="foedus::memory::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a781e5fea7e2fa128936ed3321b7312a4" title="Returns the alignment of the memory block. " alt="" coords="240,5,453,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a50393189ee253c5710894d86cb83a6eb" title="Returns type of new/delete operation for the block. " alt="" coords="240,71,453,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="240,136,453,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ade690997337d7af02b6099032504f26c" title="If alloc_type_ is kNumaAllocOnnode, returns the NUMA node this memory was allocated at..." alt="" coords="240,201,453,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="240,267,453,308"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad11d2289458b26db2aaef9de984045a0" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="240,332,453,373"/>
+</map>

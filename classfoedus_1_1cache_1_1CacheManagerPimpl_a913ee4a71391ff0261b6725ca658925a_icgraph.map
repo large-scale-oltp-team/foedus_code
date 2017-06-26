@@ -1,0 +1,6 @@
+<map id="foedus::cache::CacheManagerPimpl::stop_cleaner" name="foedus::cache::CacheManagerPimpl::stop_cleaner">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1CacheManager.html#ad3fb77fc199a9556115435bbf7557edc" title="Stops internal eviction thread even before uninitialize() of this object is called. " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a1322d8be16a7fe558bd83de18eb41c85" title="foedus::cache::CacheManager\lPimpl::uninitialize_once" alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a8fb6cedfd224c44cac4224877c688672" title="foedus::xct::XctManagerPimpl\l::uninitialize_once" alt="" coords="501,5,695,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1cache_1_1CacheManager.html#ab7dbe48b7c06d1bcefcf787bce285c25" title="foedus::cache::CacheManager\l::uninitialize_once" alt="" coords="499,71,697,112"/>
+</map>

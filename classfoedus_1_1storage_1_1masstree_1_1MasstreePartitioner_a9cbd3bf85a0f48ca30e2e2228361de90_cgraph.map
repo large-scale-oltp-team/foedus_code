@@ -1,0 +1,7 @@
+<map id="foedus::storage::masstree::MasstreePartitioner::MasstreePartitioner" name="foedus::storage::masstree::MasstreePartitioner::MasstreePartitioner">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PartitionerMetadata.html#a0534520d3f4fb059afdf7b9db375907e" title="Returns the partitioner data pointed from this metadata. " alt="" coords="227,119,405,161"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="453,5,639,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="479,86,613,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="456,151,636,193"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="479,217,613,258"/>
+</map>

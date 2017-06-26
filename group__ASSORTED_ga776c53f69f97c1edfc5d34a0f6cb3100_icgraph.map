@@ -1,0 +1,10 @@
+<map id="foedus::assorted::prefetch_l2" name="foedus::assorted::prefetch_l2">
+<area shape="rect" id="node2" href="$group__STORAGE.html#ga9a2f9d6e4c010712ecd8987d65e634c3" title="Prefetch a page to L2/L3 cache. " alt="" coords="243,71,408,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#adbf75cfe4ac8c4c5e1e8a32342b66d00" title="defined in array_storage_prefetch.cpp " alt="" coords="697,33,932,75"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#af22fe9e661763ca3225eeedf7fa62879" title="foedus::storage::array\l::ArrayStoragePimpl::prefetch\l_pages_recurse" alt="" coords="456,30,649,86"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a99bb085d9e427fc36182b13bb20371e9" title="defined in masstree_storage_prefetch.cpp " alt="" coords="987,134,1175,190"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#abe8cbf3d8edfb47a32d460029707aace" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::prefetch_pages_follow" alt="" coords="466,169,639,225"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#af420e19da8ee4ed731ae387932cc991e" title="Prefetch data pages in this storage. " alt="" coords="980,33,1183,75"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a10db264b9d354e1813bd20ef8fdb72bb" title="Prefetch data pages in this storage. " alt="" coords="1231,134,1413,190"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a4c4630d85af99ceafad404bc5c5c7eef" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::prefetch_pages_normalized\l_recurse" alt="" coords="721,161,909,232"/>
+</map>

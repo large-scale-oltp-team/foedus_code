@@ -1,0 +1,22 @@
+<map id="foedus::storage::PageVersion::is_retired" name="foedus::storage::PageVersion::is_retired">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#aec1302bec7fe39ef71cf9ac0ab6b364a" title="foedus::storage::masstree\l::MasstreePage::is_retired" alt="" coords="726,245,901,286"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a28d4f2f16808e20d2d174f12ff1c7317" title="Subroutine of collect_retired_volatile_page() just for assertion. " alt="" coords="245,377,429,418"/>
+<area shape="rect" id="node17" href="$namespacefoedus_1_1storage.html#aa1ad9c15fa4ef1644a8f704146b1de09" title="foedus::storage::operator\&lt;\&lt;" alt="" coords="246,443,429,469"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#afc1a73e49f6386098d3fff98bc1baf78" title="foedus::storage::hash\l::HashStoragePimpl::verify\l_single_thread_intermediate" alt="" coords="245,493,429,549"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a16f4727fa2ce3b72468618be684af41d" title="Execute the system transaction. " alt="" coords="1223,369,1396,410"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a8febde13f90f2b61abf29bf1f4a89e3d" title="foedus::storage::masstree\l::Adopt::adopt_case_b" alt="" coords="974,369,1147,410"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1GrowFirstLayerRoot.html#a2c3c6cc4a2d74c498cee8f9051d09909" title="Execute the system transaction. " alt="" coords="1223,519,1396,561"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1masstree_1_1GrowNonFirstLayerRoot.html#a9c47822a3dd14ff40020c13d277820ea" title="Execute the system transaction. " alt="" coords="1212,585,1407,626"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a867f696df8da3aeeab003663a439a535" title="A physical&#45;only method to initialize this page as a volatile page of a layer&#45;root pointed from the gi..." alt="" coords="957,5,1164,61"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html#aae952c17c2f2b1c760f899da5c368054" title="Execute the system transaction. " alt="" coords="1223,46,1396,87"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="1223,187,1396,229"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a674a8a8e613dc4e19a626da490c883fc" title="Keeps the specified volatile page as retired as of the current epoch. " alt="" coords="477,390,669,431"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1thread_1_1Thread.html#ab41d50498e6830c6aedc20c93b495037" title="Keeps the specified volatile page as retired as of the current epoch. " alt="" coords="717,402,909,443"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a31564163126364e4810f2f00398afd15" title="foedus::storage::masstree\l::Adopt::adopt_case_a" alt="" coords="974,434,1147,475"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1storage_1_1masstree.html#a554f6fb34b45687df09df15076aac190" title="foedus::storage::masstree\l::grow_case_a_common" alt="" coords="974,617,1147,658"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1storage_1_1masstree.html#a9747d159e12f82f5fefcaed735947480" title="foedus::storage::masstree\l::grow_case_b_common" alt="" coords="974,551,1147,593"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#a96de88f03cf5683529e00d2c209a07e9" title="The core implementation after locking relevant pages and acquiring free page resource. " alt="" coords="974,237,1147,293"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#ae1d255af4c59e5d9eb4696da85b77121" title="These are defined in hash_storage_verify.cpp. " alt="" coords="486,493,661,549"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a29cf082a85cdc7074a748e151e34807d" title="foedus::storage::hash\l::HashStorage::verify\l_single_thread" alt="" coords="740,480,887,536"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a3e66818c84450f40fdb3d84a945cc36c" title="foedus::storage::hash\l::HashStoragePimpl::verify\l_single_thread" alt="" coords="726,560,901,616"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="foedus::memory::PagePoolOffsetAndEpochChunk::get_safe_offset_count" name="foedus::memory::PagePoolOffsetAndEpochChunk::get_safe_offset_count">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a694a2aaa7515ab45a8c9fa12b709defb" title="Subroutine of collect_retired_volatile_page() in case the chunk becomes full. " alt="" coords="232,136,416,177"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a674a8a8e613dc4e19a626da490c883fc" title="Keeps the specified volatile page as retired as of the current epoch. " alt="" coords="464,136,656,177"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1Thread.html#ab41d50498e6830c6aedc20c93b495037" title="Keeps the specified volatile page as retired as of the current epoch. " alt="" coords="704,136,896,177"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a31564163126364e4810f2f00398afd15" title="foedus::storage::masstree\l::Adopt::adopt_case_a" alt="" coords="944,71,1117,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a8febde13f90f2b61abf29bf1f4a89e3d" title="foedus::storage::masstree\l::Adopt::adopt_case_b" alt="" coords="944,5,1117,47"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage_1_1masstree.html#a554f6fb34b45687df09df15076aac190" title="foedus::storage::masstree\l::grow_case_a_common" alt="" coords="944,201,1117,243"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1storage_1_1masstree.html#a9747d159e12f82f5fefcaed735947480" title="foedus::storage::masstree\l::grow_case_b_common" alt="" coords="944,136,1117,177"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#a96de88f03cf5683529e00d2c209a07e9" title="The core implementation after locking relevant pages and acquiring free page resource. " alt="" coords="944,267,1117,323"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a16f4727fa2ce3b72468618be684af41d" title="Execute the system transaction. " alt="" coords="1176,39,1349,80"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1masstree_1_1GrowFirstLayerRoot.html#a2c3c6cc4a2d74c498cee8f9051d09909" title="Execute the system transaction. " alt="" coords="1176,136,1349,177"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1masstree_1_1GrowNonFirstLayerRoot.html#a9c47822a3dd14ff40020c13d277820ea" title="Execute the system transaction. " alt="" coords="1165,201,1360,243"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="1176,275,1349,316"/>
+</map>

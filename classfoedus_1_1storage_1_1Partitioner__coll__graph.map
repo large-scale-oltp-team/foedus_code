@@ -1,0 +1,7 @@
+<map id="foedus::storage::Partitioner" name="foedus::storage::Partitioner">
+<area shape="rect" id="node2" href="$classfoedus_1_1Attachable.html" title="foedus::Attachable\l\&lt; PartitionerMetadata \&gt;" alt="" coords="108,199,267,240"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1PartitionerMetadata.html" title="Tiny metadata of partitioner for every storage used while log gleaning. " alt="" coords="6,95,185,136"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="213,102,321,129"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="204,5,336,32"/>
+</map>

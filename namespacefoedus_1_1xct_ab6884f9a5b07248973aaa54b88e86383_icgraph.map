@@ -1,0 +1,9 @@
+<map id="foedus::xct::rw_lock_to_universal_lock_id" name="foedus::xct::rw_lock_to_universal_lock_id">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a54470c10b3cb6bcb4dd54613090048e7" title="foedus::xct::McsMockAdaptor\l::add_rw_async_mapping" alt="" coords="210,5,406,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#adf76198e353d823422303c51a7241869" title="foedus::thread::ThreadPimpl\lMcsAdaptor::add_rw_async\l_mapping" alt="" coords="216,71,400,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsMockThread.html#a543bd8deb2243b7faad4737e8de2d47b" title="foedus::xct::McsMockThread\l::get_mcs_rw_async_block_index" alt="" coords="199,152,417,193"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a99408b01841c4cd34977a90b71e04dfa" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_rw_other\l_async_block" alt="" coords="216,218,400,274"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a23903eef9433d7f2ee69a940d93aaadd" title="foedus::xct::McsMockAdaptor\l::remove_rw_async_mapping" alt="" coords="210,299,406,340"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#ac1b4a1cda0dfedf0fa18e43e70c5d2b8" title="foedus::thread::ThreadPimpl\lMcsAdaptor::remove_rw_async\l_mapping" alt="" coords="207,365,409,421"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a44902001fcbcc2b977cd53f1101ef50e" title="foedus::xct::McsMockAdaptor\l::get_rw_other_async_block" alt="" coords="465,152,661,193"/>
+</map>

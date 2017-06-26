@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePage::verify_separators" name="foedus::storage::masstree::MasstreeIntermediatePage::verify_separators">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aac45b3f7f6e3c14faa8a9662396d44e1" title="Subroutine to construct a new page. " alt="" coords="239,5,417,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#a96de88f03cf5683529e00d2c209a07e9" title="The core implementation after locking relevant pages and acquiring free page resource. " alt="" coords="465,39,639,95"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a16f4727fa2ce3b72468618be684af41d" title="Execute the system transaction. " alt="" coords="241,137,415,178"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="687,46,860,87"/>
+</map>

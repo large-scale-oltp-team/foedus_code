@@ -1,0 +1,12 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePage::initialize_snapshot_page" name="foedus::storage::masstree::MasstreeIntermediatePage::initialize_snapshot_page">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="239,32,424,88"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#ab41ee4ce455995cd703dac3990442081" title="foedus::storage::masstree\l::MasstreePage::initialize\l_snapshot_common" alt="" coords="245,112,418,168"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageHeader.html#a65c4acd213d2f482eb29c6dee0818915" title="foedus::storage::PageHeader\l::init_snapshot" alt="" coords="480,86,671,127"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="472,151,679,193"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="732,5,920,61"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="727,86,925,127"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageVersion.html#ae40168c82f16645e85bb66f9019e53cf" title="used only while page initialization " alt="" coords="730,151,922,193"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#af49ef4f3320148130f46f494f1c845aa" title="foedus::storage::PageVersion\lStatus::reset" alt="" coords="973,118,1165,159"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwLock.html#a4114c2dec151ad650a294dedac4f239d" title="used only while page initialization " alt="" coords="985,183,1154,225"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3161e47c41388e9c1b50929f585e366b" title="foedus::xct::McsWwBlockData\l::clear" alt="" coords="1213,183,1415,225"/>
+</map>

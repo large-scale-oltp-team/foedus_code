@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsRwSimpleBlock::is_reader" name="foedus::xct::McsRwSimpleBlock::is_reader">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#a1fced1fa8063adcd7800216c6f7bbaba" title="foedus::xct::McsRwSimple\lBlock::is_finalized" alt="" coords="251,5,429,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#a318cf0a39f00a71ac69f5df16486839a" title="foedus::xct::McsRwSimple\lBlock::set_finalized" alt="" coords="497,35,675,76"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsImpl_3_01ADAPTOR_00_01McsRwSimpleBlock_01_4.html#a9286b4d7d998f425b6ee284a7416f05f" title="foedus::xct::McsImpl\l\&lt; ADAPTOR, McsRwSimpleBlock\l \&gt;::release_rw_reader" alt="" coords="231,122,449,178"/>
+</map>

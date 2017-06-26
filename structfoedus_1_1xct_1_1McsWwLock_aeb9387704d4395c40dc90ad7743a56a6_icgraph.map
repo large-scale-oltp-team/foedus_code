@@ -1,0 +1,6 @@
+<map id="foedus::xct::McsWwLock::reset_guest_id_release" name="foedus::xct::McsWwLock::reset_guest_id_release">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a7ef284a7c1407d3136647b9f162533c3" title="foedus::xct::McsWwOwnerless\lImpl::ownerless_initial" alt="" coords="223,5,425,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwLock.html#a6cff23a5832a37c988d10252d07efead" title="The followings are implemented in thread_pimpl.cpp along with the above methods, but these don&#39;t use ..." alt="" coords="473,5,643,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a42e3a3f1d5511994623010af52ff9a28" title="Acquires the lock. " alt="" coords="691,5,871,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#afc93395843770944d528724b598e390f" title="foedus::xct::McsOwnerless\lLockScope::McsOwnerlessLockScope" alt="" coords="919,5,1165,47"/>
+</map>

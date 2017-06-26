@@ -1,0 +1,5 @@
+<map id="foedus::xct::RwLockableXctId::reset" name="foedus::xct::RwLockableXctId::reset">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsMockDataPage.html#a98fd1b6269642328d35815e64fd942c5" title="foedus::xct::McsMockData\lPage::init" alt="" coords="236,5,415,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a82dc0eaea96412a4ddb70006b450d754" title="A system transaction that creates a logically deleted record in this page for the given key..." alt="" coords="242,71,409,127"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsMockNode.html#a346c3bf77b2927d718f8f42be58c5c3e" title="foedus::xct::McsMockNode\l::init" alt="" coords="463,5,644,47"/>
+</map>

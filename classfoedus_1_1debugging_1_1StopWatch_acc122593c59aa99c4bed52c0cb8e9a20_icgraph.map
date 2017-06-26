@@ -1,0 +1,12 @@
+<map id="foedus::debugging::StopWatch::elapsed_sec" name="foedus::debugging::StopWatch::elapsed_sec">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a26c51902174b692c91aedd15218f01b7" title="subroutine invoked by one thread for one node. " alt="" coords="227,5,411,61"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1snapshot_1_1LogGleaner.html#a617c3de45c34c6533c7f3e82216557f4" title="Main routine of log gleaner. " alt="" coords="221,86,416,127"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1snapshot_1_1LogMapper.html#a661014d4832400f072544ff4b7e74a45" title="Implements the specific logics in derived class. " alt="" coords="222,151,415,193"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a5d474e7a6b4de127153103f2295cb0fa" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="464,15,691,57"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="739,41,949,97"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1025,15,1180,57"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="997,81,1208,122"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1256,15,1451,57"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1256,81,1451,122"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a75c5d41290ab6f960725a004622dc3be" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="485,82,669,123"/>
+</map>

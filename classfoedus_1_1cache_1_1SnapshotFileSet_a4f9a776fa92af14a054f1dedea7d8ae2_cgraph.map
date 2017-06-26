@@ -1,0 +1,7 @@
+<map id="foedus::cache::SnapshotFileSet::get_or_open_file" name="foedus::cache::SnapshotFileSet::get_or_open_file">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#aea13c9b06029b240ee72b40a450cacf8" title="&#39;folder_path&#39;/snapshot_&#39;snapshot&#45;id&#39;node&#39;node&#45;id&#39;.data. " alt="" coords="240,16,429,72"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="267,97,402,138"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#aa2874f5cd398cc0907d0a5bee822d1c3" title="converts folder_path_pattern_ into a string with the given node. " alt="" coords="477,16,661,72"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaa64b5d5356e69e9d0efa80590617c795" title="target.replaceAll(search, replacement). " alt="" coords="723,5,911,32"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="709,56,924,83"/>
+</map>

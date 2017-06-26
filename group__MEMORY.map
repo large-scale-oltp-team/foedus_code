@@ -1,0 +1,4 @@
+<map id="Memory Manager" name="Memory Manager">
+<area shape="rect" id="node1" href="$group__COMPONENTS.html" title="Main modules of libfoedus. " alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node2" href="$group__MEMHIERARCHY.html" title="NUMA&#45;Aware Memory Hierarchy in libfoedus&#45;core. " alt="" coords="559,5,687,32"/>
+</map>

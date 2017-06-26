@@ -1,0 +1,4 @@
+<map id="foedus::thread::StoppableThread::sleep" name="foedus::thread::StoppableThread::sleep">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1StoppableThread.html#add9d438b224f5ae11ba69a3ce1963d11" title="returns whether someone has requested to stop this. " alt="" coords="224,5,399,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ConditionVariable.html#a5333ca0be98a0f2f5e52d70dc96a2d63" title="Block until the event happens or the given period elapses. " alt="" coords="228,71,395,112"/>
+</map>

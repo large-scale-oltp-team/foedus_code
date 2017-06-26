@@ -1,0 +1,14 @@
+<map id="foedus::cache::SnapshotFileSet::read_page" name="foedus::cache::SnapshotFileSet::read_page">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="240,33,440,89"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#ae5b153acb9f3115c44a48e10ff2262fb" title="foedus::cache::SnapshotFile\lSet::get_or_open_file" alt="" coords="247,114,433,155"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a5353bbb3b2a815d6c858c8190edeccf4" title="A version that receives a raw pointer that has to be aligned (be careful to use this ver)..." alt="" coords="265,249,415,290"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a35814dfec4dab81d5bb46e453f1993e6" title="Sets the position of the next byte to be written/extracted from/to the stream. " alt="" coords="265,346,415,387"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="489,85,677,141"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="488,5,679,61"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1d89a9c761a388f13f9b59490b6caa00" title="Whether the file is already and successfully opened. " alt="" coords="508,231,659,273"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1fs.html#a1a3ea81bf627928d9a5f154986af9c48" title="foedus::fs::is_odirect\l_aligned" alt="" coords="512,297,655,338"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1c6bff6aafc955fd4c2a8e11e7f41f40" title="Sequentially read the given amount of contents from the current position. " alt="" coords="508,166,659,207"/>
+<area shape="rect" id="node10" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="513,362,653,403"/>
+<area shape="rect" id="node11" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="516,427,651,469"/>
+<area shape="rect" id="node12" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="727,427,861,469"/>
+</map>

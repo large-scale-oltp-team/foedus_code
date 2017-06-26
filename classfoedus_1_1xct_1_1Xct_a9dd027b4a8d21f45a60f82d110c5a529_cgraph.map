@@ -1,0 +1,28 @@
+<map id="foedus::xct::Xct::initialize" name="foedus::xct::Xct::initialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a1542703e9d39b62b7269192a4db8e4b6" title="foedus::memory::NumaCore\lMemory::get_current_lock\l_list_capacity" alt="" coords="233,5,417,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#ac62f3ab84bf9ac7f5b7a07c656d5190a" title="foedus::memory::NumaCore\lMemory::get_current_lock\l_list_memory" alt="" coords="233,85,417,141"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1EngineMemory.html#a62b2d4de6a72644e9e31d35a7f9beae0" title="Returns the page resolver to convert volatile page ID to page pointer. " alt="" coords="220,165,431,221"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#a82624b3d7edff1d02e29c1b8863dd4ee" title="foedus::savepoint::\lSavepointManager::get\l_initial_current_epoch" alt="" coords="248,245,403,301"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a8f55dee0a9b4f7f55d22a60cd677f39e" title="foedus::memory::NumaCore\lMemory::get_local_work\l_memory" alt="" coords="233,325,417,381"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a318c160df3a63c1063665a1f19e741e8" title="foedus::memory::NumaCore\lMemory::get_local_work\l_memory_size" alt="" coords="233,405,417,461"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="258,486,393,527"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="258,551,393,593"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#aa15ff5555f06dfff58b3fd11f60f2ca7" title="foedus::memory::NumaCore\lMemory::get_retrospective\l_lock_list_capacity" alt="" coords="233,617,417,673"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a11de415935b61a9f48e35719d500cbb9" title="foedus::memory::NumaCore\lMemory::get_retrospective\l_lock_list_memory" alt="" coords="233,697,417,753"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1Engine.html#a4f168d41ea00249fefe905def87e80c8" title="See Savepoint Manager. " alt="" coords="255,778,395,819"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a3f376657b7efceecf12e0cc504ab8c17" title="foedus::memory::NumaCore\lMemory::get_small_thread\l_local_memory_pieces" alt="" coords="233,844,417,900"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a94b7a86ff61fec046d3c0645023fb535" title="foedus::xct::Retrospective\lLockList::init" alt="" coords="239,925,411,966"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ac79149bb167fa69b2afc7861c0c70483" title="foedus::xct::CurrentLock\lList::init" alt="" coords="243,990,407,1031"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1xct_1_1SysxctWorkspace.html#aa106365bb7c8ac68eb2bd67bd729bfb4" title="foedus::xct::SysxctWorkspace\l::init" alt="" coords="225,1055,426,1097"/>
+<area shape="rect" id="node23" href="$structfoedus_1_1xct_1_1XctId.html#a449da7fea452dd81c194f94b28e7a7e2" title="foedus::xct::XctId\l::is_valid" alt="" coords="264,1121,387,1162"/>
+<area shape="rect" id="node25" href="$structfoedus_1_1xct_1_1XctId.html#af25a0de9ca35e854b50d5f5621fb23dc" title="foedus::xct::XctId\l::set_epoch" alt="" coords="264,1186,387,1227"/>
+<area shape="rect" id="node27" href="$structfoedus_1_1xct_1_1XctId.html#a27c23f58d7a94bed0dde10dd57a9dcce" title="foedus::xct::XctId\l::set_ordinal" alt="" coords="264,1251,387,1293"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a69656b017856d4e6b2bcda9085c0d316" title="foedus::savepoint::\lSavepointManagerPimpl\l::get_initial_current_epoch" alt="" coords="498,245,673,301"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="479,333,692,374"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="479,413,692,454"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#acdd6c3ee6c1e8b0da192818e70fec846" title="foedus::xct::Retrospective\lLockList::clear_entries" alt="" coords="499,925,671,966"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1xct_1_1CurrentLockList.html#abb020fdb3951460f9c283d4700696ad2" title="foedus::xct::CurrentLock\lList::clear_entries" alt="" coords="503,990,667,1031"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a6b39d3dca4a4abc65c8d02140cedeff3" title="foedus::xct::SysxctLockList\l::init" alt="" coords="493,1055,677,1097"/>
+<area shape="rect" id="node24" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="524,1121,647,1162"/>
+<area shape="rect" id="node26" href="$structfoedus_1_1xct_1_1XctId.html#afd81e3e00ee902aa673a9d3fe62be17b" title="foedus::xct::XctId\l::set_epoch_int" alt="" coords="524,1186,647,1227"/>
+</map>

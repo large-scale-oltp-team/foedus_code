@@ -1,0 +1,7 @@
+<map id="foedus::storage::sequential::StreamStatus::get_entry" name="foedus::storage::sequential::StreamStatus::get_entry">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a3e005713f9a1c12bb2a4771a192b47a5" title="foedus::storage::sequential\l::SequentialComposer::compose" alt="" coords="685,35,896,76"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1sequential_1_1StreamStatus.html#ade7d0b1dfef946154fa988ec1ac42453" title="foedus::storage::sequential\l::StreamStatus::read_entry" alt="" coords="232,35,411,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1Composer.html#a28c752ec784b85418c0bfafab7ee60c0" title="Construct snapshot pages from sorted run files of one storage. " alt="" coords="944,35,1123,76"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1sequential_1_1StreamStatus.html#abc4add6d276ba5433d09fbf27a352ad2" title="foedus::storage::sequential\l::StreamStatus::init" alt="" coords="459,35,637,76"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1sequential_1_1StreamStatus.html#ad8e7bc2200436df2a00cce3f3ae64ba2" title="foedus::storage::sequential\l::StreamStatus::next" alt="" coords="459,100,637,141"/>
+</map>

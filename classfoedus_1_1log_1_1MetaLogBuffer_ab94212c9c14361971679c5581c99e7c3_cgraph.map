@@ -1,0 +1,23 @@
+<map id="foedus::log::MetaLogBuffer::commit" name="foedus::log::MetaLogBuffer::commit">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#aa75089821b48c98a00cd7e4ddc0615da" title="Requests to advance the current global epoch as soon as possible and blocks until it actually does..." alt="" coords="229,123,436,164"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1XctManager.html#a419a270d62522ede9bd871dd4adc0e2a" title="Returns the current global epoch, the epoch a newly started transaction will be in. " alt="" coords="498,32,677,73"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1log_1_1LogHeader.html#ab54b6d5754b5543e7de5b49c6c317499" title="Convenience method to get LogCodeKind. " alt="" coords="255,188,410,229"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1Engine.html#a48d5e1f7ce2f70161c253f650c75ed95" title="See Transaction Manager. " alt="" coords="265,253,400,295"/>
+<area shape="rect" id="node20" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="246,319,419,360"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1xct_1_1XctId.html#af25a0de9ca35e854b50d5f5621fb23dc" title="foedus::xct::XctId\l::set_epoch" alt="" coords="271,384,394,425"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a925da0bb4b846daa21eb947e4f67b0c6" title="foedus::xct::XctManagerPimpl\l::advance_current_global_epoch" alt="" coords="484,123,691,164"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="742,5,937,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Epoch.html#a786afd92afdc87b54dfa11ef093f06f3" title="foedus::Epoch::one_more" alt="" coords="754,71,925,98"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a03678427b184e7ce71f9bbb164dd0bad" title="foedus::xct::XctManagerPimpl\l::set_requested_global_epoch" alt="" coords="742,123,937,164"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#afce787897428bd372c67224acd3e8ea7" title="foedus::xct::XctManagerPimpl\l::wakeup_epoch_chime_thread" alt="" coords="739,188,940,229"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="997,251,1174,292"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="751,305,928,347"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a6071efec3ffc3876192101db2a1873b4" title="foedus::xct::XctManagerPimpl\l::get_requested_global_epoch" alt="" coords="988,67,1183,108"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="1014,133,1157,159"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="997,185,1174,227"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1239,247,1413,288"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="1231,193,1421,219"/>
+<area shape="rect" id="node17" href="$group__LOGTYPE.html#gaa283974b1bc0fdbf11e034f8a11c4b9c" title="Returns the kind of the given log code. " alt="" coords="520,188,655,229"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="510,253,665,295"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1xct_1_1XctId.html#afd81e3e00ee902aa673a9d3fe62be17b" title="foedus::xct::XctId\l::set_epoch_int" alt="" coords="526,384,649,425"/>
+</map>

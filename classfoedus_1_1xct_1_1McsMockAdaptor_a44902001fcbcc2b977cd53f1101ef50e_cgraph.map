@@ -1,0 +1,11 @@
+<map id="foedus::xct::McsMockAdaptor::get_rw_other_async_block" name="foedus::xct::McsMockAdaptor::get_rw_other_async_block">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsMockThread.html#a543bd8deb2243b7faad4737e8de2d47b" title="foedus::xct::McsMockThread\l::get_mcs_rw_async_block_index" alt="" coords="249,39,468,80"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#a4c191006302da5e849dba51583e3ca89" title="foedus::xct::McsMockAdaptor\l::get_other_thread" alt="" coords="516,131,712,172"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1McsMockAdaptor.html#abb0ac860a7c0682159044480c0870e26" title="foedus::xct::McsMockAdaptor\l::get_rw_other_block" alt="" coords="261,156,457,197"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1xct.html#ab6884f9a5b07248973aaa54b88e86383" title="foedus::xct::rw_lock\l_to_universal_lock_id" alt="" coords="541,39,687,80"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="768,39,931,80"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="987,5,1180,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1003,71,1164,112"/>
+<area shape="rect" id="node8" href="$group__THREAD.html#ga93083d6b052db01851cb61c120522c1d" title="Extracts local ordinal from the given globally unique ID of Thread (core). " alt="" coords="760,117,939,159"/>
+<area shape="rect" id="node9" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="760,183,939,224"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Array Storage" name="Array Storage">
+<area shape="rect" id="node1" href="$group__STORAGE.html" title="Storage Manager, which implements a couple of key/value stores. " alt="" coords="5,139,127,165"/>
+<area shape="rect" id="node3" href="$group__LOGTYPE.html" title="Defines the content and apply logic of transactional operatrions. " alt="" coords="508,139,589,165"/>
+</map>

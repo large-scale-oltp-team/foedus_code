@@ -1,0 +1,29 @@
+<map id="foedus::Engine::get_storage_manager" name="foedus::Engine::get_storage_manager">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialAppendLogType.html#a18cd427115cf86d01382cd0c7e4df417" title="foedus::storage::sequential\l::SequentialAppendLogType\l::apply_record" alt="" coords="207,5,389,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1DropLogType.html#ab8e1ae5a2b6b00cbad8d7af966fb713b" title="foedus::storage::DropLog\lType::apply_storage" alt="" coords="215,86,381,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1CreateLogType.html#a18bcaf5188f88cf6bbe3da8f04e5667d" title="foedus::storage::CreateLog\lType::apply_storage" alt="" coords="209,151,387,193"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a26c51902174b692c91aedd15218f01b7" title="subroutine invoked by one thread for one node. " alt="" coords="206,217,390,273"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="731,316,941,372"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1017,581,1172,622"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1storage.html#a418632b812b008d80b2174c4d716e65b" title="foedus::storage::get\l_storage_control_block" alt="" coords="220,399,376,441"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#aefb36bf03b0bd29c160f5aa36b219d45" title="foedus::xct::XctManagerPimpl\l::initialize_once" alt="" coords="201,465,395,506"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1Partitioner.html#a8e05126b479994e3f0090faefb82977b" title="Instantiate an instance for the given storage. " alt="" coords="209,530,387,571"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad91daff37c2b78b8c6620d67869e9d7f" title="Phase 3 of precommit_xct() " alt="" coords="739,699,933,741"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ab5ef5b885ba49a42c2f47b694dc2a63d" title="used from precommit_xct_lock() to track moved record " alt="" coords="189,749,407,790"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="465,894,673,935"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9534e63f498a012d9fa401a10e2b4e0b" title="Phase 2 of precommit_xct() for read&#45;write case. " alt="" coords="464,829,675,870"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9090dd1fa81513f61620b44a9a8bbd1d" title="used from verification methods to track moved record " alt="" coords="188,866,408,907"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#ac587afcb72a4b29b67a56fb49c49b503" title="Redo metadata operation (create/drop storage) since the latest snapshot. " alt="" coords="733,581,939,622"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a4ae6b016213cb70bb6e5df636b24d129" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="477,348,661,404"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a8fb6cedfd224c44cac4224877c688672" title="foedus::xct::XctManagerPimpl\l::uninitialize_once" alt="" coords="201,983,395,1025"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a5d474e7a6b4de127153103f2295cb0fa" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="456,229,683,270"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="989,323,1200,365"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1248,581,1443,622"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1248,323,1443,365"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="997,794,1192,835"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="1248,834,1443,875"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1491,834,1653,875"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ada7782b43556708daa3bb94f7662409a" title="Subroutine of precommit_xct_lock to track most of moved records in write&#45;set. " alt="" coords="472,748,667,804"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="739,766,933,807"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="997,874,1192,915"/>
+</map>

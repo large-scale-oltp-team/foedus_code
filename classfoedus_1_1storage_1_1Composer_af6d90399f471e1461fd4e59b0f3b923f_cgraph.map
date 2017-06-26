@@ -1,0 +1,23 @@
+<map id="foedus::storage::Composer::drop_root_volatile" name="foedus::storage::Composer::drop_root_volatile">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1array_1_1ArrayComposer.html#a9ee9788f623a51584b4fd7f8ded6103a" title="foedus::storage::array\l::ArrayComposer::drop\l_root_volatile" alt="" coords="243,663,397,719"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1storage_1_1hash_1_1HashComposer.html#a4a9dc98b699194503e37e0e6609872ec" title="foedus::storage::hash\l::HashComposer::drop\l_root_volatile" alt="" coords="244,348,396,404"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeComposer.html#aa0cb9d19afa32166a7c128697f291ea2" title="foedus::storage::masstree\l::MasstreeComposer::drop\l_root_volatile" alt="" coords="232,209,408,265"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a145759e5113dca6d01be034ea5725f58" title="foedus::storage::array\l::ArrayStorage::get_array\l_metadata" alt="" coords="479,560,647,616"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1Metadata.html#a675df0db1a3c909581db949c10fd192b" title="foedus::storage::Metadata\l::keeps_all_volatile_pages" alt="" coords="477,494,650,535"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1Storage.html#ac1b54d4e7f3ad9f7f7c17598911abb01" title="Returns the unique name of this storage. " alt="" coords="481,217,645,258"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a3a535c4b81884868a2a5ead00428dd77" title="Returns the number of levels. " alt="" coords="478,641,649,682"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Attachable.html#a5b324e3abf302a59801aa73419bb4fad" title="foedus::Attachable\l::get_control_block" alt="" coords="497,282,629,323"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#a9c7bc21358a340d36f3c43a49f774b93" title="foedus::storage::array\l::ArrayPage::is_leaf" alt="" coords="725,703,873,745"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a2e5043394d70ac6f151fb06508a038ca" title="Returns the size of this array. " alt="" coords="464,838,663,879"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#ae6032f608834a39808e26c59aa0e42e2" title="foedus::storage::array\l::ArrayPage::get_leaf\l_record" alt="" coords="489,757,637,813"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#acc05e0b608094e78fa9a7025c08524b5" title="Returns byte size of one record in this array storage without internal overheads. ..." alt="" coords="456,903,671,945"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="502,969,625,1010"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="486,1035,641,1061"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="719,772,879,799"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="737,969,860,1010"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a47a258c2edd9e4d3b3b4a5b472a07d62" title="foedus::storage::hash\l::HashStorage::get_hash\l_metadata" alt="" coords="480,348,647,404"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a37d93cdda67dd88454e0237f8a511995" title="foedus::storage::hash\l::HashStorage::get_levels" alt="" coords="478,429,649,470"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a94bc2a1ae36c0a1ce1de99715072c59d" title="foedus::storage::masstree\l::MasstreeStorage::get\l_masstree_metadata" alt="" coords="477,5,650,61"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#ab55e48873dcf5700871a035c65bfa588" title="used only in masstree. " alt="" coords="459,86,667,127"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#aa8c59b8e2944d4a6a68d5fed840a7a29" title="foedus::storage::Volatile\lPagePointer::clear" alt="" coords="483,151,644,193"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="foedus::fs::DirectIoFile::open" name="foedus::fs::DirectIoFile::open">
+<area shape="rect" id="node2" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="1235,188,1385,215"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#gaca1dd0a627c83ff76e30603ea67c4816" title="Recursive mkdir (mkdirs). " alt="" coords="218,286,341,327"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1fs_1_1Path.html#a9859706102ecca097e723d762ec468ae" title="foedus::fs::Path::parent_path" alt="" coords="801,407,991,433"/>
+<area shape="rect" id="node12" href="$group__FILESYSTEM.html#ga4f8f53901e9c98fce72b6b3c52cf83a4" title="Returns if the file exists. " alt="" coords="421,184,542,211"/>
+<area shape="rect" id="node14" href="$group__FILESYSTEM.html#ga1048a33bafe4dcea89991112ae2660d8" title="Returns size of the file. " alt="" coords="614,24,747,51"/>
+<area shape="rect" id="node15" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="209,429,349,470"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1c6bff6aafc955fd4c2a8e11e7f41f40" title="Sequentially read the given amount of contents from the current position. " alt="" coords="204,494,355,535"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a9f19d10be82ac60706853e106a5de0e1" title="Sequentially write the given amount of contents from the current position. " alt="" coords="204,559,355,601"/>
+<area shape="rect" id="node4" href="$group__FILESYSTEM.html#ga5cf40c936f78178ef58af0a900031b8b" title="mkdir. " alt="" coords="420,286,543,327"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1fs_1_1Path.html#a4efe9caad4e61d844b04a90a4c43b3cb" title="foedus::fs::Path::empty" alt="" coords="403,235,560,261"/>
+<area shape="rect" id="node5" href="$group__FILESYSTEM.html#ga08865450d848cb894243005bdd226d1e" title="Makes the content and metadata of the file durable all the way up to devices. " alt="" coords="622,299,739,325"/>
+<area shape="rect" id="node6" href="$group__FILESYSTEM.html#ga87c90d834f65aad6f7b6540ae226f305" title="Returns if the file is a directory. " alt="" coords="819,297,973,324"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1fs_1_1FileStatus.html#a7b8858f191dee3d9a92cae0cd759c1e5" title="foedus::fs::FileStatus\l::is_directory" alt="" coords="1040,290,1185,331"/>
+<area shape="rect" id="node8" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="1051,188,1174,215"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1fs_1_1Path.html#a95efbd1ef2b5f97560bdc964ab0b00ed" title="foedus::fs::Path::Path" alt="" coords="1039,407,1187,433"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="608,126,753,167"/>
+</map>

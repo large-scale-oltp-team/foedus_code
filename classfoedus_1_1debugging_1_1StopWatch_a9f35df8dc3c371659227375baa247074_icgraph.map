@@ -1,0 +1,12 @@
+<map id="foedus::debugging::StopWatch::start" name="foedus::debugging::StopWatch::start">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#ac3b15bb4f888327ba49050f62d020f52" title="Defined in masstree_storage_fatify.cpp. " alt="" coords="439,5,612,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a32332060560b864a857a839bb0adb4fd" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::fatify_first_root_double" alt="" coords="193,36,367,92"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a4ae6b016213cb70bb6e5df636b24d129" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="188,116,372,172"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1debugging_1_1StopWatch.html#ae2f1fd4e9ffdba30bbff4669c11fb9ae" title="foedus::debugging::\lStopWatch::StopWatch" alt="" coords="200,197,360,238"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a70b1c5e023fa0aac150e7b607e37727c" title="Deliberately causes splits under the volatile root of first layer, or &quot;fatify&quot; it. " alt="" coords="697,5,871,61"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="420,116,631,172"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="707,89,861,130"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="679,154,889,195"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="937,89,1132,130"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="937,154,1132,195"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="foedus::storage::MetadataSerializer" name="foedus::storage::MetadataSerializer">
+<area shape="rect" id="node2" href="$structfoedus_1_1externalize_1_1Externalizable.html" title="Represents an object that can be written to and read from files/bytes in XML format. " alt="" coords="5,109,136,151"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1Metadata.html" title="Metadata of one storage. " alt="" coords="160,117,333,143"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1assorted_1_1FixedString.html" title="foedus::assorted::FixedString\l\&lt; 60 \&gt;" alt="" coords="47,5,239,47"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1Metadata_1_1SnapshotThresholds.html" title="Tuning parameters related to snapshotting. " alt="" coords="263,5,436,47"/>
+</map>

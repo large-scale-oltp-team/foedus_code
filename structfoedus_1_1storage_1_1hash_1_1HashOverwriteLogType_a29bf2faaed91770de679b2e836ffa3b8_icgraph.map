@@ -1,0 +1,10 @@
+<map id="foedus::storage::hash::HashOverwriteLogType::populate" name="foedus::storage::hash::HashOverwriteLogType::populate">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a233fcd7ffd24bd59d2d0943af3d0de03" title="foedus::storage::hash\l::HashStoragePimpl::increment\l_record" alt="" coords="215,16,417,72"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#add8aafbb32713dc6be20804da789f43d" title="foedus::storage::hash\l::HashStoragePimpl::overwrite\l_record" alt="" coords="218,105,414,161"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a49df48b50c0c645d3a047e8b153c4015" title="foedus::storage::hash\l::HashStoragePimpl::upsert\l_record" alt="" coords="225,205,407,261"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a7ba3b8d1b3f0242f53b46c8a9b2ebaca" title="If you have already computed HashCombo, use this. " alt="" coords="478,5,649,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a26fdac44f55a502f17cb82e98966dd84" title="foedus::storage::hash\l::HashStoragePimpl::overwrite\l_record_primitive" alt="" coords="465,85,661,141"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#affd9e7a6674a1a8daced6ad1ef603857" title="If you have already computed HashCombo, use this. " alt="" coords="482,165,645,221"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a04310f074b93b1bd110b69954595170d" title="If you have already computed HashCombo, use this. " alt="" coords="709,85,872,141"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#af75f511796795cd4ffe731fdae173325" title="If you have already computed HashCombo, use this. " alt="" coords="489,245,638,301"/>
+</map>

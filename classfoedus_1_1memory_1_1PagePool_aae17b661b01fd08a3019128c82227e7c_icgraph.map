@@ -1,0 +1,12 @@
+<map id="foedus::memory::PagePool::get_stat" name="foedus::memory::PagePool::get_stat">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a2876d026b658af099cdf153ed1529369" title="foedus::cache::CacheManager\lPimpl::describe" alt="" coords="252,73,451,115"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a5a0fd87ff73e0f43e5a901f1c4fa34e3" title="Main routine of cleaner_. " alt="" coords="525,136,723,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#af04416fadb8ec5160408982fa67a08c1" title="foedus::cache::CacheManager\lPimpl::initialize_once" alt="" coords="777,165,976,207"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a3dbec4cb10130e169f203c7a8d52d3c9" title="Report rough statistics of free memory. " alt="" coords="241,253,461,295"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a269381dd81631fda44b63559d0a9fbd0" title="Report rough statistics of free memory. " alt="" coords="232,319,471,360"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1CacheManager.html#a210cd75b484f0961e84c3400f203d69b" title="kind of to_string(). " alt="" coords="525,71,723,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a1322d8be16a7fe558bd83de18eb41c85" title="foedus::cache::CacheManager\lPimpl::uninitialize_once" alt="" coords="525,5,723,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1cache_1_1CacheManager.html#a9181ec7d7e0ee1faa942ba9eec6c1345" title="foedus::cache::CacheManager\l::initialize_once" alt="" coords="1024,165,1223,207"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1cache_1_1CacheManager.html#ab7dbe48b7c06d1bcefcf787bce285c25" title="foedus::cache::CacheManager\l::uninitialize_once" alt="" coords="777,5,976,47"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1memory_1_1EngineMemory.html#a7d348c5c4edbe01bbe7d72676880d2a2" title="Report rough statistics of free memory. " alt="" coords="519,319,729,360"/>
+</map>

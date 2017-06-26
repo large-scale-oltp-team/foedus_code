@@ -1,0 +1,7 @@
+<map id="foedus::memory::ScopedNumaPreferred::ScopedNumaPreferred" name="foedus::memory::ScopedNumaPreferred::ScopedNumaPreferred">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#gab3d1892edaa7db4b02029567b7993f37" title="In order to run even on a non&#45;numa machine or a machine with fewer sockets, we allow specifying arbit..." alt="" coords="265,57,416,98"/>
+<area shape="rect" id="node3" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="485,5,595,32"/>
+<area shape="rect" id="node5" href="$numa_8h.html#aba49c14c68d23dc05d046db02766b928" title="numa_preferred" alt="" coords="285,123,396,149"/>
+<area shape="rect" id="node6" href="$numa_8h.html#a56f33968932f6550e5e5eb4d1acc67b3" title="numa_set_preferred" alt="" coords="273,173,409,200"/>
+<area shape="rect" id="node4" href="$numa_8h.html#a22585176d6e08c221de8377637bd72a7" title="numa_num_configured\l_nodes" alt="" coords="464,57,616,98"/>
+</map>

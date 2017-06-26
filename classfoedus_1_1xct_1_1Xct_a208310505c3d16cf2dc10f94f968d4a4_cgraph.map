@@ -1,0 +1,31 @@
+<map id="foedus::xct::Xct::issue_next_id" name="foedus::xct::Xct::issue_next_id">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#aa75089821b48c98a00cd7e4ddc0615da" title="Requests to advance the current global epoch as soon as possible and blocks until it actually does..." alt="" coords="208,217,415,259"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1Epoch.html#aaef554452ea9ac7b072af98cde1558dc" title="Returns if this epoch is before the given epoch in the sense of distance defined in RFC 1982..." alt="" coords="756,371,904,398"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1XctManager.html#a419a270d62522ede9bd871dd4adc0e2a" title="Returns the current global epoch, the epoch a newly started transaction will be in. " alt="" coords="485,64,663,105"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1xct_1_1XctManager.html#a4578dd6dab7925b95d7810335ae5cec0" title="foedus::xct::XctManager\l::get_current_global_epoch_weak" alt="" coords="204,644,419,685"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="769,473,891,515"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="769,539,891,580"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1Engine.html#a48d5e1f7ce2f70161c253f650c75ed95" title="See Transaction Manager. " alt="" coords="244,709,379,751"/>
+<area shape="rect" id="node24" href="$structfoedus_1_1xct_1_1XctId.html#a449da7fea452dd81c194f94b28e7a7e2" title="foedus::xct::XctId\l::is_valid" alt="" coords="513,593,635,635"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1xct_1_1Xct.html#a054cf2fca2ce0e5047c817ed10ae1a80" title="foedus::xct::Xct::remember\l_previous_xct_id" alt="" coords="222,360,401,401"/>
+<area shape="rect" id="node27" href="$structfoedus_1_1xct_1_1XctId.html#af25a0de9ca35e854b50d5f5621fb23dc" title="foedus::xct::XctId\l::set_epoch" alt="" coords="250,775,373,816"/>
+<area shape="rect" id="node29" href="$structfoedus_1_1xct_1_1XctId.html#a27c23f58d7a94bed0dde10dd57a9dcce" title="foedus::xct::XctId\l::set_ordinal" alt="" coords="250,840,373,881"/>
+<area shape="rect" id="node30" href="$structfoedus_1_1xct_1_1XctId.html#a2878cd14b103f72c8bce5a330e03e2b2" title="Kind of std::max(this, other). " alt="" coords="250,425,373,467"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a925da0bb4b846daa21eb947e4f67b0c6" title="foedus::xct::XctManagerPimpl\l::advance_current_global_epoch" alt="" coords="471,188,677,229"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="733,5,927,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Epoch.html#a786afd92afdc87b54dfa11ef093f06f3" title="foedus::Epoch::one_more" alt="" coords="745,254,915,281"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a03678427b184e7ce71f9bbb164dd0bad" title="foedus::xct::XctManagerPimpl\l::set_requested_global_epoch" alt="" coords="733,305,927,347"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#afce787897428bd372c67224acd3e8ea7" title="foedus::xct::XctManagerPimpl\l::wakeup_epoch_chime_thread" alt="" coords="729,71,931,112"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="987,133,1165,175"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="741,188,919,229"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a6071efec3ffc3876192101db2a1873b4" title="foedus::xct::XctManagerPimpl\l::get_requested_global_epoch" alt="" coords="979,251,1173,292"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="1005,317,1147,343"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="987,68,1165,109"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1230,129,1403,171"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="1221,75,1412,102"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="999,371,1153,398"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#acd49fd67f3459df687ed08d5d8b54082" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch_weak" alt="" coords="467,659,681,700"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="1015,473,1137,515"/>
+<area shape="rect" id="node26" href="$structfoedus_1_1xct_1_1XctId.html#ac151128ff0040de166018da6133f8d85" title="Returns if this XctId is before other in serialization order, meaning this is either an invalid (unus..." alt="" coords="513,419,635,460"/>
+<area shape="rect" id="node28" href="$structfoedus_1_1xct_1_1XctId.html#afd81e3e00ee902aa673a9d3fe62be17b" title="foedus::xct::XctId\l::set_epoch_int" alt="" coords="513,775,635,816"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="foedus::soc::GlobalMemoryAnchors" name="foedus::soc::GlobalMemoryAnchors">
+<area shape="rect" id="node2" href="$structfoedus_1_1assorted_1_1ProtectedBoundary.html" title="A 4kb dummy data placed between separate memory regions so that we can check if/where a bogus memory ..." alt="" coords="1027,7,1210,49"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1StorageManagerControlBlock.html" title="Shared data in StorageManagerPimpl. " alt="" coords="1037,73,1201,114"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="650,115,825,141"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1log_1_1LogManagerControlBlock.html" title="Shared data in LogManagerPimpl. " alt="" coords="1016,203,1221,245"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PartitionerMetadata.html" title="Tiny metadata of partitioner for every storage used while log gleaning. " alt="" coords="1029,138,1208,179"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1log_1_1MetaLogControlBlock.html" title="Control block for MetaLogBuffer and MetaLogger. " alt="" coords="1027,346,1211,387"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1savepoint_1_1SavepointManagerControlBlock.html" title="Shared data in SavepointManagerPimpl. " alt="" coords="1017,281,1220,322"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1storage_1_1StorageControlBlock.html" title="A base layout of shared data for all storage types. " alt="" coords="1037,542,1201,583"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="649,439,826,465"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1XctManagerControlBlock.html" title="Shared data in XctManagerPimpl. " alt="" coords="1017,411,1220,453"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html" title="Shared data in SnapshotManagerPimpl. " alt="" coords="1027,477,1211,518"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1restart_1_1RestartManagerControlBlock.html" title="Shared data in RestartManagerPimpl. " alt="" coords="1041,607,1196,649"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html" title="Current status of master engine. " alt="" coords="1030,673,1207,714"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1snapshot_1_1LogGleanerControlBlock.html" title="Shared data for LogGleaner. " alt="" coords="640,635,835,677"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1snapshot_1_1Snapshot.html" title="Represents one snapshot that converts all logs from base epoch to valid_until epoch into snapshot fil..." alt="" coords="272,643,456,669"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="5,643,111,669"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1savepoint_1_1FixedSavepoint.html" title="Savepoint that can be stored in shared memory. " alt="" coords="672,281,803,322"/>
+<area shape="rect" id="node18" href="$namespacefoedus_1_1savepoint.html#structfoedus_1_1savepoint_1_1LoggerSavepointInfo" title="Information in savepoint for one logger. " alt="" coords="295,281,433,322"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1storage_1_1DualPagePointer.html" title="Represents a pointer to another page (usually a child page). " alt="" coords="650,701,825,742"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html" title="Represents a pointer to a volatile page with modification count for preventing ABA. " alt="" coords="283,697,445,738"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1storage_1_1Metadata.html" title="Metadata of one storage. " alt="" coords="651,769,824,796"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1assorted_1_1FixedString.html" title="foedus::assorted::FixedString\l\&lt; 60 \&gt;" alt="" coords="268,827,460,869"/>
+<area shape="rect" id="node24" href="$structfoedus_1_1storage_1_1Metadata_1_1SnapshotThresholds.html" title="Tuning parameters related to snapshotting. " alt="" coords="277,762,451,803"/>
+</map>

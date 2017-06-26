@@ -1,0 +1,6 @@
+<map id="foedus::fs::DirectIoFile::seek" name="foedus::fs::DirectIoFile::seek">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1fs.html#a1a3ea81bf627928d9a5f154986af9c48" title="foedus::fs::is_odirect\l_aligned" alt="" coords="204,5,347,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="205,71,345,112"/>
+<area shape="rect" id="node4" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="208,136,343,177"/>
+<area shape="rect" id="node5" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="395,136,529,177"/>
+</map>

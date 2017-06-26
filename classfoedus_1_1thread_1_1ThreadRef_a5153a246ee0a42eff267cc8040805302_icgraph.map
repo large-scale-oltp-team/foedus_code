@@ -1,0 +1,4 @@
+<map id="foedus::thread::ThreadRef::get_task_output_memory" name="foedus::thread::ThreadRef::get_task_output_memory">
+<area shape="rect" id="node2" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a8dfc509ff49415cd24aab9d5870e1d0e" title="Copies the output to the given buffer, whose size must be at least get_output_size(). " alt="" coords="241,5,423,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#ad126784f2ded82c0942d0871ea7099bc" title="Returns the pointer to the raw output buffer on shared memory. " alt="" coords="231,71,433,112"/>
+</map>

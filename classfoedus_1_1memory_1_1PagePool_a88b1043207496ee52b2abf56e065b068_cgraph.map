@@ -1,0 +1,7 @@
+<map id="foedus::memory::PagePool::initialize" name="foedus::memory::PagePool::initialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html#a22a0dc3bbbca682c3bc41eace9b6d1ff" title="Typical implementation of Initializable::initialize() that provides initialize&#45;once semantics..." alt="" coords="232,104,404,145"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1DefaultInitializable.html#ab8ae37e5f20f312f8b945fc40d3e0250" title="foedus::DefaultInitializable\l::initialize_once" alt="" coords="452,5,624,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="473,71,603,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="452,136,624,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="452,201,624,243"/>
+</map>

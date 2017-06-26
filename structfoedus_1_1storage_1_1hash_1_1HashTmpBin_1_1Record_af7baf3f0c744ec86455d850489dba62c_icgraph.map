@@ -1,0 +1,4 @@
+<map id="foedus::storage::hash::HashTmpBin::Record::set_payload" name="foedus::storage::hash::HashTmpBin::Record::set_payload">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ab5ac0d32ded6cfa7bb3df7f28eafb33e" title="Inserts a new record of the given key and payload. " alt="" coords="209,5,355,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ad54d9fdfa4874b6eaa0231bce58fccf8" title="Updates a record of the given key with the given payload, which might change length. " alt="" coords="207,85,357,141"/>
+</map>

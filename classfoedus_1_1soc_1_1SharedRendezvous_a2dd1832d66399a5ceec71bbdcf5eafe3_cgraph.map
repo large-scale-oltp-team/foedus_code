@@ -1,0 +1,6 @@
+<map id="foedus::soc::SharedRendezvous::initialize" name="foedus::soc::SharedRendezvous::initialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html#ace449e19d0a13388da16570aefd42994" title="foedus::soc::SharedPolling\l::initialize" alt="" coords="277,5,454,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedRendezvous.html#a34f6b41e94e29a7ad6454088f8eb2204" title="foedus::soc::SharedRendezvous\l::uninitialize" alt="" coords="261,71,469,112"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="535,5,708,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedRendezvous.html#a507cb1907a3f6549bd1e3fce13c5118e" title="foedus::soc::SharedRendezvous\l::is_initialized" alt="" coords="517,71,725,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::xct::Xct::assert_related_read_write" name="foedus::xct::Xct::assert_related_read_write">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="937,5,1132,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="452,35,647,76"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a09e66e6f76cf08131e11a18a44b5d0a4" title="foedus::xct::XctManagerPimpl\l::precommit_xct_sort_access" alt="" coords="209,85,404,127"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1180,5,1343,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="695,35,889,76"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::storage::sequential::SequentialRecordBatch::get_epoch_from_offset" name="foedus::storage::sequential::SequentialRecordBatch::get_epoch_from_offset">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="260,5,383,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialRecordBatch.html#a2ce2080e227f7c556f423378c5696b4a" title="foedus::storage::sequential\l::SequentialRecordBatch\l::get_owner_id_from_offset" alt="" coords="232,71,411,127"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="459,5,581,47"/>
+</map>

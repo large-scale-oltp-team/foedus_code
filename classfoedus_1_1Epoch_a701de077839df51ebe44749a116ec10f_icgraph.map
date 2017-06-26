@@ -1,0 +1,8 @@
+<map id="foedus::Epoch::one_less" name="foedus::Epoch::one_less">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#addd36d7a9f38e055767f9a36c0889385" title="Returns the current grace&#45;period epoch (global epoch &#45; 1), the epoch some transaction might be still ..." alt="" coords="237,37,413,79"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManager.html#ac5c5f89e66b63d3eb621906c8f88a654" title="foedus::xct::XctManager\l::get_current_grace_epoch_weak" alt="" coords="219,103,432,144"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ac95c3e56168f87c3550f908720035d60" title="Main routine for epoch_chime_thread_. " alt="" coords="228,168,423,209"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#ab93f097823724ccb9ed885d6a5d0cd8d" title="Returns the current grace&#45;period epoch (global epoch &#45; 1), the epoch some transaction might be still ..." alt="" coords="523,5,673,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialCursor.html#a63f0ef6e7a9171191d4117e08da4e7d3" title="Constructs a cursor to read tuples from this storage. " alt="" coords="480,71,716,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#aefb36bf03b0bd29c160f5aa36b219d45" title="foedus::xct::XctManagerPimpl\l::initialize_once" alt="" coords="501,168,695,209"/>
+</map>

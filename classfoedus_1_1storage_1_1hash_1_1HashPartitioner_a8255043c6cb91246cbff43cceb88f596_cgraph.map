@@ -1,0 +1,23 @@
+<map id="foedus::storage::hash::HashPartitioner::sort_batch" name="foedus::storage::hash::HashPartitioner::sort_batch">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad79701492d232cb5aec1ad4d8c99eb5d" title="If the current size is smaller than the given size, automatically expands. " alt="" coords="241,71,455,112"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage_1_1hash.html#a57d8decda1736a1f9bf339edf46a58f3" title="subroutine of sort_batch " alt="" coords="275,140,421,181"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1debugging_1_1StopWatch.html#ac8a42ba406ab38b098e27a19e6803638" title="foedus::debugging::\lStopWatch::elapsed_ms" alt="" coords="265,213,431,255"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="241,279,455,320"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage_1_1hash.html#a213ec023dfa3d7901e0c40ce20fc538d" title="subroutine of sort_batch " alt="" coords="274,348,422,389"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="281,596,415,637"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad11d2289458b26db2aaef9de984045a0" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="503,5,716,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="503,71,716,112"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1SortEntry.html#a70aa51ac0ebfaa33f8205f47aa443bfa" title="foedus::storage::hash\l::SortEntry::get_position" alt="" coords="528,136,691,177"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1hash_1_1HashCommonLogType.html#a409566a4b1453421a1eaa945d561c751" title="foedus::storage::hash\l::HashCommonLogType::\lassert_type" alt="" coords="525,202,693,258"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="548,283,671,324"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="548,348,671,389"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1snapshot_1_1LogBuffer.html#a4c866d7cc1684237eca5fff49215b80e" title="foedus::snapshot::LogBuffer\l::resolve" alt="" coords="518,413,701,455"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1storage_1_1hash_1_1SortEntry.html#ac580bd939cf86931929567c917bb8257" title="foedus::storage::hash\l::SortEntry::set" alt="" coords="536,479,683,520"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1Epoch.html#a95ee2922375886d43b8e669a192fd4c4" title="Returns the number epochs from the given epoch to this epoch accounting for wrap&#45;around. " alt="" coords="529,545,689,571"/>
+<area shape="rect" id="node11" href="$group__HASH.html#ga8c4ca78e36b2188f1feac100ce7df679" title="Calculates hash value for general input. " alt="" coords="768,209,915,251"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="780,283,903,324"/>
+<area shape="rect" id="node16" href="$namespacefoedus_1_1snapshot.html#a499edf9829f41f833e2057346e8bbf3a" title="foedus::snapshot::from\l_buffer_position" alt="" coords="764,413,919,455"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="764,545,919,571"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="529,596,690,637"/>
+<area shape="rect" id="node22" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="542,661,677,703"/>
+</map>

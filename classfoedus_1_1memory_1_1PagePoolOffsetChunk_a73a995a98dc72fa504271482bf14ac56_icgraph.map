@@ -1,0 +1,8 @@
+<map id="foedus::memory::PagePoolOffsetChunk::capacity" name="foedus::memory::PagePoolOffsetChunk::capacity">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#abec400efafc2d5e23b8f240e10abdfb3" title="foedus::memory::PagePool\lPimpl::grab" alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html#a114c524e1d8efc628c3e7d98f85cfa83" title="Grabs an in&#45;memory page in some NUMA node. " alt="" coords="687,5,880,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1DivvyupPageGrabBatch.html#a3fcf76c5c95efed24463c7c9eb5e8dc0" title="Grabs an in&#45;memory page in specified NUMA node. " alt="" coords="685,136,881,177"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePool.html#a1fdd8ce2a10921faeccc1fe38ffd25c0" title="Adds the specified number of free pages to the chunk. " alt="" coords="459,71,637,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#af7bdd6c02647872c28ecb66d89adb965" title="foedus::memory::NumaCore\lMemory::initialize_once" alt="" coords="691,71,875,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1DivvyupPageGrabBatch.html#ad1cb17d3564061683f038da9e30ba305" title="Grabs an in&#45;memory page evenly and contiguously from each NUMA node. " alt="" coords="929,136,1125,177"/>
+</map>

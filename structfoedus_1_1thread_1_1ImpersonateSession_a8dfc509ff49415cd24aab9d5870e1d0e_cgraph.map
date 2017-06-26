@@ -1,0 +1,5 @@
+<map id="foedus::thread::ImpersonateSession::get_output" name="foedus::thread::ImpersonateSession::get_output">
+<area shape="rect" id="node2" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#ab36abebd6554ea9e3f5cd3fa6d656d1f" title="Returns the byte size of output. " alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadRef.html#a5153a246ee0a42eff267cc8040805302" title="foedus::thread::ThreadRef\l::get_task_output_memory" alt="" coords="239,71,416,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadRef.html#a989d82d0632117ab23c4fd1ad041ff3f" title="foedus::thread::ThreadRef\l::get_control_block" alt="" coords="467,5,637,47"/>
+</map>

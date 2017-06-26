@@ -1,0 +1,11 @@
+<map id="foedus::xct::McsRwExtendedBlock::timeout_granted" name="foedus::xct::McsRwExtendedBlock::timeout_granted">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a563136a669b13bec8ecbbbcf5efd2315" title="foedus::xct::McsRwExtended\lBlock::pred_flag_is_granted" alt="" coords="245,35,437,76"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1assorted.html#aba5893ad8aab7d6aafff7be7f92e1372" title="Spin locally until the given condition returns true. " alt="" coords="266,129,417,171"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1assorted.html#aaa2abb5fc63f49092a98f2acb3b7083b" title="Use this in your while as a stop&#45;gap before switching to spin_until(). " alt="" coords="265,195,418,236"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a2dfd1adaadb80aaac9bf600f1e25210f" title="foedus::xct::McsRwExtended\lBlock::read_pred_flags" alt="" coords="485,5,677,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="725,129,872,171"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1assorted.html#aea055a054d205c76d8f221de4f6aa058" title="foedus::assorted::is\l_running_on_valgrind" alt="" coords="510,253,653,295"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="494,188,669,229"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a0f5961269d79e636777d722ade37dd2e" title="Take another current time tick. " alt="" coords="514,71,649,112"/>
+<area shape="rect" id="node9" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="731,64,866,105"/>
+</map>

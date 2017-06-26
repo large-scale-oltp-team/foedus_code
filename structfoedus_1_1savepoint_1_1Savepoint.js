@@ -1,0 +1,26 @@
+var structfoedus_1_1savepoint_1_1Savepoint =
+[
+    [ "Savepoint", "structfoedus_1_1savepoint_1_1Savepoint.html#a27242d211fcae86b9ef170a29bcb86c8", null ],
+    [ "assert_epoch_values", "structfoedus_1_1savepoint_1_1Savepoint.html#a18f976884dd7968beaaf188cd276ddca", null ],
+    [ "assign", "structfoedus_1_1savepoint_1_1Savepoint.html#a71dd5532b44acc5167649fc8fbefbfc5", null ],
+    [ "consistent", "structfoedus_1_1savepoint_1_1Savepoint.html#a1517f86868ed1f2f451c0a5af0fa7a1f", null ],
+    [ "get_current_epoch", "structfoedus_1_1savepoint_1_1Savepoint.html#a0f148e4c639e4d66130d13d1485fc6af", null ],
+    [ "get_durable_epoch", "structfoedus_1_1savepoint_1_1Savepoint.html#add4ccf22c02bf3d171f4f9ae5b6e7a7e", null ],
+    [ "get_earliest_epoch", "structfoedus_1_1savepoint_1_1Savepoint.html#a0d6d2edd627a1a23fc756e8f96735e41", null ],
+    [ "get_tag_name", "structfoedus_1_1savepoint_1_1Savepoint.html#afce3f356cba713be11805d44de126f6a", null ],
+    [ "load", "structfoedus_1_1savepoint_1_1Savepoint.html#a68fb65d5f8613cac05fbb61b5936855e", null ],
+    [ "populate_empty", "structfoedus_1_1savepoint_1_1Savepoint.html#a975ddac952633742aef4641c568f040a", null ],
+    [ "save", "structfoedus_1_1savepoint_1_1Savepoint.html#ab3c3b337420c1d82721aeea1f2a705e5", null ],
+    [ "operator<<", "structfoedus_1_1savepoint_1_1Savepoint.html#a2ca9e1fefa02564840ce3bbb86f7461f", null ],
+    [ "current_epoch_", "structfoedus_1_1savepoint_1_1Savepoint.html#aa380e7d028859320652201510a69a733", null ],
+    [ "current_log_files_", "structfoedus_1_1savepoint_1_1Savepoint.html#af07abd0af9236508409b49669ee553a9", null ],
+    [ "current_log_files_offset_durable_", "structfoedus_1_1savepoint_1_1Savepoint.html#ae7605f2399acf0a22829acb395b9fabd", null ],
+    [ "durable_epoch_", "structfoedus_1_1savepoint_1_1Savepoint.html#a294981827a1e47ef7888aaac12634867", null ],
+    [ "earliest_epoch_", "structfoedus_1_1savepoint_1_1Savepoint.html#aeca5030884119d1831d63bbb2391b381", null ],
+    [ "latest_snapshot_epoch_", "structfoedus_1_1savepoint_1_1Savepoint.html#adac531a0ff661473df7ac9960382b2f1", null ],
+    [ "latest_snapshot_id_", "structfoedus_1_1savepoint_1_1Savepoint.html#a7182366b13d4c32a7df8e3d0cf70b17b", null ],
+    [ "meta_log_durable_offset_", "structfoedus_1_1savepoint_1_1Savepoint.html#a9503f997e2e6b5a07b7687e20f9eb398", null ],
+    [ "meta_log_oldest_offset_", "structfoedus_1_1savepoint_1_1Savepoint.html#a4f1d96d5dc17988f9a094359602b7b68", null ],
+    [ "oldest_log_files_", "structfoedus_1_1savepoint_1_1Savepoint.html#af922995fa7cca8198dd553f6597d87da", null ],
+    [ "oldest_log_files_offset_begin_", "structfoedus_1_1savepoint_1_1Savepoint.html#a3ae04fef7724c2414a14f5062993c617", null ]
+];

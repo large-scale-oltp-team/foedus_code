@@ -1,0 +1,6 @@
+<map id="foedus::xct::McsOwnerlessLockScope::is_valid" name="foedus::xct::McsOwnerlessLockScope::is_valid">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a42e3a3f1d5511994623010af52ff9a28" title="Acquires the lock. " alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#abe151a050342dbaed862cfb67e02fab7" title="Release the lock if acquired. " alt="" coords="233,71,413,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#afc93395843770944d528724b598e390f" title="foedus::xct::McsOwnerless\lLockScope::McsOwnerlessLockScope" alt="" coords="465,5,712,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a0abce8a09831ca63a4c255a6f6e2132f" title="foedus::xct::McsOwnerless\lLockScope::~McsOwnerlessLockScope" alt="" coords="461,71,716,112"/>
+</map>

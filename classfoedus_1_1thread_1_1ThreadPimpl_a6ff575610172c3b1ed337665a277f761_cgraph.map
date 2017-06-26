@@ -1,0 +1,6 @@
+<map id="foedus::thread::ThreadPimpl::cll_get_max_locked_id" name="foedus::thread::ThreadPimpl::cll_get_max_locked_id">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#afc0b909c82e905105f4f9701082a16b8" title="foedus::xct::Xct::get\l_current_lock_list" alt="" coords="250,5,389,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a398ec264786992d102b8edd74d5767b3" title="foedus::xct::CurrentLock\lList::get_max_locked_id" alt="" coords="237,71,401,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ab360f7fc3d8c0880b394084d45e492e9" title="foedus::xct::CurrentLock\lList::get_entry" alt="" coords="449,71,613,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a78b6d1612fda232b7e8c52dd3f6c2504" title="foedus::xct::CurrentLock\lList::is_valid_entry" alt="" coords="661,71,825,112"/>
+</map>

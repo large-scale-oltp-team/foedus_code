@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['rdtscwatch',['RdtscWatch',['../classfoedus_1_1debugging_1_1RdtscWatch.html',1,'foedus::debugging']]],
+  ['readxctaccess',['ReadXctAccess',['../structfoedus_1_1xct_1_1ReadXctAccess.html',1,'foedus::xct']]],
+  ['record',['Record',['../structfoedus_1_1storage_1_1Record.html',1,'foedus::storage']]],
+  ['record',['Record',['../structfoedus_1_1storage_1_1hash_1_1HashTmpBin_1_1Record.html',1,'foedus::storage::hash::HashTmpBin']]],
+  ['recordaddresses',['RecordAddresses',['../group__MASSTREE.html#structfoedus_1_1storage_1_1masstree_1_1MasstreeCommonLogType_1_1RecordAddresses',1,'foedus::storage::masstree::MasstreeCommonLogType']]],
+  ['recordlocation',['RecordLocation',['../structfoedus_1_1storage_1_1hash_1_1RecordLocation.html',1,'foedus::storage::hash']]],
+  ['recordlocation',['RecordLocation',['../structfoedus_1_1storage_1_1masstree_1_1RecordLocation.html',1,'foedus::storage::masstree']]],
+  ['recordlogtype',['RecordLogType',['../structfoedus_1_1log_1_1RecordLogType.html',1,'foedus::log']]],
+  ['recordxctaccess',['RecordXctAccess',['../structfoedus_1_1xct_1_1RecordXctAccess.html',1,'foedus::xct']]],
+  ['reducerbufferstatus',['ReducerBufferStatus',['../unionfoedus_1_1snapshot_1_1ReducerBufferStatus.html',1,'foedus::snapshot']]],
+  ['rendezvous',['Rendezvous',['../classfoedus_1_1thread_1_1Rendezvous.html',1,'foedus::thread']]],
+  ['reserverecords',['ReserveRecords',['../structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html',1,'foedus::storage::hash']]],
+  ['reserverecords',['ReserveRecords',['../structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html',1,'foedus::storage::masstree']]],
+  ['restartmanager',['RestartManager',['../classfoedus_1_1restart_1_1RestartManager.html',1,'foedus::restart']]],
+  ['restartmanagercontrolblock',['RestartManagerControlBlock',['../structfoedus_1_1restart_1_1RestartManagerControlBlock.html',1,'foedus::restart']]],
+  ['restartmanagerpimpl',['RestartManagerPimpl',['../classfoedus_1_1restart_1_1RestartManagerPimpl.html',1,'foedus::restart']]],
+  ['restartoptions',['RestartOptions',['../structfoedus_1_1restart_1_1RestartOptions.html',1,'foedus::restart']]],
+  ['retrospectivelocklist',['RetrospectiveLockList',['../classfoedus_1_1xct_1_1RetrospectiveLockList.html',1,'foedus::xct']]],
+  ['rootinfopage',['RootInfoPage',['../group__SEQUENTIAL.html#structfoedus_1_1storage_1_1sequential_1_1SequentialComposer_1_1RootInfoPage',1,'foedus::storage::sequential::SequentialComposer']]],
+  ['roundrobinpagegrabbatch',['RoundRobinPageGrabBatch',['../classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html',1,'foedus::memory']]],
+  ['route',['Route',['../structfoedus_1_1storage_1_1masstree_1_1MasstreeCursor_1_1Route.html',1,'foedus::storage::masstree::MasstreeCursor']]],
+  ['rwlockablexctid',['RwLockableXctId',['../structfoedus_1_1xct_1_1RwLockableXctId.html',1,'foedus::xct']]]
+];

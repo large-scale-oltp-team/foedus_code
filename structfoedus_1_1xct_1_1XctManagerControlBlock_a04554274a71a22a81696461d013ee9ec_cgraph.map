@@ -1,0 +1,4 @@
+<map id="foedus::xct::XctManagerControlBlock::initialize" name="foedus::xct::XctManagerControlBlock::initialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html#ace449e19d0a13388da16570aefd42994" title="foedus::soc::SharedPolling\l::initialize" alt="" coords="256,5,433,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="481,5,655,47"/>
+</map>

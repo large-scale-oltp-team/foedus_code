@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::required_data_space" name="foedus::storage::masstree::MasstreeBorderPage::required_data_space">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a68797699a249ca9320a08038d1cdabbc" title="returns minimal physical_record_length_ for the given remainder/payload length. " alt="" coords="260,20,433,76"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage_1_1masstree.html#a907f46e4f7d427806529dd8e2e03dd9c" title="foedus::storage::masstree\l::calculate_suffix_length\l_aligned" alt="" coords="481,52,655,108"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="709,5,869,32"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="703,59,876,101"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="foedus::snapshot::MergeSort::initialize_once" name="foedus::snapshot::MergeSort::initialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#afb3c42518538c584ac9640c7c1313c3f" title="foedus::snapshot::Sorted\lBuffer::assert_checks" alt="" coords="266,5,433,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a9003eeeddcb3213f0cc42116345feb8d" title="foedus::snapshot::MergeSort\l::InputStatus::assert_consistent" alt="" coords="246,71,453,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad79701492d232cb5aec1ad4d8c99eb5d" title="If the current size is smaller than the given size, automatically expands. " alt="" coords="243,136,456,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="243,201,456,243"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#a1ca9a4662628831cb0c4f8719e7cc2eb" title="Returns the buffer memory. " alt="" coords="266,267,433,308"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#a977e4eef74c89091bd9695fd174bc7ed" title="Returns the size of buffer memory. " alt="" coords="266,332,433,373"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#a23b9b4a784eabc6bb7eb2e16c64dbac2" title="Current storage block&#39;s beginning in absolute byte position in the file. " alt="" coords="266,398,433,454"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#a7994e9e8b0cfe799f3746d22a29bf236" title="Current storage block&#39;s end in absolute byte position in the file. " alt="" coords="266,478,433,534"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#aebdd5322ae2e5998f974796dab56454d" title="Returns the absolute byte position of the buffer&#39;s beginning in the entire file. " alt="" coords="266,559,433,600"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="243,624,456,665"/>
+<area shape="rect" id="node14" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="288,690,411,717"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad11d2289458b26db2aaef9de984045a0" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="504,104,717,145"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="504,169,717,211"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="535,690,686,717"/>
+</map>

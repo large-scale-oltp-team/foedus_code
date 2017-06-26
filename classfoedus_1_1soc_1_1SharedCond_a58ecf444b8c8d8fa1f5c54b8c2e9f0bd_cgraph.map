@@ -1,0 +1,8 @@
+<map id="foedus::soc::SharedCond::broadcast" name="foedus::soc::SharedCond::broadcast">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="232,5,405,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="231,71,406,112"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1soc.html#ab84179dc25dd748535a23e82cfa1f3f4" title="foedus::soc::ugly_atomic_dec" alt="" coords="221,137,416,163"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="223,187,414,214"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMutexScope.html#acac3297b11c28197597eb19cea541a79" title="foedus::soc::SharedMutex\lScope::unlock" alt="" coords="231,239,406,280"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMutex.html#a0e9a290aa070e69bb531baf71995f212" title="Unlock it. " alt="" coords="464,239,639,280"/>
+</map>

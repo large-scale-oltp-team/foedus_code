@@ -1,0 +1,8 @@
+<map id="foedus::storage::Page::get_page_type" name="foedus::storage::Page::get_page_type">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage_1_1masstree.html#acea98e6f343df2d62a9a8f9ddd127234" title="foedus::storage::masstree\l::verify_page_basic" alt="" coords="203,111,376,153"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a351ca64071b130468a9ba9f200ccd417" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::verify_single_thread_intermediate" alt="" coords="424,71,645,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a688e9af62605f137637cc239f161c84f" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::verify_single_thread_border" alt="" coords="920,85,1107,141"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a09d587cc38996109b753a7704fa33736" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::verify_single_thread_layer" alt="" coords="693,20,872,76"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a2a4e90569074d49ab538041caedacf6a" title="These are defined in masstree_storage_verify.cpp. " alt="" coords="927,5,1100,61"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#aedee683fbced316953d1cbc622f22c87" title="foedus::storage::masstree\l::MasstreeStorage::verify\l_single_thread" alt="" coords="1155,5,1328,61"/>
+</map>

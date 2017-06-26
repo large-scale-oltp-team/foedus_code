@@ -1,0 +1,19 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/snapshot_options.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/snapshot_options.hpp">
+<area shape="rect" id="node4" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="614,399,738,426"/>
+<area shape="rect" id="node5" href="$externalizable_8hpp.html" title="foedus/externalize\l/externalizable.hpp" alt="" coords="501,213,632,255"/>
+<area shape="rect" id="node25" href="$device__emulation__options_8hpp.html" title="foedus/fs/device_emulation\l_options.hpp" alt="" coords="707,124,885,165"/>
+<area shape="rect" id="node26" href="$filesystem_8hpp.html" title="foedus/fs/filesystem.hpp" alt="" coords="1159,131,1321,158"/>
+<area shape="rect" id="node8" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="1163,310,1317,337"/>
+<area shape="rect" id="node16" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="165,303,333,344"/>
+<area shape="rect" id="node20" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="1575,303,1721,344"/>
+<area shape="rect" id="node24" href="$fs_2fwd_8hpp.html" title="Forward declarations of classes in filesystem package. " alt="" coords="357,310,480,337"/>
+<area shape="rect" id="node11" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="240,481,387,508"/>
+<area shape="rect" id="node13" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="1362,399,1499,426"/>
+<area shape="rect" id="node14" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="1187,399,1338,426"/>
+<area shape="rect" id="node15" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="1187,481,1359,508"/>
+<area shape="rect" id="node18" href="$uniform__random_8hpp.html" title="foedus/assorted/uniform\l_random.hpp" alt="" coords="227,392,387,433"/>
+<area shape="rect" id="node19" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="57,481,215,508"/>
+<area shape="rect" id="node27" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="1494,221,1602,247"/>
+<area shape="rect" id="node28" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="1163,221,1317,247"/>
+<area shape="rect" id="node29" href="$path_8hpp.html" title="foedus/fs/path.hpp" alt="" coords="909,310,1037,337"/>
+</map>

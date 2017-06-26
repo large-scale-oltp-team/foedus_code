@@ -1,0 +1,5 @@
+<map id="foedus::storage::Partitioner::Partitioner" name="foedus::storage::Partitioner::Partitioner">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManager.html#a62a5d09952fe340dc03da8460f200523" title="Returns the storage of given ID. " alt="" coords="232,5,396,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#ac27d3734638fe8d18fbdc9b4ee4666b2" title="See Storage Manager. " alt="" coords="247,71,381,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#aea8861d6bf6c13c0df6d0c9777cdaa99" title="foedus::storage::Storage\lManagerPimpl::get_storage" alt="" coords="444,5,625,47"/>
+</map>

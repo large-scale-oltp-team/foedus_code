@@ -1,0 +1,25 @@
+<map id="foedus::storage::sequential::SequentialStorage::create" name="foedus::storage::sequential::SequentialStorage::create">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#ab9ccf59655effed1a259100c4d46b06b" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::create" alt="" coords="233,159,412,215"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#a9e7deab12645a7867f1c4e262c3d9b0b" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::exists" alt="" coords="460,5,639,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#ad8cfc752735602f2b1afeacf10a94b6d" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::get_name" alt="" coords="460,85,639,141"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a32ee0dd2b600a921b7f6b7e99a579550" title="Returns the Earliest&#45;Epoch, the minimum epoch that is valid within this engine. " alt="" coords="482,166,617,207"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="478,232,621,259"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#acc045528304f2d22f64b3f1c76b99fa5" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::initialize_head_tail_pages" alt="" coords="460,355,639,411"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#ac8c418cf8e39002b4a55cc3b3120807f" title="foedus::savepoint::\lSavepointManager::get\l_earliest_epoch" alt="" coords="715,117,869,173"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a49af44d8c179c9a28bdcf7b5dda0d6fd" title="foedus::savepoint::\lSavepointManagerPimpl\l::get_earliest_epoch" alt="" coords="954,117,1115,173"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="725,198,859,239"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="725,263,859,305"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1memory_1_1EngineMemory.html#a8bf8832e627cd97fe92c60d38ed96ac8" title="foedus::memory::EngineMemory\l::get_node_memory" alt="" coords="687,329,897,370"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a70b68580143ce771f5b5b1f9a209f774" title="foedus::memory::NumaNode\lMemoryRef::get_volatile_pool" alt="" coords="697,394,887,435"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1memory_1_1PagePool.html#a3e9390381783077a504116988cae05c4" title="Grab only one page. " alt="" coords="703,459,881,501"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1memory_1_1PagePool.html#a18916c76eea7aa49572e69e48e75717e" title="Gives an object to resolve an offset in this page pool (thus local) to an actual pointer and vice ver..." alt="" coords="703,525,881,566"/>
+<area shape="rect" id="node24" href="$structfoedus_1_1memory_1_1LocalPageResolver.html#aa9d2266686c3a66678b37241a3ac434f" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="700,591,884,647"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a3293a43a76f3720cf5c92c5fbcf2d02f" title="foedus::memory::PagePool\lPimpl::grab_one" alt="" coords="945,459,1124,501"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a1a41295b63274fb300e5937a9bb1eca7" title="foedus::memory::PagePool\lPimpl::decrease_free_pool_count" alt="" coords="1172,361,1387,402"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#aa545fc1cffac905225d3a7c7c457b5a8" title="foedus::memory::PagePool\lPimpl::free_pool_head" alt="" coords="1190,426,1369,467"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#abd594ac94d8ac0445ebef734b7305fb6" title="foedus::memory::PagePool\lPimpl::get_debug_pool_name" alt="" coords="1183,491,1376,533"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="1190,557,1369,598"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="1446,462,1638,503"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="1435,528,1649,555"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#ae901dc06f6b6f4594626ed0b233daec6" title="foedus::memory::PagePool\lPimpl::get_resolver" alt="" coords="945,525,1124,566"/>
+</map>

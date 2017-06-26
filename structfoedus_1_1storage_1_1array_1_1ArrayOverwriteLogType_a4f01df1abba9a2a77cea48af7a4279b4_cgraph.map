@@ -1,0 +1,4 @@
+<map id="foedus::storage::array::ArrayOverwriteLogType::assert_valid" name="foedus::storage::array::ArrayOverwriteLogType::assert_valid">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1StorageLogType.html#a42020d11d21e11bb4f5f93595808523e" title="Verifies the log contains essential fields set. " alt="" coords="216,5,403,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="232,71,387,112"/>
+</map>

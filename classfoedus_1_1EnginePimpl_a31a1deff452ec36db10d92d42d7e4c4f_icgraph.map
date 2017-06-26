@@ -1,0 +1,7 @@
+<map id="foedus::EnginePimpl::is_master" name="foedus::EnginePimpl::is_master">
+<area shape="rect" id="node2" href="$classfoedus_1_1EnginePimpl.html#a1e2a6a45cbf165080b584269b2bbc5aa" title="foedus::EnginePimpl\l::initialize_modules" alt="" coords="411,56,552,97"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="600,56,741,97"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1EnginePimpl.html#a13acd726f8d0ab03b7976d00006a0e6b" title="Called whenever each module has completed its initialization. " alt="" coords="201,5,356,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1EnginePimpl.html#a5a2c657e4fcf77d3166da849a6af8ffd" title="Called whenever each module has completed its uninitialization. " alt="" coords="195,224,363,265"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1EnginePimpl.html#a483875a16cf2f469b8b751c9f6e2d673" title="foedus::EnginePimpl\l::uninitialize_once" alt="" coords="411,199,552,240"/>
+</map>

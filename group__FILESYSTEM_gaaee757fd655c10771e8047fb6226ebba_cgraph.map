@@ -1,0 +1,7 @@
+<map id="foedus::fs::remove_all" name="foedus::fs::remove_all">
+<area shape="rect" id="node2" href="$classfoedus_1_1fs_1_1Path.html#a080a0053aa2d32ca6547d8e5d3474486" title="foedus::fs::Path::child\l_paths" alt="" coords="200,89,348,131"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#ga87c90d834f65aad6f7b6540ae226f305" title="Returns if the file is a directory. " alt="" coords="396,71,549,98"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="791,97,941,123"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1fs_1_1FileStatus.html#a7b8858f191dee3d9a92cae0cd759c1e5" title="foedus::fs::FileStatus\l::is_directory" alt="" coords="597,5,743,47"/>
+<area shape="rect" id="node5" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="609,71,731,98"/>
+</map>

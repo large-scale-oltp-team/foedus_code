@@ -1,0 +1,5 @@
+<map id="numa_node_size" name="numa_node_size">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1memory.html#abf7fe6db604daec757bd932e9b629d40" title="foedus::memory::get\l_numa_node_size" alt="" coords="173,39,315,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a70fdc4e831999f941d4105de0c3ce3fd" title="foedus::memory::NumaNode\lMemory::initialize_once" alt="" coords="363,5,549,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#ac0413b28301186a33621d72b12c92870" title="foedus::memory::NumaNode\lMemory::uninitialize_once" alt="" coords="363,71,549,112"/>
+</map>

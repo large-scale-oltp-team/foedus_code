@@ -1,0 +1,10 @@
+<map id="foedus::assorted::htobe&lt; uint64_t &gt;" name="foedus::assorted::htobe&lt; uint64_t &gt;">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a0051986148bca838483cf3a81d3f5236" title="Deletes a record of the given primitive key from this Masstree. " alt="" coords="223,5,396,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#adba3fe323a9ea3e8f8e006459ef7e442" title="For primitive key. " alt="" coords="212,85,407,141"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a6d7f9dea9af7356face9815ac10c37b4" title="With this method, you can also specify physical_payload_hint. " alt="" coords="223,165,396,221"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ad27ac2a920f1f63adc768f7c95ea5c6f" title="Overwrites a part of one record of the given primitive key in this Masstree. " alt="" coords="216,245,403,301"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#aadbf62a4594062706294a2402777e223" title="Overwrites a part of one record of the given primitive key in this Masstree as a primitive value..." alt="" coords="215,325,404,381"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a152a0ecbad9b56385ec7f13e8a1fce19" title="With this method, you can also specify physical_payload_hint. " alt="" coords="223,405,396,461"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ac6b8b9c2d3b756b4559e43fbe93950a5" title="Deletes a record of the given key from this Masstree. " alt="" coords="463,13,677,54"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ae7221368afad2669e36cdf1bfe8dcb5f" title="Overwrites a part of one record of the given key in this Masstree. " alt="" coords="455,253,685,294"/>
+</map>

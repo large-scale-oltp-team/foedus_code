@@ -1,0 +1,12 @@
+<map id="foedus::soc::SharedMemoryRepo::change_master_status" name="foedus::soc::SharedMemoryRepo::change_master_status">
+<area shape="rect" id="node2" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="276,5,417,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#ad9ef70c0b175a6535731e2cf0c2370f1" title="Launch children via fork. " alt="" coords="496,57,699,99"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a4a9091baae2ba21b2cb888da8d391818" title="Launch children via spawn. " alt="" coords="496,188,699,229"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a1d435277bd229b7988c3f249c0a0730f" title="foedus::soc::SocManagerPimpl\l::uninitialize_once" alt="" coords="496,328,699,369"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1EnginePimpl.html#a483875a16cf2f469b8b751c9f6e2d673" title="foedus::EnginePimpl\l::uninitialize_once" alt="" coords="276,240,417,281"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a998409bf9e2aff10ec8dfb02f17bb956" title="Wait for child SOCs to start up and at least finish attaching shared memory. " alt="" coords="245,123,448,164"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#afa01a52797a06b55092eeb900a7f62ef" title="Wait for child SOCs to terminate. " alt="" coords="245,357,448,399"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="747,123,949,164"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="997,123,1200,164"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a77d275f92471e6ac9e0c4bb4c609665f" title="Launch emulated children as threads. " alt="" coords="496,123,699,164"/>
+</map>

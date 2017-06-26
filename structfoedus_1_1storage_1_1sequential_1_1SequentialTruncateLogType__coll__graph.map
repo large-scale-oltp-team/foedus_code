@@ -1,0 +1,7 @@
+<map id="foedus::storage::sequential::SequentialTruncateLogType" name="foedus::storage::sequential::SequentialTruncateLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1StorageLogType.html" title="Base class for log type of storage&#45;wide operation. " alt="" coords="5,260,192,287"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="13,184,184,211"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1log_1_1LogHeader.html" title="A common header part for all log types. " alt="" coords="21,95,176,121"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="37,5,160,32"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="217,260,322,287"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::log::LogManager::get_meta_buffer" name="foedus::log::LogManager::get_meta_buffer">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a9eec079742233abb22d147da7b4fa50a" title="foedus::storage::Storage\lManagerPimpl::create_storage\l_and_log" alt="" coords="217,5,416,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a252f35e96555817a5eba6ab2e2275d53" title="foedus::storage::Storage\lManagerPimpl::drop_storage" alt="" coords="223,86,411,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#a8917edb5d2712fba660a33c6cf2fb19f" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::truncate" alt="" coords="227,152,406,208"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManager.html#a2f5e7bd059656ae653d0a326141e76f1" title="Removes the storage object. " alt="" coords="477,86,641,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a9a4d7e58057f2fb648b7ff9ee6ab7fa0" title="Discards all records in this storage before the given epoch. " alt="" coords="464,159,655,201"/>
+</map>

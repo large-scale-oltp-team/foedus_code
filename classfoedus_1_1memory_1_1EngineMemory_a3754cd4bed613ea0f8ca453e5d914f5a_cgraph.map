@@ -1,0 +1,9 @@
+<map id="foedus::memory::EngineMemory::uninitialize_once" name="foedus::memory::EngineMemory::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="268,5,432,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a7a74b38a862f1671322e3c72169e48cc" title="See Debug&#45;Support functionalities. " alt="" coords="283,71,417,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="283,136,417,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="484,224,656,265"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="287,253,413,295"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="264,319,436,360"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="484,319,656,360"/>
+</map>

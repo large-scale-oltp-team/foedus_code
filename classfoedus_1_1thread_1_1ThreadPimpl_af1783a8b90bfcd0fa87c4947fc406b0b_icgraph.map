@@ -1,0 +1,8 @@
+<map id="foedus::thread::ThreadPimpl::cll_release_all_locks_after" name="foedus::thread::ThreadPimpl::cll_release_all_locks_after">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a4ff4d49ae69ae490afb0cc09c4c19507" title="Release all locks in CLL of this thread whose addresses are canonically ordered before the parameter..." alt="" coords="237,50,420,91"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Thread.html#af2f4da1c6c9bf0b580ca62464b80c365" title="same as mcs_release_all_current_locks_after(address &#45; 1) " alt="" coords="490,5,641,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="468,86,663,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="711,86,905,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="953,86,1148,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1196,86,1359,127"/>
+</map>

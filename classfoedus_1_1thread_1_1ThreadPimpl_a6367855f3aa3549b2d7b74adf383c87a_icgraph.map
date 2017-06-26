@@ -1,0 +1,9 @@
+<map id="foedus::thread::ThreadPimpl::cll_release_all_locks" name="foedus::thread::ThreadPimpl::cll_release_all_locks">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a21bff0861e0c12573bc0a6b776857b76" title="foedus::thread::Thread\l::cll_release_all_locks" alt="" coords="265,35,416,76"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1thread_1_1ThreadPimplCllReleaseAllFunctor.html#a3c10a09a949ac94c2134e14e30d70e1e" title="foedus::thread::ThreadPimpl\lCllReleaseAllFunctor::operator()" alt="" coords="237,100,444,141"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a3c2ee2d08709ff62e77e0dff6eded376" title="unlocking all acquired locks, used when commit/abort. " alt="" coords="492,35,732,76"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="1023,5,1217,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="780,64,975,105"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1265,5,1428,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="1039,71,1201,112"/>
+</map>

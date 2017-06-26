@@ -1,0 +1,4 @@
+<map id="numa_bitmask_clearall" name="numa_bitmask_clearall">
+<area shape="rect" id="node2" href="$numa_8h.html#a190da4e2a27a1dc62198641b087c1b56" title="nodemask_zero" alt="" coords="233,5,347,32"/>
+<area shape="rect" id="node3" href="$numa_8h.html#a651b51e353510e13b92b30de66c35d0f" title="nodemask_zero_compat" alt="" coords="208,56,372,83"/>
+</map>

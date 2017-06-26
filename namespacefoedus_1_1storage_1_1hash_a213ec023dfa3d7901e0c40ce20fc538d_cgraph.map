@@ -1,0 +1,12 @@
+<map id="foedus::storage::hash::prepare_sort_entries" name="foedus::storage::hash::prepare_sort_entries">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1HashCommonLogType.html#a409566a4b1453421a1eaa945d561c751" title="foedus::storage::hash\l::HashCommonLogType::\lassert_type" alt="" coords="209,5,377,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="231,86,354,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="231,151,354,193"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1snapshot_1_1LogBuffer.html#a4c866d7cc1684237eca5fff49215b80e" title="foedus::snapshot::LogBuffer\l::resolve" alt="" coords="201,217,384,258"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1hash_1_1SortEntry.html#ac580bd939cf86931929567c917bb8257" title="foedus::storage::hash\l::SortEntry::set" alt="" coords="219,282,366,323"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Epoch.html#a95ee2922375886d43b8e669a192fd4c4" title="Returns the number epochs from the given epoch to this epoch accounting for wrap&#45;around. " alt="" coords="213,348,373,375"/>
+<area shape="rect" id="node3" href="$group__HASH.html#ga8c4ca78e36b2188f1feac100ce7df679" title="Calculates hash value for general input. " alt="" coords="436,13,583,54"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="448,86,571,127"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1snapshot.html#a499edf9829f41f833e2057346e8bbf3a" title="foedus::snapshot::from\l_buffer_position" alt="" coords="432,217,587,258"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="432,348,587,375"/>
+</map>

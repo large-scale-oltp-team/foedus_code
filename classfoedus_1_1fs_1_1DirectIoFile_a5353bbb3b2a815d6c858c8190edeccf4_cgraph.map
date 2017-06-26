@@ -1,0 +1,8 @@
+<map id="foedus::fs::DirectIoFile::read_raw" name="foedus::fs::DirectIoFile::read_raw">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1fs.html#a1a3ea81bf627928d9a5f154986af9c48" title="foedus::fs::is_odirect\l_aligned" alt="" coords="208,5,351,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1d89a9c761a388f13f9b59490b6caa00" title="Whether the file is already and successfully opened. " alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="209,136,349,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1c6bff6aafc955fd4c2a8e11e7f41f40" title="Sequentially read the given amount of contents from the current position. " alt="" coords="204,201,355,243"/>
+<area shape="rect" id="node6" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="212,267,347,308"/>
+<area shape="rect" id="node7" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="403,267,537,308"/>
+</map>

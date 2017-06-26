@@ -1,0 +1,3 @@
+<map id="foedus::thread::ThreadRef::get_numa_node" name="foedus::thread::ThreadRef::get_numa_node">
+<area shape="rect" id="node2" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="224,5,403,47"/>
+</map>

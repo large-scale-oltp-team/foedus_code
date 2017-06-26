@@ -1,0 +1,10 @@
+<map id="foedus::thread::ThreadPimplMcsAdaptor::get_ww_other_block" name="foedus::thread::ThreadPimplMcsAdaptor::get_ww_other_block">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadRef.html#a989d82d0632117ab23c4fd1ad041ff3f" title="foedus::thread::ThreadRef\l::get_control_block" alt="" coords="277,5,448,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadRef.html#a0a74f10663dafe66b51e956328ce24d3" title="foedus::thread::ThreadRef\l::get_mcs_ww_blocks" alt="" coords="277,71,448,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#af52661009b044c7a6553234720d71923" title="foedus::thread::ThreadPimpl\l::get_thread_ref" alt="" coords="271,136,455,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPool.html#a4af4c3d3fd7a9353d892e5270a900f1c" title="Returns the pimpl of this object. " alt="" coords="503,71,680,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a4243a3e399186727d6bbdda5bc98f8cd" title="See Thread and Thread&#45;Group. " alt="" coords="524,136,659,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a61040189c343e97c3f0ee961df7a9f31" title="For better performance, but for some reason this method causes an issue in MCS lock. " alt="" coords="503,201,680,243"/>
+<area shape="rect" id="node8" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="728,168,907,209"/>
+<area shape="rect" id="node9" href="$group__THREAD.html#ga93083d6b052db01851cb61c120522c1d" title="Extracts local ordinal from the given globally unique ID of Thread (core). " alt="" coords="728,233,907,275"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="foedus::log::Logger" name="foedus::log::Logger">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="5,95,177,121"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="25,13,157,39"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1log_1_1LoggerRef.html" title="A view of Logger object for other SOCs and master engine. " alt="" coords="201,95,352,121"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Attachable.html" title="foedus::Attachable\l\&lt; LoggerControlBlock \&gt;" alt="" coords="197,5,356,47"/>
+</map>

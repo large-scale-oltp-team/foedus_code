@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::HashPartitioner::design_partition_task" name="foedus::storage::hash::HashPartitioner::design_partition_task">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashPartitioner.html#a9def1e9584cd2af4bae4d2b0c0ca10e4" title="foedus::storage::hash\l::HashPartitioner::design\l_partition" alt="" coords="431,5,596,61"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage_1_1hash.html#a3ac47a0c2d690309d487f26b3a08a9b4" title="foedus::storage::hash\l::design_partition_thread" alt="" coords="219,42,383,83"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1Partitioner.html#a31a7e393bf1f87a9a039c60b291ac9d1" title="Determines partitioning scheme for this storage. " alt="" coords="644,13,823,54"/>
+</map>

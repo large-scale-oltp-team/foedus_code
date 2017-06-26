@@ -1,0 +1,10 @@
+<map id="foedus::xct::operator&lt;&lt;" name="foedus::xct::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwLock.html#a7d38b992d2324394011b44322f3961e1" title="This is a &quot;relaxed&quot; check. " alt="" coords="211,5,380,47"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwLock.html#a966f0442b019b71886c3887f9bb1498e" title="This is a &quot;relaxed&quot; check. " alt="" coords="211,71,380,112"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="211,136,380,177"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3d5ca0f6b8e220f611eabfa5418640fa" title="Carefully use this! In some places you must call get_word_once() then call this on the copy..." alt="" coords="428,5,629,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#ae6932458ac7fb8835390cd6c5fb70df9" title="foedus::xct::McsWwBlockData\l::decompose_thread_id" alt="" coords="677,5,879,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a7d13abc0ec8ebfd397f92cace54e706c" title="Carefully use this! In some places you must call get_word_once() then call this on the copy..." alt="" coords="428,71,629,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a5b66eb196341fdaea96fb04653344b37" title="foedus::xct::McsWwBlockData\l::decompose_block" alt="" coords="677,71,879,112"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="428,136,629,177"/>
+</map>

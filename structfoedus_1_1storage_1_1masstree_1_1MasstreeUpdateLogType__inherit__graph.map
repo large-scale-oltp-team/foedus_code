@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeUpdateLogType" name="foedus::storage::masstree::MasstreeUpdateLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeCommonLogType.html" title="A base class for MasstreeInsertLogType/MasstreeDeleteLogType/MasstreeOverwriteLogType. " alt="" coords="5,155,189,196"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1RecordLogType.html" title="Base class for log type of record&#45;wise operation. " alt="" coords="6,80,189,107"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="12,5,183,32"/>
+</map>

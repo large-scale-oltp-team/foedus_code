@@ -1,0 +1,5 @@
+<map id="foedus::storage::array::ArrayRange::overlaps" name="foedus::storage::array::ArrayRange::overlaps">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#af22fe9e661763ca3225eeedf7fa62879" title="foedus::storage::array\l::ArrayStoragePimpl::prefetch\l_pages_recurse" alt="" coords="207,5,400,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#adbf75cfe4ac8c4c5e1e8a32342b66d00" title="defined in array_storage_prefetch.cpp " alt="" coords="448,13,683,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#af420e19da8ee4ed731ae387932cc991e" title="Prefetch data pages in this storage. " alt="" coords="731,13,933,54"/>
+</map>

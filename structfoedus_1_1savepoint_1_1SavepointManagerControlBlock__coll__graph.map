@@ -1,0 +1,6 @@
+<map id="foedus::savepoint::SavepointManagerControlBlock" name="foedus::savepoint::SavepointManagerControlBlock">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="264,5,441,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="265,56,440,83"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1savepoint_1_1FixedSavepoint.html" title="Savepoint that can be stored in shared memory. " alt="" coords="287,107,418,149"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1savepoint.html#structfoedus_1_1savepoint_1_1LoggerSavepointInfo" title="Information in savepoint for one logger. " alt="" coords="5,107,143,149"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="foedus::snapshot::SnapshotManagerPimpl::glean_logs" name="foedus::snapshot::SnapshotManagerPimpl::glean_logs">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogGleaner.html#a617c3de45c34c6533c7f3e82216557f4" title="Main routine of log gleaner. " alt="" coords="237,283,432,324"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1snapshot_1_1LogGleaner.html#a1629807dcb35f0174fa6ad6e247eda8f" title="Returns pointers to new root pages constructed at the end of gleaning. " alt="" coords="237,348,432,389"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="269,413,400,455"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1debugging_1_1StopWatch.html#acc122593c59aa99c4bed52c0cb8e9a20" title="foedus::debugging::\lStopWatch::elapsed_sec" alt="" coords="493,5,661,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="485,71,670,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="487,152,667,193"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#a429b6bdd5e14d8ce0ad71aaf44d25f93" title="foedus::snapshot::LogGleaner\lRef::get_snapshot_id" alt="" coords="480,217,675,259"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="510,283,645,324"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#a10961d61eb650f91fa737270dd690a0b" title="foedus::snapshot::LogGleaner\lRef::is_all_completed" alt="" coords="480,348,675,389"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#ae06d65ba38a5838c873c3b9b788905f3" title="foedus::snapshot::LogGleaner\lRef::is_all_exitted" alt="" coords="480,413,675,455"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#ac5b28bcfdc09bd7fe48cd7dd1e687fd1" title="foedus::snapshot::LogGleaner\lRef::is_error" alt="" coords="480,479,675,520"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="510,544,645,585"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1LogGleanerRef.html#aa21d824a0cd1489c832ed6d6b7105331" title="foedus::snapshot::LogGleaner\lRef::get_cur_snapshot" alt="" coords="723,217,917,259"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="739,511,901,552"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="753,576,887,617"/>
+</map>

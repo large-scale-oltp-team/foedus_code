@@ -1,0 +1,5 @@
+<map id="foedus::memory::SharedMemory::alloc" name="foedus::memory::SharedMemory::alloc">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#aa42d7f6cd529569e79e4cfc298adb39b" title="Master process creates shared memories by calling this method. " alt="" coords="264,5,479,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="527,5,729,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="777,5,980,47"/>
+</map>

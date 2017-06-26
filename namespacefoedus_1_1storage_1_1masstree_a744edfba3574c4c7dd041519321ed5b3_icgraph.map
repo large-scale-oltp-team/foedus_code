@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::release_parallel" name="foedus::storage::masstree::release_parallel">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a854ff4750eb7aad99b3cff474882ec5c" title="This method is used when we release a large number of volatile pages, most likely when we drop a stor..." alt="" coords="227,5,412,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a67ab7c42dbfd788773d6293ffdb64d52" title="Storage&#45;wide operations, such as drop, create, etc. " alt="" coords="460,20,655,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a40e22349aa6902839d3b80ac35e84790" title="foedus::storage::masstree\l::MasstreeStorage::drop" alt="" coords="703,20,876,61"/>
+</map>

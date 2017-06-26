@@ -1,0 +1,10 @@
+<map id="foedus::log::StorageLogType" name="foedus::log::StorageLogType">
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1array_1_1ArrayCreateLogType.html" title="Log type of CREATE ARRAY STORAGE operation. " alt="" coords="487,5,635,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1CreateLogType.html" title="Base type for CREATE STORAGE operation. " alt="" coords="459,71,664,98"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1DropLogType.html" title="Log type of DROP STORAGE operation. " alt="" coords="464,122,659,149"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1HashCreateLogType.html" title="Log type of CREATE HASH STORAGE operation. " alt="" coords="488,173,635,215"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeCreateLogType.html" title="Log type of CREATE MASSTREE STORAGE operation. " alt="" coords="475,239,648,280"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialCreateLogType.html" title="Log type of CREATE SEQUENTIAL STORAGE operation. " alt="" coords="472,304,651,345"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialTruncateLogType.html" title="Log type of TRUNCATE SEQUENTIAL STORAGE operation. " alt="" coords="467,369,656,411"/>
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="5,181,176,207"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="foedus::storage::masstree::MasstreePage::get_volatile_page_id" name="foedus::storage::masstree::MasstreePage::get_volatile_page_id">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a31564163126364e4810f2f00398afd15" title="foedus::storage::masstree\l::Adopt::adopt_case_a" alt="" coords="240,40,413,82"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a16f4727fa2ce3b72468618be684af41d" title="Execute the system transaction. " alt="" coords="472,40,645,82"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a8febde13f90f2b61abf29bf1f4a89e3d" title="foedus::storage::masstree\l::Adopt::adopt_case_b" alt="" coords="240,106,413,147"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage_1_1masstree.html#a554f6fb34b45687df09df15076aac190" title="foedus::storage::masstree\l::grow_case_a_common" alt="" coords="240,171,413,212"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1masstree_1_1GrowNonFirstLayerRoot.html#a9c47822a3dd14ff40020c13d277820ea" title="Execute the system transaction. " alt="" coords="461,236,656,278"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage_1_1masstree.html#a9747d159e12f82f5fefcaed735947480" title="foedus::storage::masstree\l::grow_case_b_common" alt="" coords="240,236,413,278"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html#aae952c17c2f2b1c760f899da5c368054" title="Execute the system transaction. " alt="" coords="240,354,413,395"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#a96de88f03cf5683529e00d2c209a07e9" title="The core implementation after locking relevant pages and acquiring free page resource. " alt="" coords="240,420,413,476"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1masstree_1_1GrowFirstLayerRoot.html#a2c3c6cc4a2d74c498cee8f9051d09909" title="Execute the system transaction. " alt="" coords="472,171,645,212"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="472,427,645,468"/>
+</map>

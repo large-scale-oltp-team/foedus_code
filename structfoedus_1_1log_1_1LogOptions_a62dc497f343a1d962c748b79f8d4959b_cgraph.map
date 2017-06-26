@@ -1,0 +1,6 @@
+<map id="foedus::log::LogOptions::save" name="foedus::log::LogOptions::save">
+<area shape="rect" id="node2" href="$structfoedus_1_1externalize_1_1Externalizable.html#a2417512c982e79faeaf02649f8e62e3c" title="child Externalizable version " alt="" coords="217,85,359,141"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1externalize_1_1Externalizable.html#a3440fb01f6ac25ab73f6483dbef0906b" title="foedus::externalize\l::Externalizable::insert\l_comment" alt="" coords="212,5,364,61"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1externalize.html#a89713044c4f671566a6d103cfefd1509" title="foedus::externalize\l::insert_comment_impl" alt="" coords="412,21,567,62"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1externalize_1_1Externalizable.html#a19c407586854a4765981cf165b653ef5" title="Writes the content of this object to the given XML element. " alt="" coords="416,93,563,134"/>
+</map>

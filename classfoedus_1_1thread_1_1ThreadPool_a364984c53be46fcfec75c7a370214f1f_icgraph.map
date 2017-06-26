@@ -1,0 +1,6 @@
+<map id="foedus::thread::ThreadPool::is_initialized" name="foedus::thread::ThreadPool::is_initialized">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad89ca2bb2619e01c3b13d65302a3d7c9" title="foedus::storage::Storage\lManagerPimpl::initialize_once" alt="" coords="238,5,433,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a8b2cfe458668cc3f8cf4ccbfeab179dc" title="foedus::log::LogManagerPimpl\l::initialize_once" alt="" coords="237,71,434,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ae4eaa4425c8c9aa4bfbbbf56303748e5" title="foedus::storage::Storage\lManagerPimpl::uninitialize_once" alt="" coords="231,136,440,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a9458809a7d4367f362b8775dbd5a18cf" title="foedus::log::LogManagerPimpl\l::uninitialize_once" alt="" coords="237,201,434,243"/>
+</map>

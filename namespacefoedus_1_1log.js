@@ -1,0 +1,25 @@
+var namespacefoedus_1_1log =
+[
+    [ "BaseLogType", "structfoedus_1_1log_1_1BaseLogType.html", "structfoedus_1_1log_1_1BaseLogType" ],
+    [ "EngineLogType", "structfoedus_1_1log_1_1EngineLogType.html", "structfoedus_1_1log_1_1EngineLogType" ],
+    [ "EpochHistory", "structfoedus_1_1log_1_1EpochHistory.html", "structfoedus_1_1log_1_1EpochHistory" ],
+    [ "EpochMarkerLogType", "structfoedus_1_1log_1_1EpochMarkerLogType.html", "structfoedus_1_1log_1_1EpochMarkerLogType" ],
+    [ "FillerLogType", "structfoedus_1_1log_1_1FillerLogType.html", "structfoedus_1_1log_1_1FillerLogType" ],
+    [ "Logger", "classfoedus_1_1log_1_1Logger.html", "classfoedus_1_1log_1_1Logger" ],
+    [ "LoggerControlBlock", "structfoedus_1_1log_1_1LoggerControlBlock.html", "structfoedus_1_1log_1_1LoggerControlBlock" ],
+    [ "LoggerRef", "classfoedus_1_1log_1_1LoggerRef.html", "classfoedus_1_1log_1_1LoggerRef" ],
+    [ "LogHeader", "structfoedus_1_1log_1_1LogHeader.html", "structfoedus_1_1log_1_1LogHeader" ],
+    [ "LogManager", "classfoedus_1_1log_1_1LogManager.html", "classfoedus_1_1log_1_1LogManager" ],
+    [ "LogManagerControlBlock", "structfoedus_1_1log_1_1LogManagerControlBlock.html", "structfoedus_1_1log_1_1LogManagerControlBlock" ],
+    [ "LogManagerPimpl", "classfoedus_1_1log_1_1LogManagerPimpl.html", "classfoedus_1_1log_1_1LogManagerPimpl" ],
+    [ "LogOptions", "structfoedus_1_1log_1_1LogOptions.html", "structfoedus_1_1log_1_1LogOptions" ],
+    [ "LogRange", "structfoedus_1_1log_1_1LogRange.html", "structfoedus_1_1log_1_1LogRange" ],
+    [ "MetaLogBuffer", "classfoedus_1_1log_1_1MetaLogBuffer.html", "classfoedus_1_1log_1_1MetaLogBuffer" ],
+    [ "MetaLogControlBlock", "structfoedus_1_1log_1_1MetaLogControlBlock.html", "structfoedus_1_1log_1_1MetaLogControlBlock" ],
+    [ "MetaLogger", "classfoedus_1_1log_1_1MetaLogger.html", "classfoedus_1_1log_1_1MetaLogger" ],
+    [ "RecordLogType", "structfoedus_1_1log_1_1RecordLogType.html", "structfoedus_1_1log_1_1RecordLogType" ],
+    [ "StorageLogType", "structfoedus_1_1log_1_1StorageLogType.html", "structfoedus_1_1log_1_1StorageLogType" ],
+    [ "ThreadEpockMark", "structfoedus_1_1log_1_1ThreadEpockMark.html", "structfoedus_1_1log_1_1ThreadEpockMark" ],
+    [ "ThreadLogBuffer", "classfoedus_1_1log_1_1ThreadLogBuffer.html", "classfoedus_1_1log_1_1ThreadLogBuffer" ],
+    [ "ThreadLogBufferMeta", "structfoedus_1_1log_1_1ThreadLogBufferMeta.html", "structfoedus_1_1log_1_1ThreadLogBufferMeta" ]
+];

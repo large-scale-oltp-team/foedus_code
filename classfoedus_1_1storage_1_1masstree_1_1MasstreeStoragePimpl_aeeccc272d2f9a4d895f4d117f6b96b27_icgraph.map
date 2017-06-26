@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::upsert_general" name="foedus::storage::masstree::MasstreeStoragePimpl::upsert_general">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a0f917244d33e9cdb2fa6ffd686a2a701" title="With this method, you can also specify physical_payload_hint, the physical size of the record&#39;s paylo..." alt="" coords="227,5,443,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a152a0ecbad9b56385ec7f13e8a1fce19" title="With this method, you can also specify physical_payload_hint. " alt="" coords="248,71,421,127"/>
+</map>

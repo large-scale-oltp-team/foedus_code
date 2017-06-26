@@ -1,0 +1,9 @@
+<map id="foedus::cache::CacheHashtable" name="foedus::cache::CacheHashtable">
+<area shape="rect" id="node2" href="$structfoedus_1_1cache_1_1HashFunc.html" title="A simple hash function logic used in snasphot cache. " alt="" coords="349,8,520,35"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1assorted_1_1ConstDiv.html" title="The pre&#45;calculated p&#45;m pair for optimized integer division by constant. " alt="" coords="17,8,195,35"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="347,64,522,91"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1cache.html#structfoedus_1_1cache_1_1CacheOverflowEntry" title="An entry in the overflow linked list for snapshot cache. " alt="" coords="337,178,533,219"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1cache_1_1CacheBucket.html" title="Hash bucket in cache table. " alt="" coords="11,140,201,167"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1cache_1_1CacheRefCount.html" title="A loosely maintained reference count for CLOCK algorithm. " alt="" coords="5,212,207,239"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="328,324,541,351"/>
+</map>

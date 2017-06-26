@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::hcc_reset_all_temperature_stat_recurse" name="foedus::storage::masstree::MasstreeStoragePimpl::hcc_reset_all_temperature_stat_recurse">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a89828c1df02cadd8a38824f24e2adef9" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::hcc_reset_all_temperature\l_stat_follow" alt="" coords="236,5,419,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a0fe6a82d90f30d4b9724009ba2fc40ae" title="For stupid reasons (I&#39;m lazy!) these are defined in _debug.cpp. " alt="" coords="467,13,679,69"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ad23c8139c379dac6b0a1c07a52debd62" title="Resets all volatile pages&#39; temperature stat to be zero in this storage. " alt="" coords="727,13,909,69"/>
+</map>

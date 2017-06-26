@@ -1,0 +1,5 @@
+<map id="foedus::storage::save_to_xml_hash" name="foedus::storage::save_to_xml_hash">
+<area shape="rect" id="node2" href="$structfoedus_1_1externalize_1_1Externalizable.html#a2417512c982e79faeaf02649f8e62e3c" title="child Externalizable version " alt="" coords="199,31,340,87"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1externalize.html#a89713044c4f671566a6d103cfefd1509" title="foedus::externalize\l::insert_comment_impl" alt="" coords="388,5,543,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1externalize_1_1Externalizable.html#a19c407586854a4765981cf165b653ef5" title="Writes the content of this object to the given XML element. " alt="" coords="392,71,539,112"/>
+</map>

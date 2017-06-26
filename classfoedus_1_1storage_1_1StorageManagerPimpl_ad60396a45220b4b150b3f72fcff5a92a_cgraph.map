@@ -1,0 +1,9 @@
+<map id="foedus::storage::StorageManagerPimpl::create_storage_apply" name="foedus::storage::StorageManagerPimpl::create_storage_apply">
+<area shape="rect" id="node2" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="291,5,483,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3eb62d9aa6161550ff86b83ae09e892f" title="foedus::storage::Storage\lManagerPimpl::exists" alt="" coords="305,71,469,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#aea8861d6bf6c13c0df6d0c9777cdaa99" title="foedus::storage::Storage\lManagerPimpl::get_storage" alt="" coords="296,136,477,177"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1StorageControlBlock.html#a90f70806c6b51d60cf9ada38017f914d" title="foedus::storage::Storage\lControlBlock::initialize" alt="" coords="305,201,469,243"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="321,267,452,308"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="531,201,705,243"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="753,201,928,243"/>
+</map>

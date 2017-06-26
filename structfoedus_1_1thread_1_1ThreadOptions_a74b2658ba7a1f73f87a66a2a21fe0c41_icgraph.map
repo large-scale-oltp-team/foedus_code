@@ -1,0 +1,10 @@
+<map id="foedus::thread::ThreadOptions::get_total_thread_count" name="foedus::thread::ThreadOptions::get_total_thread_count">
+<area shape="rect" id="node2" href="$structfoedus_1_1EngineOptions.html#ace695b3d0e069ed255df9572f71ecfa4" title="foedus::EngineOptions\l::calculate_required\l_memory" alt="" coords="272,71,425,127"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#af04416fadb8ec5160408982fa67a08c1" title="foedus::cache::CacheManager\lPimpl::initialize_once" alt="" coords="249,5,448,47"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a8b2cfe458668cc3f8cf4ccbfeab179dc" title="foedus::log::LogManagerPimpl\l::initialize_once" alt="" coords="250,152,447,193"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1EngineOptions.html#af67ac8ec714d448091e7b0cc38c2ff72" title="Subroutine of prescreen to check ulimit values. " alt="" coords="272,217,425,259"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1EngineOptions.html#ae11d1267946c562743cea44470525a69" title="Checks the machine environment and raises as many errors as possible before the engine starts up..." alt="" coords="519,148,672,189"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1EnginePimpl.html#ad48323b2f8311ecee663647aeeecdea6" title="foedus::EnginePimpl\l::check_valid_options" alt="" coords="743,148,889,189"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="937,148,1079,189"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1cache_1_1CacheManager.html#a9181ec7d7e0ee1faa942ba9eec6c1345" title="foedus::cache::CacheManager\l::initialize_once" alt="" coords="496,5,695,47"/>
+</map>

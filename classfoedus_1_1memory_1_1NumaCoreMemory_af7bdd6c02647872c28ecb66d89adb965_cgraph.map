@@ -1,0 +1,43 @@
+<map id="foedus::memory::NumaCoreMemory::initialize_once" name="foedus::memory::NumaCoreMemory::initialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a347b906362b2d1802069ead12c3ef9b7" title="foedus::memory::NumaNode\lMemory::allocate_numa\l_memory" alt="" coords="251,215,437,271"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="783,157,917,198"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#adb12d1c6977fada9ea158addc0e27130" title="foedus::memory::NumaCore\lMemory::calculate_local\l_small_memory_size" alt="" coords="252,295,436,351"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1memory_1_1PagePoolOffsetAndEpochChunk.html#ab6ea083336cace77ee5ec742bb99b0d3" title="foedus::memory::PagePool\lOffsetAndEpochChunk::clear" alt="" coords="249,375,439,417"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="237,441,451,482"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1memory_1_1PagePool.html#adaba316ea864179aa8460a57a61f1ff3" title="foedus::memory::PagePool\l::get_free_pool_capacity" alt="" coords="255,506,433,547"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#aec426088a6e841b62d8305c4934bff8d" title="foedus::memory::NumaNode\lMemory::get_log_buffer\l_memory_piece" alt="" coords="251,572,437,628"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1memory_1_1PagePool.html#ac3708e19114cb64dbf56c32791686eb2" title="foedus::memory::PagePool\l::get_recommended_pages\l_per_grab" alt="" coords="255,652,433,708"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#accd3c0534d9385b49168c51da6a56552" title="foedus::memory::NumaNode\lMemory::get_snapshot_offset\l_chunk_memory_piece" alt="" coords="247,732,441,788"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a0541f9ed9fc128fc2c246a4a3bd2b740" title="foedus::memory::NumaNode\lMemory::get_snapshot_pool" alt="" coords="251,813,437,854"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#af8652e0d9e6d43a110f31bc5b9f4e692" title="foedus::memory::NumaNode\lMemory::get_volatile_offset\l_chunk_memory_piece" alt="" coords="251,879,437,935"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a630ab6d899053a9afc067e34877edd48" title="foedus::memory::NumaNode\lMemory::get_volatile_pool" alt="" coords="251,959,437,1001"/>
+<area shape="rect" id="node30" href="$classfoedus_1_1memory_1_1PagePool.html#a1fdd8ce2a10921faeccc1fe38ffd25c0" title="Adds the specified number of free pages to the chunk. " alt="" coords="255,1025,433,1066"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a197b63dfdbb7d28dab57fdfae379f28b" title="Allocate a memory of the given size on this NUMA node. " alt="" coords="503,215,690,271"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a5166bae2fdad9ffa0d5c279edfd3307e" title="Allocate a memory, releasing the current memory if exists. " alt="" coords="743,222,957,263"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad11d2289458b26db2aaef9de984045a0" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="743,287,957,329"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1memory.html#ac2422aa4fe378da8a9594901762e17df" title="foedus::memory::alloc_mmap" alt="" coords="1268,59,1461,85"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="1522,113,1662,154"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1memory.html#ae51e4a90f52316ba9dce8ff783f30d84" title="foedus::memory::alloc\l_mmap_1gb_pages" alt="" coords="1037,54,1188,95"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="1284,171,1445,213"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gab3d1892edaa7db4b02029567b7993f37" title="In order to run even on a non&#45;numa machine or a machine with fewer sockets, we allow specifying arbit..." alt="" coords="1037,339,1188,381"/>
+<area shape="rect" id="node12" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="1309,303,1420,329"/>
+<area shape="rect" id="node14" href="$numa_8h.html#aba49c14c68d23dc05d046db02766b928" title="numa_preferred" alt="" coords="1057,405,1168,432"/>
+<area shape="rect" id="node15" href="$numa_8h.html#a56f33968932f6550e5e5eb4d1acc67b3" title="numa_set_preferred" alt="" coords="1045,456,1181,483"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="1045,222,1180,263"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1memory.html#af6145d9296231995c84badafb6a2a0a9" title="Returns if 1GB hugepages were enabled. " alt="" coords="1509,47,1675,89"/>
+<area shape="rect" id="node13" href="$numa_8h.html#a22585176d6e08c221de8377637bd72a7" title="numa_num_configured\l_nodes" alt="" coords="1289,354,1441,395"/>
+<area shape="rect" id="node17" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="1297,237,1432,278"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#afb133ecb2760b19892c492b1a8e07fa8" title="foedus::memory::PagePool\lPimpl::get_free_pool_capacity" alt="" coords="499,506,695,547"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#abec400efafc2d5e23b8f240e10abdfb3" title="foedus::memory::PagePool\lPimpl::grab" alt="" coords="507,1025,686,1066"/>
+<area shape="rect" id="node32" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#affa4e09fc9e251f5cc259de81c23c6e2" title="foedus::memory::PagePool\lOffsetChunk::size" alt="" coords="761,806,939,847"/>
+<area shape="rect" id="node33" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a73a995a98dc72fa504271482bf14ac56" title="foedus::memory::PagePool\lOffsetChunk::capacity" alt="" coords="761,871,939,913"/>
+<area shape="rect" id="node34" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#abd594ac94d8ac0445ebef734b7305fb6" title="foedus::memory::PagePool\lPimpl::get_debug_pool_name" alt="" coords="753,937,947,978"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="1023,1023,1202,1065"/>
+<area shape="rect" id="node38" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#ab2c94997f724139b950b66b18d786bd5" title="Not thread safe. " alt="" coords="761,1054,939,1095"/>
+<area shape="rect" id="node39" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#aa545fc1cffac905225d3a7c7c457b5a8" title="foedus::memory::PagePool\lPimpl::free_pool_head" alt="" coords="1023,1099,1202,1141"/>
+<area shape="rect" id="node40" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a6f558bb023b2c5c7dd9bf7ab9d054ef0" title="foedus::memory::PagePool\lOffsetChunk::push_back" alt="" coords="761,1171,939,1213"/>
+<area shape="rect" id="node42" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a1a41295b63274fb300e5937a9bb1eca7" title="foedus::memory::PagePool\lPimpl::decrease_free_pool_count" alt="" coords="743,1237,957,1278"/>
+<area shape="rect" id="node35" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="1017,901,1209,942"/>
+<area shape="rect" id="node36" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="1005,967,1220,993"/>
+<area shape="rect" id="node41" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ace44cb03e7da84d29f3a02a790c69191" title="foedus::memory::PagePool\lOffsetChunk::full" alt="" coords="1023,1171,1202,1213"/>
+</map>

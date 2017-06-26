@@ -1,0 +1,5 @@
+<map id="foedus::snapshot::LogGleanerControlBlock::clear_counts" name="foedus::snapshot::LogGleanerControlBlock::clear_counts">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1LogGleanerControlBlock.html#a81c5e030a2ec66c5757e4f995b7d3da6" title="foedus::snapshot::LogGleaner\lControlBlock::initialize" alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html#a797d62d33506815f6945b0c06bab280d" title="foedus::snapshot::Snapshot\lManagerControlBlock::initialize" alt="" coords="491,5,692,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="740,5,935,47"/>
+</map>

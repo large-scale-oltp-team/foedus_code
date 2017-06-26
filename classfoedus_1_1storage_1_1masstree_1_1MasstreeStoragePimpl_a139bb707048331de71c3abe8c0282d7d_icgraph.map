@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::peek_volatile_page_boundaries_this_layer_recurse" name="foedus::storage::masstree::MasstreeStoragePimpl::peek_volatile_page_boundaries_this_layer_recurse">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a96688f523312e356ea1a03adfbfba7b2" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::peek_volatile_page_boundaries\l_this_layer" alt="" coords="263,5,472,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a67482433dfc680921b443bdb8a1ea78e" title="Defined in masstree_storage_peek.cpp. " alt="" coords="777,13,987,69"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a14fb0ae2a643a45c3f32ab6395285d8d" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::peek_volatile_page_boundaries\l_next_layer" alt="" coords="520,41,729,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#abf137494ad55ab4d60cec25c7c654e99" title="Checks the volatile pages of this storage to give hints to decide page boundary keys. " alt="" coords="1035,13,1208,69"/>
+</map>

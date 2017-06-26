@@ -1,0 +1,7 @@
+<map id="foedus::snapshot::MergeSort::fetch_logs" name="foedus::snapshot::MergeSort::fetch_logs">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a8acd43e9fab8cc63c74cbf8e52cc6f43" title="foedus::snapshot::MergeSort\l::InputStatus::from_compact_pos" alt="" coords="243,5,457,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1SortEntry.html#a06c43522d72ce417cee4f65a39bbd06a" title="foedus::snapshot::MergeSort\l::SortEntry::get_position" alt="" coords="255,71,445,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1MergeSort.html#a87778e11ef6dbb58f65c8669d06f75c9" title="foedus::snapshot::MergeSort\l::is_no_merging" alt="" coords="255,136,445,177"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="264,201,436,243"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a9003eeeddcb3213f0cc42116345feb8d" title="foedus::snapshot::MergeSort\l::InputStatus::assert_consistent" alt="" coords="505,5,712,47"/>
+</map>

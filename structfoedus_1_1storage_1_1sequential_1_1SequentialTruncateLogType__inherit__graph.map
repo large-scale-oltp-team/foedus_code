@@ -1,0 +1,4 @@
+<map id="foedus::storage::sequential::SequentialTruncateLogType" name="foedus::storage::sequential::SequentialTruncateLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1StorageLogType.html" title="Base class for log type of storage&#45;wide operation. " alt="" coords="7,80,193,107"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="15,5,185,32"/>
+</map>

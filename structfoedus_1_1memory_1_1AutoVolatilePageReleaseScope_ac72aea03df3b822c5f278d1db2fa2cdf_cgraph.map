@@ -1,0 +1,5 @@
+<map id="foedus::memory::AutoVolatilePageReleaseScope::~AutoVolatilePageReleaseScope" name="foedus::memory::AutoVolatilePageReleaseScope::~AutoVolatilePageReleaseScope">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a6c9bf7d6b21ac33a61d6f7176023ea3a" title="Returns one free volatile page to local page pool. " alt="" coords="275,13,503,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ace44cb03e7da84d29f3a02a790c69191" title="foedus::memory::PagePool\lOffsetChunk::full" alt="" coords="777,13,956,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a6f558bb023b2c5c7dd9bf7ab9d054ef0" title="foedus::memory::PagePool\lOffsetChunk::push_back" alt="" coords="551,42,729,83"/>
+</map>

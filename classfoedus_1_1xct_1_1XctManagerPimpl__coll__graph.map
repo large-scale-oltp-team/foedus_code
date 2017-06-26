@@ -1,0 +1,8 @@
+<map id="foedus::xct::XctManagerPimpl" name="foedus::xct::XctManagerPimpl">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="379,5,551,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="28,23,160,49"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="411,56,519,83"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctManagerControlBlock.html" title="Shared data in XctManagerPimpl. " alt="" coords="364,107,567,149"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="5,117,183,144"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="423,173,507,200"/>
+</map>

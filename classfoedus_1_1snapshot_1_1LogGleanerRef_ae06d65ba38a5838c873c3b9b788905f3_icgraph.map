@@ -1,0 +1,9 @@
+<map id="foedus::snapshot::LogGleanerRef::is_all_exitted" name="foedus::snapshot::LogGleanerRef::is_all_exitted">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogGleaner.html#a617c3de45c34c6533c7f3e82216557f4" title="Main routine of log gleaner. " alt="" coords="248,39,443,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a75c5d41290ab6f960725a004622dc3be" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="491,39,675,80"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="723,31,933,87"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1009,5,1164,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="981,71,1192,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1240,5,1435,47"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1240,71,1435,112"/>
+</map>

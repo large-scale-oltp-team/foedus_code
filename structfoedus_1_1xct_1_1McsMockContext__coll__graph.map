@@ -1,0 +1,4 @@
+<map id="foedus::xct::McsMockContext&lt; RW_BLOCK &gt;" name="foedus::xct::McsMockContext&lt; RW_BLOCK &gt;">
+<area shape="rect" id="node2" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html" title="Resolves an offset in a volatile page pool to an actual pointer and vice versa. " alt="" coords="249,5,452,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1Page.html" title="Just a marker to denote that the memory region represents a data page. " alt="" coords="5,13,155,39"/>
+</map>

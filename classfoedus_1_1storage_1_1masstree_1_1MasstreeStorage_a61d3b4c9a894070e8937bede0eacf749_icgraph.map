@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeStorage::insert_record_normalized" name="foedus::storage::masstree::MasstreeStorage::insert_record_normalized">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a86b4db183c677a364c7ddf71100699b9" title="With this method, you can also specify physical_payload_hint, the physical size of the record&#39;s paylo..." alt="" coords="227,5,439,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#aa428e27cf2673484b040048631b9f8fd" title="Inserts a new record without payload of the given primitive key in this Masstree. ..." alt="" coords="246,71,419,127"/>
+</map>

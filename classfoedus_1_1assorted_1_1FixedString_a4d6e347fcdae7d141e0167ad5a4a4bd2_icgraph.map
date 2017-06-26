@@ -1,0 +1,10 @@
+<map id="foedus::assorted::FixedString::assign" name="foedus::assorted::FixedString::assign">
+<area shape="rect" id="node2" href="$classfoedus_1_1assorted_1_1FixedString.html#a3a9cf812a4cd5bcb245a010e0243f01d" title="Copy constructor for all FixedString objects. " alt="" coords="246,5,438,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1externalize_1_1Externalizable.html#aa6ce45d505bcb9f4a3210205e9f1ec57" title="foedus::externalize\l::Externalizable::get\l_element" alt="" coords="273,71,411,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1FixedErrorStack.html#a87aab1a538fb1bb3791f0710a777755c" title="Assignment operator. " alt="" coords="261,152,423,193"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1assorted_1_1FixedString.html#a7f28f04a7d59cf51a4ed117a40aea4a6" title="Assign operator for all FixedString objects. " alt="" coords="246,217,438,259"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a4b74a063f1e70b1a634a77092b61e435" title="foedus::memory::PagePool\lPimpl::set_debug_pool_name" alt="" coords="245,283,439,324"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1FixedErrorStack.html#ae9938dfe9dd4059b5413c0163738af7a" title="Copy the content of the given ErrorStack. " alt="" coords="495,152,657,193"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1PagePool.html#aeaee1accaade5856ad8786a2f8a3a22a" title="Call this anytime after attach() " alt="" coords="487,283,665,324"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a70fdc4e831999f941d4105de0c3ce3fd" title="foedus::memory::NumaNode\lMemory::initialize_once" alt="" coords="713,283,900,324"/>
+</map>

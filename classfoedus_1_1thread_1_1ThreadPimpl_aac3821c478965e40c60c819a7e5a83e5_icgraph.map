@@ -1,0 +1,7 @@
+<map id="foedus::thread::ThreadPimpl::follow_page_pointers_for_write_batch" name="foedus::thread::ThreadPimpl::follow_page_pointers_for_write_batch">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a2b375e7de4d6c9c7b222c45b271126dc" title="Batched version of follow_page_pointer with will_modify==true and tolerate_null_pointer==true. " alt="" coords="237,5,388,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#ad0c8eb92d19915b679137e594bdfae31" title="foedus::storage::array\l::ArrayStoragePimpl::follow\l_pointers_for_write_batch" alt="" coords="436,5,615,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a77af2675acbbf1c831925b3a2c972aa6" title="foedus::storage::array\l::ArrayStoragePimpl::lookup\l_for_write_batch" alt="" coords="663,5,848,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#ad4da0329b11bd50970765c7d4b1f669a" title="foedus::storage::array\l::ArrayStoragePimpl::get\l_record_for_write_batch" alt="" coords="896,5,1061,61"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a58183bfb0f5e70653f7f450ecac9f501" title="foedus::storage::array\l::ArrayStorage::get_record\l_for_write_batch" alt="" coords="1109,5,1284,61"/>
+</map>

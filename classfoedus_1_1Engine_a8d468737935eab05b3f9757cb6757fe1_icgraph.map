@@ -1,0 +1,4 @@
+<map id="foedus::Engine::get_current_global_epoch" name="foedus::Engine::get_current_global_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#a8917edb5d2712fba660a33c6cf2fb19f" title="foedus::storage::sequential\l::SequentialStoragePimpl\l::truncate" alt="" coords="205,5,384,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a9a4d7e58057f2fb648b7ff9ee6ab7fa0" title="Discards all records in this storage before the given epoch. " alt="" coords="432,13,623,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::SnapshotManager::get_previous_snapshot_id" name="foedus::snapshot::SnapshotManager::get_previous_snapshot_id">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a4304c74f47b7ec19d5e126dd161ca664" title="foedus::snapshot::Snapshot\lManagerPimpl::get_previous\l_snapshot_id" alt="" coords="283,5,468,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html#a136e4d148ec15c2d4e1af49a381e3dc5" title="foedus::snapshot::Snapshot\lManagerControlBlock::get\l_previous_snapshot_id" alt="" coords="516,5,700,61"/>
+</map>

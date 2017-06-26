@@ -1,0 +1,12 @@
+<map id="foedus::storage::MetadataSerializer::load_base" name="foedus::storage::MetadataSerializer::load_base">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialMetadataSerializer.html#acb662c1d5bff7235f295f9c36145d26d" title="Reads the content of this object from the given XML element. " alt="" coords="227,5,457,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1HashMetadataSerializer.html#a191ed0d443e3b5435949319ca0ef260b" title="Reads the content of this object from the given XML element. " alt="" coords="242,71,442,112"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1array_1_1ArrayMetadataSerializer.html#a5485b169b709164eb128b40cb54efe5d" title="Reads the content of this object from the given XML element. " alt="" coords="241,136,443,177"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeMetadataSerializer.html#ab2d53e01aae5e1706dbbaedd8dbe30ab" title="Reads the content of this object from the given XML element. " alt="" coords="230,201,454,243"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage.html#a5123cd5a893c74a42849a95287e325eb" title="foedus::storage::load\l_from_xml_sequential" alt="" coords="505,5,653,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#a4fe5fe5b830b408ce398ae72e0202b96" title="foedus::storage::Metadata\lSerializer::load_all_storages\l_from_xml" alt="" coords="701,97,887,153"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1snapshot_1_1SnapshotMetadata.html#ad8bed3780996c99cd78149538dca67ab" title="Reads the content of this object from the given XML element. " alt="" coords="935,104,1119,145"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage.html#a7b97cc7201e910b51acae0b84c2cd1e1" title="foedus::storage::load\l_from_xml_hash" alt="" coords="508,71,651,112"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#aa107adba3b08f4834d19bacbcf37b5a4" title="foedus::storage::load\l_from_xml_array" alt="" coords="508,136,651,177"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1storage.html#a6c3e917e898ad2eb655cc96efddeee0f" title="foedus::storage::load\l_from_xml_masstree" alt="" coords="508,201,651,243"/>
+</map>

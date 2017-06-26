@@ -1,0 +1,11 @@
+<map id="foedus::memory::SharedMemory::~SharedMemory" name="foedus::memory::SharedMemory::~SharedMemory">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1SharedMemory.html#a20f2fb7b7f86ab5c4134452f1267eeb5" title="Releases the memory block IF this process has an ownership. " alt="" coords="264,104,475,145"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1SharedMemory.html#a83f0c9b29ecfc29550923dd33bc031e7" title="Returns if this process owns this memory and is responsible to delete it. " alt="" coords="523,5,733,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1SharedMemory.html#a06fa097c286b762b8ae484076592bf0d" title="Marks the shared memory as being removed so that it will be reclaimed when all processes detach it..." alt="" coords="523,71,733,112"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="558,136,698,177"/>
+<area shape="rect" id="node6" href="$group__FILESYSTEM.html#gad1f62b080fa246b5f8c166f44c72134f" title="Deletes a regular file or an empty directory. " alt="" coords="565,202,691,229"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="781,129,927,171"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1fs_1_1FileStatus.html#a76000c37b9fc4c1d9596240409972809" title="foedus::fs::FileStatus\l::is_regular_file" alt="" coords="781,195,927,236"/>
+<area shape="rect" id="node9" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="793,261,915,287"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="975,261,1125,287"/>
+</map>

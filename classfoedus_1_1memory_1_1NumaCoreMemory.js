@@ -1,0 +1,25 @@
+var classfoedus_1_1memory_1_1NumaCoreMemory =
+[
+    [ "NumaCoreMemory", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a5d2bed95cc64311edc57f70203d8075b", null ],
+    [ "NumaCoreMemory", "classfoedus_1_1memory_1_1NumaCoreMemory.html#ae52c70de54b28d69dc585e33ee5775b1", null ],
+    [ "calculate_local_small_memory_size", "classfoedus_1_1memory_1_1NumaCoreMemory.html#adb12d1c6977fada9ea158addc0e27130", null ],
+    [ "get_current_lock_list_capacity", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a1542703e9d39b62b7269192a4db8e4b6", null ],
+    [ "get_current_lock_list_memory", "classfoedus_1_1memory_1_1NumaCoreMemory.html#ac62f3ab84bf9ac7f5b7a07c656d5190a", null ],
+    [ "get_local_work_memory", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a8f55dee0a9b4f7f55d22a60cd677f39e", null ],
+    [ "get_local_work_memory_size", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a318c160df3a63c1063665a1f19e741e8", null ],
+    [ "get_log_buffer_memory", "classfoedus_1_1memory_1_1NumaCoreMemory.html#ab02e9bcb37082e31781b4b8ce8e4bf21", null ],
+    [ "get_node_memory", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a694668bb2a5894b720406d5ed40f5bc0", null ],
+    [ "get_retired_volatile_pool_chunk", "classfoedus_1_1memory_1_1NumaCoreMemory.html#ad0624fe34e52c0904ee449c97f0325c5", null ],
+    [ "get_retrospective_lock_list_capacity", "classfoedus_1_1memory_1_1NumaCoreMemory.html#aa15ff5555f06dfff58b3fd11f60f2ca7", null ],
+    [ "get_retrospective_lock_list_memory", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a11de415935b61a9f48e35719d500cbb9", null ],
+    [ "get_small_thread_local_memory_pieces", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a3f376657b7efceecf12e0cc504ab8c17", null ],
+    [ "get_snapshot_pool", "classfoedus_1_1memory_1_1NumaCoreMemory.html#ad3fd2a870909f108bdea1ee3d184cebe", null ],
+    [ "get_volatile_pool", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a4cddb16a58222307e8876f35ff8041d7", null ],
+    [ "grab_free_snapshot_page", "classfoedus_1_1memory_1_1NumaCoreMemory.html#ac3e2f6d24f2b0f5c04d2cde48db11f6a", null ],
+    [ "grab_free_volatile_page", "classfoedus_1_1memory_1_1NumaCoreMemory.html#ad09e335bbca636246cf2c3d60ec22570", null ],
+    [ "grab_free_volatile_page_pointer", "classfoedus_1_1memory_1_1NumaCoreMemory.html#afb436d68c982228d9e4bc66104b2aa98", null ],
+    [ "initialize_once", "classfoedus_1_1memory_1_1NumaCoreMemory.html#af7bdd6c02647872c28ecb66d89adb965", null ],
+    [ "release_free_snapshot_page", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a7ea5067e450fa872240cb010ddb65464", null ],
+    [ "release_free_volatile_page", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a6c9bf7d6b21ac33a61d6f7176023ea3a", null ],
+    [ "uninitialize_once", "classfoedus_1_1memory_1_1NumaCoreMemory.html#a4a7a7f3ef2839774e1e35fc0b9f79336", null ]
+];

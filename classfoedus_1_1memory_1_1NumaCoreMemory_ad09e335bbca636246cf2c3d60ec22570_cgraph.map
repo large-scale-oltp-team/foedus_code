@@ -1,0 +1,4 @@
+<map id="foedus::memory::NumaCoreMemory::grab_free_volatile_page" name="foedus::memory::NumaCoreMemory::grab_free_volatile_page">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ac661b8baf462a1e969a8a1c7e619858b" title="foedus::memory::PagePool\lOffsetChunk::empty" alt="" coords="491,5,669,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#af897b38ac1ef4217ff99018436c0112e" title="foedus::memory::PagePool\lOffsetChunk::pop_back" alt="" coords="264,35,443,76"/>
+</map>

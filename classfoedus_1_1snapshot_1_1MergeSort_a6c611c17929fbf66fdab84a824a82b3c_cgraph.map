@@ -1,0 +1,12 @@
+<map id="foedus::snapshot::MergeSort::assert_sorted" name="foedus::snapshot::MergeSort::assert_sorted">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1HashCommonLogType.html#a409566a4b1453421a1eaa945d561c751" title="foedus::storage::hash\l::HashCommonLogType::\lassert_type" alt="" coords="253,5,421,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="276,86,399,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="276,151,399,193"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1SortEntry.html#a06c43522d72ce417cee4f65a39bbd06a" title="foedus::snapshot::MergeSort\l::SortEntry::get_position" alt="" coords="243,217,432,258"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1SortEntry.html#afaf6954c09c34d9fa18bf4bac4f0a9e5" title="foedus::snapshot::MergeSort\l::SortEntry::set" alt="" coords="243,282,432,323"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Epoch.html#a95ee2922375886d43b8e669a192fd4c4" title="Returns the number epochs from the given epoch to this epoch accounting for wrap&#45;around. " alt="" coords="257,348,417,375"/>
+<area shape="rect" id="node3" href="$group__HASH.html#ga8c4ca78e36b2188f1feac100ce7df679" title="Calculates hash value for general input. " alt="" coords="523,13,669,54"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="535,86,657,127"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1SortEntry.html#a669db9dc96d7adf38a928243164c6ddf" title="foedus::snapshot::MergeSort\l::SortEntry::needs_additional_check" alt="" coords="480,282,712,323"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="519,348,673,375"/>
+</map>

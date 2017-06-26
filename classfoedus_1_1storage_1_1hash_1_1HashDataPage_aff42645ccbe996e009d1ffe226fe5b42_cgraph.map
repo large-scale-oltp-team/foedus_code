@@ -1,0 +1,14 @@
+<map id="foedus::storage::hash::HashDataPage::assert_entries" name="foedus::storage::hash::HashDataPage::assert_entries">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a2ba57f24b316aa460765eb960cc7df00" title="defined in hash_page_debug.cpp. " alt="" coords="215,335,376,391"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a47a8118e0aa8c3ce3c5c6138f2f1aa8c" title="foedus::storage::hash\l::HashDataPage::get_bin\l_shifts" alt="" coords="453,5,620,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac6b4a13e6f057be1874f637fb9f87c51" title="foedus::storage::hash\l::HashDataPage::get_record_count" alt="" coords="424,86,649,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac977ed25935d3fa3a8d9651f96349c32" title="foedus::storage::hash\l::HashDataPage::next_page" alt="" coords="444,151,629,193"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a7ab4e97e088ffc9b469ab2f48036abc2" title="usually zero&#45;cleared as part of a data page, but in case of specifically clearing this ..." alt="" coords="460,217,613,273"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ab696a16e6a995a515736ff0a28b47885" title="same as &amp;get_slot(), but this is more explicit and easier to understand/maintain " alt="" coords="451,297,622,353"/>
+<area shape="rect" id="node8" href="$group__HASH.html#ga8c4ca78e36b2188f1feac100ce7df679" title="Calculates hash value for general input. " alt="" coords="463,378,610,419"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a49863802f2bfb024c928a37ea7abce07" title="foedus::storage::hash\l::HashDataPage::record\l_from_offset" alt="" coords="456,444,617,500"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a41762390daf4751147dee762c64d8a61" title="Adds the fingerprint to this bloom filter. " alt="" coords="445,525,628,566"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a28a11a7b04e04d895b21f29709eacd1f" title="foedus::storage::hash\l::DataPageBloomFilter\l::extract_fingerprint" alt="" coords="460,591,613,647"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1hash_1_1HashDataPage_1_1Slot.html#a35da6a7faa712cb7cf70355803634063" title="foedus::storage::hash\l::HashDataPage::Slot\l::get_aligned_key_length" alt="" coords="453,671,620,727"/>
+<area shape="rect" id="node13" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="697,685,857,712"/>
+</map>

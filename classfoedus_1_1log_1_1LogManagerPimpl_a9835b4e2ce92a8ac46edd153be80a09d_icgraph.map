@@ -1,0 +1,5 @@
+<map id="foedus::log::LogManagerPimpl::wait_until_durable" name="foedus::log::LogManagerPimpl::wait_until_durable">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LogManager.html#aeadbabd0bc163b2301c3a9260f625f91" title="Synchronously blocks until the durable global epoch reaches the given commit epoch or the given durat..." alt="" coords="251,5,415,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a69fb51b2a05a90f46b4658cb984928a0" title="foedus::xct::XctManagerPimpl\l::wait_for_commit" alt="" coords="463,5,657,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManager.html#a577f44c6f10022d645605d171ef4a781" title="Synchronously blocks until the durable global epoch reaches the given commit epoch or the given durat..." alt="" coords="705,5,868,47"/>
+</map>

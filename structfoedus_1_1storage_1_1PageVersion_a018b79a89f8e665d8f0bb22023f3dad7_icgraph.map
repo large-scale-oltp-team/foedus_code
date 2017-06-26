@@ -1,0 +1,12 @@
+<map id="foedus::storage::PageVersion::set_retired" name="foedus::storage::PageVersion::set_retired">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#ad5263d631cad896c0494597018d72a8f" title="foedus::storage::masstree\l::MasstreePage::set_retired" alt="" coords="245,136,428,177"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a31564163126364e4810f2f00398afd15" title="foedus::storage::masstree\l::Adopt::adopt_case_a" alt="" coords="476,71,649,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a8febde13f90f2b61abf29bf1f4a89e3d" title="foedus::storage::masstree\l::Adopt::adopt_case_b" alt="" coords="476,5,649,47"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage_1_1masstree.html#a554f6fb34b45687df09df15076aac190" title="foedus::storage::masstree\l::grow_case_a_common" alt="" coords="476,201,649,243"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage_1_1masstree.html#a9747d159e12f82f5fefcaed735947480" title="foedus::storage::masstree\l::grow_case_b_common" alt="" coords="476,136,649,177"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#a96de88f03cf5683529e00d2c209a07e9" title="The core implementation after locking relevant pages and acquiring free page resource. " alt="" coords="476,267,649,323"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1Adopt.html#a16f4727fa2ce3b72468618be684af41d" title="Execute the system transaction. " alt="" coords="708,39,881,80"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1masstree_1_1GrowFirstLayerRoot.html#a2c3c6cc4a2d74c498cee8f9051d09909" title="Execute the system transaction. " alt="" coords="708,136,881,177"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1masstree_1_1GrowNonFirstLayerRoot.html#a9c47822a3dd14ff40020c13d277820ea" title="Execute the system transaction. " alt="" coords="697,201,892,243"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="708,275,881,316"/>
+</map>

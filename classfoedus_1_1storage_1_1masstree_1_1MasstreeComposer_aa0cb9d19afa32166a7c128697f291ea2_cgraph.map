@@ -1,0 +1,8 @@
+<map id="foedus::storage::masstree::MasstreeComposer::drop_root_volatile" name="foedus::storage::masstree::MasstreeComposer::drop_root_volatile">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#aa8c59b8e2944d4a6a68d5fed840a7a29" title="foedus::storage::Volatile\lPagePointer::clear" alt="" coords="253,5,414,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#ab55e48873dcf5700871a035c65bfa588" title="used only in masstree. " alt="" coords="229,71,437,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Attachable.html#a5b324e3abf302a59801aa73419bb4fad" title="foedus::Attachable\l::get_control_block" alt="" coords="267,136,399,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a94bc2a1ae36c0a1ce1de99715072c59d" title="foedus::storage::masstree\l::MasstreeStorage::get\l_masstree_metadata" alt="" coords="247,202,420,258"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1Storage.html#ac1b54d4e7f3ad9f7f7c17598911abb01" title="Returns the unique name of this storage. " alt="" coords="251,283,415,324"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1Metadata.html#a675df0db1a3c909581db949c10fd192b" title="foedus::storage::Metadata\l::keeps_all_volatile_pages" alt="" coords="247,348,420,389"/>
+</map>

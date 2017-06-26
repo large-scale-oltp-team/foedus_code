@@ -1,0 +1,8 @@
+<map id="foedus::storage::masstree::MasstreePage::within_foster_minor" name="foedus::storage::masstree::MasstreePage::within_foster_minor">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a52a1bce48d9230ad2ce3f52c4da51b8e" title="Like locate_record(), this is also a logical operation. " alt="" coords="232,61,405,117"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#acac5f9308b4aed46777d34f6fa171c8e" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::reserve_record_normalized" alt="" coords="227,141,411,197"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a86b4db183c677a364c7ddf71100699b9" title="With this method, you can also specify physical_payload_hint, the physical size of the record&#39;s paylo..." alt="" coords="461,5,673,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a0f917244d33e9cdb2fa6ffd686a2a701" title="With this method, you can also specify physical_payload_hint, the physical size of the record&#39;s paylo..." alt="" coords="459,71,675,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a6d7f9dea9af7356face9815ac10c37b4" title="With this method, you can also specify physical_payload_hint. " alt="" coords="480,138,653,194"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a152a0ecbad9b56385ec7f13e8a1fce19" title="With this method, you can also specify physical_payload_hint. " alt="" coords="480,218,653,274"/>
+</map>

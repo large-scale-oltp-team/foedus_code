@@ -1,0 +1,20 @@
+<map id="foedus::xct::XctManagerPimpl::wait_for_commit" name="foedus::xct::XctManagerPimpl::wait_for_commit">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="251,5,446,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#aa27f031bd1e256d38e616ec9a499eefc" title="See Log Manager. " alt="" coords="281,71,416,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html#a786afd92afdc87b54dfa11ef093f06f3" title="foedus::Epoch::one_more" alt="" coords="263,137,434,163"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a03678427b184e7ce71f9bbb164dd0bad" title="foedus::xct::XctManagerPimpl\l::set_requested_global_epoch" alt="" coords="251,188,446,229"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1log_1_1LogManager.html#aeadbabd0bc163b2301c3a9260f625f91" title="Synchronously blocks until the durable global epoch reaches the given commit epoch or the given durat..." alt="" coords="267,253,431,295"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#afce787897428bd372c67224acd3e8ea7" title="foedus::xct::XctManagerPimpl\l::wakeup_epoch_chime_thread" alt="" coords="248,379,449,420"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a6071efec3ffc3876192101db2a1873b4" title="foedus::xct::XctManagerPimpl\l::get_requested_global_epoch" alt="" coords="499,131,693,172"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="525,197,667,223"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a9835b4e2ce92a8ac46edd153be80a09d" title="foedus::log::LogManagerPimpl\l::wait_until_durable" alt="" coords="497,251,695,292"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="753,217,930,259"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a61e44b4b7bb5dfc3d4111bb6bef25ea9" title="foedus::log::LogManagerPimpl\l::get_durable_global_epoch" alt="" coords="743,283,940,324"/>
+<area shape="rect" id="node13" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="755,348,928,389"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="753,87,930,128"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="753,152,930,193"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="988,337,1161,379"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1soc.html#a875ded688a72b32f8f690f37750e609f" title="foedus::soc::get_now\l_microsec" alt="" coords="1002,87,1147,128"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="507,407,685,448"/>
+<area shape="rect" id="node19" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="746,414,937,441"/>
+</map>

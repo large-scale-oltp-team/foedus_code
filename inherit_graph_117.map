@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html" title="Represents one input stream of sorted log entries. " alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1DumpFileSortedBuffer.html" title="Implementation of SortedBuffer that is backed by a dumped file. " alt="" coords="221,5,405,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1InMemorySortedBuffer.html" title="Implementation of SortedBuffer that is backed by fully in&#45;memory buffer. " alt="" coords="220,71,407,112"/>
+</map>

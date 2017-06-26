@@ -1,0 +1,11 @@
+<map id="foedus::xct::McsWwBlockData::combine" name="foedus::xct::McsWwBlockData::combine">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa54b385c58148179168e03986f0e4bbb" title="foedus::xct::McsWwBlockData\l::set_atomic" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#afb675b009b1cba3e96dd2299247adf81" title="foedus::xct::McsWwBlockData\l::set_relaxed" alt="" coords="255,169,456,211"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a2f10f7ede773261b3980131ef1d8346c" title="foedus::xct::McsWwBlockData\l::set_release" alt="" coords="255,267,456,308"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwBlock.html#a9a4481a9674709786be0930a687e9ea1" title="foedus::xct::McsWwBlock\l::set_successor_atomic" alt="" coords="504,5,679,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwLock.html#a5fa69dc28ae9c7b37e02e9da3b4b50a5" title="foedus::xct::McsWwLock\l::reset_atomic" alt="" coords="507,71,676,112"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwLock.html#a51c0f4e77239f6df0ca83165aa4e6c5b" title="foedus::xct::McsWwLock\l::McsWwLock" alt="" coords="507,136,676,177"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwLock.html#ab0b8d725158e815f2828a8d0eb1dfd88" title="used only for initial_lock() " alt="" coords="507,201,676,243"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwBlock.html#a5cfe7ab74c9d8eee723585b9ae3a5f04" title="foedus::xct::McsWwBlock\l::set_successor_release" alt="" coords="504,267,679,308"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsWwLock.html#a8c6120f0b8bd1dd1df6579ed06809660" title="foedus::xct::McsWwLock\l::reset_release" alt="" coords="507,332,676,373"/>
+</map>

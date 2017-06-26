@@ -1,0 +1,10 @@
+<map id="foedus::xct::McsWwBlockData::McsWwBlockData" name="foedus::xct::McsWwBlockData::McsWwBlockData">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a09691e08b265e0d82aa231524776dd38" title="foedus::xct::McsWwBlockData\l::copy_acquire" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a099dd22546845ea9d8b50a57e41626f6" title="foedus::xct::McsWwBlockData\l::copy_atomic" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a649ee739462f9d3de9bd9a5d7b4357e5" title="foedus::xct::McsWwBlockData\l::copy_consume" alt="" coords="255,136,456,177"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa5ce4cb4c361b1d2d243a78a4e9f9a01" title="foedus::xct::McsWwBlockData\l::copy_once" alt="" coords="255,201,456,243"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwLock.html#a28a9118c69105a19fef24f3b95639d82" title="foedus::xct::McsWwLock\l::get_tail_acquire" alt="" coords="504,5,673,47"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwLock.html#a95c38e466e7f1552c659ef088d092034" title="foedus::xct::McsWwLock\l::get_tail_atomic" alt="" coords="504,71,673,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwLock.html#aa40ce297742e5005c829b09e1a01eef4" title="foedus::xct::McsWwLock\l::get_tail_consume" alt="" coords="504,136,673,177"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwLock.html#a63584a481a92800493a518d01d7fe597" title="foedus::xct::McsWwLock\l::get_tail_once" alt="" coords="504,201,673,243"/>
+</map>

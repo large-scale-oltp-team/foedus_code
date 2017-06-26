@@ -1,0 +1,5 @@
+<map id="foedus::thread::ThreadOptions::ThreadOptions" name="foedus::thread::ThreadOptions::ThreadOptions">
+<area shape="rect" id="node2" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="287,5,398,32"/>
+<area shape="rect" id="node3" href="$numa_8h.html#ab14a400ab10eb7b2a1049d9d3257f74a" title="numa_num_configured_cpus" alt="" coords="249,56,436,83"/>
+<area shape="rect" id="node4" href="$numa_8h.html#a22585176d6e08c221de8377637bd72a7" title="numa_num_configured\l_nodes" alt="" coords="267,107,419,149"/>
+</map>

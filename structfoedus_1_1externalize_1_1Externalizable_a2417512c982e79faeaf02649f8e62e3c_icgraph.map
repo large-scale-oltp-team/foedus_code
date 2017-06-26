@@ -1,0 +1,11 @@
+<map id="foedus::externalize::Externalizable::add_child_element" name="foedus::externalize::Externalizable::add_child_element">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogOptions.html#a62dc497f343a1d962c748b79f8d4959b" title="Writes the content of this object to the given XML element. " alt="" coords="207,5,366,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1EngineOptions.html#a7d6579621caf6f984df2daac1e5d981b" title="Writes the content of this object to the given XML element. " alt="" coords="210,71,363,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1SnapshotOptions.html#ab8bf2b593d1dedb4377861225ba9345f" title="Writes the content of this object to the given XML element. " alt="" coords="195,136,379,177"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#a68223dd4f3c911054e105dc792abc4bc" title="foedus::storage::save\l_to_xml_array" alt="" coords="214,201,359,243"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage.html#a0628adfe9868845acc64ec911a5db742" title="foedus::storage::save\l_to_xml_hash" alt="" coords="214,267,359,308"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#a534d05daf50385988c62e0c4f9b49281" title="foedus::storage::save\l_to_xml_masstree" alt="" coords="214,332,359,373"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1storage.html#a629b262a9f0a67f4019f6a0b935a52ea" title="foedus::storage::save\l_to_xml_sequential" alt="" coords="214,397,359,439"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#a83f2453d6adbfbc52375d8c02d0cb24a" title="foedus::storage::Metadata\lSerializer::save_all_storages_to_xml" alt="" coords="427,300,660,341"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1snapshot_1_1SnapshotMetadata.html#a559726ceaa8b7887e384b2277292cc8d" title="Writes the content of this object to the given XML element. " alt="" coords="708,300,892,341"/>
+</map>

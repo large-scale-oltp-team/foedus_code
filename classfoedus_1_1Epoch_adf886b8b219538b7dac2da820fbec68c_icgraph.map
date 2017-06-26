@@ -1,0 +1,19 @@
+<map id="foedus::Epoch::store_max" name="foedus::Epoch::store_max">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1Composer_1_1DropResult.html#a0cac5a92e42765bafd1fd54ca3200080" title="foedus::storage::Composer\l::DropResult::combine" alt="" coords="244,93,423,134"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a3e005713f9a1c12bb2a4771a192b47a5" title="foedus::storage::sequential\l::SequentialComposer::compose" alt="" coords="228,166,439,207"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="229,231,437,273"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayComposer.html#abea76692cff38e66aa4328401422488a" title="drop_volatiles and related methods " alt="" coords="507,5,661,61"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeComposer.html#ad25781d742feeced13ed8b047b485a3e" title="drop_volatiles and related methods " alt="" coords="496,85,672,141"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1Composer.html#a0995635b97031b208127004382947acd" title="Drops volatile pages that have not been modified since the snapshotted epoch. " alt="" coords="737,53,916,94"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a26c51902174b692c91aedd15218f01b7" title="subroutine invoked by one thread for one node. " alt="" coords="972,45,1156,101"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a5d474e7a6b4de127153103f2295cb0fa" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="1204,53,1431,94"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="1479,45,1689,101"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1765,19,1920,61"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="1737,85,1948,126"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1996,19,2191,61"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1996,85,2191,126"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1Composer.html#a28c752ec784b85418c0bfafab7ee60c0" title="Construct snapshot pages from sorted run files of one storage. " alt="" coords="495,166,673,207"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="487,231,681,273"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="729,231,924,273"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="983,231,1145,273"/>
+</map>

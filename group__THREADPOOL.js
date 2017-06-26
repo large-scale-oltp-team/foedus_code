@@ -1,0 +1,58 @@
+var group__THREADPOOL =
+[
+    [ "ImpersonateSession", "structfoedus_1_1thread_1_1ImpersonateSession.html", [
+      [ "ImpersonateSession", "structfoedus_1_1thread_1_1ImpersonateSession.html#acd58fd831855d5a26258b2fdd903760a", null ],
+      [ "~ImpersonateSession", "structfoedus_1_1thread_1_1ImpersonateSession.html#ad9720d4c9a7d76b538127b88e6419472", null ],
+      [ "ImpersonateSession", "structfoedus_1_1thread_1_1ImpersonateSession.html#a887a1a9c0cd5a97f63c62a2e25ae4243", null ],
+      [ "ImpersonateSession", "structfoedus_1_1thread_1_1ImpersonateSession.html#ac36e0683e68b57995a291254e040e4bd", null ],
+      [ "get_output", "structfoedus_1_1thread_1_1ImpersonateSession.html#a8dfc509ff49415cd24aab9d5870e1d0e", null ],
+      [ "get_output_size", "structfoedus_1_1thread_1_1ImpersonateSession.html#ab36abebd6554ea9e3f5cd3fa6d656d1f", null ],
+      [ "get_raw_output_buffer", "structfoedus_1_1thread_1_1ImpersonateSession.html#ad126784f2ded82c0942d0871ea7099bc", null ],
+      [ "get_result", "structfoedus_1_1thread_1_1ImpersonateSession.html#a03dead1ca09cc22dce6b8e63622e5ed4", null ],
+      [ "is_running", "structfoedus_1_1thread_1_1ImpersonateSession.html#a38c08d2bd83f427928291221e620b835", null ],
+      [ "is_valid", "structfoedus_1_1thread_1_1ImpersonateSession.html#a30d8cc1dfcf5c73a344567c5903da9e6", null ],
+      [ "operator=", "structfoedus_1_1thread_1_1ImpersonateSession.html#a70eb2d21133eb512e613e48266f0dea0", null ],
+      [ "operator=", "structfoedus_1_1thread_1_1ImpersonateSession.html#a6a3785c8d205baf5b9c538ee2dfd6cc6", null ],
+      [ "release", "structfoedus_1_1thread_1_1ImpersonateSession.html#a68b7dea75e89a6384dfcadb72e338520", null ],
+      [ "wait", "structfoedus_1_1thread_1_1ImpersonateSession.html#a553f421acf03b382ef97a3ab909dba61", null ],
+      [ "wait_for", "structfoedus_1_1thread_1_1ImpersonateSession.html#a951cd701218b88d9a4cfe9bd6ee2ece6", null ],
+      [ "operator<<", "structfoedus_1_1thread_1_1ImpersonateSession.html#a05382739440e094a9abc550992a6b921", null ],
+      [ "thread_", "structfoedus_1_1thread_1_1ImpersonateSession.html#ab6acb1671abf77d9fcc722a86ab2dde4", null ],
+      [ "ticket_", "structfoedus_1_1thread_1_1ImpersonateSession.html#acfaa03e864bdad25f4171234d511f5e0", null ]
+    ] ],
+    [ "ThreadPool", "classfoedus_1_1thread_1_1ThreadPool.html", [
+      [ "ThreadPool", "classfoedus_1_1thread_1_1ThreadPool.html#adc67f1b95ec0a7c65a6493377d994ab5", null ],
+      [ "ThreadPool", "classfoedus_1_1thread_1_1ThreadPool.html#acb228cdabbeaa28056d956507c286095", null ],
+      [ "~ThreadPool", "classfoedus_1_1thread_1_1ThreadPool.html#a3f43db68f9098e832213effba6c33c4c", null ],
+      [ "get_group_ref", "classfoedus_1_1thread_1_1ThreadPool.html#a990314c9e1ee9ec3a04c73a683e1066c", null ],
+      [ "get_pimpl", "classfoedus_1_1thread_1_1ThreadPool.html#a4af4c3d3fd7a9353d892e5270a900f1c", null ],
+      [ "get_thread_ref", "classfoedus_1_1thread_1_1ThreadPool.html#ac30dc90d5770fcaa8c302ea5d58ce17e", null ],
+      [ "impersonate", "classfoedus_1_1thread_1_1ThreadPool.html#a34531989c3885ab6e0cccc19bf53d87c", null ],
+      [ "impersonate_on_numa_core", "classfoedus_1_1thread_1_1ThreadPool.html#a4f8014506cf0eea7986d26df628d4a71", null ],
+      [ "impersonate_on_numa_core_synchronous", "classfoedus_1_1thread_1_1ThreadPool.html#a3024f0646533edde18e9718d9180e97e", null ],
+      [ "impersonate_on_numa_node", "classfoedus_1_1thread_1_1ThreadPool.html#a5e3ba16ba231dab64401f2413a504f1d", null ],
+      [ "impersonate_on_numa_node_synchronous", "classfoedus_1_1thread_1_1ThreadPool.html#ad660d97b51456a1a4f819087f7dfeee7", null ],
+      [ "impersonate_synchronous", "classfoedus_1_1thread_1_1ThreadPool.html#abc0bb4530f9e58c38b0e3ce0e1058be4", null ],
+      [ "initialize", "classfoedus_1_1thread_1_1ThreadPool.html#a76f45491feee920fedee731ad8eaeb45", null ],
+      [ "is_initialized", "classfoedus_1_1thread_1_1ThreadPool.html#a364984c53be46fcfec75c7a370214f1f", null ],
+      [ "uninitialize", "classfoedus_1_1thread_1_1ThreadPool.html#a822b45d78f6108e28e022992b70d986d", null ],
+      [ "operator<<", "classfoedus_1_1thread_1_1ThreadPool.html#a7680292b738e0278e1a7ded35d6b3d72", null ]
+    ] ],
+    [ "ThreadPoolPimpl", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html", [
+      [ "ThreadPoolPimpl", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#aa9c99bdf57c6cf07cca0b54fd61b6106", null ],
+      [ "ThreadPoolPimpl", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#aa1a235b756c949cc2419e1e07afdb602", null ],
+      [ "get_group", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a30a6a44047fc684ddf453d6ce6450783", null ],
+      [ "get_local_group", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a0a9f00188906948fcada4f9e56fb4990", null ],
+      [ "get_thread", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a3bc54c2f85a462fc295d4c31637b14f0", null ],
+      [ "get_thread_ref", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a61040189c343e97c3f0ee961df7a9f31", null ],
+      [ "impersonate", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a05fc63b02a5aa1d938f7220d40d7e8db", null ],
+      [ "impersonate_on_numa_core", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a15f304020e9adda3eb4f7c00f5b9311f", null ],
+      [ "impersonate_on_numa_node", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#af768218c3f43620264c7559fa089ed80", null ],
+      [ "initialize_once", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a9b9a34c2dd62465c751a66942bb755b9", null ],
+      [ "uninitialize_once", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a9542c69b5be50961dbf89f0d13071731", null ],
+      [ "operator<<", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a1b6b10dad54f797f1961d164b5193e2a", null ],
+      [ "engine_", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#aa18cea1de42f04672b521a3d9dd1512d", null ],
+      [ "groups_", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a8850c805106d01115e9ea9c9db6da208", null ],
+      [ "local_group_", "classfoedus_1_1thread_1_1ThreadPoolPimpl.html#acb7464df8e5e49223d96b09533227317", null ]
+    ] ]
+];

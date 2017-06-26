@@ -1,0 +1,13 @@
+<map id="foedus::fs::rename" name="foedus::fs::rename">
+<area shape="rect" id="node2" href="$group__FILESYSTEM.html#gae7728f7a6fdfeeb13567e1f1f110fcd8" title="Renames the old file to the new file with the POSIX atomic&#45;rename semantics. " alt="" coords="183,45,308,86"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#ga71591d3386f8adc320dac30d0320a3ee" title="fsync() on source file before rename, then fsync() on the parent folder after rename. " alt="" coords="356,45,484,86"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1externalize_1_1Externalizable.html#af4e4989a732573c1bbd538a3fbfad930" title="Atomically and durably writes out this object to the specified XML file. " alt="" coords="532,37,679,93"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="983,5,1145,61"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="738,37,899,93"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a4ae6b016213cb70bb6e5df636b24d129" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="727,117,911,173"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="959,117,1169,173"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1245,91,1400,133"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="1217,157,1428,198"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1476,91,1671,133"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1476,157,1671,198"/>
+</map>

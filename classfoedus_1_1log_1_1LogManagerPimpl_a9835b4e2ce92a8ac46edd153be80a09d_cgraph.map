@@ -1,0 +1,9 @@
+<map id="foedus::log::LogManagerPimpl::wait_until_durable" name="foedus::log::LogManagerPimpl::wait_until_durable">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="261,5,438,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a61e44b4b7bb5dfc3d4111bb6bef25ea9" title="foedus::log::LogManagerPimpl\l::get_durable_global_epoch" alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="263,136,436,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="261,201,438,243"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="261,267,438,308"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="496,5,669,47"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1soc.html#a875ded688a72b32f8f690f37750e609f" title="foedus::soc::get_now\l_microsec" alt="" coords="510,201,655,243"/>
+</map>

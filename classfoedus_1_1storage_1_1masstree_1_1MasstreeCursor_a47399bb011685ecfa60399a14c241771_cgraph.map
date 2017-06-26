@@ -1,0 +1,7 @@
+<map id="foedus::storage::masstree::MasstreeCursor::get_combined_key" name="foedus::storage::masstree::MasstreeCursor::get_combined_key">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#af268bffce45fd61ca1c318e97c421999" title="Copies the entire big&#45;endian key of the current record to the given buffer. " alt="" coords="292,63,465,119"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="534,5,707,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a0b54c43dec6f8ba15472a25760a3ed07" title="Layer&#45;0 stores the first 8 byte slice, Layer&#45;1 next 8 byte... " alt="" coords="533,71,708,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#ae28baba8eb5b92bc2c737fae67e5d2a2" title="foedus::storage::masstree\l::MasstreeCursor::is_valid_record" alt="" coords="513,136,728,177"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeCursor_1_1Route.html#a14da42a215184c0fc5d3cee4a71d016a" title="foedus::storage::masstree\l::MasstreeCursor::Route\l::is_valid_record" alt="" coords="776,129,949,185"/>
+</map>

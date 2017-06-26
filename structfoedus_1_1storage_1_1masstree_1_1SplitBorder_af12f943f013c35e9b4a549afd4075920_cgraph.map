@@ -1,0 +1,16 @@
+<map id="foedus::storage::masstree::SplitBorder::migrate_records" name="foedus::storage::masstree::SplitBorder::migrate_records">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="748,479,908,506"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="741,239,915,280"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="487,152,693,193"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8a9c60937a3287ce6b73ea104a29d999" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_new_slot" alt="" coords="243,173,422,229"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#acad0cd3a9c7bffd3ea0a478a21e5db1b" title="Offset versions. " alt="" coords="243,253,422,309"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a16a2c06a304514be7b99fb6c884e7e9b" title="foedus::storage::masstree\l::MasstreePage::is_locked" alt="" coords="244,5,421,47"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3fb331a72c86d72deb59c415e6b9b79c" title="foedus::storage::masstree\l::MasstreePage::set_key_count" alt="" coords="229,333,436,375"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a05c12e467155284686fe0a71dc617a2e" title="foedus::storage::masstree\l::MasstreeBorderPage::set_slice" alt="" coords="227,480,439,521"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a68797699a249ca9320a08038d1cdabbc" title="returns minimal physical_record_length_ for the given remainder/payload length. " alt="" coords="246,399,419,455"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageVersion.html#a301cba19b01cf82d7b576a04180b56e2" title="foedus::storage::PageVersion\l::is_locked" alt="" coords="494,5,686,47"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="743,5,913,47"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="963,5,1164,47"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1PageHeader.html#a407bbd604662534963c7fc8f08acc898" title="foedus::storage::PageHeader\l::set_key_count" alt="" coords="495,333,685,375"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1storage_1_1masstree.html#a907f46e4f7d427806529dd8e2e03dd9c" title="foedus::storage::masstree\l::calculate_suffix_length\l_aligned" alt="" coords="503,399,677,455"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::storage::PartitionerMetadata::initialize" name="foedus::storage::PartitionerMetadata::initialize">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PartitionerMetadata.html#a7586439779bf7e56b33ee636c62efdb0" title="foedus::storage::Partitioner\lMetadata::clear_counts" alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="234,71,409,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="459,71,633,112"/>
+</map>

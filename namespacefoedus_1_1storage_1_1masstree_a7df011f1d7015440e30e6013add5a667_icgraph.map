@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::resolve_log" name="foedus::storage::masstree::resolve_log">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePartitioner.html#aa88be4c928d4254f51e1e1252680f87e" title="foedus::storage::masstree\l::MasstreePartitioner::\lpartition_batch" alt="" coords="227,5,400,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c7b2f626b460815615663be4d22427f" title="Identifies the partition of each log record in a batched fashion. " alt="" coords="448,13,627,54"/>
+</map>

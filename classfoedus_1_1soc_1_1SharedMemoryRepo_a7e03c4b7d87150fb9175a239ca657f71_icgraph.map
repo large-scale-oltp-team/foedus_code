@@ -1,0 +1,4 @@
+<map id="foedus::soc::SharedMemoryRepo::get_volatile_pool" name="foedus::soc::SharedMemoryRepo::get_volatile_pool">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a70fdc4e831999f941d4105de0c3ce3fd" title="foedus::memory::NumaNode\lMemory::initialize_once" alt="" coords="259,5,445,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a8e735f7411d3a28d4ddf0c25f3eced4e" title="foedus::memory::NumaNode\lMemoryRef::NumaNodeMemoryRef" alt="" coords="239,71,465,112"/>
+</map>

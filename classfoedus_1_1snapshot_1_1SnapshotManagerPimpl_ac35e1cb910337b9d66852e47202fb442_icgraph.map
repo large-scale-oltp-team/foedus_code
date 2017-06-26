@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::SnapshotManagerPimpl::stop_snapshot_thread" name="foedus::snapshot::SnapshotManagerPimpl::stop_snapshot_thread">
+<area shape="rect" id="node2" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#ad6262cf557ce9b4e8295ccc67a865554" title="foedus::restart::Restart\lManagerPimpl::uninitialize_once" alt="" coords="295,5,504,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a4fd4f82797b7ce89da73feca6570f581" title="foedus::snapshot::Snapshot\lManagerPimpl::uninitialize_once" alt="" coords="295,71,504,112"/>
+</map>

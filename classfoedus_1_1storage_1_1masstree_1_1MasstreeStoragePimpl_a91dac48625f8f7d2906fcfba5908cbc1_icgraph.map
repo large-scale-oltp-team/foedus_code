@@ -1,0 +1,9 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::locate_record" name="foedus::storage::masstree::MasstreeStoragePimpl::locate_record">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ac6b8b9c2d3b756b4559e43fbe93950a5" title="Deletes a record of the given key from this Masstree. " alt="" coords="238,5,453,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#acdf38eea62d1432e3715a661d0790caf" title="Retrieves an entire record of the given key in this Masstree. " alt="" coords="246,71,445,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a01a2996a1ee370611b72c88f33fe2753" title="Retrieves a part of the given key in this Masstree. " alt="" coords="259,137,432,193"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a3be736c76c38dd23444cbd78947a63fd" title="Retrieves a part of the given key in this Masstree as a primitive value. " alt="" coords="259,217,432,273"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a0fc21940320e38fa61ebfc88af210fde" title="This one further optimizes overwrite methods for the frequent use case of incrementing some data in p..." alt="" coords="227,297,464,339"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ae7221368afad2669e36cdf1bfe8dcb5f" title="Overwrites a part of one record of the given key in this Masstree. " alt="" coords="230,363,461,404"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a384c8fadf63901aa055285c7f680570f" title="Overwrites a part of one record of the given key in this Masstree as a primitive value. " alt="" coords="252,429,439,485"/>
+</map>

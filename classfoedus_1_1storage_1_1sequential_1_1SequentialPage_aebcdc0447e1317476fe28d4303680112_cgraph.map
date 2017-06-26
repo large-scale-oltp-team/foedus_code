@@ -1,0 +1,6 @@
+<map id="foedus::storage::sequential::SequentialPage::get_first_record_epoch" name="foedus::storage::sequential::SequentialPage::get_first_record_epoch">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="285,5,408,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#adfc56f09f9e4e09466c4f102b9283076" title="Returns how many records in this page placed so far. " alt="" coords="232,71,461,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a2f8f9a8460228df5790ad3181be49e3b" title="foedus::storage::sequential\l::SequentialPage::owner\l_id_from_offset" alt="" coords="257,137,436,193"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="509,5,632,47"/>
+</map>

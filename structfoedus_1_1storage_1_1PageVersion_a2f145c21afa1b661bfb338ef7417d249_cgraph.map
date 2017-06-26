@@ -1,0 +1,7 @@
+<map id="foedus::storage::PageVersion::increment_version_counter" name="foedus::storage::PageVersion::increment_version_counter">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#a5d7a0b120ba1d28530f04f347e8a889f" title="foedus::storage::PageVersion\lStatus::increment_version\l_counter" alt="" coords="245,5,437,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageVersion.html#a301cba19b01cf82d7b576a04180b56e2" title="foedus::storage::PageVersion\l::is_locked" alt="" coords="245,86,437,127"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#a938cd4d9d491c3b6a4eb14afdbfd6b19" title="foedus::storage::PageVersion\lStatus::get_version_counter" alt="" coords="485,13,677,54"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="497,86,666,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="725,86,927,127"/>
+</map>

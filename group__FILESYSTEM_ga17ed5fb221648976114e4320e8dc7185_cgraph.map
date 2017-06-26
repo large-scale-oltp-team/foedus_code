@@ -1,0 +1,5 @@
+<map id="foedus::fs::is_regular_file" name="foedus::fs::is_regular_file">
+<area shape="rect" id="node2" href="$structfoedus_1_1fs_1_1FileStatus.html#a76000c37b9fc4c1d9596240409972809" title="foedus::fs::FileStatus\l::is_regular_file" alt="" coords="219,5,364,47"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="230,71,353,98"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="412,71,563,98"/>
+</map>

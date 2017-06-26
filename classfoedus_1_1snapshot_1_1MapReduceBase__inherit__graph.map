@@ -1,0 +1,6 @@
+<map id="foedus::snapshot::MapReduceBase" name="foedus::snapshot::MapReduceBase">
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1LogMapper.html" title="A log mapper, which reads log files from one logger and sends them to corresponding log reducers..." alt="" coords="5,229,199,256"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1LogReducer.html" title="A log reducer, which receives log entries sent from mappers and applies them to construct new snapsho..." alt="" coords="223,229,421,256"/>
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="125,80,297,107"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="145,5,277,32"/>
+</map>

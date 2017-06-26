@@ -1,0 +1,12 @@
+<map id="foedus::xct::CurrentLockListIteratorForWriteSet" name="foedus::xct::CurrentLockListIteratorForWriteSet">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1CurrentLockList.html" title="Sorted list of all locks, either read&#45;lock or write&#45;lock, taken in the current run. " alt="" coords="5,363,191,389"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1WriteXctAccess.html" title="Represents a record of write&#45;access during a transaction. " alt="" coords="215,363,402,389"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1ReadXctAccess.html" title="Represents a record of read&#45;access during a transaction. " alt="" coords="365,459,551,486"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1RecordXctAccess.html" title="Base of ReadXctAccess and WriteXctAccess. " alt="" coords="350,273,547,300"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1RwLockableXctId.html" title="The MCS reader&#45;writer lock variant of LockableXctId. " alt="" coords="353,184,545,211"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsRwLock.html" title="An MCS reader&#45;writer lock data structure. " alt="" coords="307,95,473,121"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="459,5,582,32"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1log_1_1LogHeader.html" title="A common header part for all log types. " alt="" coords="129,95,283,121"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1log_1_1RecordLogType.html" title="Base class for log type of record&#45;wise operation. " alt="" coords="124,273,307,300"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="125,184,295,211"/>
+</map>

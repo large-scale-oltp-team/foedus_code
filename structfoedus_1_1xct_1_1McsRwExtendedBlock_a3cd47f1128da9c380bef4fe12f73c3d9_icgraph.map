@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsRwExtendedBlock::next_flag_is_leaving" name="foedus::xct::McsRwExtendedBlock::next_flag_is_leaving">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#acf3dc5b926c8b9a22cbadd137b3f50dc" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_busy\l_granted" alt="" coords="245,5,437,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a82bda8480742432f051a421d3c99bb98" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_granted" alt="" coords="245,86,437,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#ab08788e811a8572f29e84a5ce0eaf8eb" title="foedus::xct::McsRwExtended\lBlock::set_flags_granted" alt="" coords="485,86,677,127"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="foedus::ErrorStackBatch::push_back" name="foedus::ErrorStackBatch::push_back">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStackBatch.html#a6c6e566983e136b5c6a63bf110c6cef5" title="A convenience method to uninitialize and delete all Initializable objects in a vector, storing all errors in this batch. " alt="" coords="217,71,399,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a9458809a7d4367f362b8775dbd5a18cf" title="foedus::log::LogManagerPimpl\l::uninitialize_once" alt="" coords="447,5,644,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#ac0413b28301186a33621d72b12c92870" title="foedus::memory::NumaNode\lMemory::uninitialize_once" alt="" coords="452,71,639,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadGroup.html#aa1fd11b23aa9ac50bfa599eadcc6f47f" title="foedus::thread::ThreadGroup\l::uninitialize_once" alt="" coords="452,136,639,177"/>
+</map>

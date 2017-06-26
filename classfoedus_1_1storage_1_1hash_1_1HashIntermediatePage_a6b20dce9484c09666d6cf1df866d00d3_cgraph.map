@@ -1,0 +1,10 @@
+<map id="foedus::storage::hash::HashIntermediatePage::initialize_snapshot_page" name="foedus::storage::hash::HashIntermediatePage::initialize_snapshot_page">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PageHeader.html#a65c4acd213d2f482eb29c6dee0818915" title="foedus::storage::PageHeader\l::init_snapshot" alt="" coords="225,86,416,127"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1PageHeader.html#a1956943904b68b6472f53b4e9ed6df87" title="foedus::storage::PageHeader\l::set_in_layer_level" alt="" coords="225,151,416,193"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="469,5,657,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="464,86,663,127"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1PageVersion.html#ae40168c82f16645e85bb66f9019e53cf" title="used only while page initialization " alt="" coords="467,151,659,193"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#af49ef4f3320148130f46f494f1c845aa" title="foedus::storage::PageVersion\lStatus::reset" alt="" coords="711,118,903,159"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwLock.html#a4114c2dec151ad650a294dedac4f239d" title="used only while page initialization " alt="" coords="722,183,891,225"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3161e47c41388e9c1b50929f585e366b" title="foedus::xct::McsWwBlockData\l::clear" alt="" coords="951,183,1152,225"/>
+</map>

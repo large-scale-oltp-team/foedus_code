@@ -1,0 +1,14 @@
+<map id="foedus::get_error_name" name="foedus::get_error_name">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html#a114c524e1d8efc628c3e7d98f85cfa83" title="Grabs an in&#45;memory page in some NUMA node. " alt="" coords="213,5,407,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1DivvyupPageGrabBatch.html#a3fcf76c5c95efed24463c7c9eb5e8dc0" title="Grabs an in&#45;memory page in specified NUMA node. " alt="" coords="212,71,408,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1FixedErrorStack.html#ab8644e6aea98412c534fac81e88e9203" title="Describe this object to the given stream. " alt="" coords="229,136,391,177"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1ErrorStack.html#a6544918b53ea2f054ac6f6a282b51ee5" title="Describe this object to the given stream. " alt="" coords="245,212,375,253"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1DivvyupPageGrabBatch.html#ad1cb17d3564061683f038da9e30ba305" title="Grabs an in&#45;memory page evenly and contiguously from each NUMA node. " alt="" coords="456,59,652,100"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1FixedErrorStack.html#ae188e11e3d0fb9481b8d20bd252c7920" title="Instantiates an ErrorStack object based on this object. " alt="" coords="473,124,635,165"/>
+<area shape="rect" id="node11" href="$namespacefoedus.html#a7011b96b0dfabe56704945dfa9959c9f" title="foedus::operator\&lt;\&lt;" alt="" coords="489,190,619,217"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a03dead1ca09cc22dce6b8e63622e5ed4" title="Waits until the completion of the asynchronous session and retrieves the result. " alt="" coords="700,124,883,165"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadPool.html#abc0bb4530f9e58c38b0e3ce0e1058be4" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="937,51,1120,92"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1thread_1_1ThreadPool.html#ad660d97b51456a1a4f819087f7dfeee7" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="931,117,1127,173"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1thread_1_1ThreadPool.html#a3024f0646533edde18e9718d9180e97e" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="932,197,1125,253"/>
+<area shape="rect" id="node13" href="$namespacefoedus.html#ac4e1ca3e8e238acfb1772de05d6f84f5" title="foedus::operator\&lt;\&lt;" alt="" coords="489,241,619,267"/>
+</map>

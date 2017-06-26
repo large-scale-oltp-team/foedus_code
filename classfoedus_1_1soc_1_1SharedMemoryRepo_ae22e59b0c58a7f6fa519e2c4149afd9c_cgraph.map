@@ -1,0 +1,4 @@
+<map id="foedus::soc::SharedMemoryRepo::get_thread_memory_anchors" name="foedus::soc::SharedMemoryRepo::get_thread_memory_anchors">
+<area shape="rect" id="node2" href="$group__THREAD.html#ga93083d6b052db01851cb61c120522c1d" title="Extracts local ordinal from the given globally unique ID of Thread (core). " alt="" coords="239,5,417,47"/>
+<area shape="rect" id="node3" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="239,71,417,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="foedus::storage::masstree::SplitBorder::decide_strategy" name="foedus::storage::masstree::SplitBorder::decide_strategy">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="251,5,457,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a42cee2c2a116efdd26420284e95a20f7" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slice" alt="" coords="248,71,460,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a6318577ff1e6f5106712e9ed60a429fe" title="Whether this page is receiving only sequential inserts. " alt="" coords="267,137,441,193"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a16a2c06a304514be7b99fb6c884e7e9b" title="foedus::storage::masstree\l::MasstreePage::is_locked" alt="" coords="265,217,443,259"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a32e5a3ae116a7852b63511d3ca2d89f4" title="In TPCC terminology, from=x, to=y. " alt="" coords="269,283,439,324"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageVersion.html#a301cba19b01cf82d7b576a04180b56e2" title="foedus::storage::PageVersion\l::is_locked" alt="" coords="508,217,700,259"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="748,217,917,259"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="965,217,1167,259"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a5aba938f3a43d80fbfcca815637bbcfc" title="foedus::assorted::Uniform\lRandom::next_uint32" alt="" coords="519,283,689,324"/>
+</map>

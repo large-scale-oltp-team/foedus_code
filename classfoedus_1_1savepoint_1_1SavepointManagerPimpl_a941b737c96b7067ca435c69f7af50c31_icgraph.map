@@ -1,0 +1,11 @@
+<map id="foedus::savepoint::SavepointManagerPimpl::get_latest_snapshot_epoch" name="foedus::savepoint::SavepointManagerPimpl::get_latest_snapshot_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#af2bd4752f20f177d0576f6227feb729b" title="foedus::savepoint::\lSavepointManager::get\l_latest_snapshot_epoch" alt="" coords="458,5,621,61"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a48fedb8938affadcce93051ff8c2ce6f" title="foedus::savepoint::\lSavepointManagerPimpl\l::take_savepoint_after\l_snapshot" alt="" coords="243,75,404,146"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1424,42,1619,83"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a45097869d980cf8fe0ad3313e02c8117" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="675,77,859,133"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="907,77,1117,133"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1193,137,1348,178"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="1165,71,1376,113"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1424,137,1619,178"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#aaecb5989eaca658a8fbdc7de6c85222c" title="Takes a savepoint just to remember the newly taken snapshot. " alt="" coords="452,85,627,141"/>
+</map>

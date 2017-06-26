@@ -1,0 +1,11 @@
+<map id="foedus::log::LogOptions::convert_folder_path_pattern" name="foedus::log::LogOptions::convert_folder_path_pattern">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogOptions.html#aaeb02caac0ab0347617d2f45b29af968" title="metadata log file is placed in node&#45;0/logger&#45;0 folder " alt="" coords="223,71,399,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1log_1_1LogOptions.html#ad583679a01a8e4cc2ae87306efb73216" title="construct full path of individual log file (log_folder/LOGGERID_ORDINAL.log) " alt="" coords="215,136,406,177"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a8b2cfe458668cc3f8cf4ccbfeab179dc" title="foedus::log::LogManagerPimpl\l::initialize_once" alt="" coords="212,201,409,243"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1MetaLogger.html#a5a3484d094947ced0a08a5e162f08a88" title="foedus::log::MetaLogger\l::initialize_once" alt="" coords="479,5,641,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#ac587afcb72a4b29b67a56fb49c49b503" title="Redo metadata operation (create/drop storage) since the latest snapshot. " alt="" coords="457,71,663,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="711,71,865,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="913,71,1108,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1LogMapper.html#a661014d4832400f072544ff4b7e74a45" title="Implements the specific logics in derived class. " alt="" coords="463,136,657,177"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1log_1_1Logger.html#a3b1d647f1458d1172a511b7e57a2a237" title="foedus::log::Logger\l::initialize_once" alt="" coords="494,201,626,243"/>
+</map>

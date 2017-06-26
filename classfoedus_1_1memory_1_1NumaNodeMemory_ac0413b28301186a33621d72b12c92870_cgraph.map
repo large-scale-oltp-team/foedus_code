@@ -1,0 +1,14 @@
+<map id="foedus::memory::NumaNodeMemory::uninitialize_once" name="foedus::memory::NumaNodeMemory::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="505,111,669,153"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1memory.html#abf7fe6db604daec757bd932e9b629d40" title="foedus::memory::get\l_numa_node_size" alt="" coords="276,23,417,65"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="240,141,453,182"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1PagePool.html#a90b989911378d6bf2d7d75352dc77165" title="An idempotent method to release all resources of this object, if any. " alt="" coords="257,271,436,313"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1ErrorStackBatch.html#a6c6e566983e136b5c6a63bf110c6cef5" title="A convenience method to uninitialize and delete all Initializable objects in a vector, storing all errors in this batch. " alt="" coords="256,206,437,247"/>
+<area shape="rect" id="node4" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="532,56,643,83"/>
+<area shape="rect" id="node5" href="$numa_8h.html#a1d53a351fd8dd60c3e5b661340eb54ad" title="numa_node_size" alt="" coords="527,5,647,32"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="501,271,673,313"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="721,337,893,378"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="721,271,893,313"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1ErrorStackBatch.html#a1127d5a2207c91c4dacb7f2bc0f77d7b" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="505,206,669,247"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="742,206,873,247"/>
+</map>

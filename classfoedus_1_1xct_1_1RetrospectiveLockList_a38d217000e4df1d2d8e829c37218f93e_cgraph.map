@@ -1,0 +1,19 @@
+<map id="foedus::xct::RetrospectiveLockList::construct" name="foedus::xct::RetrospectiveLockList::construct">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a1397c6847c1ee46ba9c09457b4f5866e" title="foedus::xct::Retrospective\lLockList::assert_sorted" alt="" coords="229,109,401,150"/>
+<area shape="rect" id="node6" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="899,57,1064,84"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="239,174,390,215"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="240,239,389,281"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1xct_1_1Xct.html#ae523b00cead387e6addb1366fe08546a" title="foedus::xct::Xct::get\l_read_set" alt="" coords="245,305,384,346"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1Xct.html#af7b9c43800807db798d2e58bc07ad5cd" title="foedus::xct::Xct::get\l_read_set_size" alt="" coords="245,370,384,411"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1Xct.html#ae5fa3dcdb891b99e5bc7d83ff2029f46" title="foedus::xct::Xct::get\l_write_set" alt="" coords="245,435,384,477"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1Xct.html#a674e3ce0252c1c9d2f73edf3b3c4307e" title="foedus::xct::Xct::get\l_write_set_size" alt="" coords="245,501,384,542"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1Xct.html#a9a76be25f22fd49683d2a4138ab7b199" title="Returns whether the object is an active transaction. " alt="" coords="249,566,380,607"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1xct_1_1LockEntry.html#a54190c5faf4f6943043c1d83ed435f44" title="foedus::xct::LockEntry::set" alt="" coords="225,632,404,659"/>
+<area shape="rect" id="node18" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="474,613,619,654"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a14d555cbd9ddee31c68c9c81ff84c129" title="foedus::xct::Retrospective\lLockList::assert_sorted_impl" alt="" coords="452,109,641,150"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1xct.html#a736225e9852f9c75b92e134dbbe40a68" title="foedus::xct::lock_assert\l_sorted" alt="" coords="689,109,851,150"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="907,109,1056,150"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="900,237,1063,278"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="1112,203,1305,245"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1128,269,1289,310"/>
+</map>

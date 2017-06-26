@@ -1,0 +1,19 @@
+<map id="foedus::storage::masstree::SplitIntermediate::decide_strategy" name="foedus::storage::masstree::SplitIntermediate::decide_strategy">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a44cc8d18dc9077ae2310667e88ed5b7c" title="foedus::storage::masstree\l::MasstreePage::get_foster_fence" alt="" coords="236,5,453,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a27d301fad7d4d340cd2d6255dc330607" title="foedus::storage::masstree\l::MasstreePage::get_foster_major" alt="" coords="235,71,454,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a32653a16ddca213c94560652e9388dd5" title="foedus::storage::masstree\l::MasstreePage::get_foster_minor" alt="" coords="235,136,454,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#abb6557473edd899373ed9399b455be20" title="foedus::storage::masstree\l::MasstreePage::get_high_fence" alt="" coords="240,201,449,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a30f922c414bf3a2faaf7e879b2277f0b" title="foedus::storage::masstree\l::MasstreePage::get_low_fence" alt="" coords="243,267,447,308"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#ab5ab7bbce35893143d2aac437e526d0e" title="foedus::storage::masstree\l::MasstreePage::header" alt="" coords="258,332,431,373"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#a56b5ea2f52ce2767ac205f624ce156e6" title="foedus::storage::Volatile\lPagePointer::is_equivalent" alt="" coords="257,397,432,439"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a16a2c06a304514be7b99fb6c884e7e9b" title="foedus::storage::masstree\l::MasstreePage::is_locked" alt="" coords="256,463,433,504"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#adc22d21883e15b87cd5ff6b6ec513c35" title="foedus::storage::masstree\l::MasstreePage::is_moved" alt="" coords="257,528,433,569"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePointerIterator.html#acd0b166a127ed5fbadecd838f8e32be5" title="foedus::storage::masstree\l::MasstreeIntermediatePointerIterator\l::is_valid" alt="" coords="227,594,463,650"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1PageVersion.html#a301cba19b01cf82d7b576a04180b56e2" title="foedus::storage::PageVersion\l::is_locked" alt="" coords="518,463,710,504"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="777,463,946,504"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="1005,463,1207,504"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1storage_1_1PageVersion.html#a2b63daa9a7f39c8c85bf2d43f4c18d78" title="foedus::storage::PageVersion\l::is_moved" alt="" coords="518,528,710,569"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ac3214863fa74628187ce46b2879994ae" title="foedus::storage::PageVersion\lStatus::is_moved" alt="" coords="765,528,957,569"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="511,597,717,639"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="521,663,707,719"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::HashDataPage::available_space" name="foedus::storage::hash::HashDataPage::available_space">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac6b4a13e6f057be1874f637fb9f87c51" title="foedus::storage::hash\l::HashDataPage::get_record_count" alt="" coords="468,5,693,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a9ac1ba8382fecd225d2ad1b6e13dae55" title="Returns offset of a next record. " alt="" coords="269,63,420,119"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac2e82163d7348a6c88fecff711025b08" title="foedus::storage::hash\l::HashDataPage::get_slot" alt="" coords="495,71,666,112"/>
+</map>

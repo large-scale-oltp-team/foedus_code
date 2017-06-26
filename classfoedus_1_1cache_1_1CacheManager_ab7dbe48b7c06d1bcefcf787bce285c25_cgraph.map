@@ -1,0 +1,11 @@
+<map id="foedus::cache::CacheManager::uninitialize_once" name="foedus::cache::CacheManager::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a1322d8be16a7fe558bd83de18eb41c85" title="foedus::cache::CacheManager\lPimpl::uninitialize_once" alt="" coords="252,104,451,145"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="542,5,669,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a2876d026b658af099cdf153ed1529369" title="foedus::cache::CacheManager\lPimpl::describe" alt="" coords="506,71,705,112"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a913ee4a71391ff0261b6725ca658925a" title="foedus::cache::CacheManager\lPimpl::stop_cleaner" alt="" coords="506,136,705,177"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="499,201,712,243"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePool.html#aae17b661b01fd08a3019128c82227e7c" title="foedus::memory::PagePool\l::get_stat" alt="" coords="760,39,939,80"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="782,104,917,145"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a55ba648cb98718804a890ea3b4965e39" title="foedus::memory::PagePool\lPimpl::get_stat" alt="" coords="987,39,1165,80"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="1213,39,1392,80"/>
+</map>

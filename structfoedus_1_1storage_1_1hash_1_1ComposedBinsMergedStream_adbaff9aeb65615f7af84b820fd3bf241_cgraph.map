@@ -1,0 +1,10 @@
+<map id="foedus::storage::hash::ComposedBinsMergedStream::assure_writer_buffer" name="foedus::storage::hash::ComposedBinsMergedStream::assure_writer_buffer">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a55ba9fc4a87f71b3991bba1c39948cc9" title="Write out pages that are contiguous in the main page pool. " alt="" coords="283,5,467,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#ad43c975601c7bced5a548c4872c498e4" title="Expands intermediate_memory_ in case it is too small. " alt="" coords="256,71,495,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#adb899ef232610546cd5a017a817fba45" title="foedus::snapshot::Snapshot\lWriter::get_intermediate_size" alt="" coords="553,125,745,167"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#ab547f0a3936d5cb0c0ee827ea77edd09" title="foedus::snapshot::Snapshot\lWriter::get_page_size" alt="" coords="557,191,741,232"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad79701492d232cb5aec1ad4d8c99eb5d" title="If the current size is smaller than the given size, automatically expands. " alt="" coords="543,60,756,101"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad11d2289458b26db2aaef9de984045a0" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="804,12,1017,53"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="804,77,1017,119"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="804,175,1017,216"/>
+</map>

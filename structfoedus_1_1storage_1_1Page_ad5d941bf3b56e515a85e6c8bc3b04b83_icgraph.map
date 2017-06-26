@@ -1,0 +1,6 @@
+<map id="foedus::storage::Page::get_snapshot_page_id" name="foedus::storage::Page::get_snapshot_page_id">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad5f949c2d00aea4cb2186c93108b7dcc" title="Special method called only from recovery manager. " alt="" coords="213,5,384,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManager.html#ad207f2d607f78db439621dd82a4b9470" title="Special method called only from recovery manager. " alt="" coords="432,5,597,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="645,13,800,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="848,13,1043,54"/>
+</map>

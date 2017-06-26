@@ -1,0 +1,9 @@
+<map id="foedus::memory::NumaCoreMemory::uninitialize_once" name="foedus::memory::NumaCoreMemory::uninitialize_once">
+<area shape="rect" id="node2" href="$structfoedus_1_1memory_1_1AlignedMemorySlice.html#ab87f0f0c17ed410be86d7332bd31e068" title="foedus::memory::AlignedMemory\lSlice::clear" alt="" coords="237,5,451,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePoolOffsetAndEpochChunk.html#af96624c49b6035bc5b9254c111c0d07d" title="foedus::memory::PagePool\lOffsetAndEpochChunk::empty" alt="" coords="245,71,443,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#af0ac9dbae9481b295a8492c6d9f6c1d5" title="Shorthand for get_options().thread_.group_count_. " alt="" coords="277,136,411,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePool.html#a802171ff0578875748d20b4e9c8c9463" title="Returns the specified number of free pages from the chunk. " alt="" coords="255,201,433,243"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="237,267,451,308"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#affa4e09fc9e251f5cc259de81c23c6e2" title="foedus::memory::PagePool\lOffsetChunk::size" alt="" coords="255,332,433,373"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a13d785355359fd936c2b3863d296ba2c" title="foedus::memory::PagePool\lPimpl::release" alt="" coords="499,201,677,243"/>
+</map>

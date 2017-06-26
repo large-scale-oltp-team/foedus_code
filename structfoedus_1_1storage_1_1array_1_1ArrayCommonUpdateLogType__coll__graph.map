@@ -1,0 +1,6 @@
+<map id="foedus::storage::array::ArrayCommonUpdateLogType" name="foedus::storage::array::ArrayCommonUpdateLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1RecordLogType.html" title="Base class for log type of record&#45;wise operation. " alt="" coords="15,260,198,287"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="21,184,192,211"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1log_1_1LogHeader.html" title="A common header part for all log types. " alt="" coords="29,95,184,121"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="45,5,168,32"/>
+</map>

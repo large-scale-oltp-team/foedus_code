@@ -1,0 +1,4 @@
+<map id="foedus::storage::prefetch_page_l2" name="foedus::storage::prefetch_page_l2">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga776c53f69f97c1edfc5d34a0f6cb3100" title="Prefetch multiple contiguous cachelines to L2/L3 cache. " alt="" coords="219,13,408,39"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="456,5,628,47"/>
+</map>

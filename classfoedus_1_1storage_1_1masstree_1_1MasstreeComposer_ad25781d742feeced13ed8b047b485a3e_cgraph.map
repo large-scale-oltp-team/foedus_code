@@ -1,0 +1,18 @@
+<map id="foedus::storage::masstree::MasstreeComposer::drop_volatiles" name="foedus::storage::masstree::MasstreeComposer::drop_volatiles">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1Composer_1_1DropResult.html#a0cac5a92e42765bafd1fd54ca3200080" title="foedus::storage::Composer\l::DropResult::combine" alt="" coords="258,5,437,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Attachable.html#a5b324e3abf302a59801aa73419bb4fad" title="foedus::Attachable\l::get_control_block" alt="" coords="281,71,413,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a94bc2a1ae36c0a1ce1de99715072c59d" title="foedus::storage::masstree\l::MasstreeStorage::get\l_masstree_metadata" alt="" coords="261,137,434,193"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PartitionerMetadata.html#aa6e48ddb92bb1c1b572cc3b90e19daf9" title="Returns the shared memory for the given storage ID. " alt="" coords="258,217,437,259"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="524,407,709,463"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1Storage.html#ac1b54d4e7f3ad9f7f7c17598911abb01" title="Returns the unique name of this storage. " alt="" coords="265,480,429,521"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePointerIterator.html#acd0b166a127ed5fbadecd838f8e32be5" title="foedus::storage::masstree\l::MasstreeIntermediatePointerIterator\l::is_valid" alt="" coords="229,399,465,455"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1storage_1_1Metadata.html#a675df0db1a3c909581db949c10fd192b" title="foedus::storage::Metadata\l::keeps_all_volatile_pages" alt="" coords="261,545,434,587"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1PartitionerMetadata.html#a0534520d3f4fb059afdf7b9db375907e" title="Returns the partitioner data pointed from this metadata. " alt="" coords="258,283,437,324"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html#adf886b8b219538b7dac2da820fbec68c" title="Kind of std::max(this, other). " alt="" coords="529,13,704,39"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="768,13,923,39"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a1c21cc6a27cabaf4a8c9dc26985aacfb" title="foedus::soc::SharedMemory\lRepo::get_global_memory\l_anchors" alt="" coords="524,130,709,186"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManager.html#a627cf434892c441c90c2de7c20637e9c" title="Returns the shared memories maintained across SOCs. " alt="" coords="527,211,707,252"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Engine.html#ae9ad7ab6a3df52b0e9f0e50ede6faa2e" title="See SOC and IPC. " alt="" coords="549,276,684,317"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="513,488,720,529"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="549,341,684,383"/>
+</map>

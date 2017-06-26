@@ -1,0 +1,12 @@
+<map id="foedus::xct::Xct::get_write_set" name="foedus::xct::Xct::get_write_set">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a38d217000e4df1d2d8e829c37218f93e" title="Fill out this retrospetive lock list for the next run of the given transaction. " alt="" coords="203,8,375,49"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad91daff37c2b78b8c6620d67869e9d7f" title="Phase 3 of precommit_xct() " alt="" coords="435,71,629,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="677,128,872,169"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="435,216,629,257"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ada7782b43556708daa3bb94f7662409a" title="Subroutine of precommit_xct_lock to track most of moved records in write&#45;set. " alt="" coords="192,238,387,294"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a09e66e6f76cf08131e11a18a44b5d0a4" title="foedus::xct::XctManagerPimpl\l::precommit_xct_sort_access" alt="" coords="192,319,387,360"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="435,5,629,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="693,5,856,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="920,97,1115,139"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1163,97,1325,139"/>
+</map>

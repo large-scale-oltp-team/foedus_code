@@ -1,0 +1,26 @@
+<map id="foedus::storage::StorageControlBlock::exists" name="foedus::storage::StorageControlBlock::exists">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a9eec079742233abb22d147da7b4fa50a" title="foedus::storage::Storage\lManagerPimpl::create_storage\l_and_log" alt="" coords="231,7,430,63"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a252f35e96555817a5eba6ab2e2275d53" title="foedus::storage::Storage\lManagerPimpl::drop_storage" alt="" coords="237,88,425,129"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a451eb4dbf3ec4fce7b8fd264cef28a67" title="foedus::storage::Storage\lManagerPimpl::drop_storage_apply" alt="" coords="217,205,444,247"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1StorageManager.html#ab3700d71eb463d5b9fae21a2704ea736" title="Returns the name of the given storage ID. " alt="" coords="777,348,941,389"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#aa6adc636d461b3bc2605e967816cc095" title="Resets all volatile pages&#39; temperature stat to be zero in the specified storage. " alt="" coords="245,402,416,458"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad5f949c2d00aea4cb2186c93108b7dcc" title="Special method called only from recovery manager. " alt="" coords="511,71,682,127"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3248d8440d805f772ad7b6122a4d309b" title="foedus::storage::Storage\lManagerPimpl::track_moved\l_record" alt="" coords="237,271,424,327"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManager.html#a2f5e7bd059656ae653d0a326141e76f1" title="Removes the storage object. " alt="" coords="515,5,679,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1StorageManager.html#ad943115e1a67d3769a86e3eb67894470" title="This is called while restart to apply DROP STORAGE logs. " alt="" coords="500,217,693,259"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ae4eaa4425c8c9aa4bfbbbf56303748e5" title="foedus::storage::Storage\lManagerPimpl::uninitialize_once" alt="" coords="492,152,701,193"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#ac587afcb72a4b29b67a56fb49c49b503" title="Redo metadata operation (create/drop storage) since the latest snapshot. " alt="" coords="757,152,962,193"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1DropLogType.html#ab8e1ae5a2b6b00cbad8d7af966fb713b" title="foedus::storage::DropLog\lType::apply_storage" alt="" coords="776,217,943,259"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="1045,116,1200,157"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1276,116,1471,157"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="1019,283,1227,324"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9534e63f498a012d9fa401a10e2b4e0b" title="Phase 2 of precommit_xct() for read&#45;write case. " alt="" coords="1017,348,1228,389"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad91daff37c2b78b8c6620d67869e9d7f" title="Phase 3 of precommit_xct() " alt="" coords="1025,413,1220,455"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="1276,283,1471,324"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="1519,316,1713,357"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1761,316,1924,357"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="1276,348,1471,389"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1storage_1_1StorageManager.html#ad207f2d607f78db439621dd82a4b9470" title="Special method called only from recovery manager. " alt="" coords="777,71,942,127"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1storage_1_1StorageManager.html#a02513539acf9d7cd9805d34154281076" title="Resolves a &quot;moved&quot; record. " alt="" coords="499,283,695,324"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9090dd1fa81513f61620b44a9a8bbd1d" title="used from verification methods to track moved record " alt="" coords="749,283,969,324"/>
+</map>

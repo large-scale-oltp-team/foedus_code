@@ -1,0 +1,10 @@
+<map id="foedus::storage::Storage::get_metadata" name="foedus::storage::Storage::get_metadata">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1array_1_1ArrayComposer.html#a2c812e46a7502abe6f506ecda0edf9ab" title="foedus::storage::array\l::ArrayComposer::construct_root" alt="" coords="233,5,443,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashComposer.html#ac5ad2e7fa792d58965a05be6bd43e43c" title="foedus::storage::hash\l::HashComposer::construct_root" alt="" coords="233,71,443,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a91db842a6ef8780d3fe4ba2f0f625da7" title="foedus::storage::sequential\l::SequentialComposer::construct_root" alt="" coords="217,136,459,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1Storage.html#ad9fcb57f0ee2a79e884c0b8b64c8b824" title="Returns the unique ID of this storage. " alt="" coords="235,202,441,258"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1Storage.html#ac1b54d4e7f3ad9f7f7c17598911abb01" title="Returns the unique name of this storage. " alt="" coords="235,282,441,338"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1Storage.html#a131e005bb11678c1824d5075aa3df77a" title="Returns the type of this storage. " alt="" coords="235,362,441,418"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1Composer.html#adf148cbea7c8146dec88d23d2218452c" title="Construct root page(s) for one storage based on the ouputs of compose(). " alt="" coords="535,71,714,112"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a2838579fd4f57dda9122317fc0867d59" title="foedus::storage::masstree\l::MasstreeStorage::MasstreeStorage" alt="" coords="507,369,743,411"/>
+</map>

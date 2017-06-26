@@ -1,0 +1,4 @@
+<map id="foedus::storage::hash::ComposedBinsBuffer::next_pages" name="foedus::storage::hash::ComposedBinsBuffer::next_pages">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsBuffer.html#a87975eab41db6a99b88424bd2d6dbb90" title="Moves on to next bin. " alt="" coords="204,5,355,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#ac3a65cebf835d18357a69bd523a3bc9d" title="Consumes inputs for the cur_path_[0] page and install snapshot pointers there. " alt="" coords="403,5,605,61"/>
+</map>

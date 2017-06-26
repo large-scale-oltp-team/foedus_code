@@ -1,0 +1,31 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::register_record_write_log" name="foedus::storage::masstree::MasstreeStoragePimpl::register_record_write_log">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#aa23025809d9c2fdff744f98f78c3882a" title="Registers a write&#45;set related to an existing read&#45;set. " alt="" coords="268,20,409,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1Xct.html#a7dad4e0e5a6770ee941bd365410f9b6a" title="Add the given record to the write set of this transaction. " alt="" coords="516,79,657,120"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="263,137,414,179"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#aca6d912133fd8b46eacb660b840bada0" title="foedus::storage::masstree\l::MasstreeStoragePimpl\l::get_id" alt="" coords="252,203,425,259"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a0bef5c88a00a3574b489d0259c5b49ad" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_owner_id" alt="" coords="497,258,676,314"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a2c1e8415916dbf458aee87572741890f" title="foedus::storage::masstree\l::MasstreeBorderPage::get_record" alt="" coords="228,345,449,387"/>
+<area shape="rect" id="node3" href="$group__LOGTYPE.html#gad2d33090f44d00949a05c245e5ff1046" title="Invokes the assertion logic of each log type. " alt="" coords="763,5,892,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="1005,5,1159,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a1ff8ccbccdede750fb5a18b4da505ad9" title="foedus::xct::Retrospective\lLockList::get_volatile\l_page_resolver" alt="" coords="741,71,913,127"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage.html#a263602e0a73eedbe5f32128635106e17" title="foedus::storage::assert\l_within_valid_volatile_page" alt="" coords="740,152,915,193"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#ace820ba89437e4d3a59fdb47a47525ba" title="Calculate owner_lock_id using the resolver. " alt="" coords="727,255,928,296"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage.html#ad38ebb5eb992249a7b42001fe464ec48" title="foedus::storage::assert\l_within_valid_volatile\l_page_impl" alt="" coords="1005,107,1159,163"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="1499,72,1672,113"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="1755,128,1905,169"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="1233,173,1436,215"/>
+<area shape="rect" id="node17" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="1252,71,1417,98"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="1508,189,1663,231"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="1484,255,1687,311"/>
+<area shape="rect" id="node13" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="1753,260,1907,301"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1749,327,1911,368"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="1735,193,1925,235"/>
+<area shape="rect" id="node19" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="1009,255,1155,296"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#adf2e2a9d414bf5cfe86f33198ebdf434" title="Setter for owner_id_address_/owner_lock_id_. " alt="" coords="983,320,1181,361"/>
+<area shape="rect" id="node20" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="1253,328,1416,369"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="1489,387,1682,428"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8b7973f3eb0f4f3c6894c278c18d7145" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slot" alt="" coords="724,405,931,447"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="979,405,1185,447"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a9527f3829e488359a2d7d80318729bee" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_offset_in_bytes" alt="" coords="497,418,676,474"/>
+<area shape="rect" id="node30" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#acad0cd3a9c7bffd3ea0a478a21e5db1b" title="Offset versions. " alt="" coords="497,338,676,394"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::SnapshotManagerControlBlock::get_snapshot_epoch_weak" name="foedus::snapshot::SnapshotManagerControlBlock::get_snapshot_epoch_weak">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#aaf69db8a860cc752f39c69940b9f3d6e" title="foedus::snapshot::Snapshot\lManagerPimpl::get_snapshot\l_epoch_weak" alt="" coords="237,5,428,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManager.html#a63ce4010488b4b54fa78ab523e660bd5" title="Non&#45;atomic version. " alt="" coords="476,13,713,54"/>
+</map>

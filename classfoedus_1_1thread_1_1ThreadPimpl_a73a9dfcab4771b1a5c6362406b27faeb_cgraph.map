@@ -1,0 +1,19 @@
+<map id="foedus::thread::ThreadPimpl::handle_tasks" name="foedus::thread::ThreadPimpl::handle_tasks">
+<area shape="rect" id="node2" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="240,32,419,73"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="494,449,629,491"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1proc_1_1ProcManager.html#a22da584f85fbfd412c0637f737e32740" title="Returns the function pointer of the specified procedure. " alt="" coords="240,97,419,139"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Engine.html#a213680d8d683ac663b847d09f1c0e9e3" title="See System and User Procedures. " alt="" coords="262,215,397,256"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="264,280,395,321"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a28f34cbb16ac60050a2e42332058b3eb" title="foedus::thread::ThreadPimpl\l::is_stop_requested" alt="" coords="469,165,653,207"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1Xct.html#ace9354af4e27109da6affc4d3bd84419" title="foedus::xct::Xct::set\l_default_hot_threshold\l_for_this_xct" alt="" coords="253,397,405,453"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1Xct.html#a873d7bb9094918e5d61742c456dbeb61" title="foedus::xct::Xct::set\l_default_rll_for_this_xct" alt="" coords="250,477,409,519"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1Xct.html#a339fdd767efdfed418e32792b560b373" title="foedus::xct::Xct::set\l_default_rll_threshold\l_for_this_xct" alt="" coords="257,543,401,599"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#ad6c2ae1c63499d211f31d3165eeea3cf" title="initializes the thread&#39;s policy/priority " alt="" coords="237,624,421,665"/>
+<area shape="rect" id="node18" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="242,689,417,731"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#a9c1c82068b9cd0753b679bfd575861b0" title="foedus::proc::ProcManager\lPimpl::get_proc" alt="" coords="472,80,651,121"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1assorted_1_1FixedString.html#a37d5d22a12629a4fba786c2f62c0a214" title="Convert to a C string. " alt="" coords="701,71,893,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#aa92f0d777803a8ee817ac6141875ad1a" title="foedus::proc::ProcManager\lPimpl::find_by_name" alt="" coords="708,136,887,177"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="730,5,865,47"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="941,165,1115,207"/>
+<area shape="rect" id="node17" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="491,624,631,665"/>
+</map>

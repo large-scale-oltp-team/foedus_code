@@ -1,0 +1,4 @@
+<map id="foedus::storage::sequential::SequentialAppendLogType" name="foedus::storage::sequential::SequentialAppendLogType">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1RecordLogType.html" title="Base class for log type of record&#45;wise operation. " alt="" coords="5,80,188,107"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="11,5,182,32"/>
+</map>

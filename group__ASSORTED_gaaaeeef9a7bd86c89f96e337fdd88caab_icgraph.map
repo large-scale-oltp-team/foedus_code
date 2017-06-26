@@ -1,0 +1,15 @@
+<map id="foedus::assorted::demangle_type_name" name="foedus::assorted::demangle_type_name">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga8987f6c9cf72dc6468cc7c798b96cd42" title="Returns the name of the C++ type as readable as possible. " alt="" coords="257,21,401,62"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1assorted_1_1BacktraceContext.html#a81b13dea0366cfd6550ac20185e2abba" title="foedus::assorted::Backtrace\lContext::get_results" alt="" coords="473,86,659,127"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1assorted_1_1BacktraceContext_1_1GlibcBacktraceInfo.html#a0b04cb8aaae8c393146f430ee8fec8e4" title="foedus::assorted::Backtrace\lContext::GlibcBacktraceInfo\l::parse_symbol" alt="" coords="236,144,421,200"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1externalize_1_1Externalizable.html#aa244cc67103f063ec614c7183e9a845f" title="vector version " alt="" coords="495,5,637,61"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1assorted.html#aa2bd2568f3a2851d781b7e141073412f" title="Returns the backtrace information of the current stack. " alt="" coords="711,119,855,161"/>
+<area shape="rect" id="node6" href="$namespacefoedus.html#acc3806110789c3309a531109b7d46f3f" title="Prints out backtrace. " alt="" coords="903,127,1060,153"/>
+<area shape="rect" id="node7" href="$namespacefoedus.html#aed2495460b00a9e5b86bcfc3a31f9b63" title="print_assert() + print_backtrace(). " alt="" coords="1137,21,1273,62"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1ErrorStack.html#a0de4b8c0bfcd31e4e8cb1cbaf4b04c13" title="Describe this object to std::cerr and then abort. " alt="" coords="1139,86,1270,127"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1UninitializeGuard.html#a36b8ea628094e8ed6d0425ccd744c797" title="foedus::UninitializeGuard\l::~UninitializeGuard" alt="" coords="1121,151,1288,193"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html#a114c524e1d8efc628c3e7d98f85cfa83" title="Grabs an in&#45;memory page in some NUMA node. " alt="" coords="1108,217,1301,258"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1ErrorStack.html#aea380eec7175852f420cdd32d3423592" title="Output a warning to stderr if the error is not checked yet. " alt="" coords="1349,86,1480,127"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1ErrorStack.html#a0b1ae0f16fdb833f6773c2ba9e594b3f" title="Will warn in stderr if the error code is not checked yet. " alt="" coords="1528,86,1659,127"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1assorted_1_1BacktraceContext.html#a3e70d52451e788dc085aec8bacdfad60" title="foedus::assorted::Backtrace\lContext::call_glibc_backtrace" alt="" coords="469,151,663,193"/>
+</map>

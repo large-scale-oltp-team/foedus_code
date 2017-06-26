@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::LogGleanerResource" name="foedus::snapshot::LogGleanerResource">
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1LogGleanerResource_1_1PerNodeResource.html" title="These buffers are used to read intermediate results from each reducer to compose the root page or oth..." alt="" coords="376,166,571,207"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="5,136,219,163"/>
+</map>

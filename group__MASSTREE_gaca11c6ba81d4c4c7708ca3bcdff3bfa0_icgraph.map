@@ -1,0 +1,9 @@
+<map id="foedus::storage::masstree::is_key_aligned_and_zero_padded" name="foedus::storage::masstree::is_key_aligned_and_zero_padded">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeCommonLogType.html#a5f964ae492f5867bb1ae754e033a110e" title="Returns &#45;1, 0, 1 when left is less than, same, larger than right in terms of key and xct_id..." alt="" coords="279,5,463,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeComposeContext_1_1PathLevel.html#a0e585f2b2cdecb38d14cac28de705106" title="foedus::storage::masstree\l::MasstreeComposeContext\l::PathLevel::contains_key" alt="" coords="279,85,463,141"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage_1_1masstree.html#a61b432f0c51daf807b4b1c6a6a298089" title="foedus::storage::masstree\l::fill_payload_padded" alt="" coords="284,166,457,207"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreePartitionerData.html#ab637b0800009ad0f2ff8c2716bf1fee8" title="Returns the partition (node ID) that should contain the key. " alt="" coords="284,232,457,288"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1AdjustComparatorMasstree.html#a5db36dcb980a35c8aaa0296146281401" title="foedus::snapshot::MergeSort\l::AdjustComparatorMasstree\l::operator()" alt="" coords="511,5,700,61"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePartitioner.html#aa88be4c928d4254f51e1e1252680f87e" title="foedus::storage::masstree\l::MasstreePartitioner::\lpartition_batch" alt="" coords="519,232,692,288"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c7b2f626b460815615663be4d22427f" title="Identifies the partition of each log record in a batched fashion. " alt="" coords="748,239,927,281"/>
+</map>

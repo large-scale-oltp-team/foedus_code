@@ -1,0 +1,7 @@
+<map id="foedus::snapshot::SnapshotManagerControlBlock::initialize" name="foedus::snapshot::SnapshotManagerControlBlock::initialize">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1LogGleanerControlBlock.html#a81c5e030a2ec66c5757e4f995b7d3da6" title="foedus::snapshot::LogGleaner\lControlBlock::initialize" alt="" coords="255,5,449,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedPolling.html#ace449e19d0a13388da16570aefd42994" title="foedus::soc::SharedPolling\l::initialize" alt="" coords="263,71,441,112"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1LogGleanerControlBlock.html#ab0934f178079c7c636a7f154963d551f" title="foedus::snapshot::LogGleaner\lControlBlock::clear_counts" alt="" coords="497,5,692,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1Snapshot.html#ab50c4470a3bf624596ee48217d266818" title="foedus::snapshot::Snapshot\l::clear" alt="" coords="740,5,924,47"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="508,71,681,112"/>
+</map>

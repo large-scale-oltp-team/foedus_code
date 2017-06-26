@@ -1,0 +1,21 @@
+<map id="foedus::storage::hash::HashStoragePimpl::get_meta" name="foedus::storage::hash::HashStoragePimpl::get_meta">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#aff4c87787f9e6ce9c4306b8bcaf36a47" title="foedus::storage::hash\l::HashStoragePimpl::get\l_bin_bits" alt="" coords="253,191,417,247"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a38d765f971d163f274b24fa920565074" title="foedus::storage::hash\l::HashStoragePimpl::get\l_bin_count" alt="" coords="253,34,417,90"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#aa792fc726c1bd0f52f3458a78fe8e0ce" title="foedus::storage::hash\l::HashStoragePimpl::get\l_bin_shifts" alt="" coords="253,271,417,327"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a2823bcc0a488ad58faee46d876db8abe" title="foedus::storage::hash\l::HashStoragePimpl::create" alt="" coords="475,5,658,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a357386c8e5be667334520a33aff51725" title="foedus::storage::hash\l::HashStoragePimpl::delete\l_record" alt="" coords="476,71,657,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a233fcd7ffd24bd59d2d0943af3d0de03" title="foedus::storage::hash\l::HashStoragePimpl::increment\l_record" alt="" coords="465,151,668,207"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#ac9c35890555ddb10d908b77602a1f28c" title="foedus::storage::hash\l::HashStoragePimpl::insert\l_record" alt="" coords="477,231,656,287"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a44bc6cd5427daadbee9fd6fcc366af09" title="foedus::storage::hash\l::HashStoragePimpl::load" alt="" coords="481,312,652,353"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#add8aafbb32713dc6be20804da789f43d" title="foedus::storage::hash\l::HashStoragePimpl::overwrite\l_record" alt="" coords="469,378,665,434"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a49df48b50c0c645d3a047e8b153c4015" title="foedus::storage::hash\l::HashStoragePimpl::upsert\l_record" alt="" coords="475,498,658,554"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#ac77a3ace0e46fc133fa68affc8901409" title="foedus::storage::hash\l::HashStorage::create" alt="" coords="739,5,889,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a4ce8eaf2bf2674b777888c812ca5f269" title="If you have already computed HashCombo, use this. " alt="" coords="740,71,888,127"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a7ba3b8d1b3f0242f53b46c8a9b2ebaca" title="If you have already computed HashCombo, use this. " alt="" coords="729,151,899,207"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a3617930288b1cfa90723b56916044a10" title="If you have already computed HashCombo, use this. " alt="" coords="741,231,887,287"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a200dd1b1b2b5bc937cae55120e1befc9" title="foedus::storage::hash\l::HashStorage::load" alt="" coords="741,312,887,353"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1hash_1_1HashStoragePimpl.html#a26fdac44f55a502f17cb82e98966dd84" title="foedus::storage::hash\l::HashStoragePimpl::overwrite\l_record_primitive" alt="" coords="716,378,912,434"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#affd9e7a6674a1a8daced6ad1ef603857" title="If you have already computed HashCombo, use this. " alt="" coords="733,458,895,514"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a04310f074b93b1bd110b69954595170d" title="If you have already computed HashCombo, use this. " alt="" coords="960,378,1123,434"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#af75f511796795cd4ffe731fdae173325" title="If you have already computed HashCombo, use this. " alt="" coords="739,538,889,594"/>
+</map>

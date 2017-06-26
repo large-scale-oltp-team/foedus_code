@@ -1,0 +1,8 @@
+<map id="foedus::storage::array::ArrayStoragePimpl::locate_record_for_read" name="foedus::storage::array::ArrayStoragePimpl::locate_record_for_read">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#aa9de7dd9ec971f2011cc84d72aa32521" title="foedus::storage::array\l::ArrayStoragePimpl::get\l_record" alt="" coords="236,5,401,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a22b2486d4531522d5949034232e90f32" title="foedus::storage::array\l::ArrayStoragePimpl::get\l_record_payload" alt="" coords="236,85,401,141"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#abdf449a053e85072d1236f47364b484d" title="foedus::storage::array\l::ArrayStoragePimpl::get\l_record_primitive" alt="" coords="236,165,401,221"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#ae5da0aa4f609d2b80a64a6fcaf4e6d81" title="Retrieves a part of record of the given offset in this array storage. " alt="" coords="449,13,624,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a35580e9eb07d46212c1cf0a15520cb24" title="Retrieves a pointer to the entire payload. " alt="" coords="449,85,624,141"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a1b9cd919a7b95297f1ad5ef5d5971be7" title="Retrieves a part of record of the given offset as a primitive type in this array storage. " alt="" coords="449,165,624,221"/>
+</map>

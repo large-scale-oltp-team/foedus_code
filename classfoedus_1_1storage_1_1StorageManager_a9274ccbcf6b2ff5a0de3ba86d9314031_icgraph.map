@@ -1,0 +1,6 @@
+<map id="foedus::storage::StorageManager::create_storage" name="foedus::storage::StorageManager::create_storage">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManager.html#a3f35f6d6932634ef2c5ab1a33f234773" title="Just a type&#45;wrapper of create_storage() for array storages. " alt="" coords="229,5,393,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManager.html#a67d343e4f3b79b44916eb8ba7ccfe5d9" title="Just a type&#45;wrapper of create_storage() for hash storages. " alt="" coords="229,71,393,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManager.html#aed128c33a23f9421b9098247d63c1d23" title="Just a type&#45;wrapper of create_storage() for masstree storages. " alt="" coords="223,136,400,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1StorageManager.html#a717f0b1360023ff339c4732259b8aecd" title="Just a type&#45;wrapper of create_storage() for sequential storages. " alt="" coords="220,201,403,243"/>
+</map>

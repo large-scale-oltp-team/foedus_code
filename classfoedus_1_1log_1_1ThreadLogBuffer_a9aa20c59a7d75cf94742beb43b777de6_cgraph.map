@@ -1,0 +1,5 @@
+<map id="foedus::log::ThreadLogBuffer::assert_consistent" name="foedus::log::ThreadLogBuffer::assert_consistent">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1ThreadLogBufferMeta.html#a05db4e7c61f07d2320aa7b2c3c76d520" title="Only for Debug&#45;assertion. " alt="" coords="240,35,427,76"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1ThreadLogBufferMeta.html#a5dd02cf36ffdb642d41badfc61381621" title="foedus::log::ThreadLogBuffer\lMeta::increment_mark_index" alt="" coords="475,5,665,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="493,71,647,98"/>
+</map>

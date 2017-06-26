@@ -1,0 +1,14 @@
+<map id="foedus::xct::SysxctLockList::clear_entries" name="foedus::xct::SysxctLockList::clear_entries">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a10843e662ca3b9986465a44a0b12dc48" title="Inline definitions of SysxctLockList methods. " alt="" coords="237,177,421,218"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a9cc41f0ba309899664d4068bdbb8f2fb" title="foedus::xct::SysxctLockList\l::assert_sorted_impl" alt="" coords="469,177,653,218"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a0fac78a9788fb85d3b8c649309bf8818" title="foedus::xct::SysxctLockList\l::assert_last_locked_entry" alt="" coords="701,13,885,54"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1SysxctLockList.html#aa41d66382b6393bff4444ac3735302b6" title="foedus::xct::SysxctLockList\l::get_array" alt="" coords="701,78,885,119"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1SysxctLockList.html#af26261addcc02e6724d6bba3f31a1214" title="foedus::xct::SysxctLockList\l::get_last_active_entry" alt="" coords="701,143,885,185"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="719,209,868,250"/>
+<area shape="rect" id="node10" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="711,275,876,301"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="712,326,875,367"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1SysxctLockList.html#adc26bf8b559e20ce48b16e2a3fce38ee" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="935,13,1125,54"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a7dfb818885a95b3ff1ef8dc3b052baca" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="1175,5,1359,61"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="933,293,1127,334"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="949,358,1111,399"/>
+</map>

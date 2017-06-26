@@ -1,0 +1,10 @@
+<map id="foedus::xct::McsWwBlockData::set_combined_release" name="foedus::xct::McsWwBlockData::set_combined_release">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwLock.html#aeb9387704d4395c40dc90ad7743a56a6" title="foedus::xct::McsWwLock\l::reset_guest_id_release" alt="" coords="271,5,440,47"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a2f10f7ede773261b3980131ef1d8346c" title="foedus::xct::McsWwBlockData\l::set_release" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a7ef284a7c1407d3136647b9f162533c3" title="foedus::xct::McsWwOwnerless\lImpl::ownerless_initial" alt="" coords="504,5,707,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwLock.html#a6cff23a5832a37c988d10252d07efead" title="The followings are implemented in thread_pimpl.cpp along with the above methods, but these don&#39;t use ..." alt="" coords="755,5,924,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a42e3a3f1d5511994623010af52ff9a28" title="Acquires the lock. " alt="" coords="972,5,1152,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#afc93395843770944d528724b598e390f" title="foedus::xct::McsOwnerless\lLockScope::McsOwnerlessLockScope" alt="" coords="1200,5,1447,47"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwBlock.html#a5cfe7ab74c9d8eee723585b9ae3a5f04" title="foedus::xct::McsWwBlock\l::set_successor_release" alt="" coords="518,71,693,112"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwLock.html#a8c6120f0b8bd1dd1df6579ed06809660" title="foedus::xct::McsWwLock\l::reset_release" alt="" coords="521,136,690,177"/>
+</map>

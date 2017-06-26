@@ -1,0 +1,8 @@
+<map id="foedus::fs::fsync" name="foedus::fs::fsync">
+<area shape="rect" id="node2" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="604,5,755,32"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#ga87c90d834f65aad6f7b6540ae226f305" title="Returns if the file is a directory. " alt="" coords="189,60,342,87"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1fs_1_1Path.html#a9859706102ecca097e723d762ec468ae" title="foedus::fs::Path::parent_path" alt="" coords="171,115,360,141"/>
+<area shape="rect" id="node4" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="421,31,543,57"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1fs_1_1FileStatus.html#a7b8858f191dee3d9a92cae0cd759c1e5" title="foedus::fs::FileStatus\l::is_directory" alt="" coords="409,82,555,123"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1fs_1_1Path.html#a95efbd1ef2b5f97560bdc964ab0b00ed" title="foedus::fs::Path::Path" alt="" coords="408,148,556,175"/>
+</map>

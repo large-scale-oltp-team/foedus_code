@@ -1,0 +1,5 @@
+<map id="foedus::storage::sequential::SequentialRecordIterator::copy_cur_record" name="foedus::storage::sequential::SequentialRecordIterator::copy_cur_record">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialRecordIterator.html#aed77f7b1c3fce21d49f1a644c1cc66cc" title="Directly returns a pointer to the current record. " alt="" coords="232,71,411,127"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialRecordIterator.html#adea0c20dc5b21b52f1d49df8eaeb6ef6" title="foedus::storage::sequential\l::SequentialRecordIterator\l::is_valid" alt="" coords="459,5,637,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialRecordBatch.html#ad251421bbbcc51a17f654fb2af8de2af" title="foedus::storage::sequential\l::SequentialRecordBatch\l::get_payload_from_offset" alt="" coords="459,85,637,141"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="foedus::log::LoggerRef" name="foedus::log::LoggerRef">
+<area shape="rect" id="node2" href="$classfoedus_1_1Attachable.html" title="foedus::Attachable\l\&lt; LoggerControlBlock \&gt;" alt="" coords="904,147,1063,189"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1LoggerControlBlock.html" title="Shared data of Logger. " alt="" coords="593,111,767,153"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="232,5,409,32"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1log_1_1EpochHistory.html" title="Represents an event where a logger switched its epoch. " alt="" coords="235,119,406,145"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="5,85,111,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="233,169,408,196"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="626,199,734,225"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="255,220,387,247"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="foedus::xct::Xct::is_active" name="foedus::xct::Xct::is_active">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="447,44,641,85"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="689,105,884,146"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad01b60a93f2e107d9c63e7c28799ac1a" title="User transactions related methods. " alt="" coords="194,164,389,205"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a38d217000e4df1d2d8e829c37218f93e" title="Fill out this retrospetive lock list for the next run of the given transaction. " alt="" coords="205,46,377,88"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1thread_1_1Thread.html#a0b69ebf736941b07378feabc8d23fd66" title="Returns if this thread is running an active transaction. " alt="" coords="216,229,367,270"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#a226f6c437144cfb13f8e64baecb41d8a" title="foedus::storage::masstree\l::MasstreeCursor::open" alt="" coords="205,294,378,336"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1xct.html#adf92a2ee952c5b71c00bad525666fe12" title="foedus::xct::operator\&lt;\&lt;" alt="" coords="213,360,370,387"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialStorageControlBlock.html#a8b82d79a7b8aab753945617abbc40b7f" title="foedus::storage::sequential\l::SequentialStorageControlBlock\l::optimistic_read_truncate_epoch" alt="" coords="184,411,399,467"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="705,40,868,81"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="932,105,1095,146"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManager.html#a0cd2ffb750756de7132eabf6d6a284ce" title="Begins a new transaction on the thread. " alt="" coords="463,164,625,205"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#a3ca58d4acdbc13f9cfd341d95f45caa2" title="foedus::storage::masstree\l::MasstreeCursor::open\l_normalized" alt="" coords="457,287,631,343"/>
+</map>

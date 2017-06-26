@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::get_next_offset" name="foedus::storage::masstree::MasstreeBorderPage::get_next_offset">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html#ab940fc48706197ec728542a3b4438fc7" title="Border node&#39;s Split. " alt="" coords="256,5,429,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a49c67f561e5748dbaf947cc22325a8a5" title="A physical&#45;only method to expand a record within this page without any logical change. " alt="" coords="232,71,453,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html#aae952c17c2f2b1c760f899da5c368054" title="Execute the system transaction. " alt="" coords="501,79,675,120"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="foedus::xct::McsRwLock::set_next_writer" name="foedus::xct::McsRwLock::set_next_writer">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwLock.html#a522c5b2702bad890293b39e634f2c3c4" title="foedus::xct::McsRwLock\l::reset" alt="" coords="219,269,384,310"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#aec915d81c404fca9de77c9eed625afa9" title="Appends a record to this page. " alt="" coords="446,49,625,105"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a9e24c3f7398235571f6f0b0e013f1f23" title="Copy the initial record that will be the only record for a new root page. " alt="" coords="432,129,639,185"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1xct_1_1McsRwLock.html#a7d8cfbe54765bd50c2b6e737636ad8d9" title="foedus::xct::McsRwLock\l::McsRwLock" alt="" coords="453,210,618,251"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a2be77538e13226dbc44134039be0dc73" title="For creating a record that is initially a next&#45;layer. " alt="" coords="691,261,893,317"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#ac7ca15bf233b941d860679b88c8bc87f" title="Installs a new physical record that doesn&#39;t exist logically (delete bit on). " alt="" coords="435,327,636,383"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a5e7ab8019cc94226ed2d71fe671dd6b7" title="used only while page initialization " alt="" coords="444,407,627,449"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1storage_1_1masstree_1_1SplitBorder.html#ab940fc48706197ec728542a3b4438fc7" title="Border node&#39;s Split. " alt="" coords="449,473,622,514"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStoragePimpl.html#a65a45c9727f65048b1b55b7b69dfdce1" title="Appends an already&#45;commited record to this volatile list. " alt="" coords="703,5,881,61"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a3e005713f9a1c12bb2a4771a192b47a5" title="foedus::storage::sequential\l::SequentialComposer::compose" alt="" coords="687,86,897,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialStorage.html#a4179bc96227e441860739b66e5b676cb" title="Used to apply the effect of appending to volatile list. " alt="" coords="947,5,1125,61"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialAppendLogType.html#a18cd427115cf86d01382cd0c7e4df417" title="foedus::storage::sequential\l::SequentialAppendLogType\l::apply_record" alt="" coords="1175,5,1357,61"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1Composer.html#a28c752ec784b85418c0bfafab7ee60c0" title="Construct snapshot pages from sorted run files of one storage. " alt="" coords="947,86,1125,127"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a867f696df8da3aeeab003663a439a535" title="A physical&#45;only method to initialize this page as a volatile page of a layer&#45;root pointed from the gi..." alt="" coords="689,155,895,211"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1masstree_1_1ReserveRecords.html#aae952c17c2f2b1c760f899da5c368054" title="Execute the system transaction. " alt="" coords="949,269,1123,310"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1xct_1_1McsMockDataPage.html#a98fd1b6269642328d35815e64fd942c5" title="foedus::xct::McsMockData\lPage::init" alt="" coords="703,399,881,441"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a82dc0eaea96412a4ddb70006b450d754" title="A system transaction that creates a logically deleted record in this page for the given key..." alt="" coords="709,465,875,521"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1xct_1_1McsMockNode.html#a346c3bf77b2927d718f8f42be58c5c3e" title="foedus::xct::McsMockNode\l::init" alt="" coords="945,399,1127,441"/>
+</map>

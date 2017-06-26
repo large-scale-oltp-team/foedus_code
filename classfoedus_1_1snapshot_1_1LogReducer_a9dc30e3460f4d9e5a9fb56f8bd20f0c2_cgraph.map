@@ -1,0 +1,8 @@
+<map id="foedus::snapshot::LogReducer::uninitialize_once" name="foedus::snapshot::LogReducer::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="277,5,441,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="252,71,465,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#a380a05209f90e3b273f9904d7bd1fc33" title="foedus::snapshot::LogReducer\lControlBlock::uninitialize" alt="" coords="259,136,458,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="273,201,445,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="513,168,685,209"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="513,233,685,275"/>
+</map>

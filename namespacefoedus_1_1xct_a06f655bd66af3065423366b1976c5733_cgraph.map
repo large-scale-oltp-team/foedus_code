@@ -1,0 +1,9 @@
+<map id="foedus::xct::operator&lt;&lt;" name="foedus::xct::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="211,5,333,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="211,71,333,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#ad5be23a25e650f1bad81ce8c87630af0" title="foedus::xct::XctId\l::is_being_written" alt="" coords="211,136,333,177"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1XctId.html#a6008b5f8531e6ee524d60cf86bc20148" title="foedus::xct::XctId\l::is_deleted" alt="" coords="211,201,333,243"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1XctId.html#a41264f4ced33dae443651f57bc09e964" title="foedus::xct::XctId\l::is_moved" alt="" coords="211,267,333,308"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1XctId.html#aa3d33ca4fe97b735ce59594993a1dd94" title="foedus::xct::XctId\l::is_next_layer" alt="" coords="211,332,333,373"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="381,5,504,47"/>
+</map>

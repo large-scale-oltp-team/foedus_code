@@ -1,0 +1,8 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::get_suffix_length_aligned" name="foedus::storage::masstree::MasstreeBorderPage::get_suffix_length_aligned">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage_1_1masstree.html#a907f46e4f7d427806529dd8e2e03dd9c" title="foedus::storage::masstree\l::calculate_suffix_length\l_aligned" alt="" coords="235,41,408,97"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a4dc67e57eb2c90ffced75953dcef70fa" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_remainder_length" alt="" coords="232,121,411,177"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="482,5,642,32"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="475,57,649,98"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8b7973f3eb0f4f3c6894c278c18d7145" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slot" alt="" coords="459,129,665,170"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="713,129,920,170"/>
+</map>

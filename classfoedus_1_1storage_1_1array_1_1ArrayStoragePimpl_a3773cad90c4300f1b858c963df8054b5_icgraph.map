@@ -1,0 +1,4 @@
+<map id="foedus::storage::array::ArrayStoragePimpl::hcc_reset_all_temperature_stat_intermediate" name="foedus::storage::array::ArrayStoragePimpl::hcc_reset_all_temperature_stat_intermediate">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#ae271b3b08151601047c988dab64bcc0d" title="foedus::storage::array\l::ArrayStoragePimpl::hcc\l_reset_all_temperature_stat" alt="" coords="236,13,419,69"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a8d637b3f30a93402b31c7aa44be75a55" title="Resets all volatile pages&#39; temperature stat to be zero in this storage. " alt="" coords="467,13,637,69"/>
+</map>

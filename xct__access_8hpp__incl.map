@@ -1,0 +1,26 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/xct/xct_access.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/xct/xct_access.hpp">
+<area shape="rect" id="node4" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="2181,370,2319,397"/>
+<area shape="rect" id="node5" href="$log_2fwd_8hpp.html" title="Forward declarations of classes in log manager package. " alt="" coords="857,109,987,136"/>
+<area shape="rect" id="node6" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="5,452,164,479"/>
+<area shape="rect" id="node7" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="442,281,597,307"/>
+<area shape="rect" id="node8" href="$page_8hpp.html" title="foedus/storage/page.hpp" alt="" coords="1011,109,1175,136"/>
+<area shape="rect" id="node18" href="$storage__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1303,184,1458,225"/>
+<area shape="rect" id="node35" href="$xct__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1733,191,1879,218"/>
+<area shape="rect" id="node40" href="$xct_2fwd_8hpp.html" title="Forward declarations of classes in transaction package. " alt="" coords="2709,109,2839,136"/>
+<area shape="rect" id="node10" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="671,452,818,479"/>
+<area shape="rect" id="node13" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="1173,452,1297,479"/>
+<area shape="rect" id="node14" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="875,281,999,307"/>
+<area shape="rect" id="node15" href="$atomic__fences_8hpp.html" title="Atomic fence methods and load/store with fences that work for both C++11/non&#45;C++11 code..." alt="" coords="2191,273,2349,315"/>
+<area shape="rect" id="node16" href="$prob__counter_8hpp.html" title="foedus/assorted/prob\l_counter.hpp" alt="" coords="173,273,316,315"/>
+<area shape="rect" id="node33" href="$thread__id_8hpp.html" title="Typedefs of ID types used in thread package. " alt="" coords="1515,363,1655,404"/>
+<area shape="rect" id="node34" href="$thread_2fwd_8hpp.html" title="Forward declarations of classes in thread package. " alt="" coords="1683,281,1831,307"/>
+<area shape="rect" id="node17" href="$uniform__random_8hpp.html" title="foedus/assorted/uniform\l_random.hpp" alt="" coords="253,363,413,404"/>
+<area shape="rect" id="node19" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="1125,273,1293,315"/>
+<area shape="rect" id="node21" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="949,363,1095,404"/>
+<area shape="rect" id="node25" href="$raw__atomics_8hpp.html" title="Raw atomic operations that work for both C++11 and non&#45;C++11 code. " alt="" coords="1469,273,1607,315"/>
+<area shape="rect" id="node26" href="$memory__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="2730,273,2893,315"/>
+<area shape="rect" id="node27" href="$numa_8h.html" title="numa.h" alt="" coords="2853,452,2919,479"/>
+<area shape="rect" id="node32" href="$mod__numa__node_8hpp.html" title="foedus/assorted/mod\l_numa_node.hpp" alt="" coords="2760,363,2903,404"/>
+<area shape="rect" id="node36" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="2059,281,2167,307"/>
+<area shape="rect" id="node37" href="$endianness_8hpp.html" title="A few macros and helper methods related to byte endian&#45;ness. " alt="" coords="2424,281,2633,307"/>
+</map>

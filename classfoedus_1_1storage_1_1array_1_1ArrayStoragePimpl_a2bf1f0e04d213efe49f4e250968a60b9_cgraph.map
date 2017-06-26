@@ -1,0 +1,38 @@
+<map id="foedus::storage::array::ArrayStoragePimpl::load_empty" name="foedus::storage::array::ArrayStoragePimpl::load_empty">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage_1_1array.html#ac0792c331c4b2fcb4918b8e89d5264ae" title="foedus::storage::array\l::calculate_levels" alt="" coords="299,35,447,76"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a8a21a13b165bfe75387d21446ad8758c" title="foedus::storage::array\l::ArrayStoragePimpl::get_id" alt="" coords="282,390,465,431"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#a82624b3d7edff1d02e29c1b8863dd4ee" title="foedus::savepoint::\lSavepointManager::get\l_initial_current_epoch" alt="" coords="296,456,451,512"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="306,536,441,578"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1array_1_1LookupRouteFinder.html#a2d19d9785d226e4c7f9b2f0f549fdd19" title="foedus::storage::array\l::LookupRouteFinder::get\l_records_in_leaf" alt="" coords="289,602,457,658"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Engine.html#a4f168d41ea00249fefe905def87e80c8" title="See Savepoint Manager. " alt="" coords="303,683,443,724"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1memory_1_1EngineMemory.html#ae35d16d716451eaa878ec2888960127d" title="A convenience function to grab one free volatile page from the given node. " alt="" coords="268,748,479,790"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#ac2c4739bd0b33158b22b519faa47c5b2" title="foedus::storage::array\l::ArrayPage::initialize\l_volatile_page" alt="" coords="299,276,447,332"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="805,116,965,142"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gae2beea4717aef7ca9d43b91e48cf5824" title="Efficient ceil(dividee/dividor) for integer. " alt="" coords="562,35,702,76"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a0611bafe6b93b9b860330375cb805fdc" title="foedus::storage::array\l::ArrayStoragePimpl::get_meta" alt="" coords="531,430,733,471"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a69656b017856d4e6b2bcda9085c0d316" title="foedus::savepoint::\lSavepointManagerPimpl\l::get_initial_current_epoch" alt="" coords="545,496,719,552"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1memory_1_1EngineMemory.html#a8bf8832e627cd97fe92c60d38ed96ac8" title="foedus::memory::EngineMemory\l::get_node_memory" alt="" coords="527,584,737,626"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1memory_1_1PagePool.html#a18916c76eea7aa49572e69e48e75717e" title="Gives an object to resolve an offset in this page pool (thus local) to an actual pointer and vice ver..." alt="" coords="543,650,721,691"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a70b68580143ce771f5b5b1f9a209f774" title="foedus::memory::NumaNode\lMemoryRef::get_volatile_pool" alt="" coords="537,715,727,756"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1memory_1_1PagePool.html#a3e9390381783077a504116988cae05c4" title="Grab only one page. " alt="" coords="543,780,721,822"/>
+<area shape="rect" id="node25" href="$structfoedus_1_1memory_1_1LocalPageResolver.html#aa9d2266686c3a66678b37241a3ac434f" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="540,846,724,902"/>
+<area shape="rect" id="node26" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#a273a4c4f51c06ebc91663329742e1c69" title="foedus::storage::Volatile\lPagePointer::set" alt="" coords="551,927,713,968"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#ae901dc06f6b6f4594626ed0b233daec6" title="foedus::memory::PagePool\lPimpl::get_resolver" alt="" coords="795,650,974,691"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a3293a43a76f3720cf5c92c5fbcf2d02f" title="foedus::memory::PagePool\lPimpl::grab_one" alt="" coords="795,780,974,822"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a1a41295b63274fb300e5937a9bb1eca7" title="foedus::memory::PagePool\lPimpl::decrease_free_pool_count" alt="" coords="1032,682,1247,723"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#aa545fc1cffac905225d3a7c7c457b5a8" title="foedus::memory::PagePool\lPimpl::free_pool_head" alt="" coords="1050,747,1229,788"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#abd594ac94d8ac0445ebef734b7305fb6" title="foedus::memory::PagePool\lPimpl::get_debug_pool_name" alt="" coords="1043,812,1236,854"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="1050,878,1229,919"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="1306,783,1498,824"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1assorted_1_1FixedString.html#a16f6de0859f599127e2d4a51a6537a01" title="Convert to a std::string object. " alt="" coords="1295,849,1509,876"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#ae6032f608834a39808e26c59aa0e42e2" title="foedus::storage::array\l::ArrayPage::get_leaf\l_record" alt="" coords="558,181,706,237"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#a9c7bc21358a340d36f3c43a49f774b93" title="foedus::storage::array\l::ArrayPage::is_leaf" alt="" coords="811,218,959,259"/>
+<area shape="rect" id="node30" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#a038d272bb21378544e6d6cd1c8b468b3" title="foedus::storage::array\l::ArrayPage::get_leaf\l_record_count" alt="" coords="558,101,706,157"/>
+<area shape="rect" id="node31" href="$structfoedus_1_1storage_1_1PageHeader.html#a5a84eed10b8675e5df2f35f791991eb5" title="foedus::storage::PageHeader\l::init_volatile" alt="" coords="537,312,727,354"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="555,378,709,405"/>
+<area shape="rect" id="node32" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="785,298,984,339"/>
+<area shape="rect" id="node33" href="$structfoedus_1_1storage_1_1PageVersion.html#ae40168c82f16645e85bb66f9019e53cf" title="used only while page initialization " alt="" coords="789,363,981,404"/>
+<area shape="rect" id="node34" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#af49ef4f3320148130f46f494f1c845aa" title="foedus::storage::PageVersion\lStatus::reset" alt="" coords="1043,331,1235,372"/>
+<area shape="rect" id="node35" href="$structfoedus_1_1xct_1_1McsWwLock.html#a4114c2dec151ad650a294dedac4f239d" title="used only while page initialization " alt="" coords="1055,396,1224,438"/>
+<area shape="rect" id="node36" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3161e47c41388e9c1b50929f585e366b" title="foedus::xct::McsWwBlockData\l::clear" alt="" coords="1301,396,1503,438"/>
+</map>

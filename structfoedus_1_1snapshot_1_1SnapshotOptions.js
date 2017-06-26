@@ -1,0 +1,35 @@
+var structfoedus_1_1snapshot_1_1SnapshotOptions =
+[
+    [ "Constants", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bf", [
+      [ "kDefaultSnapshotTriggerPagePoolPercent", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfa07620b7a21c1934dcab725f063865eb4", null ],
+      [ "kDefaultSnapshotIntervalMilliseconds", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfa7da6515c904dc4b3319acc2b9b830530", null ],
+      [ "kDefaultLogMapperBucketKb", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfa0152837af539868f310b09c6c51af10a", null ],
+      [ "kDefaultLogMapperIoBufferMb", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfa46714cfd2cad56b2c2f221db0b619e06", null ],
+      [ "kDefaultLogReducerBufferMb", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfa686a94b77f91299f3376a30b19fba8ec", null ],
+      [ "kDefaultLogReducerDumpIoBufferMb", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfa7b7bed1c889b45ccdc167d42a98f82f7", null ],
+      [ "kDefaultLogReducerReadIoBufferKb", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfab006aa954d117b76b1858e545704c8e6", null ],
+      [ "kDefaultSnapshotWriterPagePoolSizeMb", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfa73d8829b02ee3baf6b5f546c3a17ed7a", null ],
+      [ "kDefaultSnapshotWriterIntermediatePoolSizeMb", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a853553b221ebf30572445b57ad4de9bfa9e51fa9c2f66baaf55d189de202ffdc4", null ]
+    ] ],
+    [ "SnapshotOptions", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a3ac495a03a7eb3a26328472b20dbda77", null ],
+    [ "assign", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a2237a006642a618897ac70d00c6e7bae", null ],
+    [ "construct_snapshot_file_path", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#aea13c9b06029b240ee72b40a450cacf8", null ],
+    [ "convert_folder_path_pattern", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#aa2874f5cd398cc0907d0a5bee822d1c3", null ],
+    [ "get_primary_folder_path", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a33c26d4ec5f1ea63447bf6075f527440", null ],
+    [ "get_tag_name", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a0c369c5d09741ccfd71cf2b5c51928f6", null ],
+    [ "load", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a0bd2192a2180b6d962fd8850ef577759", null ],
+    [ "save", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#ab8bf2b593d1dedb4377861225ba9345f", null ],
+    [ "operator<<", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#aa217670fd054a131705c1947e07dd4a2", null ],
+    [ "emulation_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#ac1b18bc1cd4db02607e21b6fb7a42b00", null ],
+    [ "folder_path_pattern_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a729986ed4ed726dbf5632798c7385278", null ],
+    [ "log_mapper_bucket_kb_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#ac79b970ad853ac2ef7c9a27ba3de9413", null ],
+    [ "log_mapper_io_buffer_mb_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a8865bd3f00e7699eb8451b5899b0bf20", null ],
+    [ "log_mapper_sort_before_send_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a649cdaf604190c421a00a2a1058cb83f", null ],
+    [ "log_reducer_buffer_mb_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a8a66eec37c6f549733a44d126785c591", null ],
+    [ "log_reducer_dump_io_buffer_mb_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#aa1a6c40b4f6ec39e70c39cc01382e846", null ],
+    [ "log_reducer_read_io_buffer_kb_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#aabd05dbd5408b21929d8a7e83bcb22d6", null ],
+    [ "snapshot_interval_milliseconds_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a53e5b246cc1ea7f0a8de6158377f108b", null ],
+    [ "snapshot_trigger_page_pool_percent_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#ab7d67b4070f88f11d16bf0c5716c93b6", null ],
+    [ "snapshot_writer_intermediate_pool_size_mb_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#a021f261d2a6de13afb216524b039c030", null ],
+    [ "snapshot_writer_page_pool_size_mb_", "structfoedus_1_1snapshot_1_1SnapshotOptions.html#ad6353ba7be8225cc8bdf638182a41611", null ]
+];

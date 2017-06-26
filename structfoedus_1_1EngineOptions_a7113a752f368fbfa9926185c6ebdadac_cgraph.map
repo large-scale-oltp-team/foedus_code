@@ -1,0 +1,6 @@
+<map id="foedus::EngineOptions::load" name="foedus::EngineOptions::load">
+<area shape="rect" id="node2" href="$structfoedus_1_1EngineOptions.html#a3a0e8fc98a85e4b6a7d3549bc0d49314" title="Constructs option values with default values. " alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1externalize_1_1Externalizable.html#acb337f76b6fcc7d2e427c4544a4b9ac8" title="child Externalizable version " alt="" coords="214,71,353,127"/>
+<area shape="rect" id="node5" href="$namespacefoedus.html#a45cb8cfc5e444ccd9016655c46741796" title="foedus::get_children" alt="" coords="214,151,353,178"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1externalize_1_1Externalizable.html#a546988f0869a3899e671f702ecbc5b17" title="Reads the content of this object from the given XML element. " alt="" coords="408,79,552,120"/>
+</map>

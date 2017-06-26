@@ -1,0 +1,10 @@
+<map id="foedus::xct::McsWwBlockData::is_guest_relaxed" name="foedus::xct::McsWwBlockData::is_guest_relaxed">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a9fb4308bc32337299f9532ac5c2b6813" title="[WW] Try to take an exclusive lock. " alt="" coords="273,5,439,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsWwImpl.html#ab45630bd77311e8604ca265ffcbc4edd" title="[WW] Unconditionally takes exclusive&#45;only MCS lock on the given lock. " alt="" coords="273,71,439,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a401267b664485526790472daafedb231" title="foedus::xct::McsWwOwnerless\lImpl::ownerless_release" alt="" coords="255,136,457,177"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a23095f2685916d313450e79bdb27b872" title="[WW] Unlcok an MCS lock acquired by this thread. " alt="" coords="273,201,439,243"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwLock.html#a5d7d7206c9ffc1261829346148361414" title="foedus::xct::McsWwLock\l::ownerless_release_lock" alt="" coords="513,136,682,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#abe151a050342dbaed862cfb67e02fab7" title="Release the lock if acquired. " alt="" coords="737,136,917,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1McsOwnerlessLockScope.html#a0abce8a09831ca63a4c255a6f6e2132f" title="foedus::xct::McsOwnerless\lLockScope::~McsOwnerlessLockScope" alt="" coords="965,136,1220,177"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a8f37f1ac6ee205126ce76fe7ae2f5d52" title="Releases all locks that were acquired. " alt="" coords="505,201,689,243"/>
+</map>

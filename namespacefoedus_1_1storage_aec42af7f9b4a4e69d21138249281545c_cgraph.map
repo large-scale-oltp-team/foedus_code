@@ -1,0 +1,5 @@
+<map id="foedus::storage::describe_volatile_pointer" name="foedus::storage::describe_volatile_pointer">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="221,5,415,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="463,93,624,135"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="237,123,399,164"/>
+</map>

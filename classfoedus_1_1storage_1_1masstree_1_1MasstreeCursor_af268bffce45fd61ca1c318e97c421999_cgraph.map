@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeCursor::copy_combined_key" name="foedus::storage::masstree::MasstreeCursor::copy_combined_key">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="247,5,421,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a0b54c43dec6f8ba15472a25760a3ed07" title="Layer&#45;0 stores the first 8 byte slice, Layer&#45;1 next 8 byte... " alt="" coords="247,71,421,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#ae28baba8eb5b92bc2c737fae67e5d2a2" title="foedus::storage::masstree\l::MasstreeCursor::is_valid_record" alt="" coords="227,136,441,177"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeCursor_1_1Route.html#a14da42a215184c0fc5d3cee4a71d016a" title="foedus::storage::masstree\l::MasstreeCursor::Route\l::is_valid_record" alt="" coords="489,129,663,185"/>
+</map>

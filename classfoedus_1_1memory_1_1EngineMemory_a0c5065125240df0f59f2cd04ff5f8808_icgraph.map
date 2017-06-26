@@ -1,0 +1,8 @@
+<map id="foedus::memory::EngineMemory::get_local_memory" name="foedus::memory::EngineMemory::get_local_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadGroup.html#a527a2a713742fa6383c50b5062c229a7" title="foedus::thread::ThreadGroup\l::initialize_once" alt="" coords="270,5,457,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#af04416fadb8ec5160408982fa67a08c1" title="foedus::cache::CacheManager\lPimpl::initialize_once" alt="" coords="264,71,463,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a741208e803d0a0bb5f979ebb099d2a8d" title="foedus::thread::ThreadPimpl\l::initialize_once" alt="" coords="271,136,455,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1log_1_1Logger.html#a3b1d647f1458d1172a511b7e57a2a237" title="foedus::log::Logger\l::initialize_once" alt="" coords="297,201,429,243"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a8303f5db549570913eefd0e123dbfc2e" title="foedus::log::ThreadLogBuffer\l::initialize_once" alt="" coords="270,267,457,308"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1CacheManager.html#a9181ec7d7e0ee1faa942ba9eec6c1345" title="foedus::cache::CacheManager\l::initialize_once" alt="" coords="511,71,709,112"/>
+</map>

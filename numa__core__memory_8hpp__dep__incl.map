@@ -1,0 +1,20 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/memory/numa_core_memory.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/memory/numa_core_memory.hpp">
+<area shape="rect" id="node2" href="$cache__hashtable_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/cache/cache_hashtable.cpp" alt="" coords="5,131,236,187"/>
+<area shape="rect" id="node3" href="$engine__options_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/engine_options.cpp" alt="" coords="260,131,440,187"/>
+<area shape="rect" id="node4" href="$thread__log__buffer_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/log/thread_log\l_buffer.cpp" alt="" coords="464,124,615,195"/>
+<area shape="rect" id="node5" href="$numa__core__memory_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/memory/numa_core\l_memory.cpp" alt="" coords="639,124,821,195"/>
+<area shape="rect" id="node6" href="$numa__node__memory_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/memory/numa_node\l_memory.cpp" alt="" coords="846,124,1033,195"/>
+<area shape="rect" id="node7" href="$hash__page__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/hash/hash\l_page_impl.cpp" alt="" coords="1057,124,1232,195"/>
+<area shape="rect" id="node8" href="$hash__reserve__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/hash/hash\l_reserve_impl.cpp" alt="" coords="1256,124,1431,195"/>
+<area shape="rect" id="node9" href="$hash__storage__pimpl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/hash/hash\l_storage_pimpl.cpp" alt="" coords="1455,124,1629,195"/>
+<area shape="rect" id="node10" href="$masstree__adopt__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/masstree\l/masstree_adopt_impl.cpp" alt="" coords="1653,124,1828,195"/>
+<area shape="rect" id="node11" href="$masstree__cursor_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/masstree\l/masstree_cursor.cpp" alt="" coords="1852,124,2021,195"/>
+<area shape="rect" id="node12" href="$masstree__grow__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/masstree\l/masstree_grow_impl.cpp" alt="" coords="2046,124,2217,195"/>
+<area shape="rect" id="node13" href="$masstree__page__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/masstree\l/masstree_page_impl.cpp" alt="" coords="2241,124,2411,195"/>
+<area shape="rect" id="node14" href="$masstree__reserve__impl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/masstree\l/masstree_reserve_impl.cpp" alt="" coords="2435,124,2619,195"/>
+<area shape="rect" id="node15" href="$masstree__storage__pimpl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/masstree\l/masstree_storage_pimpl.cpp" alt="" coords="2644,124,2837,195"/>
+<area shape="rect" id="node16" href="$sequential__storage__pimpl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/storage/sequential\l/sequential_storage_pimpl.cpp" alt="" coords="2861,124,3060,195"/>
+<area shape="rect" id="node17" href="$thread_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/thread/thread.cpp" alt="" coords="3084,131,3253,187"/>
+<area shape="rect" id="node18" href="$thread__pimpl_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/thread/thread\l_pimpl.cpp" alt="" coords="3277,124,3428,195"/>
+<area shape="rect" id="node19" href="$xct_8cpp.html" title="/home/shino/foedus\l_code/foedus&#45;core/src\l/foedus/xct/xct.cpp" alt="" coords="3452,131,3603,187"/>
+</map>

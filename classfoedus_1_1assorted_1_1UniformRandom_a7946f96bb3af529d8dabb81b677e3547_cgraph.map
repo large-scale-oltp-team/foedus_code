@@ -1,0 +1,5 @@
+<map id="foedus::assorted::UniformRandom::fill_memory" name="foedus::assorted::UniformRandom::fill_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="224,5,437,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="224,71,437,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a5aba938f3a43d80fbfcca815637bbcfc" title="foedus::assorted::Uniform\lRandom::next_uint32" alt="" coords="245,136,416,177"/>
+</map>

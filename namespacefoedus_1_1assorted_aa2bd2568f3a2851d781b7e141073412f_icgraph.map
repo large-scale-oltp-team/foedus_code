@@ -1,0 +1,9 @@
+<map id="foedus::assorted::get_backtrace" name="foedus::assorted::get_backtrace">
+<area shape="rect" id="node2" href="$namespacefoedus.html#acc3806110789c3309a531109b7d46f3f" title="Prints out backtrace. " alt="" coords="197,111,355,138"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1ErrorStack.html#a0de4b8c0bfcd31e4e8cb1cbaf4b04c13" title="Describe this object to std::cerr and then abort. " alt="" coords="434,5,565,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html#a114c524e1d8efc628c3e7d98f85cfa83" title="Grabs an in&#45;memory page in some NUMA node. " alt="" coords="403,71,596,112"/>
+<area shape="rect" id="node7" href="$namespacefoedus.html#aed2495460b00a9e5b86bcfc3a31f9b63" title="print_assert() + print_backtrace(). " alt="" coords="431,136,567,177"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1UninitializeGuard.html#a36b8ea628094e8ed6d0425ccd744c797" title="foedus::UninitializeGuard\l::~UninitializeGuard" alt="" coords="416,201,583,243"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1ErrorStack.html#aea380eec7175852f420cdd32d3423592" title="Output a warning to stderr if the error is not checked yet. " alt="" coords="644,5,775,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1ErrorStack.html#a0b1ae0f16fdb833f6773c2ba9e594b3f" title="Will warn in stderr if the error code is not checked yet. " alt="" coords="823,5,953,47"/>
+</map>

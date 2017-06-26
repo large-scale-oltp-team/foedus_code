@@ -1,0 +1,10 @@
+<map id="foedus::xct::SysxctLockList::get_last_active_entry" name="foedus::xct::SysxctLockList::get_last_active_entry">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a9cc41f0ba309899664d4068bdbb8f2fb" title="foedus::xct::SysxctLockList\l::assert_sorted_impl" alt="" coords="237,140,421,181"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a9a12a820ec2e222073992d584fdf683c" title="Batched version of get_or_add_entry(). " alt="" coords="933,172,1117,213"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1xct.html#a2bede62c85933f979730b66e77aa71dd" title="foedus::xct::operator\&lt;\&lt;" alt="" coords="251,288,408,315"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a8967a3f413bb1b685bf9135302ee31f3" title="foedus::xct::SysxctLockList\l::to_pos" alt="" coords="237,340,421,381"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a10843e662ca3b9986465a44a0b12dc48" title="Inline definitions of SysxctLockList methods. " alt="" coords="469,106,653,148"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a56013b57350b29742790c8333995b36f" title="Remove all entries. " alt="" coords="701,41,885,82"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a3846f340ffc539d6a6f66c6d9bf7d257" title="Unlike clear_entries(), this is used when a sysxct is aborted and will be retried. " alt="" coords="701,106,885,148"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a241bea116d8bbceba98949d1ba13d7a8" title="foedus::xct::SysxctLockList\l::get_or_add_entry" alt="" coords="701,172,885,213"/>
+</map>

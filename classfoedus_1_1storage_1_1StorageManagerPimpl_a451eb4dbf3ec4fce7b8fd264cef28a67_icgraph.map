@@ -1,0 +1,8 @@
+<map id="foedus::storage::StorageManagerPimpl::drop_storage_apply" name="foedus::storage::StorageManagerPimpl::drop_storage_apply">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManager.html#ad943115e1a67d3769a86e3eb67894470" title="This is called while restart to apply DROP STORAGE logs. " alt="" coords="288,37,481,79"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ae4eaa4425c8c9aa4bfbbbf56303748e5" title="foedus::storage::Storage\lManagerPimpl::uninitialize_once" alt="" coords="280,103,489,144"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1DropLogType.html#ab8e1ae5a2b6b00cbad8d7af966fb713b" title="foedus::storage::DropLog\lType::apply_storage" alt="" coords="557,5,723,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#ac587afcb72a4b29b67a56fb49c49b503" title="Redo metadata operation (create/drop storage) since the latest snapshot. " alt="" coords="537,71,743,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="791,71,945,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="993,71,1188,112"/>
+</map>

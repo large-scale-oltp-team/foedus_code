@@ -1,0 +1,48 @@
+<map id="foedus::xct::XctManagerPimpl::abort_xct" name="foedus::xct::XctManagerPimpl::abort_xct">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#acdd6c3ee6c1e8b0da192818e70fec846" title="foedus::xct::Retrospective\lLockList::clear_entries" alt="" coords="282,152,454,193"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a38d217000e4df1d2d8e829c37218f93e" title="Fill out this retrospetive lock list for the next run of the given transaction. " alt="" coords="282,677,454,719"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="560,436,711,477"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1Xct.html#ae523b00cead387e6addb1366fe08546a" title="foedus::xct::Xct::get\l_read_set" alt="" coords="566,853,705,895"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1Xct.html#af7b9c43800807db798d2e58bc07ad5cd" title="foedus::xct::Xct::get\l_read_set_size" alt="" coords="566,919,705,960"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1xct_1_1Xct.html#a9a76be25f22fd49683d2a4138ab7b199" title="Returns whether the object is an active transaction. " alt="" coords="570,984,701,1025"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1xct_1_1Xct.html#abbc9a5e976aadfba9f1fbf9e9fb39a9a" title="Closes the transaction. " alt="" coords="279,895,457,922"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a9fecc418442394a926c49930cb95cc47" title="Called when the current transaction aborts. " alt="" coords="275,947,461,988"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1xct_1_1Xct.html#a8b718008691c004c92d863b8b75dbe07" title="foedus::xct::Xct::get\l_retrospective_lock_list" alt="" coords="289,1012,447,1053"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1xct_1_1Xct.html#a8a5728b0376ffa45b801a560051d7d7a" title="foedus::xct::Xct::get\l_rll_threshold_for_this_xct" alt="" coords="281,1077,455,1119"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1thread_1_1Thread.html#af98ed86adde3f5e39c9cab39440f38da" title="foedus::thread::Thread\l::get_thread_id" alt="" coords="293,1143,443,1184"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1thread_1_1Thread.html#a9a5d37d6dac9966989e23381f600fcee" title="Returns the private log buffer for this thread. " alt="" coords="291,1208,445,1249"/>
+<area shape="rect" id="node28" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#aba859c4eb829f83fa767720d5b745646" title="foedus::xct::RwLockableXct\lId::hotter" alt="" coords="277,217,459,259"/>
+<area shape="rect" id="node32" href="$classfoedus_1_1xct_1_1Xct.html#aae4b0ccd575851276efddf752c90a273" title="foedus::xct::Xct::is\l_enable_rll_for_this_xct" alt="" coords="289,1273,447,1315"/>
+<area shape="rect" id="node33" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a3c2ee2d08709ff62e77e0dff6eded376" title="unlocking all acquired locks, used when commit/abort. " alt="" coords="248,371,488,412"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a1397c6847c1ee46ba9c09457b4f5866e" title="foedus::xct::Retrospective\lLockList::assert_sorted" alt="" coords="549,736,721,777"/>
+<area shape="rect" id="node8" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="2175,682,2341,709"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="561,305,710,347"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1Xct.html#ae5fa3dcdb891b99e5bc7d83ff2029f46" title="foedus::xct::Xct::get\l_write_set" alt="" coords="566,619,705,660"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1Xct.html#a674e3ce0252c1c9d2f73edf3b3c4307e" title="foedus::xct::Xct::get\l_write_set_size" alt="" coords="566,501,705,543"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1xct_1_1LockEntry.html#a54190c5faf4f6943043c1d83ed435f44" title="foedus::xct::LockEntry::set" alt="" coords="546,567,725,594"/>
+<area shape="rect" id="node20" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="1705,797,1851,839"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a14d555cbd9ddee31c68c9c81ff84c129" title="foedus::xct::Retrospective\lLockList::assert_sorted_impl" alt="" coords="1247,736,1436,777"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1xct.html#a736225e9852f9c75b92e134dbbe40a68" title="foedus::xct::lock_assert\l_sorted" alt="" coords="1925,736,2087,777"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="2183,733,2333,775"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="2177,799,2339,840"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="2412,765,2605,807"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="2428,831,2589,872"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a761b506c86d1d8e5681cab34fac1ad29" title="foedus::xct::CurrentLock\lList::is_empty" alt="" coords="553,1049,717,1091"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1thread_1_1Thread.html#a83bb972b117e155dc7f0faa56751571b" title="foedus::thread::Thread\l::get_lock_rnd" alt="" coords="560,5,711,47"/>
+<area shape="rect" id="node30" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a168e04a3f3aa5c426c6f7980b9f358a7" title="foedus::assorted::ProbCounter\l::increment" alt="" coords="536,71,735,112"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a5aba938f3a43d80fbfcca815637bbcfc" title="foedus::assorted::Uniform\lRandom::next_uint32" alt="" coords="789,71,960,112"/>
+<area shape="rect" id="node34" href="$classfoedus_1_1thread_1_1Thread.html#a21bff0861e0c12573bc0a6b776857b76" title="foedus::thread::Thread\l::cll_release_all_locks" alt="" coords="560,188,711,229"/>
+<area shape="rect" id="node36" href="$classfoedus_1_1xct_1_1Xct.html#afc0b909c82e905105f4f9701082a16b8" title="foedus::xct::Xct::get\l_current_lock_list" alt="" coords="1037,319,1176,360"/>
+<area shape="rect" id="node47" href="$classfoedus_1_1xct_1_1CurrentLockList.html#abb020fdb3951460f9c283d4700696ad2" title="foedus::xct::CurrentLock\lList::clear_entries" alt="" coords="553,371,717,412"/>
+<area shape="rect" id="node35" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a6367855f3aa3549b2d7b74adf383c87a" title="foedus::thread::ThreadPimpl\l::cll_release_all_locks" alt="" coords="783,188,967,229"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a33a1b8b428cd84029b8b377867197ea4" title="foedus::thread::ThreadPimpl\l::is_simple_mcs_rw" alt="" coords="1015,253,1199,295"/>
+<area shape="rect" id="node38" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a069941b140019c23d86092e68cd9b331" title="foedus::xct::CurrentLock\lList::release_all_locks" alt="" coords="1025,188,1189,229"/>
+<area shape="rect" id="node39" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ace2e6a593d7b975f1756ce9eec0fd1f2" title="Release all locks in CLL whose addresses are canonically ordered before the parameter. " alt="" coords="1259,485,1423,527"/>
+<area shape="rect" id="node40" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aed99dee60f9529d5cfabb5e1742038da" title="foedus::xct::CurrentLock\lList::assert_last_locked_entry" alt="" coords="1908,615,2104,656"/>
+<area shape="rect" id="node43" href="$classfoedus_1_1xct_1_1CurrentLockList.html#acbed8e324b88389217b42a132e0547b8" title="foedus::xct::CurrentLock\lList::assert_sorted" alt="" coords="1484,616,1648,657"/>
+<area shape="rect" id="node45" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ae0cbd2f6b369d0340c3222f124fe122b" title="foedus::xct::CurrentLock\lList::begin" alt="" coords="1484,551,1648,592"/>
+<area shape="rect" id="node46" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ad34e69a6289f0860fe000c3bbecda1cb" title="foedus::xct::CurrentLock\lList::end" alt="" coords="1484,485,1648,527"/>
+<area shape="rect" id="node41" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a1a668d5dd1b711abed1a9962a8cb4ec1" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="2152,615,2364,656"/>
+<area shape="rect" id="node42" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a03e818494c4d716f9fc996081f6c419f" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="2421,607,2597,663"/>
+<area shape="rect" id="node44" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a7485f0d26810767b3bef18e12233daa7" title="foedus::xct::CurrentLock\lList::assert_sorted_impl" alt="" coords="1696,616,1860,657"/>
+</map>

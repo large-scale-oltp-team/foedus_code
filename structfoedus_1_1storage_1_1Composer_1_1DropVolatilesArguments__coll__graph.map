@@ -1,0 +1,5 @@
+<map id="foedus::storage::Composer::DropVolatilesArguments" name="foedus::storage::Composer::DropVolatilesArguments">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1Snapshot.html" title="Represents one snapshot that converts all logs from base epoch to valid_until epoch into snapshot fil..." alt="" coords="5,117,189,143"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="45,5,150,32"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html" title="To reduce the overhead of grabbing/releasing pages from pool, we pack this many pointers for each gra..." alt="" coords="213,109,392,151"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="foedus::xct::Xct::get_write_set_size" name="foedus::xct::Xct::get_write_set_size">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad01b60a93f2e107d9c63e7c28799ac1a" title="User transactions related methods. " alt="" coords="192,5,387,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a38d217000e4df1d2d8e829c37218f93e" title="Fill out this retrospetive lock list for the next run of the given transaction. " alt="" coords="203,71,375,112"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1xct.html#adf92a2ee952c5b71c00bad525666fe12" title="foedus::xct::operator\&lt;\&lt;" alt="" coords="211,137,368,163"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad91daff37c2b78b8c6620d67869e9d7f" title="Phase 3 of precommit_xct() " alt="" coords="435,172,629,213"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="677,225,872,267"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="435,317,629,359"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ada7782b43556708daa3bb94f7662409a" title="Subroutine of precommit_xct_lock to track most of moved records in write&#45;set. " alt="" coords="192,339,387,395"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a09e66e6f76cf08131e11a18a44b5d0a4" title="foedus::xct::XctManagerPimpl\l::precommit_xct_sort_access" alt="" coords="192,420,387,461"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManager.html#a0cd2ffb750756de7132eabf6d6a284ce" title="Begins a new transaction on the thread. " alt="" coords="451,5,613,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="435,89,629,131"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="693,89,856,131"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="920,191,1115,232"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1163,191,1325,232"/>
+</map>

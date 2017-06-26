@@ -1,0 +1,4 @@
+<map id="foedus::storage::StorageControlBlock::initialize" name="foedus::storage::StorageControlBlock::initialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="217,5,392,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="440,5,615,47"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/savepoint/savepoint_manager.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/savepoint/savepoint_manager.hpp">
+<area shape="rect" id="node2" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="373,206,497,233"/>
+<area shape="rect" id="node9" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="635,124,743,151"/>
+<area shape="rect" id="node10" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="458,124,611,151"/>
+<area shape="rect" id="node17" href="$log__id_8hpp.html" title="Typedefs of ID types used in log package. " alt="" coords="5,206,149,233"/>
+<area shape="rect" id="node18" href="$savepoint_2fwd_8hpp.html" title="Forward declarations of classes in savepoint manager package. " alt="" coords="767,124,934,151"/>
+<area shape="rect" id="node19" href="$snapshot__id_8hpp.html" title="Typedefs of ID types used in snapshot package. " alt="" coords="174,199,349,240"/>
+<area shape="rect" id="node5" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="233,288,380,315"/>
+<area shape="rect" id="node8" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="487,288,611,315"/>
+<area shape="rect" id="node11" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="572,206,727,233"/>
+<area shape="rect" id="node14" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="861,288,998,315"/>
+<area shape="rect" id="node15" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="1022,288,1173,315"/>
+<area shape="rect" id="node16" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="1011,363,1183,389"/>
+</map>

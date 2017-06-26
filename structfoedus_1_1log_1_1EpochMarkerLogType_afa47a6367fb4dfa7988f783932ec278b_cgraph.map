@@ -1,0 +1,6 @@
+<map id="foedus::log::EpochMarkerLogType::apply_engine" name="foedus::log::EpochMarkerLogType::apply_engine">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LoggerRef.html#a799366126468cf9865d834275d14b266" title="Append a new epoch history. " alt="" coords="231,5,381,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1Thread.html#a64fa1150b812810a2697bd6293aaac9a" title="foedus::thread::Thread\l::get_engine" alt="" coords="231,71,381,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#aa27f031bd1e256d38e616ec9a499eefc" title="See Log Manager. " alt="" coords="239,136,373,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1log_1_1LogManager.html#af649e09d5ffe1db37deab5215aaf85f8" title="Returns a reference to the logger of the given ID. " alt="" coords="224,201,388,243"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/mapreduce_base_impl.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/snapshot/mapreduce_base_impl.hpp">
+<area shape="rect" id="node7" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="153,303,261,329"/>
+<area shape="rect" id="node8" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="1399,131,1553,158"/>
+<area shape="rect" id="node18" href="$log_2fwd_8hpp.html" title="Forward declarations of classes in log manager package. " alt="" coords="1857,131,1986,158"/>
+<area shape="rect" id="node19" href="$log__id_8hpp.html" title="Typedefs of ID types used in log package. " alt="" coords="33,131,177,158"/>
+<area shape="rect" id="node20" href="$snapshot_2fwd_8hpp.html" title="Forward declarations of classes in snapshot manager package. " alt="" coords="1159,221,1324,247"/>
+<area shape="rect" id="node21" href="$log__gleaner__ref_8hpp.html" title="foedus/snapshot/log\l_gleaner_ref.hpp" alt="" coords="653,124,792,165"/>
+<area shape="rect" id="node24" href="$snapshot__id_8hpp.html" title="Typedefs of ID types used in snapshot package. " alt="" coords="811,213,986,255"/>
+<area shape="rect" id="node26" href="$thread_2fwd_8hpp.html" title="Forward declarations of classes in thread package. " alt="" coords="909,131,1057,158"/>
+<area shape="rect" id="node9" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="802,303,926,329"/>
+<area shape="rect" id="node10" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="1449,221,1604,247"/>
+<area shape="rect" id="node13" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="951,303,1097,329"/>
+<area shape="rect" id="node15" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="1553,303,1690,329"/>
+<area shape="rect" id="node16" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="1205,303,1355,329"/>
+<area shape="rect" id="node17" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="1194,377,1366,404"/>
+<area shape="rect" id="node22" href="$attachable_8hpp.html" title="foedus/attachable.hpp" alt="" coords="295,221,444,247"/>
+<area shape="rect" id="node23" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="1010,221,1134,247"/>
+<area shape="rect" id="node25" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="468,221,623,247"/>
+<area shape="rect" id="node27" href="$thread__id_8hpp.html" title="Typedefs of ID types used in thread package. " alt="" coords="647,213,787,255"/>
+</map>

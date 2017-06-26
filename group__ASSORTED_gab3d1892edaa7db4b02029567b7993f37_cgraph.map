@@ -1,0 +1,4 @@
+<map id="foedus::assorted::mod_numa_node" name="foedus::assorted::mod_numa_node">
+<area shape="rect" id="node2" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="225,5,335,32"/>
+<area shape="rect" id="node3" href="$numa_8h.html#a22585176d6e08c221de8377637bd72a7" title="numa_num_configured\l_nodes" alt="" coords="204,57,356,98"/>
+</map>

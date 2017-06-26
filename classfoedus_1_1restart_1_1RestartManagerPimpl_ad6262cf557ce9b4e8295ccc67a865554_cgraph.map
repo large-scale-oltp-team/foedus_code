@@ -1,0 +1,16 @@
+<map id="foedus::restart::RestartManagerPimpl::uninitialize_once" name="foedus::restart::RestartManagerPimpl::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="301,5,465,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManager.html#a9c763bc248b75e0549b8b0b14173d8b4" title="Do not use this unless you know what you are doing. " alt="" coords="291,71,475,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Engine.html#a2770614b3ccee927036e14df8f4e6069" title="See Snapshot Manager. " alt="" coords="314,136,453,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a48d5e1f7ce2f70161c253f650c75ed95" title="See Transaction Manager. " alt="" coords="316,201,451,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#a8c2222c8c5db52f4f1175b1250bf1a4a" title="Returns whether the object has been already initialized or not. " alt="" coords="302,267,465,308"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="588,325,715,367"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#ac35e1cb910337b9d66852e47202fb442" title="This is a hidden API called at the beginning of engine shutdown (namely restart manager). " alt="" coords="263,388,504,429"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="565,260,737,301"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#ab92f4472ad5436d0a216dd8183f26ec6" title="foedus::snapshot::Snapshot\lManagerPimpl::wakeup" alt="" coords="559,391,743,432"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1snapshot_1_1SnapshotManagerControlBlock.html#aea6701821c4d7184cac37f3ad552c60f" title="Fires snapshot_children_wakeup_. " alt="" coords="552,457,751,513"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="799,395,976,436"/>
+<area shape="rect" id="node12" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1033,365,1206,407"/>
+<area shape="rect" id="node13" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="1024,431,1215,458"/>
+<area shape="rect" id="node15" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="801,464,974,505"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="foedus::xct::McsRwExtendedBlock::read_next_flags" name="foedus::xct::McsRwExtendedBlock::read_next_flags">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a3973d3dea17e00c71f69221ec63897f3" title="foedus::xct::McsRwExtended\lBlock::next_flag_has_reader\l_successor" alt="" coords="255,5,447,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a71f54dc1ed2a4fcc5e4555dafe2ba297" title="foedus::xct::McsRwExtended\lBlock::next_flag_has_successor" alt="" coords="245,86,456,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#ad7171fe4d0050b01202b32d34c174944" title="foedus::xct::McsRwExtended\lBlock::next_flag_has_writer\l_successor" alt="" coords="255,152,447,208"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a238f2cf3297aa6531aac004d0ea0a11a" title="foedus::xct::McsRwExtended\lBlock::next_flag_is_busy" alt="" coords="255,233,447,274"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a6b131a428f8ac5f47d52d2040fd626c2" title="foedus::xct::McsRwExtended\lBlock::next_flag_is_direct\l_granted" alt="" coords="255,299,447,355"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#af24c9d681d27ab8dfee8ea278d1fd724" title="foedus::xct::McsRwExtended\lBlock::next_flag_is_granted" alt="" coords="255,379,447,421"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a3cd47f1128da9c380bef4fe12f73c3d9" title="foedus::xct::McsRwExtended\lBlock::next_flag_is_leaving" alt="" coords="255,445,447,486"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a7ca9b2f13121fb8902bab7af781d6bbf" title="foedus::xct::McsRwExtended\lBlock::next_flag_is_leaving\l_granted" alt="" coords="255,576,447,632"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a3c12b37e32eb50d26304087877d479e9" title="foedus::xct::McsRwExtended\lBlock::next_flag_is_waiting" alt="" coords="255,510,447,551"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a088db5ccc88385852678cc7119b35a6c" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_reader\l_successor" alt="" coords="504,115,696,171"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#adcbb55b9e0b63aa7c153cd703246bd2a" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_writer\l_successor" alt="" coords="504,35,696,91"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a5b4ecf935baaeb3f16533296ce248d4a" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_busy" alt="" coords="504,265,696,306"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#aedf919d49e491435bc2036e28e877e91" title="foedus::xct::McsRwExtended\lBlock::unset_next_flag_busy" alt="" coords="504,199,696,241"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a5579e723353a3c6b765f23e59e5e1a30" title="foedus::xct::McsRwExtended\lBlock::mark_released" alt="" coords="504,371,696,413"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#acf3dc5b926c8b9a22cbadd137b3f50dc" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_busy\l_granted" alt="" coords="504,503,696,559"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a82bda8480742432f051a421d3c99bb98" title="foedus::xct::McsRwExtended\lBlock::set_next_flag_granted" alt="" coords="504,437,696,478"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#ab08788e811a8572f29e84a5ce0eaf8eb" title="foedus::xct::McsRwExtended\lBlock::set_flags_granted" alt="" coords="744,437,936,478"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a644706bbc96c499426add1d1e73c690f" title="foedus::xct::McsRwExtended\lBlock::init_reader" alt="" coords="504,649,696,690"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#ad36f00f06cd0a11c3cb1e3e2efb27aba" title="foedus::xct::McsRwExtended\lBlock::init_writer" alt="" coords="504,583,696,625"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="foedus::soc::SharedCond::SharedCond" name="foedus::soc::SharedCond::SharedCond">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedCond.html#ae60eabb533a28bd7df0a4041265039fe" title="foedus::soc::SharedCond\l::initialize" alt="" coords="221,104,389,145"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SharedCond.html#adbfaf38799c428f0cc8e7bb87a75bbf0" title="foedus::soc::SharedCond\l::uninitialize" alt="" coords="441,71,609,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="437,136,612,177"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="661,5,834,47"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="660,71,835,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="660,136,835,177"/>
+</map>

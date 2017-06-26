@@ -1,0 +1,10 @@
+<map id="foedus::storage::sequential::SequentialComposer::RootInfoPage" name="foedus::storage::sequential::SequentialComposer::RootInfoPage">
+<area shape="rect" id="node2" href="$group__SEQUENTIAL.html#structfoedus_1_1storage_1_1sequential_1_1HeadPagePointer" title="Each pointer to a snapshot head page comes with a bit more information to help reading. " alt="" coords="5,303,184,344"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="42,199,147,225"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageHeader.html" title="Just a marker to denote that a memory region represents a data page. " alt="" coords="209,310,399,337"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1assorted_1_1ProbCounter.html" title="Implements a probabilistic counter [Morris 1978]. " alt="" coords="187,199,386,225"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageVersion.html" title="Just a synonym of XctId to be used as a page lock mechanism. " alt="" coords="411,199,603,225"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageVersionStatus.html" title="foedus::storage::PageVersion\lStatus" alt="" coords="340,95,532,136"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwLock.html" title="An exclusive&#45;only (WW) MCS lock data structure. " alt="" coords="557,102,726,129"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="541,5,742,32"/>
+</map>

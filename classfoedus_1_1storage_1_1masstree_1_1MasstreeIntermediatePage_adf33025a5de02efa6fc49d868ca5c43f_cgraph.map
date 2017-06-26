@@ -1,0 +1,10 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePage::extract_separators_volatile" name="foedus::storage::masstree::MasstreeIntermediatePage::extract_separators_volatile">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a7b5848c6b2be269bf90d1d5e41e66a33" title="Retrieves separators defining the index, used only by snapshot composer (or when no race) ..." alt="" coords="239,166,433,222"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#abb6557473edd899373ed9399b455be20" title="foedus::storage::masstree\l::MasstreePage::get_high_fence" alt="" coords="481,5,691,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="483,71,689,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a30f922c414bf3a2faaf7e879b2277f0b" title="foedus::storage::masstree\l::MasstreePage::get_low_fence" alt="" coords="484,136,688,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="493,202,679,258"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#adaf1febd2954da507ffd8daa2757c890" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_separator" alt="" coords="493,282,679,338"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a1a6f55a5a59bcab9631bbb879da689ec" title="foedus::storage::masstree\l::MasstreePage::is_border" alt="" coords="499,363,673,404"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="739,363,929,404"/>
+</map>

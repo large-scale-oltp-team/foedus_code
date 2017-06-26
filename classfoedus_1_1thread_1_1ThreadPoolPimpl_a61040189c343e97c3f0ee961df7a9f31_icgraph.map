@@ -1,0 +1,9 @@
+<map id="foedus::thread::ThreadPoolPimpl::get_thread_ref" name="foedus::thread::ThreadPoolPimpl::get_thread_ref">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#af52661009b044c7a6553234720d71923" title="foedus::thread::ThreadPimpl\l::get_thread_ref" alt="" coords="231,123,415,164"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a3e123fc4b38a06c77a0f8f12234eb5e0" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_other_cur_block" alt="" coords="463,5,680,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a99408b01841c4cd34977a90b71e04dfa" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_rw_other\l_async_block" alt="" coords="728,57,912,113"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a3fec4f48fa468bf3c18986943938a47c" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_rw_other_block" alt="" coords="465,123,677,164"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a6b6b5272a4f797f30df41bd32ad13ad6" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_ww_other_block" alt="" coords="463,188,680,229"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a3e8a52b170df473aaaf3efad96b5f6b3" title="foedus::thread::ThreadPimpl\lMcsAdaptor::other_waiting" alt="" coords="479,253,663,295"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#ab70a7b7dfedbfd2444de64f9a946b262" title="foedus::thread::ThreadPimpl\lMcsAdaptor::dereference\l_rw_tail_block" alt="" coords="728,137,912,193"/>
+</map>

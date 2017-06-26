@@ -1,0 +1,4 @@
+<map id="foedus::log::LoggerRef::get_log_range" name="foedus::log::LoggerRef::get_log_range">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LoggerRef.html#a66297efce7a73131e0e0ffc83df0b469" title="Returns this logger&#39;s durable epoch. " alt="" coords="206,5,357,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="204,71,359,98"/>
+</map>

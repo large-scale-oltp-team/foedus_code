@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePointerIterator::is_valid" name="foedus::storage::masstree::MasstreeIntermediatePointerIterator::is_valid">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="289,5,496,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="300,71,485,127"/>
+</map>

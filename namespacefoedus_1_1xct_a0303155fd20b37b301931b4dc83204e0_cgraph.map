@@ -1,0 +1,4 @@
+<map id="foedus::xct::operator&lt;&lt;" name="foedus::xct::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$group__LOGTYPE.html#ga19bd845c7aa1bc5039169263bdd175a1" title="Invokes the ostream operator for the given log type defined in log_type.xmacro. " alt="" coords="211,5,340,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="388,5,543,47"/>
+</map>

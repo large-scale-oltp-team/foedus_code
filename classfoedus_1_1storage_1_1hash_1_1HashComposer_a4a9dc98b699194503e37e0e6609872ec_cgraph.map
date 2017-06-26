@@ -1,0 +1,7 @@
+<map id="foedus::storage::hash::HashComposer::drop_root_volatile" name="foedus::storage::hash::HashComposer::drop_root_volatile">
+<area shape="rect" id="node2" href="$classfoedus_1_1Attachable.html#a5b324e3abf302a59801aa73419bb4fad" title="foedus::Attachable\l::get_control_block" alt="" coords="226,5,358,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a47a258c2edd9e4d3b3b4a5b472a07d62" title="foedus::storage::hash\l::HashStorage::get_hash\l_metadata" alt="" coords="209,71,375,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a37d93cdda67dd88454e0237f8a511995" title="foedus::storage::hash\l::HashStorage::get_levels" alt="" coords="207,152,377,193"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1Storage.html#ac1b54d4e7f3ad9f7f7c17598911abb01" title="Returns the unique name of this storage. " alt="" coords="210,217,374,259"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1Metadata.html#a675df0db1a3c909581db949c10fd192b" title="foedus::storage::Metadata\l::keeps_all_volatile_pages" alt="" coords="205,283,379,324"/>
+</map>

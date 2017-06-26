@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::retrieve_part_general" name="foedus::storage::masstree::MasstreeStoragePimpl::retrieve_part_general">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a01a2996a1ee370611b72c88f33fe2753" title="Retrieves a part of the given key in this Masstree. " alt="" coords="464,5,637,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#adda60c43db1237644270e90f2a255d35" title="Retrieves a part of the given primitive key in this Masstree. " alt="" coords="235,37,408,93"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a3be736c76c38dd23444cbd78947a63fd" title="Retrieves a part of the given key in this Masstree as a primitive value. " alt="" coords="235,117,408,173"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#ae4bf2da94babc15bf43bd50b17ffb562" title="Retrieves a part of the given primitive key in this Masstree as a primitive value. " alt="" coords="227,197,416,253"/>
+</map>

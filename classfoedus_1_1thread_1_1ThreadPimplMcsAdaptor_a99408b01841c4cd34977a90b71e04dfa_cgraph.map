@@ -1,0 +1,18 @@
+<map id="foedus::thread::ThreadPimplMcsAdaptor::get_rw_other_async_block" name="foedus::thread::ThreadPimplMcsAdaptor::get_rw_other_async_block">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadRef.html#ab5556f95e1e3a5e11eb38dddaf3d0672" title="foedus::thread::ThreadRef\l::get_mcs_rw_async_mapping" alt="" coords="244,5,443,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#abfade56f1f287f66e2ceb587bf5bd25d" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_my_id" alt="" coords="251,71,435,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPimplMcsAdaptor.html#a3fec4f48fa468bf3c18986943938a47c" title="foedus::thread::ThreadPimpl\lMcsAdaptor::get_rw_other_block" alt="" coords="237,188,449,229"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#af52661009b044c7a6553234720d71923" title="foedus::thread::ThreadPimpl\l::get_thread_ref" alt="" coords="497,123,681,164"/>
+<area shape="rect" id="node13" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="257,253,430,295"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1xct.html#ab6884f9a5b07248973aaa54b88e86383" title="foedus::xct::rw_lock\l_to_universal_lock_id" alt="" coords="271,319,416,360"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1thread_1_1ThreadRef.html#aef24583ba3b89316f31f6f07cef3d5c8" title="foedus::thread::ThreadRef\l::get_mcs_rw_blocks" alt="" coords="504,188,675,229"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1thread_1_1ThreadRef.html#a989d82d0632117ab23c4fd1ad041ff3f" title="foedus::thread::ThreadRef\l::get_control_block" alt="" coords="504,253,675,295"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPool.html#a4af4c3d3fd7a9353d892e5270a900f1c" title="Returns the pimpl of this object. " alt="" coords="737,57,915,99"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Engine.html#a4243a3e399186727d6bbdda5bc98f8cd" title="See Thread and Thread&#45;Group. " alt="" coords="759,123,893,164"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a61040189c343e97c3f0ee961df7a9f31" title="For better performance, but for some reason this method causes an issue in MCS lock. " alt="" coords="737,188,915,229"/>
+<area shape="rect" id="node9" href="$group__THREAD.html#ga1622c6d8c64ca80f51c1bef5190ec4fa" title="Extracts NUMA node ID from the given globally unique ID of Thread (core). " alt="" coords="971,155,1149,196"/>
+<area shape="rect" id="node10" href="$group__THREAD.html#ga93083d6b052db01851cb61c120522c1d" title="Extracts local ordinal from the given globally unique ID of Thread (core). " alt="" coords="971,220,1149,261"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="508,319,671,360"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="729,285,923,327"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="745,351,907,392"/>
+</map>

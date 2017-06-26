@@ -1,0 +1,9 @@
+<map id="Storage Manager" name="Storage Manager">
+<area shape="rect" id="node1" href="$group__HASH.html" title="Hashtable Storage, a concurrent hashtable. " alt="" coords="563,5,692,32"/>
+<area shape="rect" id="node3" href="$group__MASSTREE.html" title="Masstree Storage, 64&#45;bit B&#45;tries with internal B&#45;trees. " alt="" coords="565,56,690,83"/>
+<area shape="rect" id="node4" href="$group__SNAPSHOT.html" title="Snapshot Manager, which manages snapshot files of the database. " alt="" coords="562,201,693,228"/>
+<area shape="rect" id="node6" href="$group__ARRAY.html" title="Array Storage, a dense and regular array. " alt="" coords="576,252,679,279"/>
+<area shape="rect" id="node7" href="$group__LOGTYPE.html" title="Defines the content and apply logic of transactional operatrions. " alt="" coords="587,303,668,329"/>
+<area shape="rect" id="node8" href="$group__SEQUENTIAL.html" title="Sequential Storage, an append/scan only data structure. " alt="" coords="561,353,693,380"/>
+<area shape="rect" id="node5" href="$group__COMPONENTS.html" title="Main modules of libfoedus. " alt="" coords="5,231,159,257"/>
+</map>

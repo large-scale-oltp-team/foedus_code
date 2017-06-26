@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::HashDataPage::Slot" name="foedus::storage::hash::HashDataPage::Slot">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1RwLockableXctId.html" title="The MCS reader&#45;writer lock variant of LockableXctId. " alt="" coords="76,95,268,121"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwLock.html" title="An MCS reader&#45;writer lock data structure. " alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="195,5,317,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="foedus::savepoint::SavepointManagerPimpl::take_savepoint" name="foedus::savepoint::SavepointManagerPimpl::take_savepoint">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="227,5,405,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a259c92984615e6e503b8bcc5702f708e" title="foedus::savepoint::\lSavepointManagerPimpl\l::get_requested_durable_epoch" alt="" coords="215,71,417,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a6d2a2dd7ab8311036706a7ef948290cb" title="foedus::savepoint::\lSavepointManagerPimpl\l::get_saved_durable_epoch" alt="" coords="227,151,405,207"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="227,232,405,273"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="245,298,387,325"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="227,349,405,391"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="474,89,647,131"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="465,239,656,266"/>
+</map>

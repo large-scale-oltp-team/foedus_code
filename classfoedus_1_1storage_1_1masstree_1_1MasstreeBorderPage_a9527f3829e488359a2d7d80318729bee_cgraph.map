@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::get_offset_in_bytes" name="foedus::storage::masstree::MasstreeBorderPage::get_offset_in_bytes">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8b7973f3eb0f4f3c6894c278c18d7145" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slot" alt="" coords="232,13,439,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="487,13,693,54"/>
+</map>

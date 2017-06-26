@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::SortedBuffer" name="foedus::snapshot::SortedBuffer">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1DumpFileSortedBuffer.html" title="Implementation of SortedBuffer that is backed by a dumped file. " alt="" coords="5,95,189,136"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1InMemorySortedBuffer.html" title="Implementation of SortedBuffer that is backed by fully in&#45;memory buffer. " alt="" coords="213,95,400,136"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="foedus::thread::ThreadPoolPimpl::get_group" name="foedus::thread::ThreadPoolPimpl::get_group">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPool.html#a990314c9e1ee9ec3a04c73a683e1066c" title="foedus::thread::ThreadPool\l::get_group_ref" alt="" coords="231,17,408,58"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a3bc54c2f85a462fc295d4c31637b14f0" title="foedus::thread::ThreadPool\lPimpl::get_thread" alt="" coords="231,86,408,127"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a881d783a084b1225debd5408a9248a51" title="Makes sure all worker threads will commit with an epoch larger than grace_epoch. " alt="" coords="472,5,667,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ac95c3e56168f87c3550f908720035d60" title="Main routine for epoch_chime_thread_. " alt="" coords="731,13,925,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#aefb36bf03b0bd29c160f5aa36b219d45" title="foedus::xct::XctManagerPimpl\l::initialize_once" alt="" coords="973,13,1168,54"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1thread_1_1ThreadPool.html#ac30dc90d5770fcaa8c302ea5d58ce17e" title="foedus::thread::ThreadPool\l::get_thread_ref" alt="" coords="481,86,658,127"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a15f304020e9adda3eb4f7c00f5b9311f" title="foedus::thread::ThreadPool\lPimpl::impersonate_on_numa_core" alt="" coords="456,151,683,193"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1thread_1_1ThreadPool.html#a4f8014506cf0eea7986d26df628d4a71" title="Overload to specify a core to run on. " alt="" coords="731,151,925,193"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1thread_1_1ThreadPool.html#a3024f0646533edde18e9718d9180e97e" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="974,144,1167,200"/>
+</map>

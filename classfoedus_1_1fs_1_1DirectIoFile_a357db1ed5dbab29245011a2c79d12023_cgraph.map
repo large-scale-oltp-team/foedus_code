@@ -1,0 +1,12 @@
+<map id="foedus::fs::DirectIoFile::sync" name="foedus::fs::DirectIoFile::sync">
+<area shape="rect" id="node2" href="$group__FILESYSTEM.html#ga08865450d848cb894243005bdd226d1e" title="Makes the content and metadata of the file durable all the way up to devices. " alt="" coords="221,61,338,88"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1d89a9c761a388f13f9b59490b6caa00" title="Whether the file is already and successfully opened. " alt="" coords="204,112,355,154"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1fs_1_1DirectIoFile.html#aae86509a918643c3bd8eba937f6803fb" title="foedus::fs::DirectIoFile\l::is_write" alt="" coords="204,178,355,219"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="209,243,349,284"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="836,32,987,58"/>
+<area shape="rect" id="node4" href="$group__FILESYSTEM.html#ga87c90d834f65aad6f7b6540ae226f305" title="Returns if the file is a directory. " alt="" coords="421,61,574,88"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1fs_1_1Path.html#a9859706102ecca097e723d762ec468ae" title="foedus::fs::Path::parent_path" alt="" coords="403,126,592,153"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1fs_1_1FileStatus.html#a7b8858f191dee3d9a92cae0cd759c1e5" title="foedus::fs::FileStatus\l::is_directory" alt="" coords="641,24,787,66"/>
+<area shape="rect" id="node6" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="653,90,775,117"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1fs_1_1Path.html#a95efbd1ef2b5f97560bdc964ab0b00ed" title="foedus::fs::Path::Path" alt="" coords="640,141,788,168"/>
+</map>

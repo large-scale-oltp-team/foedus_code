@@ -1,0 +1,6 @@
+<map id="foedus::get_children" name="foedus::get_children">
+<area shape="rect" id="node2" href="$structfoedus_1_1EngineOptions.html#a7113a752f368fbfa9926185c6ebdadac" title="Reads the content of this object from the given XML element. " alt="" coords="192,5,345,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1EngineOptions.html#a9b2761b37f8338d8f001ba150f7cc8ed" title="foedus::EngineOptions\l::operator=" alt="" coords="192,71,345,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1EngineOptions.html#a7d6579621caf6f984df2daac1e5d981b" title="Writes the content of this object to the given XML element. " alt="" coords="192,136,345,177"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1EngineOptions.html#a024b267c744f66677c8b64ba02c7ceef" title="foedus::EngineOptions\l::EngineOptions" alt="" coords="393,71,547,112"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="foedus::snapshot::SnapshotMetadata::load" name="foedus::snapshot::SnapshotMetadata::load">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a5166bae2fdad9ffa0d5c279edfd3307e" title="Allocate a memory, releasing the current memory if exists. " alt="" coords="237,245,451,287"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1snapshot_1_1SnapshotMetadata.html#ab4b053b27b5491900b41a450b66d1370" title="foedus::snapshot::Snapshot\lMetadata::clear" alt="" coords="252,503,436,544"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="237,568,451,609"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="237,633,451,675"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#a4fe5fe5b830b408ce398ae72e0202b96" title="foedus::storage::Metadata\lSerializer::load_all_storages\l_from_xml" alt="" coords="251,699,437,755"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1memory.html#ac2422aa4fe378da8a9594901762e17df" title="foedus::memory::alloc_mmap" alt="" coords="779,278,972,305"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="1055,333,1195,375"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1memory.html#ae51e4a90f52316ba9dce8ff783f30d84" title="foedus::memory::alloc\l_mmap_1gb_pages" alt="" coords="530,275,681,316"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="795,119,956,160"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gab3d1892edaa7db4b02029567b7993f37" title="In order to run even on a non&#45;numa machine or a machine with fewer sockets, we allow specifying arbit..." alt="" coords="530,443,681,484"/>
+<area shape="rect" id="node9" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="820,391,931,418"/>
+<area shape="rect" id="node11" href="$numa_8h.html#aba49c14c68d23dc05d046db02766b928" title="numa_preferred" alt="" coords="550,71,661,98"/>
+<area shape="rect" id="node12" href="$numa_8h.html#a56f33968932f6550e5e5eb4d1acc67b3" title="numa_set_preferred" alt="" coords="537,122,673,149"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="538,5,673,47"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1memory.html#af6145d9296231995c84badafb6a2a0a9" title="Returns if 1GB hugepages were enabled. " alt="" coords="1043,268,1208,309"/>
+<area shape="rect" id="node10" href="$numa_8h.html#a22585176d6e08c221de8377637bd72a7" title="numa_num_configured\l_nodes" alt="" coords="799,443,951,484"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="808,5,943,47"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1memory_1_1AlignedMemory.html#afd955f5f991e28943c72ecff1167c16b" title="Releases the memory block. " alt="" coords="499,508,712,549"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1externalize_1_1Externalizable.html#a6bfc085f34d1c10a4e97b9733970943c" title="Only declaration in header. " alt="" coords="1260,693,1399,749"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1externalize_1_1Externalizable.html#a7e62a778a3cc034152968775c9a40959" title="enum version " alt="" coords="1260,817,1399,873"/>
+<area shape="rect" id="node22" href="$namespacefoedus_1_1storage.html#aa107adba3b08f4834d19bacbcf37b5a4" title="foedus::storage::load\l_from_xml_array" alt="" coords="534,767,677,808"/>
+<area shape="rect" id="node25" href="$namespacefoedus_1_1storage.html#a7b97cc7201e910b51acae0b84c2cd1e1" title="foedus::storage::load\l_from_xml_hash" alt="" coords="534,832,677,873"/>
+<area shape="rect" id="node27" href="$namespacefoedus_1_1storage.html#a6c3e917e898ad2eb655cc96efddeee0f" title="foedus::storage::load\l_from_xml_masstree" alt="" coords="534,636,677,677"/>
+<area shape="rect" id="node29" href="$namespacefoedus_1_1storage.html#a5123cd5a893c74a42849a95287e325eb" title="foedus::storage::load\l_from_xml_sequential" alt="" coords="531,701,679,743"/>
+<area shape="rect" id="node23" href="$structfoedus_1_1storage_1_1array_1_1ArrayMetadataSerializer.html#a5485b169b709164eb128b40cb54efe5d" title="Reads the content of this object from the given XML element. " alt="" coords="775,767,976,808"/>
+<area shape="rect" id="node24" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#a114b65f4e093ca6789527cadf82c0ade" title="common routine for the implementation of load() " alt="" coords="1039,784,1212,825"/>
+<area shape="rect" id="node26" href="$structfoedus_1_1storage_1_1hash_1_1HashMetadataSerializer.html#a191ed0d443e3b5435949319ca0ef260b" title="Reads the content of this object from the given XML element. " alt="" coords="775,832,975,873"/>
+<area shape="rect" id="node28" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeMetadataSerializer.html#ab2d53e01aae5e1706dbbaedd8dbe30ab" title="Reads the content of this object from the given XML element. " alt="" coords="763,636,987,677"/>
+<area shape="rect" id="node30" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialMetadataSerializer.html#acb662c1d5bff7235f295f9c36145d26d" title="Reads the content of this object from the given XML element. " alt="" coords="760,701,991,743"/>
+</map>

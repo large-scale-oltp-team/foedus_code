@@ -1,0 +1,5 @@
+<map id="foedus::EngineOptions::prescreen_ulimits" name="foedus::EngineOptions::prescreen_ulimits">
+<area shape="rect" id="node2" href="$structfoedus_1_1EngineOptions.html#ae11d1267946c562743cea44470525a69" title="Checks the machine environment and raises as many errors as possible before the engine starts up..." alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1EnginePimpl.html#ad48323b2f8311ecee663647aeeecdea6" title="foedus::EnginePimpl\l::check_valid_options" alt="" coords="408,5,555,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="603,5,744,47"/>
+</map>

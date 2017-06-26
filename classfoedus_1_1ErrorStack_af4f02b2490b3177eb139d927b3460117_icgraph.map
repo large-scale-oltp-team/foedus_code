@@ -1,0 +1,7 @@
+<map id="foedus::ErrorStack::get_stack_depth" name="foedus::ErrorStack::get_stack_depth">
+<area shape="rect" id="node2" href="$classfoedus_1_1FixedErrorStack.html#af63be41a8ddae1a9f9246fd3b24c3496" title="Convert ErrorStack to this object. " alt="" coords="184,5,347,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1FixedErrorStack.html#a87aab1a538fb1bb3791f0710a777755c" title="Assignment operator. " alt="" coords="184,71,347,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1ErrorStack.html#a6544918b53ea2f054ac6f6a282b51ee5" title="Describe this object to the given stream. " alt="" coords="200,136,331,177"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1FixedErrorStack.html#ae9938dfe9dd4059b5413c0163738af7a" title="Copy the content of the given ErrorStack. " alt="" coords="395,71,557,112"/>
+<area shape="rect" id="node6" href="$namespacefoedus.html#ac4e1ca3e8e238acfb1772de05d6f84f5" title="foedus::operator\&lt;\&lt;" alt="" coords="411,143,541,170"/>
+</map>

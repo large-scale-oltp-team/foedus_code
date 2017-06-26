@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeComposeContext::PathLevel::contains_key" name="foedus::storage::masstree::MasstreeComposeContext::PathLevel::contains_key">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeComposeContext_1_1PathLevel.html#a9a5aa95076dc4b12977a3c7f0eb123de" title="foedus::storage::masstree\l::MasstreeComposeContext\l::PathLevel::contains_slice" alt="" coords="258,5,442,61"/>
+<area shape="rect" id="node3" href="$group__MASSTREE.html#gaca11c6ba81d4c4c7708ca3bcdff3bfa0" title="Returns if the given key is 8&#45;bytes aligned and also zero&#45;padded to 8&#45;bytes for easier slicing (which..." alt="" coords="237,86,463,127"/>
+<area shape="rect" id="node4" href="$group__MASSTREE.html#ga48710f51199feed3db2e2f374ae73814" title="Convert an aligned big&#45;endian byte array of at least 8&#45;bytes&#45;length to KeySlice. " alt="" coords="263,152,437,208"/>
+</map>

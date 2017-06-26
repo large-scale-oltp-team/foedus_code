@@ -1,0 +1,6 @@
+<map id="foedus::storage::Partitioner::DesignPartitionArguments" name="foedus::storage::Partitioner::DesignPartitionArguments">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html" title="Holds a set of read&#45;only file objects for snapshot files. " alt="" coords="5,157,212,184"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="23,81,195,108"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="43,5,175,32"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="237,157,450,184"/>
+</map>

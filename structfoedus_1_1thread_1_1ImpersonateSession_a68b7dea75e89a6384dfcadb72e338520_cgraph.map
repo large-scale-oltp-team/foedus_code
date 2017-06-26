@@ -1,0 +1,10 @@
+<map id="foedus::thread::ImpersonateSession::release" name="foedus::thread::ImpersonateSession::release">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadRef.html#a989d82d0632117ab23c4fd1ad041ff3f" title="foedus::thread::ThreadRef\l::get_control_block" alt="" coords="699,102,869,144"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a30d8cc1dfcf5c73a344567c5903da9e6" title="Returns if the impersonation succeeded. " alt="" coords="467,44,649,85"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a553f421acf03b382ef97a3ab909dba61" title="Blocks until the completion of the asynchronous session. " alt="" coords="236,132,419,173"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a38c08d2bd83f427928291221e620b835" title="Returns if the task is still running. " alt="" coords="467,161,649,202"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="469,226,647,268"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="469,292,647,333"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="697,226,871,268"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1soc.html#a875ded688a72b32f8f690f37750e609f" title="foedus::soc::get_now\l_microsec" alt="" coords="711,292,857,333"/>
+</map>

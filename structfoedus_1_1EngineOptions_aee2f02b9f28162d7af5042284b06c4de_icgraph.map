@@ -1,0 +1,5 @@
+<map id="foedus::EngineOptions::get_available_hugepage_memory" name="foedus::EngineOptions::get_available_hugepage_memory">
+<area shape="rect" id="node2" href="$structfoedus_1_1EngineOptions.html#ae11d1267946c562743cea44470525a69" title="Checks the machine environment and raises as many errors as possible before the engine starts up..." alt="" coords="220,13,373,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1EnginePimpl.html#ad48323b2f8311ecee663647aeeecdea6" title="foedus::EnginePimpl\l::check_valid_options" alt="" coords="421,13,568,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="616,13,757,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::snapshot::SnapshotManagerPimpl::read_snapshot_metadata" name="foedus::snapshot::SnapshotManagerPimpl::read_snapshot_metadata">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotManager.html#a4508beef5e0c55a8db38b95f42c41fad" title="Read the snapshot metadata file that contains storages as of the snapshot. " alt="" coords="252,5,436,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a49864b0bae19e6c2fe61a2422d1650af" title="foedus::storage::Storage\lManagerPimpl::initialize\l_read_latest_snapshot" alt="" coords="484,5,648,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#ad89ca2bb2619e01c3b13d65302a3d7c9" title="foedus::storage::Storage\lManagerPimpl::initialize_once" alt="" coords="696,13,891,54"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::thread::NumaThreadScope::NumaThreadScope" name="foedus::thread::NumaThreadScope::NumaThreadScope">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#gab3d1892edaa7db4b02029567b7993f37" title="In order to run even on a non&#45;numa machine or a machine with fewer sockets, we allow specifying arbit..." alt="" coords="239,57,389,98"/>
+<area shape="rect" id="node3" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="458,5,569,32"/>
+<area shape="rect" id="node5" href="$numa_8h.html#ac6618aae76a34e8a614451a78cc82e0a" title="numa_run_on_node" alt="" coords="247,123,381,149"/>
+<area shape="rect" id="node6" href="$numa_8h.html#a21a5645afe199400042a64e960a3f14e" title="numa_set_localalloc" alt="" coords="244,173,384,200"/>
+<area shape="rect" id="node4" href="$numa_8h.html#a22585176d6e08c221de8377637bd72a7" title="numa_num_configured\l_nodes" alt="" coords="437,57,589,98"/>
+</map>

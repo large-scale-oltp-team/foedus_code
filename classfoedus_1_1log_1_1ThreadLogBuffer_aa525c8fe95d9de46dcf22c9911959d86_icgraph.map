@@ -1,0 +1,6 @@
+<map id="foedus::log::ThreadLogBuffer::get_last_epoch" name="foedus::log::ThreadLogBuffer::get_last_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a58d7c07a52d42d459002bc590421de8a" title="Called when the current transaction is successfully committed. " alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="475,5,669,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="717,5,912,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="960,5,1123,47"/>
+</map>

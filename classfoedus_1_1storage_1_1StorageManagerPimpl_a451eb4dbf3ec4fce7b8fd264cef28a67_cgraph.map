@@ -1,0 +1,5 @@
+<map id="foedus::storage::StorageManagerPimpl::drop_storage_apply" name="foedus::storage::StorageManagerPimpl::drop_storage_apply">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1StorageControlBlock.html#af1f0b118bed183f7daf070409112ca93" title="foedus::storage::Storage\lControlBlock::exists" alt="" coords="281,5,445,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1StorageControlBlock.html#a5d48fcb0161900103f62ee997f809652" title="foedus::storage::Storage\lControlBlock::uninitialize" alt="" coords="280,71,445,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="493,71,668,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::thread::StoppableThread::stop" name="foedus::thread::StoppableThread::stop">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1StoppableThread.html#a3040b11b872cbdc6d55bcb93ffb94e6e" title="If the thread is still running, requests the thread to stop and waits until it exists. " alt="" coords="224,71,395,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1StoppableThread.html#a5b64f08d0a49414586e8b54d0483d046" title="Blocks until the thread stops. " alt="" coords="224,136,395,177"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1StoppableThread.html#add9d438b224f5ae11ba69a3ce1963d11" title="returns whether someone has requested to stop this. " alt="" coords="443,5,617,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1StoppableThread.html#a72321e7bef9d0dc35d0653938a55cb2a" title="returns whether this thread has stopped (if the thread hasn&#39;t started, false too). " alt="" coords="445,136,615,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ConditionVariable.html#a6bc66434519910e355ef8f3ee05f3384" title="Notify one waiter that the event has happened. " alt="" coords="447,71,613,112"/>
+</map>

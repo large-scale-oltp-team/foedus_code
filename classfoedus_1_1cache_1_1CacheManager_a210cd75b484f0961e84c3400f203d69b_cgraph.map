@@ -1,0 +1,7 @@
+<map id="foedus::cache::CacheManager::describe" name="foedus::cache::CacheManager::describe">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a2876d026b658af099cdf153ed1529369" title="foedus::cache::CacheManager\lPimpl::describe" alt="" coords="252,39,451,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePool.html#aae17b661b01fd08a3019128c82227e7c" title="foedus::memory::PagePool\l::get_stat" alt="" coords="499,5,677,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="521,71,655,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a55ba648cb98718804a890ea3b4965e39" title="foedus::memory::PagePool\lPimpl::get_stat" alt="" coords="725,5,904,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a50e6fad1a2e9735182f83a52a5e329b0" title="foedus::memory::PagePool\lPimpl::get_free_pool_count" alt="" coords="952,5,1131,47"/>
+</map>

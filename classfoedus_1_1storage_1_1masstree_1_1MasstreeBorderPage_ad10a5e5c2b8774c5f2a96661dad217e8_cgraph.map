@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::get_suffix_length" name="foedus::storage::masstree::MasstreeBorderPage::get_suffix_length">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="235,5,408,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a4dc67e57eb2c90ffced75953dcef70fa" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_remainder_length" alt="" coords="232,71,411,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8b7973f3eb0f4f3c6894c278c18d7145" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slot" alt="" coords="459,79,665,120"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="713,79,920,120"/>
+</map>

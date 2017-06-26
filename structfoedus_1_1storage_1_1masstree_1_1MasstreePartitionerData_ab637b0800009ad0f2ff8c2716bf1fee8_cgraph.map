@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreePartitionerData::find_partition" name="foedus::storage::masstree::MasstreePartitionerData::find_partition">
+<area shape="rect" id="node2" href="$group__MASSTREE.html#gaca11c6ba81d4c4c7708ca3bcdff3bfa0" title="Returns if the given key is 8&#45;bytes aligned and also zero&#45;padded to 8&#45;bytes for easier slicing (which..." alt="" coords="227,5,452,47"/>
+<area shape="rect" id="node3" href="$group__MASSTREE.html#ga48710f51199feed3db2e2f374ae73814" title="Convert an aligned big&#45;endian byte array of at least 8&#45;bytes&#45;length to KeySlice. " alt="" coords="253,71,426,127"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="foedus::snapshot::SortedBuffer::get_cur_block_abosulte_end" name="foedus::snapshot::SortedBuffer::get_cur_block_abosulte_end">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1sequential_1_1StreamStatus.html#abc4add6d276ba5433d09fbf27a352ad2" title="foedus::storage::sequential\l::StreamStatus::init" alt="" coords="225,5,404,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1MergeSort.html#a990f4ab6b1e22a9ec86184c402decd15" title="foedus::snapshot::MergeSort\l::initialize_once" alt="" coords="220,71,409,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a3e005713f9a1c12bb2a4771a192b47a5" title="foedus::storage::sequential\l::SequentialComposer::compose" alt="" coords="457,5,668,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1Composer.html#a28c752ec784b85418c0bfafab7ee60c0" title="Construct snapshot pages from sorted run files of one storage. " alt="" coords="716,5,895,47"/>
+</map>

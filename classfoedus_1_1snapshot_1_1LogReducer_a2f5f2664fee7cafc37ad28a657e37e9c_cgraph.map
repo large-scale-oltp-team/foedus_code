@@ -1,0 +1,27 @@
+<map id="foedus::snapshot::LogReducer::initialize_once" name="foedus::snapshot::LogReducer::initialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a5166bae2fdad9ffa0d5c279edfd3307e" title="Allocate a memory, releasing the current memory if exists. " alt="" coords="252,222,465,263"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1snapshot_1_1MapReduceBase.html#a649cad8103f0e450c68866e7f44bea74" title="foedus::snapshot::MapReduce\lBase::get_numa_node" alt="" coords="259,291,458,332"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="291,356,426,398"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1memory_1_1AlignedMemory.html#a8db2e188293eaeebdf36cf39920efedd" title="Returns the byte size of the memory block. " alt="" coords="252,422,465,463"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="291,487,426,528"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#a966d8e3e1ef26127add6b515174599b2" title="foedus::snapshot::LogReducer\lControlBlock::initialize" alt="" coords="259,552,458,594"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1DefaultInitializable.html#a22a0dc3bbbca682c3bc41eace9b6d1ff" title="Typical implementation of Initializable::initialize() that provides initialize&#45;once semantics..." alt="" coords="273,626,445,667"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1memory_1_1AlignedMemory.html#ad11d2289458b26db2aaef9de984045a0" title="Returns if this object doesn&#39;t hold a valid memory block. " alt="" coords="252,691,465,732"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1memory.html#ac2422aa4fe378da8a9594901762e17df" title="foedus::memory::alloc_mmap" alt="" coords="760,276,953,302"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="1014,392,1154,434"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1memory.html#ae51e4a90f52316ba9dce8ff783f30d84" title="foedus::memory::alloc\l_mmap_1gb_pages" alt="" coords="537,276,688,318"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="776,392,937,434"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gab3d1892edaa7db4b02029567b7993f37" title="In order to run even on a non&#45;numa machine or a machine with fewer sockets, we allow specifying arbit..." alt="" coords="537,58,688,99"/>
+<area shape="rect" id="node9" href="$numa_8h.html#a413cadd87796fff247c83d9ad817cc7e" title="numa_available" alt="" coords="801,6,912,33"/>
+<area shape="rect" id="node11" href="$numa_8h.html#aba49c14c68d23dc05d046db02766b928" title="numa_preferred" alt="" coords="557,124,668,150"/>
+<area shape="rect" id="node12" href="$numa_8h.html#a56f33968932f6550e5e5eb4d1acc67b3" title="numa_set_preferred" alt="" coords="545,174,681,201"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="545,342,680,383"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1memory.html#af6145d9296231995c84badafb6a2a0a9" title="Returns if 1GB hugepages were enabled. " alt="" coords="1001,268,1167,310"/>
+<area shape="rect" id="node10" href="$numa_8h.html#a22585176d6e08c221de8377637bd72a7" title="numa_num_configured\l_nodes" alt="" coords="781,58,933,99"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="789,327,924,368"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1snapshot_1_1LogReducerControlBlock.html#a10138591711bd165e6605de2b9d43b10" title="foedus::snapshot::LogReducer\lControlBlock::clear" alt="" coords="513,510,712,551"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1DefaultInitializable.html#ab8ae37e5f20f312f8b945fc40d3e0250" title="foedus::DefaultInitializable\l::initialize_once" alt="" coords="527,706,699,747"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="547,771,678,812"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="527,575,699,616"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="527,640,699,682"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::thread::Thread::cll_release_all_locks" name="foedus::thread::Thread::cll_release_all_locks">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a3c2ee2d08709ff62e77e0dff6eded376" title="unlocking all acquired locks, used when commit/abort. " alt="" coords="204,35,444,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="735,5,929,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="492,64,687,105"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="977,5,1140,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="751,71,913,112"/>
+</map>

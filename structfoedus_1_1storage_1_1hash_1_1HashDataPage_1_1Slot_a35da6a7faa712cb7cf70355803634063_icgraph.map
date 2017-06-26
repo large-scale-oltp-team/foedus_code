@@ -1,0 +1,8 @@
+<map id="foedus::storage::hash::HashDataPage::Slot::get_aligned_key_length" name="foedus::storage::hash::HashDataPage::Slot::get_aligned_key_length">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a2ba57f24b316aa460765eb960cc7df00" title="defined in hash_page_debug.cpp. " alt="" coords="220,5,381,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1hash_1_1HashDataPage_1_1Slot.html#add6863451ba01bcf490fc84d86a7c579" title="foedus::storage::hash\l::HashDataPage::Slot\l::get_max_payload" alt="" coords="227,85,375,141"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage_1_1hash.html#a473b6a9b60f79af8898447d30c8fe963" title="foedus::storage::hash\l::operator\&lt;\&lt;" alt="" coords="227,166,374,207"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#aff42645ccbe996e009d1ffe226fe5b42" title="foedus::storage::hash\l::HashDataPage::assert\l_entries" alt="" coords="429,5,591,61"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html#ad189e0523907caacae334102d9383b15" title="The main loop (well, recursion actually). " alt="" coords="434,85,586,141"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1ReserveRecords.html#a7e1a17602380cbf9c736d93591a84f5e" title="Execute the system transaction. " alt="" coords="639,93,789,134"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::snapshot::DumpFileSortedBuffer::wind" name="foedus::snapshot::DumpFileSortedBuffer::wind">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SortedBuffer.html#afb3c42518538c584ac9640c7c1313c3f" title="foedus::snapshot::Sorted\lBuffer::assert_checks" alt="" coords="237,5,404,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a6848e9b0a2e9ecce1570c49803b3f375" title="foedus::fs::DirectIoFile\l::get_current_offset" alt="" coords="245,71,396,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1c6bff6aafc955fd4c2a8e11e7f41f40" title="Sequentially read the given amount of contents from the current position. " alt="" coords="245,136,396,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::thread::ThreadPool::get_group_ref" name="foedus::thread::ThreadPool::get_group_ref">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a881d783a084b1225debd5408a9248a51" title="Makes sure all worker threads will commit with an epoch larger than grace_epoch. " alt="" coords="231,5,425,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ac95c3e56168f87c3550f908720035d60" title="Main routine for epoch_chime_thread_. " alt="" coords="473,13,668,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#aefb36bf03b0bd29c160f5aa36b219d45" title="foedus::xct::XctManagerPimpl\l::initialize_once" alt="" coords="716,13,911,54"/>
+</map>

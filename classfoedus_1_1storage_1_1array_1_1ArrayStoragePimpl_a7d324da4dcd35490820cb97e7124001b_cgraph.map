@@ -1,0 +1,44 @@
+<map id="foedus::storage::array::ArrayStoragePimpl::overwrite_record_primitive" name="foedus::storage::array::ArrayStoragePimpl::overwrite_record_primitive">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#a7dad4e0e5a6770ee941bd365410f9b6a" title="Add the given record to the write set of this transaction. " alt="" coords="273,209,415,251"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1storage_1_1array_1_1ArrayOverwriteLogType.html#a91cb4afcdb444d2b876c8e7767626f8f" title="foedus::storage::array\l::ArrayOverwriteLogType\l::calculate_log_length" alt="" coords="263,305,425,361"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="269,385,419,427"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a8a21a13b165bfe75387d21446ad8758c" title="foedus::storage::array\l::ArrayStoragePimpl::get_id" alt="" coords="253,451,435,492"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1thread_1_1Thread.html#a9a5d37d6dac9966989e23381f600fcee" title="Returns the private log buffer for this thread. " alt="" coords="267,516,421,557"/>
+<area shape="rect" id="node28" href="$structfoedus_1_1storage_1_1array_1_1ArrayOverwriteLogType.html#a823803709eb1866c0c2192c272102e8f" title="For primitive types. " alt="" coords="263,582,425,638"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a9a8c4e8f3a994272f52ddddb312f15b9" title="Reserves a space for a new (uncommitted) log entry at the tail. " alt="" coords="251,663,437,704"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a1ff8ccbccdede750fb5a18b4da505ad9" title="foedus::xct::Retrospective\lLockList::get_volatile\l_page_resolver" alt="" coords="500,202,672,258"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#a263602e0a73eedbe5f32128635106e17" title="foedus::storage::assert\l_within_valid_volatile_page" alt="" coords="499,283,673,324"/>
+<area shape="rect" id="node15" href="$group__LOGTYPE.html#gad2d33090f44d00949a05c245e5ff1046" title="Invokes the assertion logic of each log type. " alt="" coords="521,136,651,177"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#ace820ba89437e4d3a59fdb47a47525ba" title="Calculate owner_lock_id using the resolver. " alt="" coords="485,71,687,112"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#ad38ebb5eb992249a7b42001fe464ec48" title="foedus::storage::assert\l_within_valid_volatile\l_page_impl" alt="" coords="756,275,911,331"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="1245,153,1419,195"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="1502,357,1651,399"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="980,267,1183,308"/>
+<area shape="rect" id="node14" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="999,333,1164,359"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="1255,219,1409,260"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="1231,285,1433,341"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="1499,288,1654,329"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1496,92,1657,133"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="1481,219,1672,260"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="756,136,911,177"/>
+<area shape="rect" id="node18" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="761,71,906,112"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#adf2e2a9d414bf5cfe86f33198ebdf434" title="Setter for owner_id_address_/owner_lock_id_. " alt="" coords="735,5,932,47"/>
+<area shape="rect" id="node19" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="1000,71,1163,112"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="1235,88,1429,129"/>
+<area shape="rect" id="node23" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="506,349,666,375"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a0611bafe6b93b9b860330375cb805fdc" title="foedus::storage::array\l::ArrayStoragePimpl::get_meta" alt="" coords="485,451,687,492"/>
+<area shape="rect" id="node30" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a6e105bf908004fd08f79432b326067bc" title="Addition operator, considering wrapping around. " alt="" coords="493,604,679,645"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#af9fcb5a5ae968d079ee20e51e7418967" title="foedus::log::ThreadLogBuffer\l::head_to_tail_distance" alt="" coords="740,625,927,667"/>
+<area shape="rect" id="node33" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a8de2c4c08a42a349476956be1b853469" title="Called when we have to wait till offset_head_ advances so that we can put new logs. " alt="" coords="493,789,679,831"/>
+<area shape="rect" id="node32" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a824cf26a13eb7f42d5ae68f5725098c5" title="Subtract operator, considering wrapping around. " alt="" coords="988,625,1175,667"/>
+<area shape="rect" id="node34" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a9aa20c59a7d75cf94742beb43b777de6" title="Only for Debug&#45;assertion. " alt="" coords="740,952,927,993"/>
+<area shape="rect" id="node38" href="$classfoedus_1_1Engine.html#aa27f031bd1e256d38e616ec9a499eefc" title="See Log Manager. " alt="" coords="766,1017,901,1059"/>
+<area shape="rect" id="node39" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="766,691,901,732"/>
+<area shape="rect" id="node40" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="747,756,920,797"/>
+<area shape="rect" id="node41" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="747,821,920,863"/>
+<area shape="rect" id="node42" href="$classfoedus_1_1log_1_1LogManager.html#a5c844c3bc8d71ce709999fd286a5e7b8" title="Wake up loggers if they are sleeping. " alt="" coords="751,887,915,928"/>
+<area shape="rect" id="node35" href="$structfoedus_1_1log_1_1ThreadLogBufferMeta.html#a05db4e7c61f07d2320aa7b2c3c76d520" title="Only for Debug&#45;assertion. " alt="" coords="988,952,1175,993"/>
+<area shape="rect" id="node36" href="$structfoedus_1_1log_1_1ThreadLogBufferMeta.html#a5dd02cf36ffdb642d41badfc61381621" title="foedus::log::ThreadLogBuffer\lMeta::increment_mark_index" alt="" coords="1237,923,1427,964"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="1255,989,1409,1015"/>
+<area shape="rect" id="node43" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#ae0a0fc275f36ad22a57786bc7d17413e" title="foedus::log::LogManagerPimpl\l::wakeup_loggers" alt="" coords="983,887,1180,928"/>
+</map>

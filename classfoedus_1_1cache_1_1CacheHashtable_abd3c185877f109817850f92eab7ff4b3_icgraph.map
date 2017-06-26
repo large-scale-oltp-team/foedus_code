@@ -1,0 +1,10 @@
+<map id="foedus::cache::CacheHashtable::get_physical_buckets" name="foedus::cache::CacheHashtable::get_physical_buckets">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1CacheHashtable.html#a8e9c6560b489d4709183256c6e6d332a" title="Evict some entries from the hashtable. " alt="" coords="515,5,721,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1cache_1_1CacheHashtable.html#a090081806f98e5bb1184632b9fce6293" title="foedus::cache::CacheHashtable\l::evict_main_loop" alt="" coords="260,35,467,76"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1cache_1_1CacheHashtable.html#ab4f979361eb029d81d1ad61d368d86be" title="only for debugging. " alt="" coords="260,100,467,141"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1cache_1_1CacheHashtable.html#a222973805e7f70a5c6d1c28867454229" title="only for debugging. " alt="" coords="260,165,467,207"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a0b5e7574ed3474be65757a9f1d2595fc" title="Evicts pages up to about target_count (maybe a bit more or less). " alt="" coords="769,5,995,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a5a0fd87ff73e0f43e5a901f1c4fa34e3" title="Main routine of cleaner_. " alt="" coords="1043,5,1241,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#af04416fadb8ec5160408982fa67a08c1" title="foedus::cache::CacheManager\lPimpl::initialize_once" alt="" coords="1289,5,1488,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1cache_1_1CacheManager.html#a9181ec7d7e0ee1faa942ba9eec6c1345" title="foedus::cache::CacheManager\l::initialize_once" alt="" coords="1536,5,1735,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="foedus::proc::ProcManager::emulated_register" name="foedus::proc::ProcManager::emulated_register">
+<area shape="rect" id="node2" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#ac5fe40eaa5ef09a4f2ffc65dfb9119d6" title="foedus::proc::ProcManager\lPimpl::emulated_register" alt="" coords="232,64,411,105"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="462,5,634,47"/>
+<area shape="rect" id="node4" href="$group__ERRORCODES.html#gaefc0aeec33bc4adc2f147fd1828b816e" title="Returns the error messages corresponding to ErrorCode enum defined in error_code.xmacro. " alt="" coords="459,71,637,98"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="481,123,615,164"/>
+</map>

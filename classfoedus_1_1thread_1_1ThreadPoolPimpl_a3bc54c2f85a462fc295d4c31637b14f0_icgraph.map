@@ -1,0 +1,6 @@
+<map id="foedus::thread::ThreadPoolPimpl::get_thread" name="foedus::thread::ThreadPoolPimpl::get_thread">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPool.html#ac30dc90d5770fcaa8c302ea5d58ce17e" title="foedus::thread::ThreadPool\l::get_thread_ref" alt="" coords="255,5,433,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a15f304020e9adda3eb4f7c00f5b9311f" title="foedus::thread::ThreadPool\lPimpl::impersonate_on_numa_core" alt="" coords="231,71,457,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPool.html#a4f8014506cf0eea7986d26df628d4a71" title="Overload to specify a core to run on. " alt="" coords="505,71,699,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPool.html#a3024f0646533edde18e9718d9180e97e" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="747,63,940,119"/>
+</map>

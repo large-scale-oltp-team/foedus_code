@@ -1,0 +1,5 @@
+<map id="foedus::memory::alloc_mmap_1gb_pages" name="foedus::memory::alloc_mmap_1gb_pages">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1memory.html#ac2422aa4fe378da8a9594901762e17df" title="foedus::memory::alloc_mmap" alt="" coords="204,46,397,73"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1memory.html#af6145d9296231995c84badafb6a2a0a9" title="Returns if 1GB hugepages were enabled. " alt="" coords="445,5,611,47"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="458,71,598,112"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="foedus::xct::McsWwLock::ownerless_release_lock" name="foedus::xct::McsWwLock::ownerless_release_lock">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsWwOwnerlessImpl.html#a401267b664485526790472daafedb231" title="foedus::xct::McsWwOwnerless\lImpl::ownerless_release" alt="" coords="223,129,425,171"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1xct.html#abc92f6bf35f5db4360f8596b09f778f8" title="foedus::xct::assert\l_mcs_aligned" alt="" coords="509,5,639,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwLock.html#abe15a0d250a2186ac534fc5d2d0b7f8e" title="This is a &quot;relaxed&quot; check. " alt="" coords="489,71,659,112"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#aa6a3e9b495bb234bf4c840a0e43d082e" title="foedus::xct::McsWwBlockData\l::is_valid_relaxed" alt="" coords="723,93,924,135"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1xct.html#ad815773827f1856f8fd25a9d4b41d490" title="foedus::xct::spin_until" alt="" coords="499,187,649,214"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#ae1dc97f03080589ed7ad1cabbdf07ae3" title="foedus::xct::McsWwBlockData\l::is_guest_relaxed" alt="" coords="473,239,675,280"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1assorted.html#aba5893ad8aab7d6aafff7be7f92e1372" title="Spin locally until the given condition returns true. " alt="" coords="748,180,899,221"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="1195,151,1341,192"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1assorted.html#aea055a054d205c76d8f221de4f6aa058" title="foedus::assorted::is\l_running_on_valgrind" alt="" coords="988,147,1131,188"/>
+<area shape="rect" id="node10" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="972,212,1147,253"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#a0f5961269d79e636777d722ade37dd2e" title="Take another current time tick. " alt="" coords="992,277,1127,319"/>
+<area shape="rect" id="node12" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="1201,277,1335,319"/>
+</map>

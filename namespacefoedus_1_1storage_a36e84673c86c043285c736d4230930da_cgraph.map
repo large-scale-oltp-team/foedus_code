@@ -1,0 +1,10 @@
+<map id="foedus::storage::operator&lt;&lt;" name="foedus::storage::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage.html#a159f9bed883184aa077c4134b2bb46c8" title="foedus::storage::describe\l_snapshot_pointer" alt="" coords="236,133,404,174"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage.html#aec42af7f9b4a4e69d21138249281545c" title="foedus::storage::describe\l_volatile_pointer" alt="" coords="236,275,404,317"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="452,5,652,61"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="458,85,646,141"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="457,165,647,221"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="455,246,649,287"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="700,334,861,375"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="471,363,633,405"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::to_buffer_position" name="foedus::snapshot::to_buffer_position">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a4ea0f6f073f92ff447cc34429adafbda" title="Append the log entries of one storage in the given buffer to this reducer&#39;s buffer. " alt="" coords="193,5,392,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1LogBuffer.html#aa16ef4199a6f4fd0d7beecdd21a0fcb5" title="foedus::snapshot::LogBuffer\l::compact" alt="" coords="201,71,384,112"/>
+</map>

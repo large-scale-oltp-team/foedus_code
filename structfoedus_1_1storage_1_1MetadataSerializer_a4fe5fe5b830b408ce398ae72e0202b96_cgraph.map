@@ -1,0 +1,13 @@
+<map id="foedus::storage::MetadataSerializer::load_all_storages_from_xml" name="foedus::storage::MetadataSerializer::load_all_storages_from_xml">
+<area shape="rect" id="node2" href="$structfoedus_1_1externalize_1_1Externalizable.html#a6bfc085f34d1c10a4e97b9733970943c" title="Only declaration in header. " alt="" coords="935,128,1073,184"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1externalize_1_1Externalizable.html#a7e62a778a3cc034152968775c9a40959" title="enum version " alt="" coords="935,252,1073,308"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#aa107adba3b08f4834d19bacbcf37b5a4" title="foedus::storage::load\l_from_xml_array" alt="" coords="241,202,384,244"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage.html#a7b97cc7201e910b51acae0b84c2cd1e1" title="foedus::storage::load\l_from_xml_hash" alt="" coords="241,268,384,309"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#a6c3e917e898ad2eb655cc96efddeee0f" title="foedus::storage::load\l_from_xml_masstree" alt="" coords="241,72,384,113"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1storage.html#a5123cd5a893c74a42849a95287e325eb" title="foedus::storage::load\l_from_xml_sequential" alt="" coords="239,137,387,178"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1array_1_1ArrayMetadataSerializer.html#a5485b169b709164eb128b40cb54efe5d" title="Reads the content of this object from the given XML element. " alt="" coords="449,202,651,244"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#a114b65f4e093ca6789527cadf82c0ade" title="common routine for the implementation of load() " alt="" coords="713,220,887,261"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1hash_1_1HashMetadataSerializer.html#a191ed0d443e3b5435949319ca0ef260b" title="Reads the content of this object from the given XML element. " alt="" coords="450,268,650,309"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeMetadataSerializer.html#ab2d53e01aae5e1706dbbaedd8dbe30ab" title="Reads the content of this object from the given XML element. " alt="" coords="438,72,662,113"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialMetadataSerializer.html#acb662c1d5bff7235f295f9c36145d26d" title="Reads the content of this object from the given XML element. " alt="" coords="435,137,665,178"/>
+</map>

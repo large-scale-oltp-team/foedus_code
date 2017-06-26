@@ -1,0 +1,22 @@
+<map id="foedus::xct::Xct::add_to_write_set" name="foedus::xct::Xct::add_to_write_set">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#a7dad4e0e5a6770ee941bd365410f9b6a" title="Add the given record to the write set of this transaction. " alt="" coords="195,303,336,344"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage.html#a263602e0a73eedbe5f32128635106e17" title="foedus::storage::assert\l_within_valid_volatile_page" alt="" coords="397,163,572,204"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a1ff8ccbccdede750fb5a18b4da505ad9" title="foedus::xct::Retrospective\lLockList::get_volatile\l_page_resolver" alt="" coords="399,331,571,387"/>
+<area shape="rect" id="node15" href="$group__LOGTYPE.html#gad2d33090f44d00949a05c245e5ff1046" title="Invokes the assertion logic of each log type. " alt="" coords="420,412,549,453"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#ace820ba89437e4d3a59fdb47a47525ba" title="Calculate owner_lock_id using the resolver. " alt="" coords="384,265,585,307"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#ad38ebb5eb992249a7b42001fe464ec48" title="foedus::storage::assert\l_within_valid_volatile\l_page_impl" alt="" coords="655,82,809,138"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="1144,39,1317,80"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="1401,97,1550,139"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="879,148,1081,189"/>
+<area shape="rect" id="node13" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="897,97,1063,123"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="1153,236,1308,277"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="1129,155,1332,211"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="1398,167,1553,208"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1395,331,1556,372"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="1380,236,1571,277"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="655,412,809,453"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#adf2e2a9d414bf5cfe86f33198ebdf434" title="Setter for owner_id_address_/owner_lock_id_. " alt="" coords="633,331,831,372"/>
+<area shape="rect" id="node19" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="659,265,805,307"/>
+<area shape="rect" id="node20" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="899,301,1061,343"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="1134,301,1327,343"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::xct::McsRwSimpleBlock::init_writer" name="foedus::xct::McsRwSimpleBlock::init_writer">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#a4cc415110fc856ac0247dce2c00aa6d7" title="foedus::xct::McsRwSimple\lBlock::init_common" alt="" coords="231,5,408,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="456,5,629,47"/>
+</map>

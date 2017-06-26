@@ -1,0 +1,12 @@
+<map id="foedus::storage::masstree::prepare_sort_entries" name="foedus::storage::masstree::prepare_sort_entries">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="257,5,380,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeCommonLogType.html#aee0dcbac82c0486cd1d527f408b65c37" title="foedus::storage::masstree\l::MasstreeCommonLogType\l::get_key" alt="" coords="227,71,411,127"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="257,152,380,193"/>
+<area shape="rect" id="node6" href="$group__MASSTREE.html#ga48710f51199feed3db2e2f374ae73814" title="Convert an aligned big&#45;endian byte array of at least 8&#45;bytes&#45;length to KeySlice. " alt="" coords="232,218,405,274"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1snapshot_1_1LogBuffer.html#a4c866d7cc1684237eca5fff49215b80e" title="foedus::snapshot::LogBuffer\l::resolve" alt="" coords="227,299,410,340"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1masstree_1_1SortEntry.html#aa533b00649d973c69c36f252d96e6076" title="foedus::storage::masstree\l::SortEntry::set" alt="" coords="232,364,405,405"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1Epoch.html#a95ee2922375886d43b8e669a192fd4c4" title="Returns the number epochs from the given epoch to this epoch accounting for wrap&#45;around. " alt="" coords="239,430,399,457"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="475,5,597,47"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1snapshot.html#a499edf9829f41f833e2057346e8bbf3a" title="foedus::snapshot::from\l_buffer_position" alt="" coords="459,299,613,340"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="459,430,613,457"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeMetadata" name="foedus::storage::masstree::MasstreeMetadata">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1Metadata.html" title="Metadata of one storage. " alt="" coords="117,109,291,136"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1assorted_1_1FixedString.html" title="foedus::assorted::FixedString\l\&lt; 60 \&gt;" alt="" coords="5,5,197,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1Metadata_1_1SnapshotThresholds.html" title="Tuning parameters related to snapshotting. " alt="" coords="221,5,395,47"/>
+</map>

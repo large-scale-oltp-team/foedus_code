@@ -1,0 +1,11 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::verify_slot_lengthes" name="foedus::storage::masstree::MasstreeBorderPage::verify_slot_lengthes">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage_1_1Slot.html#a96be3b659b1812ecd7efbf601ea8c929" title="foedus::storage::masstree\l::MasstreeBorderPage::Slot\l::does_point_to_layer" alt="" coords="255,5,437,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage_1_1Slot.html#a447049b6067b0d1be460802f1b6a7076" title="This might be affected by concurrent threads. " alt="" coords="255,85,437,141"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8b7973f3eb0f4f3c6894c278c18d7145" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slot" alt="" coords="243,166,449,207"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#aa3d33ca4fe97b735ce59594993a1dd94" title="foedus::xct::XctId\l::is_next_layer" alt="" coords="539,13,662,54"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage_1_1Slot.html#adecf558d81c86d2c96a701b6305a68b0" title="foedus::storage::masstree\l::MasstreeBorderPage::Slot\l::get_aligned_suffix_length" alt="" coords="509,85,692,141"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage_1_1masstree.html#a907f46e4f7d427806529dd8e2e03dd9c" title="foedus::storage::masstree\l::calculate_suffix_length\l_aligned" alt="" coords="752,85,925,141"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="980,71,1140,97"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="973,122,1147,163"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="497,166,704,207"/>
+</map>

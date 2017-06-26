@@ -1,0 +1,36 @@
+<map id="foedus::storage::hash::HashComposer::construct_root" name="foedus::storage::hash::HashComposer::construct_root">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a55ba9fc4a87f71b3991bba1c39948cc9" title="Write out pages that are contiguous in the main page pool. " alt="" coords="265,5,449,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html#af306ba60622e2a87f75ae93dc6c597b1" title="Returns the memory block. " alt="" coords="499,93,712,135"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Attachable.html#a5b324e3abf302a59801aa73419bb4fad" title="foedus::Attachable\l::get_control_block" alt="" coords="291,188,423,229"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6ddc93fb5df01249140895435819da2f" title="foedus::storage::hash\l::HashIntermediatePage\l::get_level" alt="" coords="277,254,438,310"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a37d93cdda67dd88454e0237f8a511995" title="foedus::storage::hash\l::HashStorage::get_levels" alt="" coords="272,335,443,376"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1Storage.html#ae3cca5dd58aa9bbf419cc07986bbc668" title="Returns the metadata of this storage. " alt="" coords="275,400,439,441"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#af9bcb8a605aecbbc3eabdc6664f6b163" title="foedus::snapshot::Snapshot\lWriter::get_next_page_id" alt="" coords="265,465,449,507"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a4f72263ae71f34fad0130151328d6720" title="foedus::snapshot::Snapshot\lWriter::get_page_base" alt="" coords="265,123,449,164"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1Engine.html#af0ac9dbae9481b295a8492c6d9f6c1d5" title="Shorthand for get_options().thread_.group_count_. " alt="" coords="290,531,425,572"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a134e444d2b945700fe14d0d6d3dd11f0" title="foedus::storage::hash\l::HashIntermediatePage\l::header" alt="" coords="277,597,438,653"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6b20dce9484c09666d6cf1df866d00d3" title="foedus::storage::hash\l::HashIntermediatePage\l::initialize_snapshot_page" alt="" coords="271,677,443,733"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1storage_1_1hash_1_1HashComposer.html#a02f8d5682a453898cbae7ca4a4517094" title="launched on its own thread. " alt="" coords="268,823,447,879"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#ad7ea1e9815cd47c3175371d37974526a" title="foedus::cache::SnapshotFile\lSet::read_page" alt="" coords="264,757,451,799"/>
+<area shape="rect" id="node35" href="$classfoedus_1_1storage_1_1hash_1_1HashComposer.html#a641bbfa48a79b406ae30d8574184f0fd" title="foedus::storage::hash\l::HashComposer::to_string" alt="" coords="269,904,446,945"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669" title="foedus::storage::PageHeader\l::get_in_layer_level" alt="" coords="510,261,701,303"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1storage_1_1PageHeader.html#a65c4acd213d2f482eb29c6dee0818915" title="foedus::storage::PageHeader\l::init_snapshot" alt="" coords="510,579,701,620"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1storage_1_1PageHeader.html#a1956943904b68b6472f53b4e9ed6df87" title="foedus::storage::PageHeader\l::set_in_layer_level" alt="" coords="510,652,701,693"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="765,638,953,694"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="760,572,959,613"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1storage_1_1PageVersion.html#ae40168c82f16645e85bb66f9019e53cf" title="used only while page initialization " alt="" coords="763,507,955,548"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#af49ef4f3320148130f46f494f1c845aa" title="foedus::storage::PageVersion\lStatus::reset" alt="" coords="1007,540,1199,581"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1xct_1_1McsWwLock.html#a4114c2dec151ad650a294dedac4f239d" title="used only while page initialization " alt="" coords="1018,475,1187,516"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3161e47c41388e9c1b50929f585e366b" title="foedus::xct::McsWwBlockData\l::clear" alt="" coords="1247,475,1448,516"/>
+<area shape="rect" id="node24" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="505,783,705,839"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#ae5b153acb9f3115c44a48e10ff2262fb" title="foedus::cache::SnapshotFile\lSet::get_or_open_file" alt="" coords="512,717,699,759"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a5353bbb3b2a815d6c858c8190edeccf4" title="A version that receives a raw pointer that has to be aligned (be careful to use this ver)..." alt="" coords="530,929,681,971"/>
+<area shape="rect" id="node34" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a35814dfec4dab81d5bb46e453f1993e6" title="Sets the position of the next byte to be written/extracted from/to the stream. " alt="" coords="530,864,681,905"/>
+<area shape="rect" id="node26" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="764,718,955,774"/>
+<area shape="rect" id="node28" href="$namespacefoedus_1_1fs.html#a1a3ea81bf627928d9a5f154986af9c48" title="foedus::fs::is_odirect\l_aligned" alt="" coords="788,929,931,971"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1d89a9c761a388f13f9b59490b6caa00" title="Whether the file is already and successfully opened. " alt="" coords="784,1060,935,1101"/>
+<area shape="rect" id="node30" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="789,799,929,840"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1c6bff6aafc955fd4c2a8e11e7f41f40" title="Sequentially read the given amount of contents from the current position. " alt="" coords="784,995,935,1036"/>
+<area shape="rect" id="node32" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="792,864,927,905"/>
+<area shape="rect" id="node33" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="1035,864,1170,905"/>
+</map>

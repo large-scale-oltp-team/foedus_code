@@ -1,0 +1,6 @@
+<map id="foedus::snapshot::MapReduceBase::to_string" name="foedus::snapshot::MapReduceBase::to_string">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1MapReduceBase.html#af685ecd4f6aa00202e875c4d4780ad38" title="foedus::snapshot::MapReduce\lBase::join_thread" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1MapReduceBase.html#a4bb73ed60ea4202f906f63f203b467ff" title="Start executing. " alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a84fdf2f4ccf499b44afed05a273739d9" title="Main routine for snapshot_thread_ in child engines. " alt="" coords="499,39,744,80"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="792,39,987,80"/>
+</map>

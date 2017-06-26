@@ -1,0 +1,26 @@
+var classfoedus_1_1storage_1_1sequential_1_1SequentialPage =
+[
+    [ "SequentialPage", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a18a6ac24025d3a4e9e2e1339dc13e3c9", null ],
+    [ "SequentialPage", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a4967c3c12decddb869fefdc7e3fd4c9a", null ],
+    [ "append_record_nosync", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#aec915d81c404fca9de77c9eed625afa9", null ],
+    [ "assert_consistent", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a38b891ada2a3ed7381bc0d048570fb18", null ],
+    [ "can_insert_record", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#ac3f12983b3c02d8a6e3cae2867f9d4a2", null ],
+    [ "get_all_records_nosync", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a42de87cc36b8a536e759b617ed179478", null ],
+    [ "get_first_record_epoch", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#aebcdc0447e1317476fe28d4303680112", null ],
+    [ "get_payload_length", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a1e9e5ae7d10dd0603fe7aaf31a16127a", null ],
+    [ "get_record_count", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#adfc56f09f9e4e09466c4f102b9283076", null ],
+    [ "get_record_length", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#ae939b5e7e7810c4b8d661bca4025e59d", null ],
+    [ "get_record_offset", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#adabf18c6ba65c8f6b96859aa5dae26e2", null ],
+    [ "get_used_data_bytes", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a664f776eddf9d3988a62f5043e57d9e3", null ],
+    [ "header", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a3d20c83f668324cbd7894c35cbbac629", null ],
+    [ "header", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a7257f92a51a215f73b22d3d439308d37", null ],
+    [ "initialize_snapshot_page", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a24c813069071a3026f40d4a4b3644314", null ],
+    [ "initialize_volatile_page", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#ac05740b312c9c0024d090145d2a4dde0", null ],
+    [ "next_page", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a7ed4fd4e290f1e49a0b187d43b83674e", null ],
+    [ "next_page", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a25ac0ca9f9a7209c89db6af42054cc73", null ],
+    [ "operator=", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a14dcd35ff21636db50fc9465387f31eb", null ],
+    [ "owner_id_from_offset", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a2f8f9a8460228df5790ad3181be49e3b", null ],
+    [ "owner_id_from_offset", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#af88c830bf8df14735938b5528d484cc8", null ],
+    [ "set_payload_length", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a5a28eb20d977bb416b92a5f0386a7d80", null ],
+    [ "unused_dummy_func_filler", "classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a69a4b8ae7511701dfff9f953b80f7c1e", null ]
+];

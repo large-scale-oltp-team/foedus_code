@@ -1,0 +1,21 @@
+<map id="foedus::storage::array::ArrayStorage::drop" name="foedus::storage::array::ArrayStorage::drop">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1EngineMemory.html#a62b2d4de6a72644e9e31d35a7f9beae0" title="Returns the page resolver to convert volatile page ID to page pointer. " alt="" coords="201,5,412,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="749,38,883,79"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PageReleaseBatch.html#aacfb0dd808ba1a987cea4d957e8e511b" title="Called at the end to return all batched pages to their pools. " alt="" coords="207,137,407,178"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#ab46e3b46f500379b6da59949010d5f7a" title="Used only from drop() " alt="" coords="212,361,401,417"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PageReleaseBatch.html#af16728969f6c3544544000355b6d4f30" title="Return all batched pages in the given chunk to its pool. " alt="" coords="461,137,661,178"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1EngineMemory.html#a8bf8832e627cd97fe92c60d38ed96ac8" title="foedus::memory::EngineMemory\l::get_node_memory" alt="" coords="711,103,921,145"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a70b68580143ce771f5b5b1f9a209f774" title="foedus::memory::NumaNode\lMemoryRef::get_volatile_pool" alt="" coords="721,169,911,210"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1PagePool.html#a802171ff0578875748d20b4e9c8c9463" title="Returns the specified number of free pages from the chunk. " alt="" coords="727,234,905,275"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a13d785355359fd936c2b3863d296ba2c" title="foedus::memory::PagePool\lPimpl::release" alt="" coords="975,234,1154,275"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="481,314,642,355"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="460,391,663,433"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1memory_1_1PageReleaseBatch.html#afe13efbf3cc2111936b08e31bd18e179" title="Returns the given in&#45;memory volatile page to appropriate NUMA node. " alt="" coords="461,457,661,498"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="984,318,1145,359"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="739,467,893,509"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="990,393,1139,434"/>
+<area shape="rect" id="node18" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="729,402,903,443"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="715,533,917,589"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="987,537,1142,578"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="969,467,1160,509"/>
+</map>

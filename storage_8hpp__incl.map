@@ -1,0 +1,30 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/storage/storage.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/storage/storage.hpp">
+<area shape="rect" id="node4" href="$attachable_8hpp.html" title="foedus/attachable.hpp" alt="" coords="783,109,932,136"/>
+<area shape="rect" id="node5" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="857,370,981,397"/>
+<area shape="rect" id="node6" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="834,191,942,218"/>
+<area shape="rect" id="node7" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="2307,281,2431,307"/>
+<area shape="rect" id="node11" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="553,281,708,307"/>
+<area shape="rect" id="node17" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="1018,191,1171,218"/>
+<area shape="rect" id="node18" href="$log_2fwd_8hpp.html" title="Forward declarations of classes in log manager package. " alt="" coords="1198,109,1327,136"/>
+<area shape="rect" id="node19" href="$shared__mutex_8hpp.html" title="foedus/soc/shared_mutex.hpp" alt="" coords="283,281,479,307"/>
+<area shape="rect" id="node21" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="1196,191,1351,218"/>
+<area shape="rect" id="node22" href="$metadata_8hpp.html" title="foedus/storage/metadata.hpp" alt="" coords="1549,109,1739,136"/>
+<area shape="rect" id="node34" href="$storage__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1845,184,2000,225"/>
+<area shape="rect" id="node44" href="$thread_2fwd_8hpp.html" title="Forward declarations of classes in thread package. " alt="" coords="1371,109,1519,136"/>
+<area shape="rect" id="node45" href="$xct_2fwd_8hpp.html" title="Forward declarations of classes in transaction package. " alt="" coords="2176,109,2307,136"/>
+<area shape="rect" id="node9" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="1884,452,2031,479"/>
+<area shape="rect" id="node14" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="457,370,594,397"/>
+<area shape="rect" id="node15" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="143,370,294,397"/>
+<area shape="rect" id="node16" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="133,452,305,479"/>
+<area shape="rect" id="node23" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="1478,273,1623,315"/>
+<area shape="rect" id="node27" href="$externalizable_8hpp.html" title="foedus/externalize\l/externalizable.hpp" alt="" coords="1425,184,1556,225"/>
+<area shape="rect" id="node29" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="1648,273,1816,315"/>
+<area shape="rect" id="node33" href="$fs_2fwd_8hpp.html" title="Forward declarations of classes in filesystem package. " alt="" coords="1087,281,1209,307"/>
+<area shape="rect" id="node31" href="$uniform__random_8hpp.html" title="foedus/assorted/uniform\l_random.hpp" alt="" coords="1640,363,1800,404"/>
+<area shape="rect" id="node32" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="1679,452,1838,479"/>
+<area shape="rect" id="node35" href="$raw__atomics_8hpp.html" title="Raw atomic operations that work for both C++11 and non&#45;C++11 code. " alt="" coords="2093,273,2232,315"/>
+<area shape="rect" id="node36" href="$memory__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="2507,273,2669,315"/>
+<area shape="rect" id="node43" href="$thread__id_8hpp.html" title="Typedefs of ID types used in thread package. " alt="" coords="1314,273,1454,315"/>
+<area shape="rect" id="node37" href="$numa_8h.html" title="numa.h" alt="" coords="2763,452,2829,479"/>
+<area shape="rect" id="node42" href="$mod__numa__node_8hpp.html" title="foedus/assorted/mod\l_numa_node.hpp" alt="" coords="2745,363,2887,404"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="foedus::xct::XctId::store_max" name="foedus::xct::XctId::store_max">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#ac151128ff0040de166018da6133f8d85" title="Returns if this XctId is before other in serialization order, meaning this is either an invalid (unus..." alt="" coords="176,86,299,127"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html#aaef554452ea9ac7b072af98cde1558dc" title="Returns if this epoch is before the given epoch in the sense of distance defined in RFC 1982..." alt="" coords="347,5,495,32"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="359,57,482,98"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="559,86,681,127"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="359,174,482,215"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="543,5,697,32"/>
+</map>

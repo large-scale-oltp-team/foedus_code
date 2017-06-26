@@ -1,0 +1,11 @@
+<map id="foedus::soc::ChildEngineStatus::read_status_atomic" name="foedus::soc::ChildEngineStatus::read_status_atomic">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a858b2e2cceeb9f8c71722ed5f8c3c069" title="foedus::soc::SharedMemory\lRepo::get_child_status" alt="" coords="236,129,421,171"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a998409bf9e2aff10ec8dfb02f17bb956" title="Wait for child SOCs to start up and at least finish attaching shared memory. " alt="" coords="469,88,672,129"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#afa01a52797a06b55092eeb900a7f62ef" title="Wait for child SOCs to terminate. " alt="" coords="469,169,672,211"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a77d275f92471e6ac9e0c4bb4c609665f" title="Launch emulated children as threads. " alt="" coords="720,5,923,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#ad9ef70c0b175a6535731e2cf0c2370f1" title="Launch children via fork. " alt="" coords="720,71,923,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a4a9091baae2ba21b2cb888da8d391818" title="Launch children via spawn. " alt="" coords="720,136,923,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="971,71,1173,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="1221,71,1424,112"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a1d435277bd229b7988c3f249c0a0730f" title="foedus::soc::SocManagerPimpl\l::uninitialize_once" alt="" coords="720,201,923,243"/>
+</map>

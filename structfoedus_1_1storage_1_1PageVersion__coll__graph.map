@@ -1,0 +1,5 @@
+<map id="foedus::storage::PageVersion" name="foedus::storage::PageVersion">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PageVersionStatus.html" title="foedus::storage::PageVersion\lStatus" alt="" coords="5,95,197,136"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwLock.html" title="An exclusive&#45;only (WW) MCS lock data structure. " alt="" coords="222,102,391,129"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="206,5,407,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::debugging::RdtscWatch::stop" name="foedus::debugging::RdtscWatch::stop">
+<area shape="rect" id="node2" href="$classfoedus_1_1debugging_1_1RdtscWatch.html#afc5d436b00dfd6af4727e4975e84aa75" title="foedus::debugging::\lRdtscWatch::elapsed" alt="" coords="188,5,335,47"/>
+<area shape="rect" id="node3" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="194,71,329,112"/>
+</map>

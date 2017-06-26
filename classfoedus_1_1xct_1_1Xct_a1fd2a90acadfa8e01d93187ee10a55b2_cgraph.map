@@ -1,0 +1,19 @@
+<map id="foedus::xct::Xct::add_to_read_set" name="foedus::xct::Xct::add_to_read_set">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage.html#a263602e0a73eedbe5f32128635106e17" title="foedus::storage::assert\l_within_valid_volatile_page" alt="" coords="195,172,369,214"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a1ff8ccbccdede750fb5a18b4da505ad9" title="foedus::xct::Retrospective\lLockList::get_volatile\l_page_resolver" alt="" coords="196,337,368,393"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1xct_1_1XctId.html#ad5be23a25e650f1bad81ce8c87630af0" title="foedus::xct::XctId\l::is_being_written" alt="" coords="221,418,343,459"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1xct_1_1XctId.html#aa3d33ca4fe97b735ce59594993a1dd94" title="foedus::xct::XctId\l::is_next_layer" alt="" coords="221,483,343,524"/>
+<area shape="rect" id="node16" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="209,271,355,312"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage.html#ad38ebb5eb992249a7b42001fe464ec48" title="foedus::storage::assert\l_within_valid_volatile\l_page_impl" alt="" coords="421,100,576,156"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="893,48,1067,90"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="1150,107,1299,148"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="628,107,831,148"/>
+<area shape="rect" id="node12" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="647,173,812,200"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="903,246,1057,287"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="879,165,1081,221"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="1147,172,1302,214"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1144,304,1305,346"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="1129,239,1320,280"/>
+<area shape="rect" id="node17" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="417,304,580,346"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="633,363,826,404"/>
+</map>

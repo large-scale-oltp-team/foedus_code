@@ -1,0 +1,41 @@
+<map id="foedus::thread::ThreadPimpl" name="foedus::thread::ThreadPimpl">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="358,152,530,179"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html" title="Repository of memories dynamically acquired and shared within one NUMA node (socket). " alt="" coords="795,91,982,133"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html" title="Holds a set of read&#45;only file objects for snapshot files. " alt="" coords="785,157,992,184"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html" title="Repository of memories dynamically acquired within one CPU core (thread). " alt="" coords="797,209,981,250"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html" title="A thread&#45;local log buffer. " alt="" coords="795,275,982,301"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="40,229,172,256"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1thread_1_1Thread.html" title="Represents one thread running on one NUMA core. " alt="" coords="589,251,739,277"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="610,284,718,311"/>
+<area shape="rect" id="node32" href="$classfoedus_1_1memory_1_1PagePool.html" title="Page pool for volatile read/write store (VolatilePage) and the read&#45;only bufferpool (SnapshotPage)..." alt="" coords="575,317,753,344"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwAsyncMapping.html" title="foedus::xct::McsRwAsyncMapping" alt="" coords="777,513,1000,540"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1thread_1_1ThreadControlBlock.html" title="Shared data of ThreadPimpl. " alt="" coords="793,565,985,606"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1FixedErrorStack.html" title="Representation of ErrorStack that can be copied to other processes and even serialized to files..." alt="" coords="363,356,525,383"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SharedPolling.html" title="A polling&#45;wait mechanism that can be placed in shared memory and used from multiple processes..." alt="" coords="355,408,533,435"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Epoch.html" title="Represents a time epoch. " alt="" coords="391,459,497,485"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1assorted_1_1FixedString.html" title="foedus::assorted::FixedString\l\&lt; 60 \&gt;" alt="" coords="348,510,540,551"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="357,576,531,603"/>
+<area shape="rect" id="node33" href="$classfoedus_1_1cache_1_1CacheHashtable.html" title="A NUMA&#45;local hashtable of cached snapshot pages. " alt="" coords="785,689,992,716"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1xct_1_1Xct.html" title="Represents a user transaction. " alt="" coords="833,740,945,767"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1xct_1_1RwLockableXctId.html" title="The MCS reader&#45;writer lock variant of LockableXctId. " alt="" coords="793,856,985,883"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1xct_1_1McsRwLock.html" title="An MCS reader&#45;writer lock data structure. " alt="" coords="361,920,527,947"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="383,971,505,997"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html" title="Reader&#45;writer (RW) MCS lock classes. " alt="" coords="800,907,977,949"/>
+<area shape="rect" id="node19" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#unionfoedus_1_1xct_1_1McsRwSimpleBlock_1_1Self" title="foedus::xct::McsRwSimple\lBlock::Self" alt="" coords="355,1022,533,1063"/>
+<area shape="rect" id="node20" href="$structfoedus_1_1xct_1_1McsRwSimpleBlock.html#structfoedus_1_1xct_1_1McsRwSimpleBlock_1_1Self_1_1Components" title="foedus::xct::McsRwSimple\lBlock::Self::Components" alt="" coords="17,1022,195,1063"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1xct_1_1McsWwBlock.html" title="Pre&#45;allocated MCS block for WW&#45;locks. " alt="" coords="801,973,976,1000"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="343,1088,545,1115"/>
+<area shape="rect" id="node26" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html" title="Pre&#45;allocated MCS block for extended version of RW&#45;locks. " alt="" coords="793,1025,985,1066"/>
+<area shape="rect" id="node27" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#unionfoedus_1_1xct_1_1McsRwExtendedBlock_1_1Field" title="foedus::xct::McsRwExtended\lBlock::Field" alt="" coords="348,1139,540,1181"/>
+<area shape="rect" id="node28" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#structfoedus_1_1xct_1_1McsRwExtendedBlock_1_1Field_1_1Components" title="foedus::xct::McsRwExtended\lBlock::Field::Components" alt="" coords="10,1139,202,1181"/>
+<area shape="rect" id="node29" href="$structfoedus_1_1memory_1_1LocalPageResolver.html" title="Resolves an offset in local (same NUMA node) page pool to a pointer and vice versa. " alt="" coords="797,1090,981,1131"/>
+<area shape="rect" id="node30" href="$structfoedus_1_1storage_1_1Page.html" title="Just a marker to denote that the memory region represents a data page. " alt="" coords="369,1208,519,1235"/>
+<area shape="rect" id="node31" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html" title="Resolves an offset in a volatile page pool to an actual pointer and vice versa. " alt="" coords="787,1155,990,1197"/>
+<area shape="rect" id="node34" href="$structfoedus_1_1cache_1_1HashFunc.html" title="A simple hash function logic used in snasphot cache. " alt="" coords="359,627,529,653"/>
+<area shape="rect" id="node35" href="$structfoedus_1_1assorted_1_1ConstDiv.html" title="The pre&#45;calculated p&#45;m pair for optimized integer division by constant. " alt="" coords="17,627,195,653"/>
+<area shape="rect" id="node36" href="$namespacefoedus_1_1cache.html#structfoedus_1_1cache_1_1CacheOverflowEntry" title="An entry in the overflow linked list for snapshot cache. " alt="" coords="346,741,542,782"/>
+<area shape="rect" id="node37" href="$structfoedus_1_1cache_1_1CacheBucket.html" title="Hash bucket in cache table. " alt="" coords="11,696,201,723"/>
+<area shape="rect" id="node38" href="$structfoedus_1_1cache_1_1CacheRefCount.html" title="A loosely maintained reference count for CLOCK algorithm. " alt="" coords="5,764,207,791"/>
+<area shape="rect" id="node39" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="337,869,551,896"/>
+<area shape="rect" id="node40" title="STL class. " alt="" coords="847,1221,931,1248"/>
+</map>

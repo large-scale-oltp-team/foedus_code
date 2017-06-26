@@ -1,0 +1,7 @@
+<map id="foedus::storage::VolatilePagePointer::is_equivalent" name="foedus::storage::VolatilePagePointer::is_equivalent">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aca3a58f3f123782aa1b769447d93fb44" title="Subroutine to decide how we will split this page. " alt="" coords="231,5,404,61"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage_1_1hash.html#a9f2184183295be33fa07409851c479eb" title="foedus::storage::hash\l::resolve_data_impl" alt="" coords="244,86,391,127"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage_1_1hash.html#a78b52db183085350b7aba42029e4bf37" title="foedus::storage::hash\l::resolve_intermediate_impl" alt="" coords="228,151,407,193"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#a96de88f03cf5683529e00d2c209a07e9" title="The core implementation after locking relevant pages and acquiring free page resource. " alt="" coords="455,5,628,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1SplitIntermediate.html#aa656a627e949f49b8903908d2ea1204f" title="Interior node&#39;s Split. " alt="" coords="676,13,849,54"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="foedus::fs::DirectIoFile::get_current_offset" name="foedus::fs::DirectIoFile::get_current_offset">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1MetaLogger.html#a5a3484d094947ced0a08a5e162f08a88" title="foedus::log::MetaLogger\l::initialize_once" alt="" coords="215,5,377,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1log_1_1Logger.html#a3b1d647f1458d1172a511b7e57a2a237" title="foedus::log::Logger\l::initialize_once" alt="" coords="230,71,362,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotWriter.html#a7d71f940f088efa51d0b5769d4fdd31f" title="Open the file so that the writer can start writing. " alt="" coords="204,136,388,177"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1fs.html#accc36bb6a6995d99162f835fe186d2ef" title="foedus::fs::operator\&lt;\&lt;" alt="" coords="221,202,371,229"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1log.html#a182df022267417563df5c7f1552ddbee" title="foedus::log::operator\&lt;\&lt;" alt="" coords="218,253,374,279"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1DumpFileSortedBuffer.html#a22900418b253b1a5164b63eacd15d654" title="Loads next data block to be consumed by the caller (composer). " alt="" coords="204,304,388,345"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::will_conflict" name="foedus::storage::masstree::MasstreeBorderPage::will_conflict">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a0b54c43dec6f8ba15472a25760a3ed07" title="Layer&#45;0 stores the first 8 byte slice, Layer&#45;1 next 8 byte... " alt="" coords="232,5,407,47"/>
+<area shape="rect" id="node3" href="$group__MASSTREE.html#gabdb6a706258be601e621e58653bf528e" title="Extract a part of a big&#45;endian byte array of given length as KeySlice. " alt="" coords="233,71,406,112"/>
+<area shape="rect" id="node4" href="$group__MASSTREE.html#gaa6842bc28437a9d4319e51471f4e3237" title="Convert a big&#45;endian byte array of given length to KeySlice. " alt="" coords="455,41,657,83"/>
+<area shape="rect" id="node5" href="$group__MASSTREE.html#ga6818c708d9ac34b794cb1f91fa6f5296" title="Convert a big&#45;endian byte array of at least 8&#45;bytes&#45;length to KeySlice. " alt="" coords="705,71,879,112"/>
+</map>

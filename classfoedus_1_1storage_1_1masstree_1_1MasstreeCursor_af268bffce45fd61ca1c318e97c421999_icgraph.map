@@ -1,0 +1,7 @@
+<map id="foedus::storage::masstree::MasstreeCursor::copy_combined_key" name="foedus::storage::masstree::MasstreeCursor::copy_combined_key">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#af263fb1494c7ac6a5dbfd28b926ede3b" title="foedus::storage::masstree\l::MasstreeCursor::delete_record" alt="" coords="242,5,450,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#a47399bb011685ecfa60399a14c241771" title="For even handier use, it returns std::string. " alt="" coords="227,71,465,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#a81ce493961aa7dedc518ca4230d01868" title="foedus::storage::masstree\l::MasstreeCursor::increment_record" alt="" coords="231,136,461,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#ab8b1919cb195dd063be409f772b36630" title="foedus::storage::masstree\l::MasstreeCursor::overwrite_record" alt="" coords="235,201,457,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#a496370a645284f8578875529c6eacb0f" title="foedus::storage::masstree\l::MasstreeCursor::overwrite\l_record_primitive" alt="" coords="256,267,436,323"/>
+</map>

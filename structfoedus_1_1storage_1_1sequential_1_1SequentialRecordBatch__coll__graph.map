@@ -1,0 +1,10 @@
+<map id="foedus::storage::sequential::SequentialRecordBatch" name="foedus::storage::sequential::SequentialRecordBatch">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PageHeader.html" title="Just a marker to denote that a memory region represents a data page. " alt="" coords="916,56,1107,83"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1assorted_1_1ProbCounter.html" title="Implements a probabilistic counter [Morris 1978]. " alt="" coords="572,5,771,32"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageVersion.html" title="Just a synonym of XctId to be used as a page lock mechanism. " alt="" coords="575,56,767,83"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1PageVersionStatus.html" title="foedus::storage::PageVersion\lStatus" alt="" coords="284,26,476,67"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsWwLock.html" title="An exclusive&#45;only (WW) MCS lock data structure. " alt="" coords="295,92,465,119"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="5,92,207,119"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1DualPagePointer.html" title="Represents a pointer to another page (usually a child page). " alt="" coords="924,107,1099,149"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html" title="Represents a pointer to a volatile page with modification count for preventing ABA. " alt="" coords="591,107,752,149"/>
+</map>

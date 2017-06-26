@@ -1,0 +1,6 @@
+<map id="foedus::storage::Storage::get_id" name="foedus::storage::Storage::get_id">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1storage_1_1array.html#aa0b89e786137e3f609827e98d7b10270" title="foedus::storage::array\l::operator\&lt;\&lt;" alt="" coords="233,5,381,47"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage_1_1masstree.html#a025e5b101445ee4dcf5546fbab96112b" title="foedus::storage::masstree\l::operator\&lt;\&lt;" alt="" coords="220,71,393,112"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage_1_1sequential.html#aab3041ddf08dbde93ee896a1efff26d1" title="foedus::storage::sequential\l::operator\&lt;\&lt;" alt="" coords="217,136,396,177"/>
+<area shape="rect" id="node5" href="$namespacefoedus_1_1storage_1_1hash.html#a56addae0c8dc01224e68d8951fa829a0" title="foedus::storage::hash\l::operator\&lt;\&lt;" alt="" coords="233,201,380,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::xct::McsImpl&lt; ADAPTOR, McsRwExtendedBlock &gt;::cancel_async_rw_reader" name="foedus::xct::McsImpl&lt; ADAPTOR, McsRwExtendedBlock &gt;::cancel_async_rw_reader">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsImpl.html#a0ce8496a7df559fdde162d7211e9c028" title="[RW] Returns whether the lock requeust is now granted. " alt="" coords="290,5,451,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwLock.html#a097b5035f389e0e33fae82103d839f3b" title="foedus::xct::McsRwLock\l::to_tail_int" alt="" coords="288,71,453,112"/>
+</map>

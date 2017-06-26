@@ -1,0 +1,10 @@
+<map id="foedus::snapshot::SnapshotWriter::get_snapshot_id" name="foedus::snapshot::SnapshotWriter::get_snapshot_id">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a3e005713f9a1c12bb2a4771a192b47a5" title="foedus::storage::sequential\l::SequentialComposer::compose" alt="" coords="246,9,457,51"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayComposer.html#a2c812e46a7502abe6f506ecda0edf9ab" title="foedus::storage::array\l::ArrayComposer::construct_root" alt="" coords="529,71,739,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialComposer.html#a91db842a6ef8780d3fe4ba2f0f625da7" title="foedus::storage::sequential\l::SequentialComposer::construct_root" alt="" coords="513,136,755,177"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1storage_1_1masstree.html#ad5bde8a81bd922e388c91d1aaeac1411" title="foedus::storage::masstree\l::from_this_snapshot" alt="" coords="265,191,438,232"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1hash_1_1ComposedBinsMergedStream.html#af617a04eb5df3795abfe4900a20a6db6" title="foedus::storage::hash\l::ComposedBinsMergedStream::init" alt="" coords="237,256,465,297"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1Composer.html#a28c752ec784b85418c0bfafab7ee60c0" title="Construct snapshot pages from sorted run files of one storage. " alt="" coords="545,5,723,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1Composer.html#adf148cbea7c8146dec88d23d2218452c" title="Construct root page(s) for one storage based on the ouputs of compose(). " alt="" coords="803,136,981,177"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeComposer.html#a45eb1cba6ccf8f51c973030848a47a9d" title="foedus::storage::masstree\l::MasstreeComposer::construct_root" alt="" coords="517,201,751,243"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="foedus::thread::ThreadPimpl::place_a_new_volatile_page" name="foedus::thread::ThreadPimpl::place_a_new_volatile_page">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="787,5,937,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="537,279,698,320"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a6c9bf7d6b21ac33a61d6f7176023ea3a" title="Returns one free volatile page to local page pool. " alt="" coords="240,337,468,379"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="253,140,455,181"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1memory_1_1LocalPageResolver.html#aa9d2266686c3a66678b37241a3ac434f" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="262,403,446,459"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#a273a4c4f51c06ebc91663329742e1c69" title="foedus::storage::Volatile\lPagePointer::set" alt="" coords="273,484,435,525"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="781,263,943,304"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ace44cb03e7da84d29f3a02a790c69191" title="foedus::memory::PagePool\lOffsetChunk::full" alt="" coords="773,353,951,395"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a6f558bb023b2c5c7dd9bf7ab9d054ef0" title="foedus::memory::PagePool\lOffsetChunk::push_back" alt="" coords="528,396,707,437"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="540,67,695,108"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="531,213,704,255"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="516,133,719,189"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="785,139,939,180"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="767,71,957,112"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="foedus::storage::hash::hash_intermediate_volatile_page_init" name="foedus::storage::hash::hash_intermediate_volatile_page_init">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="257,5,406,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="236,71,427,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#aeb01df00186ad7f69875d7bd1ff0108e" title="Called only when this page is initialized. " alt="" coords="251,137,412,193"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1PageHeader.html#a5a84eed10b8675e5df2f35f791991eb5" title="foedus::storage::PageHeader\l::init_volatile" alt="" coords="475,41,665,83"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1PageHeader.html#a1956943904b68b6472f53b4e9ed6df87" title="foedus::storage::PageHeader\l::set_in_layer_level" alt="" coords="475,107,665,148"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6ddc93fb5df01249140895435819da2f" title="foedus::storage::hash\l::HashIntermediatePage\l::get_level" alt="" coords="489,173,651,229"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1storage_1_1hash_1_1HashBinRange.html#af492eb6df181653434b727ba29e5c833" title="foedus::storage::hash\l::HashBinRange::contains" alt="" coords="483,253,657,295"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="713,9,912,51"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageVersion.html#ae40168c82f16645e85bb66f9019e53cf" title="used only while page initialization " alt="" coords="717,75,909,116"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwLock.html#a4114c2dec151ad650a294dedac4f239d" title="used only while page initialization " alt="" coords="971,41,1141,83"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#af49ef4f3320148130f46f494f1c845aa" title="foedus::storage::PageVersion\lStatus::reset" alt="" coords="960,107,1152,148"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3161e47c41388e9c1b50929f585e366b" title="foedus::xct::McsWwBlockData\l::clear" alt="" coords="1200,41,1401,83"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669" title="foedus::storage::PageHeader\l::get_in_layer_level" alt="" coords="717,180,908,221"/>
+</map>

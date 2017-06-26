@@ -1,0 +1,4 @@
+<map id="foedus::xct::McsWwBlockData::set_atomic" name="foedus::xct::McsWwBlockData::set_atomic">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsWwLock.html#a5fa69dc28ae9c7b37e02e9da3b4b50a5" title="foedus::xct::McsWwLock\l::reset_atomic" alt="" coords="257,5,427,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsWwBlock.html#a9a4481a9674709786be0930a687e9ea1" title="foedus::xct::McsWwBlock\l::set_successor_atomic" alt="" coords="255,71,429,112"/>
+</map>

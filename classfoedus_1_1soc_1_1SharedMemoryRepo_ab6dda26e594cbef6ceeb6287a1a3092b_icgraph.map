@@ -1,0 +1,4 @@
+<map id="foedus::soc::SharedMemoryRepo::get_global_user_memory" name="foedus::soc::SharedMemoryRepo::get_global_user_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SocManager.html#a4f4a98141cedc11e909878cfae62d5df" title="Shortcut for get_shared_memory_repo()&#45;&gt;get_global_user_memory() " alt="" coords="259,5,439,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1EngineMemory.html#a678ed893d9fb18f180043e28bb8405e4" title="As part of the global shared memory, we reserve this size of &#39;user memory&#39; that can be used for arbit..." alt="" coords="487,5,697,47"/>
+</map>

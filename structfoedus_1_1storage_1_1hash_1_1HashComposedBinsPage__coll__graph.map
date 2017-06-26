@@ -1,0 +1,10 @@
+<map id="foedus::storage::hash::HashComposedBinsPage" name="foedus::storage::hash::HashComposedBinsPage">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1HashBinRange.html" title="Represents a range of hash bins in a hash storage, such as what an intermediate page is responsible f..." alt="" coords="927,5,1074,47"/>
+<area shape="rect" id="node3" href="$group__HASH.html#structfoedus_1_1storage_1_1hash_1_1ComposedBin" title="Represents an output of composer on one bin. " alt="" coords="927,71,1074,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageHeader.html" title="Just a marker to denote that a memory region represents a data page. " alt="" coords="905,137,1096,163"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1assorted_1_1ProbCounter.html" title="Implements a probabilistic counter [Morris 1978]. " alt="" coords="572,113,771,139"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageVersion.html" title="Just a synonym of XctId to be used as a page lock mechanism. " alt="" coords="575,163,767,190"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageVersionStatus.html" title="foedus::storage::PageVersion\lStatus" alt="" coords="284,129,476,171"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1McsWwLock.html" title="An exclusive&#45;only (WW) MCS lock data structure. " alt="" coords="295,195,465,222"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwBlockData.html" title="Exclusive&#45;only (WW) MCS lock classes. " alt="" coords="5,195,207,222"/>
+</map>

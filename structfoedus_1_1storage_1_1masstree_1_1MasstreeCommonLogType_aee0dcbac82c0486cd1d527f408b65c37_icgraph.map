@@ -1,0 +1,7 @@
+<map id="foedus::storage::masstree::MasstreeCommonLogType::get_key" name="foedus::storage::masstree::MasstreeCommonLogType::get_key">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeComposeContext.html#a1d9ff2d2af85b6d09ecb6e310bae6888" title="MasstreeComposeContext::execute() and subroutines for log groups. " alt="" coords="237,5,421,61"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1storage_1_1masstree.html#a167badba1d348e17e94d736a8902926e" title="foedus::storage::masstree\l::operator\&lt;\&lt;" alt="" coords="243,86,416,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePartitioner.html#aa88be4c928d4254f51e1e1252680f87e" title="foedus::storage::masstree\l::MasstreePartitioner::\lpartition_batch" alt="" coords="243,152,416,208"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage_1_1masstree.html#ad9efa7b5f1f339fd33444e0e62e46d40" title="subroutine of sort_batch_8bytes " alt="" coords="243,233,416,274"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c7b2f626b460815615663be4d22427f" title="Identifies the partition of each log record in a batched fashion. " alt="" coords="469,159,648,201"/>
+</map>

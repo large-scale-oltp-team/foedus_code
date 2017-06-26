@@ -1,0 +1,43 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/src/foedus/storage/masstree/masstree_record_location.cpp" name="/home/shino/foedus_code/foedus&#45;core/src/foedus/storage/masstree/masstree_record_location.cpp">
+<area shape="rect" id="node2" href="$masstree__record__location_8hpp.html" title="foedus/storage/masstree\l/masstree_record_location.hpp" alt="" coords="646,288,846,329"/>
+<area shape="rect" id="node34" href="$masstree__page__impl_8hpp.html" title="foedus/storage/masstree\l/masstree_page_impl.hpp" alt="" coords="1502,288,1672,329"/>
+<area shape="rect" id="node39" href="$xct_8hpp.html" title="foedus/xct/xct.hpp" alt="" coords="2572,124,2701,151"/>
+<area shape="rect" id="node3" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="3718,735,3842,761"/>
+<area shape="rect" id="node4" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="790,474,941,501"/>
+<area shape="rect" id="node6" href="$storage_2masstree_2fwd_8hpp.html" title="Forward declarations of classes in masstree storage package. " alt="" coords="1675,556,1840,597"/>
+<area shape="rect" id="node7" href="$masstree__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="550,377,715,419"/>
+<area shape="rect" id="node27" href="$xct_2fwd_8hpp.html" title="Forward declarations of classes in transaction package. " alt="" coords="1928,474,2059,501"/>
+<area shape="rect" id="node28" href="$xct__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="3230,474,3376,501"/>
+<area shape="rect" id="node5" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="484,563,656,590"/>
+<area shape="rect" id="node11" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="1728,653,1865,679"/>
+<area shape="rect" id="node12" href="$endianness_8hpp.html" title="A few macros and helper methods related to byte endian&#45;ness. " alt="" coords="833,563,1042,590"/>
+<area shape="rect" id="node13" href="$storage__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="3552,467,3707,508"/>
+<area shape="rect" id="node15" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="3907,735,4054,761"/>
+<area shape="rect" id="node18" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="4726,556,4894,597"/>
+<area shape="rect" id="node22" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="3614,556,3760,597"/>
+<area shape="rect" id="node24" href="$raw__atomics_8hpp.html" title="Raw atomic operations that work for both C++11 and non&#45;C++11 code. " alt="" coords="3248,556,3387,597"/>
+<area shape="rect" id="node25" href="$memory__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="3264,645,3427,687"/>
+<area shape="rect" id="node26" href="$thread__id_8hpp.html" title="Typedefs of ID types used in thread package. " alt="" coords="2462,645,2602,687"/>
+<area shape="rect" id="node20" href="$uniform__random_8hpp.html" title="foedus/assorted/uniform\l_random.hpp" alt="" coords="2979,645,3139,687"/>
+<area shape="rect" id="node21" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="1982,735,2141,761"/>
+<area shape="rect" id="node29" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="2150,563,2274,590"/>
+<area shape="rect" id="node30" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="1865,563,1973,590"/>
+<area shape="rect" id="node31" href="$atomic__fences_8hpp.html" title="Atomic fence methods and load/store with fences that work for both C++11/non&#45;C++11 code..." alt="" coords="4139,556,4296,597"/>
+<area shape="rect" id="node32" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="4918,563,5072,590"/>
+<area shape="rect" id="node33" href="$thread_2fwd_8hpp.html" title="Forward declarations of classes in thread package. " alt="" coords="2350,563,2498,590"/>
+<area shape="rect" id="node35" href="$cacheline_8hpp.html" title="Constants and methods related to CPU cacheline and its prefetching. " alt="" coords="57,563,256,590"/>
+<area shape="rect" id="node36" href="$page_8hpp.html" title="foedus/storage/page.hpp" alt="" coords="2756,385,2920,411"/>
+<area shape="rect" id="node38" href="$record_8hpp.html" title="foedus/storage/record.hpp" alt="" coords="3857,385,4029,411"/>
+<area shape="rect" id="node37" href="$prob__counter_8hpp.html" title="foedus/assorted/prob\l_counter.hpp" alt="" coords="2929,556,3072,597"/>
+<area shape="rect" id="node40" href="$common__log__types_8hpp.html" title="Declares common log types used in all packages. " alt="" coords="4561,377,4720,419"/>
+<area shape="rect" id="node43" href="$log__type__invoke_8hpp.html" title="foedus/log/log_type\l_invoke.hpp" alt="" coords="4597,199,4732,240"/>
+<area shape="rect" id="node49" href="$retrospective__lock__list_8hpp.html" title="foedus/xct/retrospective\l_lock_list.hpp" alt="" coords="1238,377,1397,419"/>
+<area shape="rect" id="node50" href="$xct__access_8hpp.html" title="foedus/xct/xct_access.hpp" alt="" coords="2311,295,2490,322"/>
+<area shape="rect" id="node41" href="$log__type_8hpp.html" title="foedus/log/log_type.hpp" alt="" coords="5118,474,5277,501"/>
+<area shape="rect" id="node42" href="$log__type_8xmacro.html" title="foedus/log/log_type.xmacro" alt="" coords="5350,563,5531,590"/>
+<area shape="rect" id="node44" href="$storage__log__types_8hpp.html" title="Declares common log types for all (or at least multiple) storage types. " alt="" coords="3455,288,3610,329"/>
+<area shape="rect" id="node45" href="$array__log__types_8hpp.html" title="Declares all log types used in this storage type. " alt="" coords="4378,288,4521,329"/>
+<area shape="rect" id="node46" href="$hash__log__types_8hpp.html" title="Declares all log types used in this storage type. " alt="" coords="5273,288,5416,329"/>
+<area shape="rect" id="node47" href="$masstree__log__types_8hpp.html" title="Declares all log types used in this storage type. " alt="" coords="3634,288,3802,329"/>
+<area shape="rect" id="node48" href="$sequential__log__types_8hpp.html" title="Declares all log types used in this storage type. " alt="" coords="4803,288,4976,329"/>
+</map>

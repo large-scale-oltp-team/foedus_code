@@ -1,0 +1,11 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/restart/restart_manager.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/restart/restart_manager.hpp">
+<area shape="rect" id="node2" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="92,124,200,151"/>
+<area shape="rect" id="node3" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="224,124,377,151"/>
+<area shape="rect" id="node16" href="$restart_2fwd_8hpp.html" title="Forward declarations of classes in restart package. " alt="" coords="402,124,551,151"/>
+<area shape="rect" id="node4" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="5,273,129,300"/>
+<area shape="rect" id="node5" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="325,199,479,225"/>
+<area shape="rect" id="node11" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="549,273,695,300"/>
+<area shape="rect" id="node13" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="720,273,857,300"/>
+<area shape="rect" id="node14" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="881,273,1032,300"/>
+<area shape="rect" id="node15" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="871,348,1043,375"/>
+</map>

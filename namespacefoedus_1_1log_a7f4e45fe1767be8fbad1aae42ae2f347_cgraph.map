@@ -1,0 +1,4 @@
+<map id="foedus::log::operator&lt;&lt;" name="foedus::log::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$group__LOGTYPE.html#gadf7869010ef32078cb38bf35a479a7b6" title="Returns the names of LogCode enum defined in log_type.xmacro. " alt="" coords="219,5,354,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="209,71,364,112"/>
+</map>

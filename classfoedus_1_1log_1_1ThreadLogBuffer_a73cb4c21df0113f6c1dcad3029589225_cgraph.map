@@ -1,0 +1,5 @@
+<map id="foedus::log::ThreadLogBuffer::get_logs_to_write" name="foedus::log::ThreadLogBuffer::get_logs_to_write">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1ThreadLogBufferMeta.html#a5dd02cf36ffdb642d41badfc61381621" title="foedus::log::ThreadLogBuffer\lMeta::increment_mark_index" alt="" coords="240,5,431,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="249,71,422,112"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="249,136,422,177"/>
+</map>

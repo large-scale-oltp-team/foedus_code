@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePage::MiniPage" name="foedus::storage::masstree::MasstreeIntermediatePage::MiniPage">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1DualPagePointer.html" title="Represents a pointer to another page (usually a child page). " alt="" coords="11,109,185,151"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html" title="Represents a pointer to a volatile page with modification count for preventing ABA. " alt="" coords="17,5,179,47"/>
+</map>

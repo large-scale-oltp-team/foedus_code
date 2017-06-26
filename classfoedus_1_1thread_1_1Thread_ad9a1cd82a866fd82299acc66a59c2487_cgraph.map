@@ -1,0 +1,44 @@
+<map id="foedus::thread::Thread::find_or_read_a_snapshot_page" name="foedus::thread::Thread::find_or_read_a_snapshot_page">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a16c6375f66e9f177c908dc1fbc132681" title="Find the given page in snapshot cache, reading it if not found. " alt="" coords="263,487,472,528"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="556,188,691,229"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1CacheHashtable.html#ac92d7a0c69e61cfdcacd72b9e8c7bd74" title="Returns an offset for the given page ID opportunistically. " alt="" coords="520,617,727,659"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1memory_1_1PagePool.html#af9db36a92eb5116e01545d73cc7e1ab8" title="foedus::memory::PagePool\l::get_base" alt="" coords="807,259,985,300"/>
+<area shape="rect" id="node21" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="549,847,698,888"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a3c43ac83a4cdcc3e48d8b125dfcff963" title="foedus::thread::ThreadPimpl\l::on_snapshot_cache_miss" alt="" coords="531,356,715,397"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a3d583a33e85e1a33568fa04b409ae2ca" title="Read a snapshot page using the thread&#45;local file descriptor set. " alt="" coords="804,193,988,235"/>
+<area shape="rect" id="node40" href="$classfoedus_1_1cache_1_1CacheHashtable.html#af7762689517cd7a18dd64d8591a3272a" title="Called when a cached page is not found. " alt="" coords="520,781,727,823"/>
+<area shape="rect" id="node43" href="$classfoedus_1_1xct_1_1Xct.html#a7f299489d8dd719eb055ce2ef29309b8" title="Get a tentative work memory of the specified size from pre&#45;allocated thread&#45;private memory..." alt="" coords="542,912,705,953"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1cache_1_1CacheHashtable.html#a30b6a0b28cce30d50da7e0419c8cad20" title="Returns a bucket number the given page ID should belong to. " alt="" coords="793,847,999,888"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1cache_1_1CacheBucket.html#ab91d1b89c885979b7a6a4ef70b12b54d" title="foedus::cache::CacheBucket\l::get_content_id" alt="" coords="801,716,991,757"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1cache_1_1CacheHashtable.html#acea3236385a3b8d05ed1a60186e32ee8" title="foedus::cache::CacheHashtable\l::get_logical_buckets" alt="" coords="793,455,999,496"/>
+<area shape="rect" id="node15" href="$structfoedus_1_1cache_1_1HashFunc.html#a9470855bb66d98df48f82fc5ba6655c6" title="Returns another hash value used to differentiate IDs with similar hash values. " alt="" coords="811,781,981,823"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1cache_1_1CacheBucket.html#aad7099f48418a335a80260a664bf2f02" title="foedus::cache::CacheBucket\l::get_tag" alt="" coords="801,520,991,561"/>
+<area shape="rect" id="node17" href="$structfoedus_1_1cache_1_1CacheRefCount.html#af555d7665e995d8e65f315c708d28daa" title="foedus::cache::CacheRefCount\l::increment" alt="" coords="795,585,997,627"/>
+<area shape="rect" id="node18" href="$group__ASSORTED.html#ga14adcd2a780f37023df88933f17a5a83" title="Prefetch multiple contiguous cachelines to L1 cache. " alt="" coords="810,651,982,692"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1cache_1_1HashFunc.html#a19737fa3c91676f9c85536f5928b7501" title="Returns a bucket number the given snapshot page ID should belong to. " alt="" coords="1073,781,1244,823"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1assorted_1_1ConstDiv.html#a6892a2d35b9ae08a00190c9440e22a21" title="32&#45;bit integer division that outputs both quotient and remainder. " alt="" coords="1305,813,1482,855"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1cache_1_1HashFunc.html#aa9020cb1e5915b6777d089521ef618a9" title="Returns a hash value for the given snapshot page ID. " alt="" coords="1308,499,1479,540"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1assorted_1_1ConstDiv.html#afbfa08664902f9b633edbd395706b230" title="Calculate remainder. " alt="" coords="1305,748,1482,789"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="1535,333,1735,389"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="1541,493,1729,549"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="1539,413,1730,469"/>
+<area shape="rect" id="node19" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="1073,651,1245,692"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#ac3e2f6d24f2b0f5c04d2cde48db11f6a" title="Same, except it&#39;s for snapshot page. " alt="" coords="783,389,1009,431"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a7ea5067e450fa872240cb010ddb65464" title="Same, except it&#39;s for snapshot page. " alt="" coords="775,324,1017,365"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ac661b8baf462a1e969a8a1c7e619858b" title="foedus::memory::PagePool\lOffsetChunk::empty" alt="" coords="1304,408,1483,449"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#af897b38ac1ef4217ff99018436c0112e" title="foedus::memory::PagePool\lOffsetChunk::pop_back" alt="" coords="1069,448,1248,489"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#ad7ea1e9815cd47c3175371d37974526a" title="foedus::cache::SnapshotFile\lSet::read_page" alt="" coords="1065,193,1252,235"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#ae5b153acb9f3115c44a48e10ff2262fb" title="foedus::cache::SnapshotFile\lSet::get_or_open_file" alt="" coords="1300,265,1487,307"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a5353bbb3b2a815d6c858c8190edeccf4" title="A version that receives a raw pointer that has to be aligned (be careful to use this ver)..." alt="" coords="1318,139,1469,180"/>
+<area shape="rect" id="node36" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a35814dfec4dab81d5bb46e453f1993e6" title="Sets the position of the next byte to be written/extracted from/to the stream. " alt="" coords="1318,72,1469,113"/>
+<area shape="rect" id="node30" href="$namespacefoedus_1_1fs.html#a1a3ea81bf627928d9a5f154986af9c48" title="foedus::fs::is_odirect\l_aligned" alt="" coords="1563,136,1706,177"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1d89a9c761a388f13f9b59490b6caa00" title="Whether the file is already and successfully opened. " alt="" coords="1559,267,1710,308"/>
+<area shape="rect" id="node32" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="1565,5,1705,47"/>
+<area shape="rect" id="node33" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1c6bff6aafc955fd4c2a8e11e7f41f40" title="Sequentially read the given amount of contents from the current position. " alt="" coords="1559,201,1710,243"/>
+<area shape="rect" id="node34" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="1567,71,1702,112"/>
+<area shape="rect" id="node35" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="1783,71,1917,112"/>
+<area shape="rect" id="node38" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ace44cb03e7da84d29f3a02a790c69191" title="foedus::memory::PagePool\lOffsetChunk::full" alt="" coords="1304,331,1483,372"/>
+<area shape="rect" id="node39" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a6f558bb023b2c5c7dd9bf7ab9d054ef0" title="foedus::memory::PagePool\lOffsetChunk::push_back" alt="" coords="1069,331,1248,372"/>
+<area shape="rect" id="node41" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="809,977,983,1019"/>
+<area shape="rect" id="node42" href="$structfoedus_1_1cache_1_1CacheBucket.html#aaa52396996e73a08cace2a2dcef82ffb" title="foedus::cache::CacheBucket\l::reset" alt="" coords="801,912,991,953"/>
+</map>

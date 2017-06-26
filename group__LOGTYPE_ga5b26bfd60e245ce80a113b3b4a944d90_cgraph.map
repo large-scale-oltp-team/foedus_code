@@ -1,0 +1,4 @@
+<map id="foedus::log::invoke_apply_engine" name="foedus::log::invoke_apply_engine">
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1LogHeader.html#a6ebe3b99442f2a58a4adeeb60f9a37e0" title="Convenience method to cast into LogCode. " alt="" coords="360,5,515,47"/>
+<area shape="rect" id="node3" href="$group__LOGTYPE.html#gad2d33090f44d00949a05c245e5ff1046" title="Invokes the assertion logic of each log type. " alt="" coords="183,35,312,76"/>
+</map>

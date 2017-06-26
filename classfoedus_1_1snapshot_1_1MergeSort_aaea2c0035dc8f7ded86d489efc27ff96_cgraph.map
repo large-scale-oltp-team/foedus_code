@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::MergeSort::get_log_type_from_sort_position" name="foedus::snapshot::MergeSort::get_log_type_from_sort_position">
+<area shape="rect" id="node2" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1PositionEntry.html#ade50de5fc7a19e758b40a86cfd31eae9" title="foedus::snapshot::MergeSort\l::PositionEntry::get_log_type" alt="" coords="243,5,433,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1SortEntry.html#a06c43522d72ce417cee4f65a39bbd06a" title="foedus::snapshot::MergeSort\l::SortEntry::get_position" alt="" coords="243,71,433,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="foedus::savepoint::SavepointManagerPimpl::take_savepoint_after_snapshot" name="foedus::savepoint::SavepointManagerPimpl::take_savepoint_after_snapshot">
+<area shape="rect" id="node2" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#aaecb5989eaca658a8fbdc7de6c85222c" title="Takes a savepoint just to remember the newly taken snapshot. " alt="" coords="215,31,389,87"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a45097869d980cf8fe0ad3313e02c8117" title="Sub&#45;routine of handle_snapshot_triggered(). " alt="" coords="437,31,621,87"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a905ccf76fe0e076980dc1965f038fe10" title="handle_snapshot() calls this when it should start snapshotting. " alt="" coords="669,31,880,87"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="956,5,1111,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="928,71,1139,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="1187,5,1381,47"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="1187,71,1381,112"/>
+</map>

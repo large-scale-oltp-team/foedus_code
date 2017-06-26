@@ -1,0 +1,7 @@
+<map id="foedus::storage::sequential::SequentialRecordIterator::is_valid" name="foedus::storage::sequential::SequentialRecordIterator::is_valid">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialRecordIterator.html#ae27e07b262105ee9072044b150d5351e" title="Copies the current record to the given buffer. " alt="" coords="459,127,637,183"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialRecordIterator.html#ab6d1195bd3ae654b9d670982d3096234" title="foedus::storage::sequential\l::SequentialRecordIterator\l::get_cur_record_epoch" alt="" coords="232,39,411,95"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialRecordIterator.html#a6ae2818d80ae212f260b9d5a1649e473" title="foedus::storage::sequential\l::SequentialRecordIterator\l::get_cur_record_length" alt="" coords="232,119,411,175"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialRecordIterator.html#a74affdaa962375107a960eda864fe18e" title="foedus::storage::sequential\l::SequentialRecordIterator\l::get_cur_record_owner_id" alt="" coords="232,199,411,255"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialRecordIterator.html#aed77f7b1c3fce21d49f1a644c1cc66cc" title="Directly returns a pointer to the current record. " alt="" coords="232,279,411,335"/>
+</map>

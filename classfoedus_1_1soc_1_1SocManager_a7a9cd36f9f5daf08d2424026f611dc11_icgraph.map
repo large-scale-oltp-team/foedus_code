@@ -1,0 +1,5 @@
+<map id="foedus::soc::SocManager::wait_for_children_module" name="foedus::soc::SocManager::wait_for_children_module">
+<area shape="rect" id="node2" href="$classfoedus_1_1EnginePimpl.html#a1e2a6a45cbf165080b584269b2bbc5aa" title="foedus::EnginePimpl\l::initialize_modules" alt="" coords="228,5,369,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1EnginePimpl.html#a483875a16cf2f469b8b751c9f6e2d673" title="foedus::EnginePimpl\l::uninitialize_once" alt="" coords="228,71,369,112"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="417,5,559,47"/>
+</map>

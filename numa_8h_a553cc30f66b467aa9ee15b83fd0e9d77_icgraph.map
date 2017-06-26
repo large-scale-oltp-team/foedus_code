@@ -1,0 +1,4 @@
+<map id="numa_bitmask_equal" name="numa_bitmask_equal">
+<area shape="rect" id="node2" href="$numa_8h.html#ab810550253895c8c597e69ac85ce6193" title="nodemask_equal" alt="" coords="224,5,344,32"/>
+<area shape="rect" id="node3" href="$numa_8h.html#a349adb0299e647c91cefa69f6ea16f79" title="nodemask_equal_compat" alt="" coords="199,56,369,83"/>
+</map>

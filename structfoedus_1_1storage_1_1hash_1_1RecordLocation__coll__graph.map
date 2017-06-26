@@ -1,0 +1,12 @@
+<map id="foedus::storage::hash::RecordLocation" name="foedus::storage::hash::RecordLocation">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html" title="Represents an individual data page in Hashtable Storage. " alt="" coords="5,260,152,301"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1ReadXctAccess.html" title="Represents a record of read&#45;access during a transaction. " alt="" coords="227,267,413,294"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1xct_1_1WriteXctAccess.html" title="Represents a record of write&#45;access during a transaction. " alt="" coords="392,371,579,398"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1RecordXctAccess.html" title="Base of ReadXctAccess and WriteXctAccess. " alt="" coords="360,184,557,211"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1RwLockableXctId.html" title="The MCS reader&#45;writer lock variant of LockableXctId. " alt="" coords="365,95,557,121"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1McsRwLock.html" title="An MCS reader&#45;writer lock data structure. " alt="" coords="425,5,591,32"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="263,5,385,32"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1log_1_1LogHeader.html" title="A common header part for all log types. " alt="" coords="583,95,737,121"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1log_1_1RecordLogType.html" title="Base class for log type of record&#45;wise operation. " alt="" coords="575,267,758,294"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="581,184,752,211"/>
+</map>

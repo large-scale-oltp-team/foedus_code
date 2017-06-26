@@ -1,0 +1,23 @@
+<map id="foedus::thread::ThreadPimpl::on_snapshot_cache_miss" name="foedus::thread::ThreadPimpl::on_snapshot_cache_miss">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePool.html#af9db36a92eb5116e01545d73cc7e1ab8" title="foedus::memory::PagePool\l::get_base" alt="" coords="269,19,448,60"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#ac3e2f6d24f2b0f5c04d2cde48db11f6a" title="Same, except it&#39;s for snapshot page. " alt="" coords="246,84,471,125"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a3d583a33e85e1a33568fa04b409ae2ca" title="Read a snapshot page using the thread&#45;local file descriptor set. " alt="" coords="267,151,451,192"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#a7ea5067e450fa872240cb010ddb65464" title="Same, except it&#39;s for snapshot page. " alt="" coords="237,332,480,373"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ac661b8baf462a1e969a8a1c7e619858b" title="foedus::memory::PagePool\lOffsetChunk::empty" alt="" coords="773,20,952,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#af897b38ac1ef4217ff99018436c0112e" title="foedus::memory::PagePool\lOffsetChunk::pop_back" alt="" coords="532,83,711,124"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#ad7ea1e9815cd47c3175371d37974526a" title="foedus::cache::SnapshotFile\lSet::read_page" alt="" coords="528,151,715,192"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage.html#a3c3e7a984303d1ef88e001db1591b1be" title="foedus::storage::extract\l_local_page_id_from_snapshot\l_pointer" alt="" coords="763,217,963,273"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1cache_1_1SnapshotFileSet.html#ae5b153acb9f3115c44a48e10ff2262fb" title="foedus::cache::SnapshotFile\lSet::get_or_open_file" alt="" coords="769,325,956,367"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a5353bbb3b2a815d6c858c8190edeccf4" title="A version that receives a raw pointer that has to be aligned (be careful to use this ver)..." alt="" coords="787,151,938,192"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a35814dfec4dab81d5bb46e453f1993e6" title="Sets the position of the next byte to be written/extracted from/to the stream. " alt="" coords="787,85,938,127"/>
+<area shape="rect" id="node10" href="$namespacefoedus_1_1storage.html#a8f6e96ac10eb804602349a54292d26a1" title="foedus::storage::extract\l_numa_node_from_snapshot\l_pointer" alt="" coords="1012,413,1200,469"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1storage.html#a82df0b3921d7c863275baf4f9c59959c" title="foedus::storage::extract\l_snapshot_id_from_snapshot\l_pointer" alt="" coords="1011,333,1201,389"/>
+<area shape="rect" id="node13" href="$namespacefoedus_1_1fs.html#a1a3ea81bf627928d9a5f154986af9c48" title="foedus::fs::is_odirect\l_aligned" alt="" coords="1035,71,1177,112"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1d89a9c761a388f13f9b59490b6caa00" title="Whether the file is already and successfully opened. " alt="" coords="1031,267,1181,308"/>
+<area shape="rect" id="node15" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="1036,136,1176,177"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a1c6bff6aafc955fd4c2a8e11e7f41f40" title="Sequentially read the given amount of contents from the current position. " alt="" coords="1031,201,1181,243"/>
+<area shape="rect" id="node17" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="1039,5,1173,47"/>
+<area shape="rect" id="node18" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="1249,5,1384,47"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#ace44cb03e7da84d29f3a02a790c69191" title="foedus::memory::PagePool\lOffsetChunk::full" alt="" coords="773,391,952,432"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1memory_1_1PagePoolOffsetChunk.html#a6f558bb023b2c5c7dd9bf7ab9d054ef0" title="foedus::memory::PagePool\lOffsetChunk::push_back" alt="" coords="532,391,711,432"/>
+</map>

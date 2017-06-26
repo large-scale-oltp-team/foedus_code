@@ -1,0 +1,5 @@
+<map id="foedus::storage::hash::HashStorage::upsert_record" name="foedus::storage::hash::HashStorage::upsert_record">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#adc9dd22b27c2d19c8c2a2c3b8011a819" title="Inserts a new record of the given key or replaces the existing one in this hash storage, or so&#45;called upsert. " alt="" coords="203,5,352,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#aaccce5ffedbeebe88d6845dd03e2c1ea" title="Prepares a set of information that are used in many places, extracted from the given key..." alt="" coords="400,13,552,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashStorage.html#a47a258c2edd9e4d3b3b4a5b472a07d62" title="foedus::storage::hash\l::HashStorage::get_hash\l_metadata" alt="" coords="600,5,767,61"/>
+</map>

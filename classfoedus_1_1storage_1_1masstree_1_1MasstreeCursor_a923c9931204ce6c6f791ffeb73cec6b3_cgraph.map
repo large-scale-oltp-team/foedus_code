@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeCursor::next" name="foedus::storage::masstree::MasstreeCursor::next">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#a6008b5f8531e6ee524d60cf86bc20148" title="foedus::xct::XctId\l::is_deleted" alt="" coords="273,5,395,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeCursor.html#ae28baba8eb5b92bc2c737fae67e5d2a2" title="foedus::storage::masstree\l::MasstreeCursor::is_valid_record" alt="" coords="227,71,441,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeCursor_1_1Route.html#a14da42a215184c0fc5d3cee4a71d016a" title="foedus::storage::masstree\l::MasstreeCursor::Route\l::is_valid_record" alt="" coords="489,63,663,119"/>
+</map>

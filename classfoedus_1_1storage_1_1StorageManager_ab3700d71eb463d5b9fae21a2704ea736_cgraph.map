@@ -1,0 +1,5 @@
+<map id="foedus::storage::StorageManager::get_name" name="foedus::storage::StorageManager::get_name">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1StorageControlBlock.html#af1f0b118bed183f7daf070409112ca93" title="foedus::storage::Storage\lControlBlock::exists" alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManager.html#a62a5d09952fe340dc03da8460f200523" title="Returns the storage of given ID. " alt="" coords="217,71,381,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#aea8861d6bf6c13c0df6d0c9777cdaa99" title="foedus::storage::Storage\lManagerPimpl::get_storage" alt="" coords="429,71,611,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreePage::set_foster_major_offset_unsafe" name="foedus::storage::masstree::MasstreePage::set_foster_major_offset_unsafe">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#a73da964f115a4ae55e118f6532859c9a" title="This is used only in special places (snapshot composer). " alt="" coords="232,39,435,80"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="483,5,676,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#a273a4c4f51c06ebc91663329742e1c69" title="foedus::storage::Volatile\lPagePointer::set" alt="" coords="499,71,660,112"/>
+</map>

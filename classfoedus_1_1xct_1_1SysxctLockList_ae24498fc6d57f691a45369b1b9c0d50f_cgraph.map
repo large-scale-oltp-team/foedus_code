@@ -1,0 +1,4 @@
+<map id="foedus::xct::SysxctLockList::batch_request_page_locks" name="foedus::xct::SysxctLockList::batch_request_page_locks">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1SysxctLockList.html#ae67e477c34f96851f33d8e09edc6032a" title="Acquires a page lock. " alt="" coords="239,5,423,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="471,5,620,47"/>
+</map>

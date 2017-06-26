@@ -1,0 +1,11 @@
+<map id="foedus::xct::RetrospectiveLockList::assert_sorted" name="foedus::xct::RetrospectiveLockList::assert_sorted">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a38d217000e4df1d2d8e829c37218f93e" title="Fill out this retrospetive lock list for the next run of the given transaction. " alt="" coords="225,67,397,108"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a4a10e19f1d603ab47e74c605a9909fb5" title="Another batch&#45;insert method used at the beginning of a transaction. " alt="" coords="229,133,393,189"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="445,67,640,108"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManager.html#aa176159e8ab007d35ea467226f5d2475" title="Aborts the currently running transaction on the thread. " alt="" coords="704,5,867,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="688,71,883,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="931,71,1093,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1Xct.html#ac525c6624f248cd869b111b7d4338b30" title="Begins the transaction. " alt="" coords="461,147,625,174"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad01b60a93f2e107d9c63e7c28799ac1a" title="User transactions related methods. " alt="" coords="688,140,883,181"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1XctManager.html#a0cd2ffb750756de7132eabf6d6a284ce" title="Begins a new transaction on the thread. " alt="" coords="931,140,1093,181"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::storage::hash::TmpSnashotPage" name="foedus::storage::hash::TmpSnashotPage">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1Page.html" title="Just a marker to denote that the memory region represents a data page. " alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1AlignedMemory.html" title="Represents one memory block aligned to actual OS/hardware pages. " alt="" coords="179,5,392,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="foedus::storage::hash::HashDataPage::search_key_physical" name="foedus::storage::hash::HashDataPage::search_key_physical">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a4e5601b652daaffbcb9fa81aee6746c6" title="foedus::storage::hash\l::DataPageBloomFilter\l::contains" alt="" coords="253,5,407,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a28a11a7b04e04d895b21f29709eacd1f" title="foedus::storage::hash\l::DataPageBloomFilter\l::extract_fingerprint" alt="" coords="253,85,407,141"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac6b4a13e6f057be1874f637fb9f87c51" title="foedus::storage::hash\l::HashDataPage::get_record_count" alt="" coords="217,166,443,207"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac2e82163d7348a6c88fecff711025b08" title="foedus::storage::hash\l::HashDataPage::get_slot" alt="" coords="245,231,415,273"/>
+<area shape="rect" id="node6" href="$group__HASH.html#ga8c4ca78e36b2188f1feac100ce7df679" title="Calculates hash value for general input. " alt="" coords="257,297,403,338"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1XctId.html#a41264f4ced33dae443651f57bc09e964" title="foedus::xct::XctId\l::is_moved" alt="" coords="269,362,391,403"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a49863802f2bfb024c928a37ea7abce07" title="foedus::storage::hash\l::HashDataPage::record\l_from_offset" alt="" coords="249,428,411,484"/>
+</map>

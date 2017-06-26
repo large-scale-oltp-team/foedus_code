@@ -1,0 +1,9 @@
+<map id="foedus::storage::hash::ReserveRecords" name="foedus::storage::hash::ReserveRecords">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1SysxctFunctor.html" title="A functor representing the logic in a system transaction via virtual&#45;function. " alt="" coords="279,5,457,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html" title="Represents an individual data page in Hashtable Storage. " alt="" coords="295,57,441,98"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1Thread.html" title="Represents one thread running on one NUMA core. " alt="" coords="293,123,443,149"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="18,123,150,149"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1HashCombo.html" title="A set of information that are used in many places, extracted from the given key. " alt="" coords="295,174,441,215"/>
+<area shape="rect" id="node7" href="$unionfoedus_1_1storage_1_1hash_1_1IntermediateRoute.html" title="Compactly represents the route of intermediate pages to reach the given hash bin. ..." alt="" coords="11,174,157,215"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1hash_1_1BloomFilterFingerprint.html" title="A fingerprint for bloom filter in each HashDataPage. " alt="" coords="5,239,163,281"/>
+</map>

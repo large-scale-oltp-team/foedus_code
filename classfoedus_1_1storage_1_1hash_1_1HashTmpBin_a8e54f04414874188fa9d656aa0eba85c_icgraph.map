@@ -1,0 +1,7 @@
+<map id="foedus::storage::hash::HashTmpBin::clean" name="foedus::storage::hash::HashTmpBin::clean">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#a44b5b127711bdcde112b8950c0777f01" title="Allocates the memory to use by this object. " alt="" coords="223,5,371,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashComposeContext.html#aa55b6ec5e0174d4122bdb9b728cd2088" title="foedus::storage::hash\l::HashComposeContext\l::execute" alt="" coords="443,39,603,95"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ad4c29d5ae3263c1e0e5c5a729ed37bf6" title="This is a special version of release_memory() where this object moves the memory ownership to the rec..." alt="" coords="203,137,391,178"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#a16f546901cdf6de1815ba5d91b4bfa75" title="Destructor automatically releases everything, but you can use this to do it earlier. " alt="" coords="220,203,375,259"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#aece534e0cf6fb32ce2919062c90494b3" title="This is a special version of create_memory() where this object steals the memory ownership from the r..." alt="" coords="200,283,395,325"/>
+</map>

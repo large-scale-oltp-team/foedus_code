@@ -1,0 +1,7 @@
+<map id="foedus::xct::XctManager::is_initialized" name="foedus::xct::XctManager::is_initialized">
+<area shape="rect" id="node2" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#a5a0fd87ff73e0f43e5a901f1c4fa34e3" title="Main routine of cleaner_. " alt="" coords="221,5,420,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="223,71,418,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#ad6262cf557ce9b4e8295ccc67a865554" title="foedus::restart::Restart\lManagerPimpl::uninitialize_once" alt="" coords="216,136,425,177"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1cache_1_1CacheManagerPimpl.html#af04416fadb8ec5160408982fa67a08c1" title="foedus::cache::CacheManager\lPimpl::initialize_once" alt="" coords="473,5,672,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1cache_1_1CacheManager.html#a9181ec7d7e0ee1faa942ba9eec6c1345" title="foedus::cache::CacheManager\l::initialize_once" alt="" coords="720,5,919,47"/>
+</map>

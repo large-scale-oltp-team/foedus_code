@@ -1,0 +1,13 @@
+<map id="foedus::memory::SharedMemory::alloc" name="foedus::memory::SharedMemory::alloc">
+<area shape="rect" id="node2" href="$group__FILESYSTEM.html#ga4f8f53901e9c98fce72b6b3c52cf83a4" title="Returns if the file exists. " alt="" coords="567,5,689,32"/>
+<area shape="rect" id="node6" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="302,181,437,222"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="558,57,698,98"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1SharedMemory.html#a20f2fb7b7f86ab5c4134452f1267eeb5" title="Releases the memory block IF this process has an ownership. " alt="" coords="264,115,475,157"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="781,57,927,98"/>
+<area shape="rect" id="node4" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="793,5,915,32"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="975,5,1125,32"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1SharedMemory.html#a83f0c9b29ecfc29550923dd33bc031e7" title="Returns if this process owns this memory and is responsible to delete it. " alt="" coords="523,174,733,215"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1SharedMemory.html#a06fa097c286b762b8ae484076592bf0d" title="Marks the shared memory as being removed so that it will be reclaimed when all processes detach it..." alt="" coords="523,239,733,281"/>
+<area shape="rect" id="node11" href="$group__FILESYSTEM.html#gad1f62b080fa246b5f8c166f44c72134f" title="Deletes a regular file or an empty directory. " alt="" coords="565,123,691,149"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1fs_1_1FileStatus.html#a76000c37b9fc4c1d9596240409972809" title="foedus::fs::FileStatus\l::is_regular_file" alt="" coords="781,122,927,163"/>
+</map>

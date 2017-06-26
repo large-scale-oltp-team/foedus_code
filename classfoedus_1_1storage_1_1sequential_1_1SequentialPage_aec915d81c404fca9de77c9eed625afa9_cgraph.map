@@ -1,0 +1,14 @@
+<map id="foedus::storage::sequential::SequentialPage::append_record_nosync" name="foedus::storage::sequential::SequentialPage::append_record_nosync">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="273,5,433,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a38b891ada2a3ed7381bc0d048570fb18" title="foedus::storage::sequential\l::SequentialPage::assert\l_consistent" alt="" coords="528,177,707,233"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#adfc56f09f9e4e09466c4f102b9283076" title="Returns how many records in this page placed so far. " alt="" coords="761,81,991,122"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#a5d7a0b120ba1d28530f04f347e8a889f" title="foedus::storage::PageVersion\lStatus::increment_version\l_counter" alt="" coords="257,107,449,163"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="531,377,704,418"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a2f8f9a8460228df5790ad3181be49e3b" title="foedus::storage::sequential\l::SequentialPage::owner\l_id_from_offset" alt="" coords="263,304,442,360"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsRwLock.html#a522c5b2702bad890293b39e634f2c3c4" title="foedus::xct::McsRwLock\l::reset" alt="" coords="270,435,435,477"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a5a28eb20d977bb416b92a5f0386a7d80" title="Sets byte length of payload of the specified record in this page. " alt="" coords="232,238,473,279"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialPage.html#a664f776eddf9d3988a62f5043e57d9e3" title="How many data bytes in this page consumed so far. " alt="" coords="785,177,967,233"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#a938cd4d9d491c3b6a4eb14afdbfd6b19" title="foedus::storage::PageVersion\lStatus::get_version_counter" alt="" coords="521,111,713,153"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1xct_1_1McsRwLock.html#a252a31f1689940909fe3520162b685f7" title="foedus::xct::McsRwLock\l::set_next_writer" alt="" coords="535,442,700,483"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1xct_1_1McsRwLock.html#a0bd9c402804ed75f85852e0f9e429cba" title="foedus::xct::McsRwLock\l::xchg_next_writer" alt="" coords="793,442,959,483"/>
+</map>

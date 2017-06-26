@@ -1,0 +1,10 @@
+<map id="foedus::xct::Xct::get_page_version_set_size" name="foedus::xct::Xct::get_page_version_set_size">
+<area shape="rect" id="node2" href="$namespacefoedus_1_1xct.html#adf92a2ee952c5b71c00bad525666fe12" title="foedus::xct::operator\&lt;\&lt;" alt="" coords="232,5,389,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ab21414e107b53d6276e1d20bc12dce9d" title="Returns false if there is any page version conflict. " alt="" coords="213,56,408,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="457,30,665,71"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9534e63f498a012d9fa401a10e2b4e0b" title="Phase 2 of precommit_xct() for read&#45;write case. " alt="" coords="456,95,667,137"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="715,30,909,71"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="957,63,1152,105"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1200,63,1363,105"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="715,95,909,137"/>
+</map>

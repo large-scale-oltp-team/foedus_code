@@ -1,0 +1,17 @@
+<map id="foedus::snapshot::SnapshotManager::read_snapshot_metadata" name="foedus::snapshot::SnapshotManager::read_snapshot_metadata">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a12f213f8bc7b46e75428a7624999c3fd" title="foedus::snapshot::Snapshot\lManagerPimpl::read_snapshot\l_metadata" alt="" coords="237,265,436,321"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a7cb397e7c8042e460f5f0e36d939b3e0" title="each snapshot has a snapshot&#45;metadata file &quot;snapshot_metadata_&lt;SNAPSHOT_ID&gt;.xml&quot; in first node&#39;s firs..." alt="" coords="484,42,675,98"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1externalize_1_1Externalizable.html#a6f66d8519bcfee0a582cae47a822fe18" title="Load the content of this object from the specified XML file. " alt="" coords="507,137,651,193"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="512,272,647,313"/>
+<area shape="rect" id="node15" href="$group__FILESYSTEM.html#ga1048a33bafe4dcea89991112ae2660d8" title="Returns size of the file. " alt="" coords="961,305,1094,331"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1debugging_1_1StopWatch.html#ac8a42ba406ab38b098e27a19e6803638" title="foedus::debugging::\lStopWatch::elapsed_ms" alt="" coords="497,421,662,463"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a058c0e139d36b76aaeb1e8b9a62dd600" title="shorthand for engine_&#45;&gt;get_options().snapshot_. " alt="" coords="723,5,907,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="960,5,1095,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="1148,189,1299,215"/>
+<area shape="rect" id="node8" href="$group__FILESYSTEM.html#ga4f8f53901e9c98fce72b6b3c52cf83a4" title="Returns if the file exists. " alt="" coords="754,122,875,149"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1externalize_1_1Externalizable.html#a546988f0869a3899e671f702ecbc5b17" title="Reads the content of this object from the given XML element. " alt="" coords="743,173,887,215"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="955,123,1100,164"/>
+<area shape="rect" id="node10" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="966,189,1089,215"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="734,239,895,280"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="747,304,882,345"/>
+</map>

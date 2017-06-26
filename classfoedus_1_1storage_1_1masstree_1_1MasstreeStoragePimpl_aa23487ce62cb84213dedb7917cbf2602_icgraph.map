@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::get_first_root_pointer" name="foedus::storage::masstree::MasstreeStoragePimpl::get_first_root_pointer">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStoragePimpl.html#a67482433dfc680921b443bdb8a1ea78e" title="Defined in masstree_storage_peek.cpp. " alt="" coords="227,5,436,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#abf137494ad55ab4d60cec25c7c654e99" title="Checks the volatile pages of this storage to give hints to decide page boundary keys. " alt="" coords="484,5,657,61"/>
+</map>

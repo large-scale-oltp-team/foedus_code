@@ -1,0 +1,4 @@
+<map id="foedus::Epoch::operator&gt;" name="foedus::Epoch::operator&gt;">
+<area shape="rect" id="node2" href="$classfoedus_1_1Epoch.html#aaef554452ea9ac7b072af98cde1558dc" title="Returns if this epoch is before the given epoch in the sense of distance defined in RFC 1982..." alt="" coords="221,5,369,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="417,5,572,32"/>
+</map>

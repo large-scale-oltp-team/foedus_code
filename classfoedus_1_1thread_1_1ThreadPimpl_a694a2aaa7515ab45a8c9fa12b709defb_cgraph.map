@@ -1,0 +1,26 @@
+<map id="foedus::thread::ThreadPimpl::flush_retired_volatile_page" name="foedus::thread::ThreadPimpl::flush_retired_volatile_page">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManager.html#aa75089821b48c98a00cd7e4ddc0615da" title="Requests to advance the current global epoch as soon as possible and blocks until it actually does..." alt="" coords="239,128,446,170"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1memory_1_1PagePoolOffsetAndEpochChunk.html#acac2755ecb22d4539c3d6bb44538240d" title="foedus::memory::PagePool\lOffsetAndEpochChunk::full" alt="" coords="253,194,432,235"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1XctManager.html#a419a270d62522ede9bd871dd4adc0e2a" title="Returns the current global epoch, the epoch a newly started transaction will be in. " alt="" coords="510,270,689,311"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="275,311,410,352"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1memory_1_1EngineMemory.html#a8bf8832e627cd97fe92c60d38ed96ac8" title="foedus::memory::EngineMemory\l::get_node_memory" alt="" coords="237,376,448,418"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1memory_1_1PagePoolOffsetAndEpochChunk.html#a7d9aa924c48bd26b4dd208d4a9333127" title="Returns the number of offsets (always from index&#45;0) whose safe_epoch_ is strictly&#45;before the given ep..." alt="" coords="253,442,432,498"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a70b68580143ce771f5b5b1f9a209f774" title="foedus::memory::NumaNode\lMemoryRef::get_volatile_pool" alt="" coords="247,523,438,564"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1Engine.html#a48d5e1f7ce2f70161c253f650c75ed95" title="See Transaction Manager. " alt="" coords="275,588,410,630"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1memory_1_1PagePool.html#a802171ff0578875748d20b4e9c8c9463" title="Returns the specified number of free pages from the chunk. " alt="" coords="253,654,432,695"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1memory_1_1PagePoolOffsetAndEpochChunk.html#ad99e5b875980b442bf5de61fb022f0ac" title="foedus::memory::PagePool\lOffsetAndEpochChunk::size" alt="" coords="250,719,435,760"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a925da0bb4b846daa21eb947e4f67b0c6" title="foedus::xct::XctManagerPimpl\l::advance_current_global_epoch" alt="" coords="496,128,703,170"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a787bb892079cb32d5a2065188825a522" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch" alt="" coords="754,288,949,330"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Epoch.html#a786afd92afdc87b54dfa11ef093f06f3" title="foedus::Epoch::one_more" alt="" coords="766,106,937,133"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a03678427b184e7ce71f9bbb164dd0bad" title="foedus::xct::XctManagerPimpl\l::set_requested_global_epoch" alt="" coords="754,223,949,264"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#afce787897428bd372c67224acd3e8ea7" title="foedus::xct::XctManagerPimpl\l::wakeup_epoch_chime_thread" alt="" coords="751,158,952,199"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="1009,10,1186,51"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1soc_1_1SharedPolling.html#a9fc7bfaf57e1f2224be9869a8e9708d3" title="Unconditionally wait for signal. " alt="" coords="763,40,940,82"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a6071efec3ffc3876192101db2a1873b4" title="foedus::xct::XctManagerPimpl\l::get_requested_global_epoch" alt="" coords="1000,223,1195,264"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="1026,373,1169,400"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="1009,103,1186,144"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1251,27,1425,68"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="1243,110,1433,137"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1memory_1_1PagePoolOffsetAndEpochChunk.html#a73cff039ec719c68895a8f9826bcd429" title="foedus::memory::PagePool\lOffsetAndEpochChunk::is\l_sorted" alt="" coords="510,377,689,433"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a13d785355359fd936c2b3863d296ba2c" title="foedus::memory::PagePool\lPimpl::release" alt="" coords="510,654,689,695"/>
+</map>

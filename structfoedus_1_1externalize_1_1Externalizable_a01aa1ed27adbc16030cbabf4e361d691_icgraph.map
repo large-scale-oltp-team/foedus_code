@@ -1,0 +1,9 @@
+<map id="foedus::externalize::Externalizable::add_element" name="foedus::externalize::Externalizable::add_element">
+<area shape="rect" id="node2" href="$structfoedus_1_1externalize_1_1Externalizable.html#aa244cc67103f063ec614c7183e9a845f" title="vector version " alt="" coords="195,5,336,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1externalize_1_1Externalizable.html#aa20701359a6253a058256df70b3ce514" title="enum version " alt="" coords="195,237,336,293"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1MetadataSerializer.html#abffff669b26733d0c365406218415678" title="common routine for the implementation of save() " alt="" coords="384,217,557,258"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1array_1_1ArrayMetadataSerializer.html#a53b5ce1b4b1a34b924adf1f35dcaacd8" title="Writes the content of this object to the given XML element. " alt="" coords="621,91,823,133"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1hash_1_1HashMetadataSerializer.html#af822e27418cb1a65a1c1a9f9e75273d1" title="Writes the content of this object to the given XML element. " alt="" coords="621,169,823,210"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeMetadataSerializer.html#a6e09967578cc16e61fd2f3233e0fc9db" title="Writes the content of this object to the given XML element. " alt="" coords="609,258,835,299"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialMetadataSerializer.html#a314508305c3b286c7295d9d60de49fd9" title="Writes the content of this object to the given XML element. " alt="" coords="605,335,839,377"/>
+</map>

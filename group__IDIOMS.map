@@ -1,0 +1,10 @@
+<map id="FOEDUS Programming Idioms" name="FOEDUS Programming Idioms">
+<area shape="rect" id="node1" href="$group__DEBUGGING.html" title="Debug&#45;Support functionalities. " alt="" coords="219,5,409,32"/>
+<area shape="rect" id="node2" href="$group__CXX11.html" title="Defines macros for hiding C++11 features in public headers for clients that use C++98. " alt="" coords="226,57,402,98"/>
+<area shape="rect" id="node3" href="$group__COMPILER.html" title="A few macros and functions to exploit compiler specific optimizations. " alt="" coords="211,123,417,149"/>
+<area shape="rect" id="node4" href="$group__INITIALIZABLE.html" title="Defines a uniform class interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="246,174,382,215"/>
+<area shape="rect" id="node6" href="$group__FILESYSTEM.html" title="Filesystem wrapper, an analogue of boost::filesystem. " alt="" coords="247,240,381,267"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html" title="Assorted Methods/Classes that are too subtle to have their own packages. " alt="" coords="225,291,403,317"/>
+<area shape="rect" id="node8" href="$group__EXTERNALIZE.html" title="Object Externalization. " alt="" coords="239,341,389,368"/>
+<area shape="rect" id="node9" href="$group__ERRORCODES.html" title="Error codes (foedus::ErrorCode), their error messages defined in error_code.xmacro, and stacktrace information (ErrorStack) returned by our API functions. " alt="" coords="233,393,395,434"/>
+</map>

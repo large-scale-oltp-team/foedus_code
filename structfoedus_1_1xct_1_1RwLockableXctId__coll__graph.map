@@ -1,0 +1,4 @@
+<map id="foedus::xct::RwLockableXctId" name="foedus::xct::RwLockableXctId">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwLock.html" title="An MCS reader&#45;writer lock data structure. " alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html" title="Persistent status part of Transaction ID. " alt="" coords="195,5,317,32"/>
+</map>

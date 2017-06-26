@@ -1,0 +1,6 @@
+<map id="foedus::proc::ProcManagerPimpl::get_proc" name="foedus::proc::ProcManagerPimpl::get_proc">
+<area shape="rect" id="node2" href="$classfoedus_1_1assorted_1_1FixedString.html#a37d5d22a12629a4fba786c2f62c0a214" title="Convert to a C string. " alt="" coords="232,5,424,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#aa92f0d777803a8ee817ac6141875ad1a" title="foedus::proc::ProcManager\lPimpl::find_by_name" alt="" coords="239,71,417,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="261,136,395,177"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="472,71,645,112"/>
+</map>

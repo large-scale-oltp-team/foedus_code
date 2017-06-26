@@ -1,0 +1,51 @@
+<map id="foedus::xct::XctManagerPimpl::precommit_xct_lock" name="foedus::xct::XctManagerPimpl::precommit_xct_lock">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#a148038efa6f37e2b89f057c5d5cd4cb3" title="This debug method checks whether the related_read_ and related_write_ fileds in read/write sets are c..." alt="" coords="531,5,687,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1CurrentLockList.html#abaacdb674d1296394cff252f995ce001" title="Create entries for all write&#45;sets in one&#45;shot. " alt="" coords="784,419,948,475"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1thread_1_1Thread.html#a4ff4d49ae69ae490afb0cc09c4c19507" title="Release all locks in CLL of this thread whose addresses are canonically ordered before the parameter..." alt="" coords="259,500,441,541"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1Xct.html#afc0b909c82e905105f4f9701082a16b8" title="foedus::xct::Xct::get\l_current_lock_list" alt="" coords="797,683,935,724"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1thread_1_1Thread.html#ab52244fbb6c13b0c0774431af72d482e" title="Methods related to Current Lock List (CLL) These are the only interface in Thread to lock records..." alt="" coords="248,565,452,607"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a75e45c9dd7129e1f202252cf124e76ff" title="foedus::xct::CurrentLock\lList::get_array" alt="" coords="268,683,432,724"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="533,71,684,112"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1thread_1_1Thread.html#a64fa1150b812810a2697bd6293aaac9a" title="foedus::thread::Thread\l::get_engine" alt="" coords="275,748,425,789"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ad18887a3fb16dc1ca458892ce4b0b27c" title="foedus::xct::CurrentLock\lList::get_last_locked_entry" alt="" coords="261,813,439,855"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="283,879,417,920"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1xct_1_1Xct.html#ae5fa3dcdb891b99e5bc7d83ff2029f46" title="foedus::xct::Xct::get\l_write_set" alt="" coords="539,201,678,243"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1xct_1_1Xct.html#a674e3ce0252c1c9d2f73edf3b3c4307e" title="foedus::xct::Xct::get\l_write_set_size" alt="" coords="539,267,678,308"/>
+<area shape="rect" id="node28" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a610d8c1bfd1d86dcde181c3fb0020f0c" title="foedus::xct::RwLockableXct\lId::is_keylocked" alt="" coords="259,944,441,985"/>
+<area shape="rect" id="node30" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a03782134d5ef0ebb8e187ddbd89f3c36" title="foedus::xct::RwLockableXct\lId::is_moved" alt="" coords="259,1009,441,1051"/>
+<area shape="rect" id="node32" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#ac49bd73652693a170f3755c1daf96736" title="foedus::xct::RwLockableXct\lId::is_next_layer" alt="" coords="259,1075,441,1116"/>
+<area shape="rect" id="node34" href="$structfoedus_1_1xct_1_1CurrentLockListIteratorForWriteSet.html#afadf5849c06ecc853e53d79783d2459d" title="foedus::xct::CurrentLock\lListIteratorForWriteSet\l::is_valid" alt="" coords="268,1141,432,1197"/>
+<area shape="rect" id="node35" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#a36088cc39846c59f78352695f08fcbf9" title="foedus::xct::RwLockableXct\lId::needs_track_moved" alt="" coords="775,353,957,395"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ada7782b43556708daa3bb94f7662409a" title="Subroutine of precommit_xct_lock to track most of moved records in write&#45;set. " alt="" coords="253,259,447,315"/>
+<area shape="rect" id="node42" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a09e66e6f76cf08131e11a18a44b5d0a4" title="foedus::xct::XctManagerPimpl\l::precommit_xct_sort_access" alt="" coords="253,139,447,180"/>
+<area shape="rect" id="node45" href="$structfoedus_1_1xct_1_1XctId.html#a2878cd14b103f72c8bce5a330e03e2b2" title="Kind of std::max(this, other). " alt="" coords="289,1221,411,1263"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1CurrentLockList.html#acbed8e324b88389217b42a132e0547b8" title="foedus::xct::CurrentLock\lList::assert_sorted" alt="" coords="1022,449,1186,491"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a1a668d5dd1b711abed1a9962a8cb4ec1" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="1739,561,1951,603"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a3cb71937e25bc68318ef0c9808a4a482" title="Analogous to std::binary_search() for the given lock. " alt="" coords="1262,415,1426,456"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1xct_1_1LockEntry.html#a54190c5faf4f6943043c1d83ed435f44" title="foedus::xct::LockEntry::set" alt="" coords="1015,347,1193,374"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a7485f0d26810767b3bef18e12233daa7" title="foedus::xct::CurrentLock\lList::assert_sorted_impl" alt="" coords="1262,484,1426,525"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aed99dee60f9529d5cfabb5e1742038da" title="foedus::xct::CurrentLock\lList::assert_last_locked_entry" alt="" coords="1495,561,1691,603"/>
+<area shape="rect" id="node9" href="$namespacefoedus_1_1xct.html#a736225e9852f9c75b92e134dbbe40a68" title="foedus::xct::lock_assert\l_sorted" alt="" coords="1512,484,1673,525"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a03e818494c4d716f9fc996081f6c419f" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="1999,586,2175,642"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#af1783a8b90bfcd0fa87c4947fc406b0b" title="RW&#45;locks. " alt="" coords="517,500,701,541"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#a33a1b8b428cd84029b8b377867197ea4" title="foedus::thread::ThreadPimpl\l::is_simple_mcs_rw" alt="" coords="774,565,958,607"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ace2e6a593d7b975f1756ce9eec0fd1f2" title="Release all locks in CLL whose addresses are canonically ordered before the parameter. " alt="" coords="784,500,948,541"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1CurrentLockList.html#ae0cbd2f6b369d0340c3222f124fe122b" title="foedus::xct::CurrentLock\lList::begin" alt="" coords="1022,515,1186,556"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1thread_1_1ThreadPimpl.html#afd87e3c9d855306d2c8115571eb79fa6" title="foedus::thread::ThreadPimpl\l::cll_try_or_acquire_single_lock" alt="" coords="507,565,711,607"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aa8023ecc3dc58816a010a3415ebfc1dd" title="Methods below take or release locks, so they receive MCS_RW_IMPL, a template param. " alt="" coords="1241,628,1447,669"/>
+<area shape="rect" id="node29" href="$structfoedus_1_1xct_1_1McsRwLock.html#adc5e6612e3cecf3d2f15d02237b4ef8f" title="foedus::xct::McsRwLock\l::is_locked" alt="" coords="526,944,691,985"/>
+<area shape="rect" id="node31" href="$structfoedus_1_1xct_1_1XctId.html#a41264f4ced33dae443651f57bc09e964" title="foedus::xct::XctId\l::is_moved" alt="" coords="547,1009,670,1051"/>
+<area shape="rect" id="node33" href="$structfoedus_1_1xct_1_1XctId.html#aa3d33ca4fe97b735ce59594993a1dd94" title="foedus::xct::XctId\l::is_next_layer" alt="" coords="547,1075,670,1116"/>
+<area shape="rect" id="node36" href="$structfoedus_1_1xct_1_1XctId.html#aa17818f701d2c61588f290c3d2cc1330" title="is_moved() || is_next_layer() " alt="" coords="1031,231,1177,272"/>
+<area shape="rect" id="node38" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ab5ef5b885ba49a42c2f47b694dc2a63d" title="used from precommit_xct_lock() to track moved record " alt="" coords="500,332,717,373"/>
+<area shape="rect" id="node39" href="$classfoedus_1_1Engine.html#ac27d3734638fe8d18fbdc9b4ee4666b2" title="See Storage Manager. " alt="" coords="799,288,933,329"/>
+<area shape="rect" id="node40" href="$classfoedus_1_1thread_1_1Thread.html#aa77cde98794b5a55e0d295284acb3e6d" title="Returns the page resolver to convert page ID to page pointer. " alt="" coords="791,142,941,198"/>
+<area shape="rect" id="node41" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#ace820ba89437e4d3a59fdb47a47525ba" title="Calculate owner_lock_id using the resolver. " alt="" coords="765,223,967,264"/>
+<area shape="rect" id="node43" href="$structfoedus_1_1xct_1_1WriteXctAccess.html#a4ff6663f61aa1e2ea251c15f16796974" title="foedus::xct::WriteXctAccess\l::compare" alt="" coords="515,136,702,177"/>
+<area shape="rect" id="node44" href="$structfoedus_1_1xct_1_1RecordXctAccess.html#ab99f8c62595322b828742165a3cbb9d8" title="sort the write set in a unique order. " alt="" coords="767,76,965,117"/>
+<area shape="rect" id="node46" href="$structfoedus_1_1xct_1_1XctId.html#ac151128ff0040de166018da6133f8d85" title="Returns if this XctId is before other in serialization order, meaning this is either an invalid (unus..." alt="" coords="547,1221,670,1263"/>
+<area shape="rect" id="node47" href="$classfoedus_1_1Epoch.html#aaef554452ea9ac7b072af98cde1558dc" title="Returns if this epoch is before the given epoch in the sense of distance defined in RFC 1982..." alt="" coords="792,1258,940,1285"/>
+<area shape="rect" id="node48" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="805,1127,927,1168"/>
+<area shape="rect" id="node49" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="1043,1213,1165,1255"/>
+<area shape="rect" id="node50" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="805,1192,927,1233"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="foedus::proc::ProcManagerPimpl::uninitialize_once" name="foedus::proc::ProcManagerPimpl::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1Engine.html#a7feeadc5a96cd725820869f1d5888386" title="foedus::Engine::describe\l_short" alt="" coords="239,9,404,51"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#ab44be75337e69f54c8952842f2179b0e" title="foedus::proc::ProcManager\lPimpl::get_local_data" alt="" coords="232,77,411,119"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="483,136,609,177"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1proc_1_1ProcManagerControlBlock.html#ac714240a82a81bd90351de1e1617aea7" title="foedus::proc::ProcManager\lControlBlock::uninitialize" alt="" coords="232,197,411,239"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1EnginePimpl.html#a361db01caeca068890f345f01651bd2e" title="foedus::EnginePimpl\l::describe_short" alt="" coords="475,5,617,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a8d9a31e48aec9b73e16b64170c0250f9" title="If this is a child instance, returns its SOC ID (NUMA node). " alt="" coords="479,71,613,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="459,201,633,243"/>
+</map>

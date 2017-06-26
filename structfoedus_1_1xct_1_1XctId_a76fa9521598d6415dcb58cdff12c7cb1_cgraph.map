@@ -1,0 +1,6 @@
+<map id="foedus::xct::XctId::compare_epoch_and_orginal" name="foedus::xct::XctId::compare_epoch_and_orginal">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="220,5,343,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="407,35,529,76"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="220,123,343,164"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="204,189,359,215"/>
+</map>

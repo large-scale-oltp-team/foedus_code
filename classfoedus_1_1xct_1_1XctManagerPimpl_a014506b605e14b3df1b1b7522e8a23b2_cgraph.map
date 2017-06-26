@@ -1,0 +1,51 @@
+<map id="foedus::xct::XctManagerPimpl::precommit_xct" name="foedus::xct::XctManagerPimpl::precommit_xct">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a71f565f69929d90febd7beb6b1dca696" title="foedus::xct::XctManagerPimpl\l::abort_xct" alt="" coords="248,543,443,584"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#acdd6c3ee6c1e8b0da192818e70fec846" title="foedus::xct::Retrospective\lLockList::clear_entries" alt="" coords="525,93,697,135"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="803,1285,953,1327"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1xct_1_1Xct.html#a9a76be25f22fd49683d2a4138ab7b199" title="Returns whether the object is an active transaction. " alt="" coords="813,111,943,152"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1Xct.html#abbc9a5e976aadfba9f1fbf9e9fb39a9a" title="Closes the transaction. " alt="" coords="521,159,700,186"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a761b506c86d1d8e5681cab34fac1ad29" title="foedus::xct::CurrentLock\lList::is_empty" alt="" coords="796,5,960,47"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1xct_1_1Xct.html#a8b718008691c004c92d863b8b75dbe07" title="foedus::xct::Xct::get\l_retrospective_lock_list" alt="" coords="532,743,689,784"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a3c2ee2d08709ff62e77e0dff6eded376" title="unlocking all acquired locks, used when commit/abort. " alt="" coords="491,808,731,849"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1xct_1_1Xct.html#afc0b909c82e905105f4f9701082a16b8" title="foedus::xct::Xct::get\l_current_lock_list" alt="" coords="809,939,947,980"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1xct_1_1Xct.html#a148038efa6f37e2b89f057c5d5cd4cb3" title="This debug method checks whether the related_read_ and related_write_ fileds in read/write sets are c..." alt="" coords="800,1965,956,2007"/>
+<area shape="rect" id="node32" href="$classfoedus_1_1xct_1_1Xct.html#ab8523ae5dcf4ee3d4554e291ab355230" title="Returns if this transaction makes no writes. " alt="" coords="280,1435,411,1476"/>
+<area shape="rect" id="node33" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#add42c2f0d559eafa1f67fd9c048a4855" title="precommit_xct() if the transaction is read&#45;only " alt="" coords="248,1024,443,1065"/>
+<area shape="rect" id="node40" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="248,1661,443,1703"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a38d217000e4df1d2d8e829c37218f93e" title="Fill out this retrospetive lock list for the next run of the given transaction. " alt="" coords="525,392,697,433"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1Xct.html#ae523b00cead387e6addb1366fe08546a" title="foedus::xct::Xct::get\l_read_set" alt="" coords="809,632,947,673"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1Xct.html#af7b9c43800807db798d2e58bc07ad5cd" title="foedus::xct::Xct::get\l_read_set_size" alt="" coords="809,873,947,915"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a9fecc418442394a926c49930cb95cc47" title="Called when the current transaction aborts. " alt="" coords="517,1121,704,1163"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1xct_1_1Xct.html#a8a5728b0376ffa45b801a560051d7d7a" title="foedus::xct::Xct::get\l_rll_threshold_for_this_xct" alt="" coords="524,509,697,551"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1thread_1_1Thread.html#af98ed86adde3f5e39c9cab39440f38da" title="foedus::thread::Thread\l::get_thread_id" alt="" coords="535,575,686,616"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1thread_1_1Thread.html#a9a5d37d6dac9966989e23381f600fcee" title="Returns the private log buffer for this thread. " alt="" coords="534,925,687,967"/>
+<area shape="rect" id="node23" href="$structfoedus_1_1xct_1_1RwLockableXctId.html#aba859c4eb829f83fa767720d5b745646" title="foedus::xct::RwLockableXct\lId::hotter" alt="" coords="519,261,702,303"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1xct_1_1Xct.html#aae4b0ccd575851276efddf752c90a273" title="foedus::xct::Xct::is\l_enable_rll_for_this_xct" alt="" coords="531,327,690,368"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a1397c6847c1ee46ba9c09457b4f5866e" title="foedus::xct::Retrospective\lLockList::assert_sorted" alt="" coords="792,424,964,465"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="803,307,953,348"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1xct_1_1Xct.html#ae5fa3dcdb891b99e5bc7d83ff2029f46" title="foedus::xct::Xct::get\l_write_set" alt="" coords="809,1880,947,1921"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1Xct.html#a674e3ce0252c1c9d2f73edf3b3c4307e" title="foedus::xct::Xct::get\l_write_set_size" alt="" coords="809,1815,947,1856"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1xct_1_1LockEntry.html#a54190c5faf4f6943043c1d83ed435f44" title="foedus::xct::LockEntry::set" alt="" coords="789,490,967,517"/>
+<area shape="rect" id="node14" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="795,373,961,399"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1xct.html#ae36b3307af22f430a8f11765e3e57748" title="foedus::xct::xct_id\l_to_universal_lock_id" alt="" coords="805,541,951,583"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1thread_1_1Thread.html#a83bb972b117e155dc7f0faa56751571b" title="foedus::thread::Thread\l::get_lock_rnd" alt="" coords="803,176,953,217"/>
+<area shape="rect" id="node25" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a168e04a3f3aa5c426c6f7980b9f358a7" title="foedus::assorted::ProbCounter\l::increment" alt="" coords="779,241,977,283"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1thread_1_1Thread.html#a21bff0861e0c12573bc0a6b776857b76" title="foedus::thread::Thread\l::cll_release_all_locks" alt="" coords="803,743,953,784"/>
+<area shape="rect" id="node30" href="$classfoedus_1_1xct_1_1CurrentLockList.html#abb020fdb3951460f9c283d4700696ad2" title="foedus::xct::CurrentLock\lList::clear_entries" alt="" coords="796,808,960,849"/>
+<area shape="rect" id="node34" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#ad75e847585775d7c506815269a176941" title="This marks the position upto which transaction logs are committed by the thread. " alt="" coords="517,1056,704,1097"/>
+<area shape="rect" id="node35" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a3077294533a21c3aa0a115cfd4c90224" title="The current cursor to which next log will be written. " alt="" coords="517,1187,704,1228"/>
+<area shape="rect" id="node36" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="524,1252,697,1293"/>
+<area shape="rect" id="node37" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2c3befa16f448a004d548a2b4675a13b" title="Phase 2 of precommit_xct() for read&#45;only case. " alt="" coords="507,991,715,1032"/>
+<area shape="rect" id="node38" href="$classfoedus_1_1Engine.html#ac27d3734638fe8d18fbdc9b4ee4666b2" title="See Storage Manager. " alt="" coords="811,1351,945,1392"/>
+<area shape="rect" id="node39" href="$group__ASSORTED.html#ga354bfce84ebf918859d54ba97b8ddc36" title="Prefetch one cacheline to L1 cache. " alt="" coords="792,1128,964,1169"/>
+<area shape="rect" id="node41" href="$structfoedus_1_1xct_1_1XctId.html#ad18a2d4a528fa063786b6efaf1035377" title="foedus::xct::XctId::set" alt="" coords="537,2047,685,2074"/>
+<area shape="rect" id="node42" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="513,1815,708,1856"/>
+<area shape="rect" id="node43" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="811,1720,945,1761"/>
+<area shape="rect" id="node44" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#acd49fd67f3459df687ed08d5d8b54082" title="foedus::xct::XctManagerPimpl\l::get_current_global_epoch_weak" alt="" coords="503,1485,718,1527"/>
+<area shape="rect" id="node45" href="$classfoedus_1_1thread_1_1Thread.html#a6f19e6df65000416391b796d9b2f9d66" title="Currently we don&#39;t have sysxct_release_locks() etc. " alt="" coords="532,1551,689,1607"/>
+<area shape="rect" id="node46" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="524,1632,697,1673"/>
+<area shape="rect" id="node47" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9534e63f498a012d9fa401a10e2b4e0b" title="Phase 2 of precommit_xct() for read&#45;write case. " alt="" coords="505,1317,716,1359"/>
+<area shape="rect" id="node48" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad91daff37c2b78b8c6620d67869e9d7f" title="Phase 3 of precommit_xct() " alt="" coords="513,1880,708,1921"/>
+<area shape="rect" id="node49" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="791,2071,965,2112"/>
+<area shape="rect" id="node50" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a58d7c07a52d42d459002bc590421de8a" title="Called when the current transaction is successfully committed. " alt="" coords="517,1749,704,1791"/>
+</map>

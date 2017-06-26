@@ -1,0 +1,6 @@
+<map id="foedus::log::LoggerRef::get_durable_epoch" name="foedus::log::LoggerRef::get_durable_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LoggerRef.html#a99e27a7bd4247f0729ae154c5a2262b5" title="Constructs the range of log entries that represent the given epoch ranges. " alt="" coords="222,5,373,47"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1log.html#a182df022267417563df5c7f1552ddbee" title="foedus::log::operator\&lt;\&lt;" alt="" coords="219,71,375,98"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1log_1_1LoggerRef.html#a03f823b0a3cdac79d65f1f5a9e053e3d" title="Wakes up this logger if its durable_epoch has not reached the given epoch yet. " alt="" coords="204,123,391,164"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1LogMapper.html#a661014d4832400f072544ff4b7e74a45" title="Implements the specific logics in derived class. " alt="" coords="439,5,632,47"/>
+</map>

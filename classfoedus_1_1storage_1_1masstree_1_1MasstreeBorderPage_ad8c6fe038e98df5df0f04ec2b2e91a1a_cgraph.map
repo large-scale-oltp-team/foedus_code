@@ -1,0 +1,11 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::find_key_for_snapshot" name="foedus::storage::masstree::MasstreeBorderPage::find_key_for_snapshot">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a04113a783c1b0022d35e7e8d7eae02a8" title="foedus::storage::masstree\l::MasstreeBorderPage::does\l_point_to_layer" alt="" coords="250,128,438,184"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="984,34,1191,75"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a2c1e8415916dbf458aee87572741890f" title="foedus::storage::masstree\l::MasstreeBorderPage::get_record" alt="" coords="233,223,455,264"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a4dc67e57eb2c90ffced75953dcef70fa" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_remainder_length" alt="" coords="503,25,681,81"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a42cee2c2a116efdd26420284e95a20f7" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slice" alt="" coords="238,288,450,330"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8b7973f3eb0f4f3c6894c278c18d7145" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slot" alt="" coords="729,99,936,140"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#aa3d33ca4fe97b735ce59594993a1dd94" title="foedus::xct::XctId\l::is_next_layer" alt="" coords="531,106,653,147"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#acad0cd3a9c7bffd3ea0a478a21e5db1b" title="Offset versions. " alt="" coords="503,222,681,278"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a9527f3829e488359a2d7d80318729bee" title="foedus::storage::masstree\l::MasstreeBorderPage::get\l_offset_in_bytes" alt="" coords="503,302,681,358"/>
+</map>

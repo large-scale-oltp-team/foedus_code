@@ -1,0 +1,19 @@
+<map id="foedus::storage::hash::HashIntermediatePage::release_pages_recursive" name="foedus::storage::hash::HashIntermediatePage::release_pages_recursive">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#aa8c59b8e2944d4a6a68d5fed840a7a29" title="foedus::storage::Volatile\lPagePointer::clear" alt="" coords="461,5,622,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669" title="foedus::storage::PageHeader\l::get_in_layer_level" alt="" coords="446,96,637,137"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6ddc93fb5df01249140895435819da2f" title="foedus::storage::hash\l::HashIntermediatePage\l::get_level" alt="" coords="228,90,389,146"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1PageHeader.html#a1bdd725342fd4aa90f983fec651f6956" title="foedus::storage::PageHeader\l::get_page_type" alt="" coords="941,488,1132,529"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a134e444d2b945700fe14d0d6d3dd11f0" title="foedus::storage::hash\l::HashIntermediatePage\l::header" alt="" coords="228,554,389,610"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#ac653a03fd75011048550f8e9f5dd198d" title="foedus::storage::hash\l::HashDataPage::header" alt="" coords="459,161,623,203"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="461,292,622,333"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1PageReleaseBatch.html#afe13efbf3cc2111936b08e31bd18e179" title="Returns the given in&#45;memory volatile page to appropriate NUMA node. " alt="" coords="441,423,641,464"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#a752f776127f131ccc60744c10d5cf490" title="foedus::storage::hash\l::HashDataPage::release\l_pages_recursive" alt="" coords="225,245,392,301"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a56250946b7719a7bd15532d211eac88f" title="Resolves offset plus NUMA node ID to storage::Page*. " alt="" coords="440,357,643,399"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="956,211,1117,252"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1storage_1_1hash_1_1HashDataPage.html#acfa062e1acf64b882f466cca8e190fdd" title="foedus::storage::hash\l::HashDataPage::get_bin" alt="" coords="458,227,625,268"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1storage.html#a9220f4aff16817a668990bd85f2f527d" title="foedus::storage::assert\l_valid_volatile_page" alt="" coords="715,357,869,399"/>
+<area shape="rect" id="node16" href="$structfoedus_1_1storage_1_1Page.html#abee44ea141b30e613f3de40831d6ff8e" title="At least the basic header exists in all pages. " alt="" coords="962,331,1111,372"/>
+<area shape="rect" id="node17" href="$namespacefoedus_1_1storage.html#a67e1af2de6e13b000e66609cf60849b6" title="foedus::storage::construct\l_volatile_page_pointer" alt="" coords="705,292,879,333"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1memory_1_1GlobalVolatilePageResolver.html#a63ab3e809b38145565cef7791f211a35" title="As the name suggests, this version is for new pages, which don&#39;t have sanity checks. " alt="" coords="691,423,893,479"/>
+<area shape="rect" id="node15" href="$namespacefoedus_1_1storage.html#ab7207e6e276af504c0e358a923ee75ec" title="foedus::storage::assert\l_aligned_page" alt="" coords="959,405,1114,447"/>
+</map>

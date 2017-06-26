@@ -1,0 +1,7 @@
+<map id="foedus::assorted::SpinlockStat::yield_backoff" name="foedus::assorted::SpinlockStat::yield_backoff">
+<area shape="rect" id="node2" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a5aba938f3a43d80fbfcca815637bbcfc" title="foedus::assorted::Uniform\lRandom::next_uint32" alt="" coords="233,5,404,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1assorted_1_1UniformRandom.html#a3340807dd12eccda4de0ebb14363c99c" title="foedus::assorted::Uniform\lRandom::set_current_seed" alt="" coords="229,71,408,112"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="231,136,406,177"/>
+<area shape="rect" id="node5" href="$group__DEBUGGING.html#gac7eac15b41b0fab4e689f62d147ce620" title="Wait until the given CPU cycles elapse. " alt="" coords="251,201,386,243"/>
+<area shape="rect" id="node6" href="$group__DEBUGGING.html#ga48dd46b3a1382506a34fcb4e6e0941f6" title="Returns the current CPU cycle via x86 RDTSC. " alt="" coords="456,201,591,243"/>
+</map>

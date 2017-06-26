@@ -1,0 +1,7 @@
+<map id="foedus::externalize::Externalizable::load_from_file" name="foedus::externalize::Externalizable::load_from_file">
+<area shape="rect" id="node2" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="583,37,733,64"/>
+<area shape="rect" id="node3" href="$group__FILESYSTEM.html#ga4f8f53901e9c98fce72b6b3c52cf83a4" title="Returns if the file exists. " alt="" coords="209,37,330,64"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1externalize_1_1Externalizable.html#a546988f0869a3899e671f702ecbc5b17" title="Reads the content of this object from the given XML element. " alt="" coords="197,88,341,130"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="389,30,535,71"/>
+<area shape="rect" id="node5" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="401,96,523,122"/>
+</map>

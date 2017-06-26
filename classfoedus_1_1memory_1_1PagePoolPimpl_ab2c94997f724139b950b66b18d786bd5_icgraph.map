@@ -1,0 +1,11 @@
+<map id="foedus::memory::PagePoolPimpl::assert_free_pool" name="foedus::memory::PagePoolPimpl::assert_free_pool">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#abec400efafc2d5e23b8f240e10abdfb3" title="foedus::memory::PagePool\lPimpl::grab" alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a3a28e3c04c25c6d6cb2cd0628d4fe397" title="foedus::memory::PagePool\lPimpl::initialize_once" alt="" coords="232,136,411,177"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#a76cbbda4fd32d9176cbc4098d8b5b2b1" title="foedus::memory::PagePool\lPimpl::release_impl" alt="" coords="232,201,411,243"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1memory_1_1PagePoolPimpl.html#aa079d110c76126386b0d3eefeaf1ae38" title="foedus::memory::PagePool\lPimpl::uninitialize_once" alt="" coords="232,267,411,308"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1PagePool.html#a1fdd8ce2a10921faeccc1fe38ffd25c0" title="Adds the specified number of free pages to the chunk. " alt="" coords="459,71,637,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html#a114c524e1d8efc628c3e7d98f85cfa83" title="Grabs an in&#45;memory page in some NUMA node. " alt="" coords="687,5,880,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1DivvyupPageGrabBatch.html#a3fcf76c5c95efed24463c7c9eb5e8dc0" title="Grabs an in&#45;memory page in specified NUMA node. " alt="" coords="685,71,881,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#af7bdd6c02647872c28ecb66d89adb965" title="foedus::memory::NumaCore\lMemory::initialize_once" alt="" coords="691,136,875,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1DivvyupPageGrabBatch.html#ad1cb17d3564061683f038da9e30ba305" title="Grabs an in&#45;memory page evenly and contiguously from each NUMA node. " alt="" coords="929,71,1125,112"/>
+</map>

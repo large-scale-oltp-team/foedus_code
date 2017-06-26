@@ -1,0 +1,8 @@
+<map id="foedus::thread::ThreadControlBlock::initialize" name="foedus::thread::ThreadControlBlock::initialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1FixedErrorStack.html#ad87a8cd7f42ef3c421b116bce070a372" title="foedus::FixedErrorStack\l::clear" alt="" coords="260,5,423,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1assorted_1_1FixedString.html#ad175b4520982eaf19692255255125b06" title="Clear string. " alt="" coords="245,71,437,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="254,136,429,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SharedPolling.html#ace449e19d0a13388da16570aefd42994" title="foedus::soc::SharedPolling\l::initialize" alt="" coords="253,201,430,243"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="485,136,660,177"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="486,201,659,243"/>
+</map>

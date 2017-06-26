@@ -1,0 +1,17 @@
+<map id="foedus::proc::ProcManagerPimpl::get_local_data" name="foedus::proc::ProcManagerPimpl::get_local_data">
+<area shape="rect" id="node2" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#ada9fdf5bccda75b4a408ea053780f6d1" title="foedus::proc::ProcManager\lPimpl::describe_registered_procs" alt="" coords="232,12,447,53"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#a37d27ce95acbf5eb397f277c83034a15" title="foedus::proc::ProcManager\lPimpl::initialize_once" alt="" coords="250,77,429,119"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#ab86903482c491cf4e2d4e4b78cb6250a" title="foedus::proc::ProcManager\lPimpl::local_register" alt="" coords="250,143,429,184"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#a00d0ebc7dee05d8a603fdc7299483c44" title="foedus::proc::ProcManager\lPimpl::uninitialize_once" alt="" coords="250,208,429,249"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1proc_1_1ProcManager.html#ad2cea910fc23749fbf7e88bd2682da93" title="For debug uses only. " alt="" coords="495,29,677,71"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#adfd1a1b588c61f7b8efaf8e0e9fd5f8f" title="foedus::soc::SocManagerPimpl\l::child_main_common" alt="" coords="725,71,928,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a2b7bbec9fe5f7713ae184361dcd658f8" title="Main routine of emulated SOCs. " alt="" coords="976,5,1179,47"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a15ec97d18049b472d172cb50c25e489b" title="Main routine of forked SOCs. " alt="" coords="976,71,1179,112"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a328e5ee7367152a0033bcc5843867eb1" title="Main routine of spawned SOCs. " alt="" coords="976,136,1179,177"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a77d275f92471e6ac9e0c4bb4c609665f" title="Launch emulated children as threads. " alt="" coords="1227,5,1429,47"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="1477,39,1680,80"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="1728,39,1931,80"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#ad9ef70c0b175a6535731e2cf0c2370f1" title="Launch children via fork. " alt="" coords="1227,71,1429,112"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1soc_1_1SocManager.html#a8b8ea1146fa76120be0fcb5ace838d0f" title="This version also receives user&#45;defined procedures to be registered in this SOC. " alt="" coords="1241,136,1415,177"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1proc_1_1ProcManager.html#a9cb7a5d09ab09f65251e40f2f1e6de76" title="Register a function pointer as a user procedure in the current SOC. " alt="" coords="497,111,675,152"/>
+</map>

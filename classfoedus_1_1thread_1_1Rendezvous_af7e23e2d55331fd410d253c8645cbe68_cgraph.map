@@ -1,0 +1,5 @@
+<map id="foedus::thread::Rendezvous::signal" name="foedus::thread::Rendezvous::signal">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Rendezvous.html#ad320ca3ef13605cfb9160db4d98837de" title="returns whether this thread has stopped (if the thread hasn&#39;t started, false too). " alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ConditionVariable.html#aa73e961ef835f2d9e487b3ff84421b7d" title="Notify all waiters that the event has happened. " alt="" coords="244,71,411,112"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="467,71,641,112"/>
+</map>

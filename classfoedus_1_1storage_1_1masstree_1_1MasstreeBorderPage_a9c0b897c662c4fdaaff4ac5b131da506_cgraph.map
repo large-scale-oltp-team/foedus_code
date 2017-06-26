@@ -1,0 +1,9 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::get_max_payload_length" name="foedus::storage::masstree::MasstreeBorderPage::get_max_payload_length">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage_1_1Slot.html#a447049b6067b0d1be460802f1b6a7076" title="This might be affected by concurrent threads. " alt="" coords="244,20,427,76"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a8b7973f3eb0f4f3c6894c278c18d7145" title="foedus::storage::masstree\l::MasstreeBorderPage::get_slot" alt="" coords="232,101,439,142"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage_1_1Slot.html#adecf558d81c86d2c96a701b6305a68b0" title="foedus::storage::masstree\l::MasstreeBorderPage::Slot\l::get_aligned_suffix_length" alt="" coords="499,20,681,76"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1storage_1_1masstree.html#a907f46e4f7d427806529dd8e2e03dd9c" title="foedus::storage::masstree\l::calculate_suffix_length\l_aligned" alt="" coords="741,20,915,76"/>
+<area shape="rect" id="node5" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="969,5,1129,32"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="963,57,1136,98"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="487,101,693,142"/>
+</map>

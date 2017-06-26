@@ -1,0 +1,8 @@
+<map id="foedus::log::LogManager::announce_new_durable_global_epoch" name="foedus::log::LogManager::announce_new_durable_global_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a6b560cbd51f4a39559154ff6a4007aae" title="foedus::log::LogManagerPimpl\l::announce_new_durable_global_epoch" alt="" coords="219,57,467,98"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Epoch.html#af13cf48db2b5bd1d273f5f7350a4d8cf" title="Returns the raw integer representation. " alt="" coords="532,5,675,32"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gafc1110de4c6bb85c7e1f7feccc27f6d7" title="Equivalent to std::atomic_thread_fence(std::memory_order_release). " alt="" coords="517,57,690,98"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="515,122,692,163"/>
+<area shape="rect" id="node6" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="749,93,922,134"/>
+<area shape="rect" id="node7" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="740,159,931,185"/>
+</map>

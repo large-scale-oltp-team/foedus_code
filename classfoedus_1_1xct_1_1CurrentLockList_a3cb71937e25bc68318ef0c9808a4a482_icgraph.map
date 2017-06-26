@@ -1,0 +1,7 @@
+<map id="foedus::xct::CurrentLockList::binary_search" name="foedus::xct::CurrentLockList::binary_search">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1CurrentLockList.html#abaacdb674d1296394cff252f995ce001" title="Create entries for all write&#45;sets in one&#45;shot. " alt="" coords="217,5,381,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="429,13,624,54"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="672,13,867,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="915,13,1109,54"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1157,13,1320,54"/>
+</map>

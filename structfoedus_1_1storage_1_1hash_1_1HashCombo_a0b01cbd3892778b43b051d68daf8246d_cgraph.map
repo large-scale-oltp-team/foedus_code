@@ -1,0 +1,7 @@
+<map id="foedus::storage::hash::HashCombo::HashCombo" name="foedus::storage::hash::HashCombo::HashCombo">
+<area shape="rect" id="node2" href="$unionfoedus_1_1storage_1_1hash_1_1IntermediateRoute.html#a0212c25f878f45d0936d9df0271fd41b" title="Calculates the rout for the given hash bin. " alt="" coords="242,5,389,61"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1hash_1_1DataPageBloomFilter.html#a28a11a7b04e04d895b21f29709eacd1f" title="foedus::storage::hash\l::DataPageBloomFilter\l::extract_fingerprint" alt="" coords="239,85,392,141"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1hash_1_1HashMetadata.html#abb07207c670562f82b96dd6d51681c4f" title="foedus::storage::hash\l::HashMetadata::get_bin\l_shifts" alt="" coords="233,165,397,221"/>
+<area shape="rect" id="node6" href="$group__HASH.html#ga8c4ca78e36b2188f1feac100ce7df679" title="Calculates hash value for general input. " alt="" coords="242,246,389,287"/>
+<area shape="rect" id="node3" href="$unionfoedus_1_1storage_1_1hash_1_1IntermediateRoute.html#a5c731b0f50eeabc808b77db3e7be71b7" title="foedus::storage::hash\l::IntermediateRoute::\lconvert_back" alt="" coords="445,5,592,61"/>
+</map>

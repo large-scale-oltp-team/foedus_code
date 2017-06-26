@@ -1,0 +1,11 @@
+<map id="foedus::soc::align_4kb" name="foedus::soc::align_4kb">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a9cea4a83fb68a8f86ad43c04165c06e3" title="foedus::soc::SharedMemory\lRepo::calculate_global\l_memory_size" alt="" coords="229,5,414,61"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a2e2c4c30186c25585226aabc09e942cf" title="foedus::soc::SharedMemory\lRepo::calculate_node_memory_size" alt="" coords="205,86,437,127"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1EngineOptions.html#ace695b3d0e069ed255df9572f71ecfa4" title="foedus::EngineOptions\l::calculate_required\l_memory" alt="" coords="516,5,669,61"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#aa42d7f6cd529569e79e4cfc298adb39b" title="Master process creates shared memories by calling this method. " alt="" coords="485,86,700,127"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1EngineOptions.html#ae11d1267946c562743cea44470525a69" title="Checks the machine environment and raises as many errors as possible before the engine starts up..." alt="" coords="773,13,926,54"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1EnginePimpl.html#ad48323b2f8311ecee663647aeeecdea6" title="foedus::EnginePimpl\l::check_valid_options" alt="" coords="1027,13,1173,54"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="1249,13,1391,54"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="748,86,951,127"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="999,86,1201,127"/>
+</map>

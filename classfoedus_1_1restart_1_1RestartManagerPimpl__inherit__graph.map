@@ -1,0 +1,4 @@
+<map id="foedus::restart::RestartManagerPimpl" name="foedus::restart::RestartManagerPimpl">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="25,5,157,32"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="foedus::xct::XctManagerPimpl::begin_xct" name="foedus::xct::XctManagerPimpl::begin_xct">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1Xct.html#ac525c6624f248cd869b111b7d4338b30" title="Begins the transaction. " alt="" coords="277,166,441,193"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#afeae5ce72d1c324ecc32dce36459340a" title="foedus::xct::Retrospective\lLockList::get_last_active_entry" alt="" coords="731,355,932,396"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1thread_1_1Thread.html#ac48c54832becbaa9141926af14705ba3" title="Returns the transaction that is currently running on this thread. " alt="" coords="284,348,435,389"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1xct_1_1Xct.html#a4dfc3cd9b70a93615c3a0a8014aafbe1" title="foedus::xct::Xct::get\l_lock_free_write_set_size" alt="" coords="274,413,445,455"/>
+<area shape="rect" id="node24" href="$classfoedus_1_1xct_1_1Xct.html#ac81cd23819603f9bdbf780b9f6a18e56" title="foedus::xct::Xct::get\l_mcs_block_current" alt="" coords="290,479,429,520"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#ad75e847585775d7c506815269a176941" title="This marks the position upto which transaction logs are committed by the thread. " alt="" coords="266,544,453,585"/>
+<area shape="rect" id="node26" href="$classfoedus_1_1log_1_1ThreadLogBuffer.html#a3077294533a21c3aa0a115cfd4c90224" title="The current cursor to which next log will be written. " alt="" coords="266,609,453,651"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1xct_1_1Xct.html#af7b9c43800807db798d2e58bc07ad5cd" title="foedus::xct::Xct::get\l_read_set_size" alt="" coords="290,675,429,716"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1xct_1_1Xct.html#a8b718008691c004c92d863b8b75dbe07" title="foedus::xct::Xct::get\l_retrospective_lock_list" alt="" coords="281,740,438,781"/>
+<area shape="rect" id="node29" href="$classfoedus_1_1thread_1_1Thread.html#a9a5d37d6dac9966989e23381f600fcee" title="Returns the private log buffer for this thread. " alt="" coords="283,805,436,847"/>
+<area shape="rect" id="node30" href="$classfoedus_1_1xct_1_1Xct.html#a674e3ce0252c1c9d2f73edf3b3c4307e" title="foedus::xct::Xct::get\l_write_set_size" alt="" coords="290,871,429,912"/>
+<area shape="rect" id="node31" href="$classfoedus_1_1xct_1_1Xct.html#a9a76be25f22fd49683d2a4138ab7b199" title="Returns whether the object is an active transaction. " alt="" coords="294,936,425,977"/>
+<area shape="rect" id="node32" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ae2552e77d289757f643d7e7d4aa5fcf4" title="foedus::xct::XctManagerPimpl\l::wait_until_resume_accepting_xct" alt="" coords="248,1001,471,1043"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1CurrentLockList.html#abb020fdb3951460f9c283d4700696ad2" title="foedus::xct::CurrentLock\lList::clear_entries" alt="" coords="519,68,683,109"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a6c96bb5725be6694030bd8ce88d68698" title="foedus::xct::Retrospective\lLockList::is_empty" alt="" coords="745,28,917,69"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a4a10e19f1d603ab47e74c605a9909fb5" title="Another batch&#45;insert method used at the beginning of a transaction. " alt="" coords="519,185,683,241"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a1397c6847c1ee46ba9c09457b4f5866e" title="foedus::xct::Retrospective\lLockList::assert_sorted" alt="" coords="745,93,917,135"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1xct_1_1CurrentLockList.html#acbed8e324b88389217b42a132e0547b8" title="foedus::xct::CurrentLock\lList::assert_sorted" alt="" coords="749,159,913,200"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#acd7b6530aeff7f5323880bf0b6b14ce0" title="foedus::xct::Retrospective\lLockList::get_array" alt="" coords="745,224,917,265"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a761b506c86d1d8e5681cab34fac1ad29" title="foedus::xct::CurrentLock\lList::is_empty" alt="" coords="749,289,913,331"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1RetrospectiveLockList.html#a14d555cbd9ddee31c68c9c81ff84c129" title="foedus::xct::Retrospective\lLockList::assert_sorted_impl" alt="" coords="980,93,1169,135"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1xct.html#a736225e9852f9c75b92e134dbbe40a68" title="foedus::xct::lock_assert\l_sorted" alt="" coords="1235,93,1396,135"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1Page.html#ac2a6248866335cc84b16bb0530eb76f4" title="foedus::storage::Page\l::get_volatile_page_id" alt="" coords="1493,5,1642,47"/>
+<area shape="rect" id="node10" href="$group__STORAGE.html#gaa114fc1859c2d4cb8b9e2021cb11cb25" title="super&#45;dirty way to obtain Page the address belongs to. " alt="" coords="1485,71,1650,98"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1xct.html#a94b21516b530d0be271c6005a72009ad" title="foedus::xct::to_universal\l_lock_id" alt="" coords="1486,123,1649,164"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#adb76c33cd20ea764c7a8e554e8201077" title="foedus::storage::Volatile\lPagePointer::get_numa_node" alt="" coords="1721,57,1915,99"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="1737,123,1899,164"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a7485f0d26810767b3bef18e12233daa7" title="foedus::xct::CurrentLock\lList::assert_sorted_impl" alt="" coords="993,159,1157,200"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1xct_1_1CurrentLockList.html#aed99dee60f9529d5cfabb5e1742038da" title="foedus::xct::CurrentLock\lList::assert_last_locked_entry" alt="" coords="1217,163,1413,204"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a1a668d5dd1b711abed1a9962a8cb4ec1" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="1461,192,1673,233"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1xct_1_1CurrentLockList.html#a03e818494c4d716f9fc996081f6c419f" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="1730,189,1906,245"/>
+</map>

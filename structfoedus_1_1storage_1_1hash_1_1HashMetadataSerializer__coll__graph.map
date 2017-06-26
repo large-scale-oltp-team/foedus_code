@@ -1,0 +1,8 @@
+<map id="foedus::storage::hash::HashMetadataSerializer" name="foedus::storage::hash::HashMetadataSerializer">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1MetadataSerializer.html" title="foedus::storage::Metadata\lSerializer" alt="" coords="5,213,179,255"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1externalize_1_1Externalizable.html" title="Represents an object that can be written to and read from files/bytes in XML format. " alt="" coords="27,109,157,151"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1Metadata.html" title="Metadata of one storage. " alt="" coords="185,117,359,143"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1hash_1_1HashMetadata.html" title="Metadata of an hash storage. " alt="" coords="203,213,349,255"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1assorted_1_1FixedString.html" title="foedus::assorted::FixedString\l\&lt; 60 \&gt;" alt="" coords="72,5,264,47"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1Metadata_1_1SnapshotThresholds.html" title="Tuning parameters related to snapshotting. " alt="" coords="288,5,461,47"/>
+</map>

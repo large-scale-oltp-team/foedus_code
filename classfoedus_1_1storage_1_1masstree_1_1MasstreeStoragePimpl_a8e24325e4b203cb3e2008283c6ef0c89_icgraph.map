@@ -1,0 +1,4 @@
+<map id="foedus::storage::masstree::MasstreeStoragePimpl::retrieve_general" name="foedus::storage::masstree::MasstreeStoragePimpl::retrieve_general">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#acdf38eea62d1432e3715a661d0790caf" title="Retrieves an entire record of the given key in this Masstree. " alt="" coords="448,13,647,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeStorage.html#a4f2492b6a04c2db18cdf2a4a2d7fecc0" title="Retrieves an entire record of the given primitive key in this Masstree. " alt="" coords="227,37,400,93"/>
+</map>

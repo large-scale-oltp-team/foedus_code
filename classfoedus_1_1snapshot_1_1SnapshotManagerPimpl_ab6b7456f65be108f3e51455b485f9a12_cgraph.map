@@ -1,0 +1,7 @@
+<map id="foedus::snapshot::SnapshotManagerPimpl::sleep_a_while" name="foedus::snapshot::SnapshotManagerPimpl::sleep_a_while">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="269,5,446,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a501ce4a1b4b4a847a635ca671c5331de" title="foedus::snapshot::Snapshot\lManagerPimpl::is_stop_requested" alt="" coords="248,71,467,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="269,136,446,177"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="515,5,688,47"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1soc.html#a875ded688a72b32f8f690f37750e609f" title="foedus::soc::get_now\l_microsec" alt="" coords="529,136,674,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="foedus::storage::masstree::MasstreeIntermediatePointerIterator::get_pointer" name="foedus::storage::masstree::MasstreeIntermediatePointerIterator::get_pointer">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePage.html#a1cb83de15afc0a903046937276b0ed31" title="foedus::storage::masstree\l::MasstreeIntermediatePage\l::get_minipage" alt="" coords="584,5,769,61"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeIntermediatePointerIterator.html#acd0b166a127ed5fbadecd838f8e32be5" title="foedus::storage::masstree\l::MasstreeIntermediatePointerIterator\l::is_valid" alt="" coords="289,71,525,127"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="573,86,780,127"/>
+</map>

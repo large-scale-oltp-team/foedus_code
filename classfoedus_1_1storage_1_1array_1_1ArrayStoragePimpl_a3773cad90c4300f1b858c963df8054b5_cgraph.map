@@ -1,0 +1,11 @@
+<map id="foedus::storage::array::ArrayStoragePimpl::hcc_reset_all_temperature_stat_intermediate" name="foedus::storage::array::ArrayStoragePimpl::hcc_reset_all_temperature_stat_intermediate">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1EngineMemory.html#a62b2d4de6a72644e9e31d35a7f9beae0" title="Returns the page resolver to convert volatile page ID to page pointer. " alt="" coords="236,5,447,61"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#a53643894d607ee034359b2a4f77f0d89" title="foedus::storage::array\l::ArrayPage::get_interior\l_record" alt="" coords="260,85,423,141"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#a093e610525e466cef81920c9d21e7aa2" title="foedus::storage::array\l::ArrayPage::get_level" alt="" coords="267,166,416,207"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Engine.html#a02ed05009c7baa8d75e04f202a86b2c6" title="See Memory Manager. " alt="" coords="274,231,409,273"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#ad27a14c20dc341c655820def2e0dd1ee" title="foedus::storage::array\l::ArrayPage::header" alt="" coords="267,297,415,338"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1array_1_1ArrayPage.html#a9c7bc21358a340d36f3c43a49f774b93" title="foedus::storage::array\l::ArrayPage::is_leaf" alt="" coords="267,362,415,403"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ad9d25c0d8211f93db82d8cefe9d6ead7" title="foedus::storage::Volatile\lPagePointer::is_null" alt="" coords="261,427,422,469"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="242,493,441,534"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#ac3d7cb1649528efa8b9aa22b63bf52e6" title="foedus::storage::Volatile\lPagePointer::get_offset" alt="" coords="495,427,656,469"/>
+</map>

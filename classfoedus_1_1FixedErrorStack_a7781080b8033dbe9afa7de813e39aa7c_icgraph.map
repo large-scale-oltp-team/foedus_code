@@ -1,0 +1,9 @@
+<map id="foedus::FixedErrorStack::get_linenum" name="foedus::FixedErrorStack::get_linenum">
+<area shape="rect" id="node2" href="$classfoedus_1_1FixedErrorStack.html#ab8644e6aea98412c534fac81e88e9203" title="Describe this object to the given stream. " alt="" coords="216,108,379,149"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1FixedErrorStack.html#ae188e11e3d0fb9481b8d20bd252c7920" title="Instantiates an ErrorStack object based on this object. " alt="" coords="427,79,589,120"/>
+<area shape="rect" id="node8" href="$namespacefoedus.html#a7011b96b0dfabe56704945dfa9959c9f" title="foedus::operator\&lt;\&lt;" alt="" coords="443,145,573,171"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a03dead1ca09cc22dce6b8e63622e5ed4" title="Waits until the completion of the asynchronous session and retrieves the result. " alt="" coords="637,79,820,120"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPool.html#abc0bb4530f9e58c38b0e3ce0e1058be4" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="875,5,1057,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPool.html#ad660d97b51456a1a4f819087f7dfeee7" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="868,71,1064,127"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1thread_1_1ThreadPool.html#a3024f0646533edde18e9718d9180e97e" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="869,151,1063,207"/>
+</map>

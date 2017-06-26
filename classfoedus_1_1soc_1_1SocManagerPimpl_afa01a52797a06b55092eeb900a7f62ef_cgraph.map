@@ -1,0 +1,11 @@
+<map id="foedus::soc::SocManagerPimpl::wait_for_child_terminate" name="foedus::soc::SocManagerPimpl::wait_for_child_terminate">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a45aa9998863c0d0f8548806d06503972" title="foedus::soc::SharedMemory\lRepo::change_master_status" alt="" coords="256,5,448,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SharedMemoryRepo.html#a858b2e2cceeb9f8c71722ed5f8c3c069" title="foedus::soc::SharedMemory\lRepo::get_child_status" alt="" coords="259,71,445,112"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="285,136,419,177"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gaa05e01910d3ea9909f1a64afd62729fb" title="Invoke _mm_pause(), x86 PAUSE instruction, or something equivalent in the env. " alt="" coords="265,201,439,243"/>
+<area shape="rect" id="node9" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="291,267,413,294"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#aa3f2eb00974e1e60ce9a03e8f8f64954" title="Update the value of status_code_ with fence. " alt="" coords="496,5,695,47"/>
+<area shape="rect" id="node4" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="743,39,916,80"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1soc_1_1ChildEngineStatus.html#ac8acd97b1b354cda68779ade6a963d04" title="Read status_code_ with fence. " alt="" coords="504,71,687,112"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="520,267,671,294"/>
+</map>

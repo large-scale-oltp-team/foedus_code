@@ -1,0 +1,5 @@
+<map id="foedus::storage::operator&lt;&lt;" name="foedus::storage::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#a938cd4d9d491c3b6a4eb14afdbfd6b19" title="foedus::storage::PageVersion\lStatus::get_version_counter" alt="" coords="236,5,428,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ac3214863fa74628187ce46b2879994ae" title="foedus::storage::PageVersion\lStatus::is_moved" alt="" coords="236,71,428,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#ab07c3c3d030fab04f79b59dee83ecd2e" title="foedus::storage::PageVersion\lStatus::is_retired" alt="" coords="236,136,428,177"/>
+</map>

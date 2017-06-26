@@ -1,0 +1,5 @@
+<map id="foedus::soc::SocManager::uninitialize" name="foedus::soc::SocManager::uninitialize">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html#ab14b136a7d26f9f499ab9dc15a45a8cb" title="Typical implementation of Initializable::uninitialize() that provides uninitialize&#45;once semantics..." alt="" coords="224,39,396,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="444,5,616,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1DefaultInitializable.html#a764be22ce1454279e7a7e78f4c8e380b" title="foedus::DefaultInitializable\l::uninitialize_once" alt="" coords="444,71,616,112"/>
+</map>

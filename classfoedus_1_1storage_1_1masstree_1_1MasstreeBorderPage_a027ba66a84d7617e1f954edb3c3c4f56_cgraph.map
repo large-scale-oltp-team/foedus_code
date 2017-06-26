@@ -1,0 +1,9 @@
+<map id="foedus::storage::masstree::MasstreeBorderPage::can_accomodate_snapshot" name="foedus::storage::masstree::MasstreeBorderPage::can_accomodate_snapshot">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a477537aab66e512a826f74d570397f41" title="Returns usable data space in bytes. " alt="" coords="235,5,485,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreePage.html#a3ab3ec4aa9b6e43a606e1555c5c74cec" title="physical key count (those keys might be deleted) in this page. " alt="" coords="533,31,740,72"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a4ca875114e346439b950c703ab3586b5" title="returns the byte size of required contiguous space in data_ to insert a new record of the given remai..." alt="" coords="257,122,463,178"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1masstree_1_1MasstreeBorderPage.html#a68797699a249ca9320a08038d1cdabbc" title="returns minimal physical_record_length_ for the given remainder/payload length. " alt="" coords="550,122,723,178"/>
+<area shape="rect" id="node6" href="$namespacefoedus_1_1storage_1_1masstree.html#a907f46e4f7d427806529dd8e2e03dd9c" title="foedus::storage::masstree\l::calculate_suffix_length\l_aligned" alt="" coords="788,154,961,210"/>
+<area shape="rect" id="node7" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="1016,107,1176,134"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1storage_1_1masstree.html#a575ba44804b98a334fc66eedf4b18d70" title="foedus::storage::masstree\l::calculate_suffix_length" alt="" coords="1009,161,1183,203"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="foedus::EngineOptions::save" name="foedus::EngineOptions::save">
+<area shape="rect" id="node2" href="$structfoedus_1_1externalize_1_1Externalizable.html#a2417512c982e79faeaf02649f8e62e3c" title="child Externalizable version " alt="" coords="212,5,353,61"/>
+<area shape="rect" id="node5" href="$namespacefoedus.html#a45cb8cfc5e444ccd9016655c46741796" title="foedus::get_children" alt="" coords="213,85,352,112"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1externalize_1_1Externalizable.html#a3440fb01f6ac25ab73f6483dbef0906b" title="foedus::externalize\l::Externalizable::insert\l_comment" alt="" coords="207,136,359,192"/>
+<area shape="rect" id="node3" href="$namespacefoedus_1_1externalize.html#a89713044c4f671566a6d103cfefd1509" title="foedus::externalize\l::insert_comment_impl" alt="" coords="407,110,561,151"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1externalize_1_1Externalizable.html#a19c407586854a4765981cf165b653ef5" title="Writes the content of this object to the given XML element. " alt="" coords="411,13,557,54"/>
+</map>

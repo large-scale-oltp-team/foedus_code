@@ -1,0 +1,4 @@
+<map id="foedus::snapshot::SnapshotManager::get_snapshot_epoch" name="foedus::snapshot::SnapshotManager::get_snapshot_epoch">
+<area shape="rect" id="node2" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a8c5418a3e6d3558aa3920a605834df08" title="Recover the state of database from recent snapshot files and transaction logs. " alt="" coords="253,5,408,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1restart_1_1RestartManagerPimpl.html#a868dca9015af77e04202ead68fd7a136" title="foedus::restart::Restart\lManagerPimpl::initialize_once" alt="" coords="456,5,651,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="foedus::thread::ThreadRef::try_impersonate" name="foedus::thread::ThreadRef::try_impersonate">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a05fc63b02a5aa1d938f7220d40d7e8db" title="foedus::thread::ThreadPool\lPimpl::impersonate" alt="" coords="250,12,427,53"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#a15f304020e9adda3eb4f7c00f5b9311f" title="foedus::thread::ThreadPool\lPimpl::impersonate_on_numa_core" alt="" coords="225,79,452,120"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#af768218c3f43620264c7559fa089ed80" title="foedus::thread::ThreadPool\lPimpl::impersonate_on_numa_node" alt="" coords="224,148,453,189"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPool.html#a34531989c3885ab6e0cccc19bf53d87c" title="Impersonate as one of pre&#45;allocated threads in this engine, executing the procedure on the impersonat..." alt="" coords="511,8,688,49"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPool.html#abc0bb4530f9e58c38b0e3ce0e1058be4" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="752,5,935,47"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1thread_1_1ThreadPool.html#a4f8014506cf0eea7986d26df628d4a71" title="Overload to specify a core to run on. " alt="" coords="503,79,696,120"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1thread_1_1ThreadPool.html#a3024f0646533edde18e9718d9180e97e" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="747,71,940,127"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1thread_1_1ThreadPool.html#a5e3ba16ba231dab64401f2413a504f1d" title="Overload to specify a NUMA node to run on. " alt="" coords="501,151,697,192"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1thread_1_1ThreadPool.html#ad660d97b51456a1a4f819087f7dfeee7" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="745,151,941,207"/>
+</map>

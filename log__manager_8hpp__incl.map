@@ -1,0 +1,16 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/log/log_manager.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/log/log_manager.hpp">
+<area shape="rect" id="node3" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="729,184,853,211"/>
+<area shape="rect" id="node9" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="1229,259,1337,285"/>
+<area shape="rect" id="node10" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="615,109,768,136"/>
+<area shape="rect" id="node17" href="$log_2fwd_8hpp.html" title="Forward declarations of classes in log manager package. " alt="" coords="1321,184,1451,211"/>
+<area shape="rect" id="node18" href="$log__id_8hpp.html" title="Typedefs of ID types used in log package. " alt="" coords="929,184,1073,211"/>
+<area shape="rect" id="node19" href="$logger__ref_8hpp.html" title="foedus/log/logger_ref.hpp" alt="" coords="1088,109,1255,136"/>
+<area shape="rect" id="node21" href="$savepoint_2fwd_8hpp.html" title="Forward declarations of classes in savepoint manager package. " alt="" coords="1475,184,1641,211"/>
+<area shape="rect" id="node5" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="649,259,795,285"/>
+<area shape="rect" id="node8" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="820,259,944,285"/>
+<area shape="rect" id="node11" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="466,184,621,211"/>
+<area shape="rect" id="node14" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="5,259,143,285"/>
+<area shape="rect" id="node15" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="167,259,317,285"/>
+<area shape="rect" id="node16" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="156,333,328,360"/>
+<area shape="rect" id="node20" href="$attachable_8hpp.html" title="foedus/attachable.hpp" alt="" coords="1097,184,1246,211"/>
+</map>

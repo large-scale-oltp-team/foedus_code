@@ -1,0 +1,29 @@
+<map id="/home/shino/foedus_code/foedus&#45;core/include/foedus/memory/page_pool.hpp" name="/home/shino/foedus_code/foedus&#45;core/include/foedus/memory/page_pool.hpp">
+<area shape="rect" id="node5" href="$assert__nd_8hpp.html" title="foedus/assert_nd.hpp" alt="" coords="3425,541,3571,568"/>
+<area shape="rect" id="node7" href="$cxx11_8hpp.html" title="foedus/cxx11.hpp" alt="" coords="1143,541,1267,568"/>
+<area shape="rect" id="node8" href="$error__stack_8hpp.html" title="foedus/error_stack.hpp" alt="" coords="717,370,871,397"/>
+<area shape="rect" id="node14" href="$fwd_8hpp.html" title="Forward declarations of classes in root package. " alt="" coords="1200,370,1308,397"/>
+<area shape="rect" id="node15" href="$initializable_8hpp.html" title="foedus/initializable.hpp" alt="" coords="584,281,737,307"/>
+<area shape="rect" id="node16" href="$assorted__func_8hpp.html" title="foedus/assorted/assorted\l_func.hpp" alt="" coords="2970,363,3138,404"/>
+<area shape="rect" id="node19" href="$memory_2fwd_8hpp.html" title="Forward declarations of classes in memory package. " alt="" coords="3881,541,4040,568"/>
+<area shape="rect" id="node20" href="$memory__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="126,363,289,404"/>
+<area shape="rect" id="node27" href="$page__resolver_8hpp.html" title="foedus/memory/page\l_resolver.hpp" alt="" coords="963,109,1105,151"/>
+<area shape="rect" id="node28" href="$page_8hpp.html" title="foedus/storage/page.hpp" alt="" coords="1747,199,1911,225"/>
+<area shape="rect" id="node33" href="$storage__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="2722,273,2877,315"/>
+<area shape="rect" id="node39" href="$thread__id_8hpp.html" title="Typedefs of ID types used in thread package. " alt="" coords="1421,452,1561,493"/>
+<area shape="rect" id="node11" href="$compiler_8hpp.html" title="foedus/compiler.hpp" alt="" coords="1093,459,1231,486"/>
+<area shape="rect" id="node12" href="$error__code_8hpp.html" title="foedus/error_code.hpp" alt="" coords="339,459,489,486"/>
+<area shape="rect" id="node13" href="$error__code_8xmacro.html" title="Error code/message definition in X&#45;Macro style. " alt="" coords="339,541,511,568"/>
+<area shape="rect" id="node18" href="$uniform__random_8hpp.html" title="foedus/assorted/uniform\l_random.hpp" alt="" coords="3561,452,3721,493"/>
+<area shape="rect" id="node21" href="$numa_8h.html" title="numa.h" alt="" coords="148,541,213,568"/>
+<area shape="rect" id="node26" href="$mod__numa__node_8hpp.html" title="foedus/assorted/mod\l_numa_node.hpp" alt="" coords="60,452,203,493"/>
+<area shape="rect" id="node29" href="$epoch_8hpp.html" title="foedus/epoch.hpp" alt="" coords="2224,370,2348,397"/>
+<area shape="rect" id="node30" href="$atomic__fences_8hpp.html" title="Atomic fence methods and load/store with fences that work for both C++11/non&#45;C++11 code..." alt="" coords="2423,363,2581,404"/>
+<area shape="rect" id="node31" href="$prob__counter_8hpp.html" title="foedus/assorted/prob\l_counter.hpp" alt="" coords="3569,363,3712,404"/>
+<area shape="rect" id="node32" href="$storage_2fwd_8hpp.html" title="Forward declarations of classes in storage package. " alt="" coords="1383,370,1538,397"/>
+<area shape="rect" id="node40" href="$thread_2fwd_8hpp.html" title="Forward declarations of classes in thread package. " alt="" coords="1563,370,1711,397"/>
+<area shape="rect" id="node41" href="$xct__id_8hpp.html" title="Definitions of IDs in this package and a few related constant values. " alt="" coords="1970,281,2117,307"/>
+<area shape="rect" id="node34" href="$fixed__string_8hpp.html" title="foedus/assorted/fixed\l_string.hpp" alt="" coords="3264,363,3409,404"/>
+<area shape="rect" id="node38" href="$raw__atomics_8hpp.html" title="Raw atomic operations that work for both C++11 and non&#45;C++11 code. " alt="" coords="2605,363,2743,404"/>
+<area shape="rect" id="node42" href="$endianness_8hpp.html" title="A few macros and helper methods related to byte endian&#45;ness. " alt="" coords="1939,370,2148,397"/>
+</map>

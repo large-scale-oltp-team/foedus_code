@@ -1,0 +1,8 @@
+<map id="foedus::snapshot::SnapshotManagerPimpl::is_stop_requested" name="foedus::snapshot::SnapshotManagerPimpl::is_stop_requested">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a64e3c7594b7d7d0d5f8a144bd802d910" title="Main routine for snapshot_thread_ in master engine. " alt="" coords="547,19,757,60"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a84fdf2f4ccf499b44afed05a273739d9" title="Main routine for snapshot_thread_ in child engines. " alt="" coords="529,84,775,126"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#ab6b7456f65be108f3e51455b485f9a12" title="foedus::snapshot::Snapshot\lManagerPimpl::sleep_a_while" alt="" coords="279,28,474,70"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a4496237075c2f411bb548e1bec7ca06b" title="foedus::snapshot::Snapshot\lManagerPimpl::trigger_snapshot\l_immediate" alt="" coords="272,146,481,202"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a632a4da7b3c67dd687f7eba4f6ec1d76" title="foedus::snapshot::Snapshot\lManagerPimpl::initialize_once" alt="" coords="823,52,1017,94"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1snapshot_1_1SnapshotManager.html#ad0ca7bd80adde3e30e439d6902d9b299" title="Immediately take a snapshot. " alt="" coords="560,150,744,206"/>
+</map>

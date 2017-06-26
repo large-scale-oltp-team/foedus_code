@@ -1,0 +1,5 @@
+<map id="foedus::memory::PagePoolPimpl::attach" name="foedus::memory::PagePoolPimpl::attach">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1PagePool.html#a6522fe3b6b37b4e87c0e4170e573b8d2" title="foedus::memory::PagePool\l::attach" alt="" coords="232,39,411,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a70fdc4e831999f941d4105de0c3ce3fd" title="foedus::memory::NumaNode\lMemory::initialize_once" alt="" coords="479,5,665,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a8e735f7411d3a28d4ddf0c25f3eced4e" title="foedus::memory::NumaNode\lMemoryRef::NumaNodeMemoryRef" alt="" coords="459,71,685,112"/>
+</map>

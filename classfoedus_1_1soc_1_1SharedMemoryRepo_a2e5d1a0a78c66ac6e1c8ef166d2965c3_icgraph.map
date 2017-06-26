@@ -1,0 +1,20 @@
+<map id="foedus::soc::SharedMemoryRepo::get_node_memory_anchors" name="foedus::soc::SharedMemoryRepo::get_node_memory_anchors">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a01c6454d8099e0d74a325af05718dc12" title="foedus::snapshot::LogReducer\lRef::get_buffer" alt="" coords="287,5,486,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a3dd3a524e5fbb0b8f9cb52dd21689d0a" title="Called as part of initialize_once() if this is a master engine. " alt="" coords="285,71,488,112"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a70fdc4e831999f941d4105de0c3ce3fd" title="foedus::memory::NumaNode\lMemory::initialize_once" alt="" coords="293,136,480,177"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="1019,531,1160,572"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#a37d27ce95acbf5eb397f277c83034a15" title="foedus::proc::ProcManager\lPimpl::initialize_once" alt="" coords="297,253,476,295"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1log_1_1LogManagerPimpl.html#a8b2cfe458668cc3f8cf4ccbfeab179dc" title="foedus::log::LogManagerPimpl\l::initialize_once" alt="" coords="288,319,485,360"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a48fa59b1bcce029bc8a7e5fd3f688068" title="foedus::snapshot::LogReducer\lRef::LogReducerRef" alt="" coords="287,384,486,425"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1memory_1_1NumaNodeMemoryRef.html#a8e735f7411d3a28d4ddf0c25f3eced4e" title="foedus::memory::NumaNode\lMemoryRef::NumaNodeMemoryRef" alt="" coords="273,449,500,491"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1EnginePimpl.html#a13acd726f8d0ab03b7976d00006a0e6b" title="Called whenever each module has completed its initialization. " alt="" coords="572,564,727,605"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1EnginePimpl.html#a5a2c657e4fcf77d3166da849a6af8ffd" title="Called whenever each module has completed its uninitialization. " alt="" coords="565,695,733,736"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#a36ec21a4c2b374ce071755a8b2696e3a" title="foedus::soc::SocManagerPimpl\l::report_engine_fatal_error" alt="" coords="548,263,751,304"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#ab34e312e55cd449909c9096b45c200fe" title="foedus::soc::SocManagerPimpl\l::wait_for_children_module" alt="" coords="285,625,488,667"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a4ea0f6f073f92ff447cc34429adafbda" title="Append the log entries of one storage in the given buffer to this reducer&#39;s buffer. " alt="" coords="550,5,749,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1soc_1_1SocManagerPimpl.html#aa14e68e8b8e3902f2b139b6388e712d8" title="foedus::soc::SocManagerPimpl\l::initialize_once" alt="" coords="548,71,751,112"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1EnginePimpl.html#a1e2a6a45cbf165080b584269b2bbc5aa" title="foedus::EnginePimpl\l::initialize_modules" alt="" coords="814,615,955,656"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1EnginePimpl.html#a483875a16cf2f469b8b751c9f6e2d673" title="foedus::EnginePimpl\l::uninitialize_once" alt="" coords="814,687,955,728"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1soc_1_1SocManager.html#abffe61e3c3cd7959937bf3f81b4579d7" title="Announce fatal error state of this (either master or child) engine if possible. " alt="" coords="799,324,971,365"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1soc_1_1SocManager.html#a7a9cd36f9f5daf08d2424026f611dc11" title="Wait for other engines to finish init/uninit the module. " alt="" coords="562,629,737,671"/>
+</map>

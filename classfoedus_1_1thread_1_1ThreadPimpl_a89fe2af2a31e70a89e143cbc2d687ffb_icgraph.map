@@ -1,0 +1,10 @@
+<map id="foedus::thread::ThreadPimpl::follow_page_pointers_for_read_batch" name="foedus::thread::ThreadPimpl::follow_page_pointers_for_read_batch">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#abb36cf6186f747e38d98a13c6419e128" title="Batched version of follow_page_pointer with will_modify==false. " alt="" coords="237,45,388,101"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#ac71ccdf1742ae0e9a7119cc92fcac092" title="foedus::storage::array\l::ArrayStoragePimpl::follow\l_pointers_for_read_batch" alt="" coords="436,45,615,101"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a86a1e1fb54d44f15bc17c3f622f9f279" title="foedus::storage::array\l::ArrayStoragePimpl::lookup\l_for_read_batch" alt="" coords="663,45,848,101"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a617e3f91fe74f5215ae4f0081e30ab6d" title="foedus::storage::array\l::ArrayStoragePimpl::locate\l_record_for_read_batch" alt="" coords="896,45,1079,101"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#ae4373a9f195884ab885458e9c1a18ee7" title="foedus::storage::array\l::ArrayStoragePimpl::get\l_record_payload_batch" alt="" coords="1127,5,1292,61"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1array_1_1ArrayStoragePimpl.html#a23cc3a8049590a9c4be3177ab9b5661b" title="foedus::storage::array\l::ArrayStoragePimpl::get\l_record_primitive_batch" alt="" coords="1127,85,1292,141"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a69f548ffc92c96cc52238068d781bbf8" title="foedus::storage::array\l::ArrayStorage::get_record\l_payload_batch" alt="" coords="1340,5,1515,61"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1array_1_1ArrayStorage.html#a7a0a99eb452ebc4ec0e2e86d520d315f" title="batched interface " alt="" coords="1340,85,1515,141"/>
+</map>

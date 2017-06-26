@@ -1,0 +1,18 @@
+<map id="foedus::thread::ThreadPool::impersonate_on_numa_node" name="foedus::thread::ThreadPool::impersonate_on_numa_node">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1ThreadPoolPimpl.html#af768218c3f43620264c7559fa089ed80" title="foedus::thread::ThreadPool\lPimpl::impersonate_on_numa_node" alt="" coords="249,144,479,185"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="553,79,687,120"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadGroupRef.html#a47cabd0de09329bc573c051a6ceaa80a" title="Returns Thread object for the given ordinal in this group. " alt="" coords="527,144,713,185"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadRef.html#a34020c7e3fc51100fb188f69e95926ed" title="Conditionally try to occupy this thread, or impersonate. " alt="" coords="535,209,705,251"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a30d8cc1dfcf5c73a344567c5903da9e6" title="Returns if the impersonation succeeded. " alt="" coords="1231,5,1413,47"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a68b7dea75e89a6384dfcadb72e338520" title="Releases all resources and ownerships this session has acquired. " alt="" coords="761,119,944,160"/>
+<area shape="rect" id="node15" href="$group__ASSORTED.html#gaf84f9944a16c5848f69beacdfeedf939" title="Equivalent to std::atomic_thread_fence(std::memory_order_acquire). " alt="" coords="766,365,939,407"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1soc_1_1SharedPolling.html#ae523f3b3bda39c0c81bfb5cb0d5ad626" title="Signal it to let waiters exit. " alt="" coords="764,300,941,341"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1thread_1_1ThreadRef.html#a989d82d0632117ab23c4fd1ad041ff3f" title="foedus::thread::ThreadRef\l::get_control_block" alt="" coords="1463,115,1633,156"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a553f421acf03b382ef97a3ab909dba61" title="Blocks until the completion of the asynchronous session. " alt="" coords="996,148,1179,189"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1soc_1_1SharedPolling.html#ac6ad7822e42e2e942b55708b1da8516b" title="Gives the ticket to. " alt="" coords="1233,304,1411,345"/>
+<area shape="rect" id="node12" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a38c08d2bd83f427928291221e620b835" title="Returns if the task is still running. " alt="" coords="1231,173,1413,215"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1soc_1_1SharedPolling.html#a1b9f5c8b129c454887a77d3255956157" title="Wait for signal up to the given timeout. " alt="" coords="1233,239,1411,280"/>
+<area shape="rect" id="node11" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="1461,333,1635,375"/>
+<area shape="rect" id="node14" href="$namespacefoedus_1_1soc.html#a875ded688a72b32f8f690f37750e609f" title="foedus::soc::get_now\l_microsec" alt="" coords="1475,239,1621,280"/>
+<area shape="rect" id="node17" href="$namespacefoedus_1_1soc.html#ad6b40c6c8e2db3fbf1bbdf6daa025275" title="foedus::soc::ugly_atomic_inc" alt="" coords="992,421,1183,447"/>
+</map>

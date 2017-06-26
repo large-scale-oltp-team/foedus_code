@@ -1,0 +1,30 @@
+<map id="foedus::storage::StorageManagerPimpl::initialize_read_latest_snapshot" name="foedus::storage::StorageManagerPimpl::initialize_read_latest_snapshot">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1VolatilePagePointer.html#aa8c59b8e2944d4a6a68d5fed840a7a29" title="foedus::storage::Volatile\lPagePointer::clear" alt="" coords="233,5,394,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1debugging_1_1StopWatch.html#ac8a42ba406ab38b098e27a19e6803638" title="foedus::debugging::\lStopWatch::elapsed_ms" alt="" coords="717,516,882,557"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="217,136,409,177"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3eb62d9aa6161550ff86b83ae09e892f" title="foedus::storage::Storage\lManagerPimpl::exists" alt="" coords="231,201,395,243"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1savepoint_1_1SavepointManager.html#a97ee635381be9e59996fe7b4c9276b0c" title="foedus::savepoint::\lSavepointManager::get\l_latest_snapshot_id" alt="" coords="236,267,391,323"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Engine.html#a4f168d41ea00249fefe905def87e80c8" title="See Savepoint Manager. " alt="" coords="243,348,383,389"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Engine.html#a2770614b3ccee927036e14df8f4e6069" title="See Snapshot Manager. " alt="" coords="244,413,383,455"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#aea8861d6bf6c13c0df6d0c9777cdaa99" title="foedus::storage::Storage\lManagerPimpl::get_storage" alt="" coords="223,479,404,520"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1StorageControlBlock.html#a90f70806c6b51d60cf9ada38017f914d" title="foedus::storage::Storage\lControlBlock::initialize" alt="" coords="231,71,395,112"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="250,596,377,637"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1snapshot_1_1SnapshotManager.html#a4508beef5e0c55a8db38b95f42c41fad" title="Read the snapshot metadata file that contains storages as of the snapshot. " alt="" coords="221,662,405,718"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1debugging_1_1StopWatch.html#a2ee5315a0f6bf736a2a73b29b1709bd2" title="Take another current time tick. " alt="" coords="732,793,867,835"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a0f7cfdf2d011c976dafd0d51c43d8ced" title="foedus::savepoint::\lSavepointManagerPimpl\l::get_latest_snapshot_id" alt="" coords="475,267,639,323"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="469,71,644,112"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="712,71,887,112"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a12f213f8bc7b46e75428a7624999c3fd" title="foedus::snapshot::Snapshot\lManagerPimpl::read_snapshot\l_metadata" alt="" coords="457,662,656,718"/>
+<area shape="rect" id="node17" href="$group__FILESYSTEM.html#ga1048a33bafe4dcea89991112ae2660d8" title="Returns size of the file. " alt="" coords="1181,746,1314,773"/>
+<area shape="rect" id="node19" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a7cb397e7c8042e460f5f0e36d939b3e0" title="each snapshot has a snapshot&#45;metadata file &quot;snapshot_metadata_&lt;SNAPSHOT_ID&gt;.xml&quot; in first node&#39;s firs..." alt="" coords="704,582,895,638"/>
+<area shape="rect" id="node22" href="$structfoedus_1_1externalize_1_1Externalizable.html#a6f66d8519bcfee0a582cae47a822fe18" title="Load the content of this object from the specified XML file. " alt="" coords="727,662,871,718"/>
+<area shape="rect" id="node18" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="1368,629,1519,655"/>
+<area shape="rect" id="node20" href="$classfoedus_1_1snapshot_1_1SnapshotManagerPimpl.html#a058c0e139d36b76aaeb1e8b9a62dd600" title="shorthand for engine_&#45;&gt;get_options().snapshot_. " alt="" coords="943,508,1127,549"/>
+<area shape="rect" id="node21" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="1180,508,1315,549"/>
+<area shape="rect" id="node23" href="$group__FILESYSTEM.html#ga4f8f53901e9c98fce72b6b3c52cf83a4" title="Returns if the file exists. " alt="" coords="974,691,1095,718"/>
+<area shape="rect" id="node26" href="$structfoedus_1_1externalize_1_1Externalizable.html#a546988f0869a3899e671f702ecbc5b17" title="Reads the content of this object from the given XML element. " alt="" coords="963,625,1107,667"/>
+<area shape="rect" id="node24" href="$structfoedus_1_1fs_1_1FileStatus.html#ac4ab24d4308aab673c8d1606a84367e5" title="foedus::fs::FileStatus\l::exists" alt="" coords="1175,680,1320,721"/>
+<area shape="rect" id="node25" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="1186,629,1309,655"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1debugging_1_1StopWatch.html#adacc2b7108e7b4df019cc79733050b8c" title="foedus::debugging::\lStopWatch::elapsed_ns" alt="" coords="954,859,1115,900"/>
+<area shape="rect" id="node29" href="$namespacefoedus_1_1debugging.html#a35a786b0492e9799cb74359408079091" title="foedus::debugging::\lget_now_nanosec" alt="" coords="967,793,1102,835"/>
+</map>

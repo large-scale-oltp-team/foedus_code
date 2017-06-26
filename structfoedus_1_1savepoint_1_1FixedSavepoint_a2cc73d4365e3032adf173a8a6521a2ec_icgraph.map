@@ -1,0 +1,6 @@
+<map id="foedus::savepoint::FixedSavepoint::get_total_logger_count" name="foedus::savepoint::FixedSavepoint::get_total_logger_count">
+<area shape="rect" id="node2" href="$structfoedus_1_1savepoint_1_1FixedSavepoint.html#afe30d4315c613f09e96a07c7651b0d28" title="Write out the content of the given Savepoint to this object. " alt="" coords="189,13,347,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#a0694ca2a32591b1c9e4be56ce67c2c52" title="foedus::savepoint::\lSavepointManagerPimpl\l::update_shared_savepoint" alt="" coords="395,5,571,61"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ad75cdea74e547a1f66d62b85a938a2cd" title="foedus::savepoint::\lSavepointManagerPimpl\l::initialize_once" alt="" coords="828,5,989,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1savepoint_1_1SavepointManagerPimpl.html#ae5e8a2671c819fc0ada038b3fa47105a" title="foedus::savepoint::\lSavepointManagerPimpl\l::savepoint_main" alt="" coords="619,37,780,93"/>
+</map>

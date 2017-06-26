@@ -1,0 +1,7 @@
+<map id="foedus::snapshot::MergeSort::AdjustComparatorMasstree::operator()" name="foedus::snapshot::MergeSort::AdjustComparatorMasstree::operator()">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1masstree_1_1MasstreeCommonLogType.html#a5f964ae492f5867bb1ae754e033a110e" title="Returns &#45;1, 0, 1 when left is less than, same, larger than right in terms of key and xct_id..." alt="" coords="258,71,442,127"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a8acd43e9fab8cc63c74cbf8e52cc6f43" title="foedus::snapshot::MergeSort\l::InputStatus::from_compact_pos" alt="" coords="243,152,457,193"/>
+<area shape="rect" id="node3" href="$group__MASSTREE.html#gaca11c6ba81d4c4c7708ca3bcdff3bfa0" title="Returns if the given key is 8&#45;bytes aligned and also zero&#45;padded to 8&#45;bytes for easier slicing (which..." alt="" coords="505,5,731,47"/>
+<area shape="rect" id="node4" href="$group__MASSTREE.html#ga48710f51199feed3db2e2f374ae73814" title="Convert an aligned big&#45;endian byte array of at least 8&#45;bytes&#45;length to KeySlice. " alt="" coords="531,71,705,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1snapshot_1_1MergeSort_1_1InputStatus.html#a9003eeeddcb3213f0cc42116345feb8d" title="foedus::snapshot::MergeSort\l::InputStatus::assert_consistent" alt="" coords="515,152,721,193"/>
+</map>

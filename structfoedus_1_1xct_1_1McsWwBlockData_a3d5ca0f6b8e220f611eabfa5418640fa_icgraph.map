@@ -1,0 +1,9 @@
+<map id="foedus::xct::McsWwBlockData::get_thread_id_relaxed" name="foedus::xct::McsWwBlockData::get_thread_id_relaxed">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a9fb4308bc32337299f9532ac5c2b6813" title="[WW] Try to take an exclusive lock. " alt="" coords="259,5,425,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsWwImpl.html#ab45630bd77311e8604ca265ffcbc4edd" title="[WW] Unconditionally takes exclusive&#45;only MCS lock on the given lock. " alt="" coords="259,71,425,112"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsWwBlock.html#a23c86b1f40afff35086201b0e1c7e091" title="Carefully use this! In some places you must call copy_once() then call this on the copy..." alt="" coords="255,137,429,193"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1xct_1_1McsWwLock.html#a7d38b992d2324394011b44322f3961e1" title="This is a &quot;relaxed&quot; check. " alt="" coords="257,217,427,259"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1McsWwImpl.html#a23095f2685916d313450e79bdb27b872" title="[WW] Unlcok an MCS lock acquired by this thread. " alt="" coords="477,152,643,193"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a8f37f1ac6ee205126ce76fe7ae2f5d52" title="Releases all locks that were acquired. " alt="" coords="691,152,875,193"/>
+<area shape="rect" id="node8" href="$namespacefoedus_1_1xct.html#a941f1576fda796ca310b5a915987d105" title="Debug out operators. " alt="" coords="481,225,639,251"/>
+</map>

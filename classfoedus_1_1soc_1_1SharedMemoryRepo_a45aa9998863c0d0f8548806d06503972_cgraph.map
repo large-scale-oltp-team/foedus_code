@@ -1,0 +1,4 @@
+<map id="foedus::soc::SharedMemoryRepo::change_master_status" name="foedus::soc::SharedMemoryRepo::change_master_status">
+<area shape="rect" id="node2" href="$structfoedus_1_1soc_1_1MasterEngineStatus.html#aa3f2eb00974e1e60ce9a03e8f8f64954" title="Update the value of status_code_ with fence. " alt="" coords="245,5,444,47"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaff9fa4aedd631410da28740f6e1dddbf" title="Equivalent to std::atomic_thread_fence(std::memory_order_acq_rel). " alt="" coords="492,5,665,47"/>
+</map>

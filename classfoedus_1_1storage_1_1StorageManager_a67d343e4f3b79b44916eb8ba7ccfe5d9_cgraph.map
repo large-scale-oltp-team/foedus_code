@@ -1,0 +1,18 @@
+<map id="foedus::storage::StorageManager::create_hash" name="foedus::storage::StorageManager::create_hash">
+<area shape="rect" id="node2" href="$classfoedus_1_1storage_1_1StorageManager.html#a9274ccbcf6b2ff5a0de3ba86d9314031" title="Newly creates a storage with the specified metadata and registers it to this manager. " alt="" coords="217,310,384,351"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1storage_1_1StorageManager.html#a10cecea711823b0c7dfee9f6d2889be1" title="Returns the hash storage of given ID. " alt="" coords="219,382,383,423"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#af961ec67a7d797595ec92bc6dcfdfc24" title="foedus::storage::Storage\lManagerPimpl::create_storage" alt="" coords="432,297,631,338"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a7d24121294c15dff80f607595723dfad" title="foedus::storage::Storage\lManagerPimpl::issue_next\l_storage_id" alt="" coords="687,5,863,61"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a7b63a1d65285c9c32613b38cbbd5183b" title="foedus::storage::Storage\lManagerPimpl::get_max\l_storages" alt="" coords="693,85,857,141"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1assorted_1_1FixedString.html#a3269f7c68f175a1fd42e78110a57cbf2" title="Test if string is empty. " alt="" coords="679,166,871,207"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#a3eb62d9aa6161550ff86b83ae09e892f" title="foedus::storage::Storage\lManagerPimpl::exists" alt="" coords="693,231,857,273"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1storage_1_1StorageManagerPimpl.html#aea8861d6bf6c13c0df6d0c9777cdaa99" title="foedus::storage::Storage\lManagerPimpl::get_storage" alt="" coords="684,479,865,521"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1storage_1_1StorageControlBlock.html#a90f70806c6b51d60cf9ada38017f914d" title="foedus::storage::Storage\lControlBlock::initialize" alt="" coords="693,297,857,338"/>
+<area shape="rect" id="node13" href="$classfoedus_1_1assorted_1_1FixedString.html#a9de8cb63f30a42631db4c6505a4ab302" title="Sets zeros to unused data_ region. " alt="" coords="679,362,871,403"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="697,428,852,455"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="939,93,1073,134"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1soc_1_1SharedMutex.html#a752dda273486899f5a58171c2ede01fb" title="foedus::soc::SharedMutex\l::initialize" alt="" coords="919,297,1093,338"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1soc_1_1SharedMutex.html#a8631c8500a5ab03940e1358f23b654c4" title="foedus::soc::SharedMutex\l::uninitialize" alt="" coords="1141,297,1316,338"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1storage_1_1StorageManager.html#acf58e515e34146a978de2113378614a6" title="foedus::storage::Storage\lManager::get_engine" alt="" coords="449,382,613,423"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1storage_1_1StorageManager.html#a62a5d09952fe340dc03da8460f200523" title="Returns the storage of given ID. " alt="" coords="449,473,613,514"/>
+</map>

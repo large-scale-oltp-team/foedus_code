@@ -1,0 +1,6 @@
+<map id="foedus::EngineOptions::read_int_from_proc_fs" name="foedus::EngineOptions::read_int_from_proc_fs">
+<area shape="rect" id="node2" href="$structfoedus_1_1EngineOptions.html#a65b0643feea30ef84e35ecf92efbe947" title="Subroutine of prescreen to check sysctl values. " alt="" coords="211,5,364,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1EngineOptions.html#ae11d1267946c562743cea44470525a69" title="Checks the machine environment and raises as many errors as possible before the engine starts up..." alt="" coords="412,5,565,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1EnginePimpl.html#ad48323b2f8311ecee663647aeeecdea6" title="foedus::EnginePimpl\l::check_valid_options" alt="" coords="613,5,760,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="808,5,949,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="foedus::storage::hash::HashTmpBin::delete_record" name="foedus::storage::hash::HashTmpBin::delete_record">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1XctId.html#a76fa9521598d6415dcb58cdff12c7cb1" title="Returns &#45;1, 0, 1 when this is less than, same, larger than other in terms of epoch/ordinal. " alt="" coords="211,57,362,113"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#a828a61afe3e29f6290e27651a0d95a2f" title="foedus::storage::hash\l::HashTmpBin::get_record" alt="" coords="200,137,373,179"/>
+<area shape="rect" id="node8" href="$group__HASH.html#ga8c4ca78e36b2188f1feac100ce7df679" title="Calculates hash value for general input. " alt="" coords="213,203,360,244"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1XctId.html#a6008b5f8531e6ee524d60cf86bc20148" title="foedus::xct::XctId\l::is_deleted" alt="" coords="225,268,348,309"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="624,5,747,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="437,35,560,76"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="421,101,576,127"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1xct_1_1XctId.html#a936888dbc82de6e76194b72c28c9a10f" title="foedus::xct::XctId\l::get_ordinal" alt="" coords="437,152,560,193"/>
+</map>

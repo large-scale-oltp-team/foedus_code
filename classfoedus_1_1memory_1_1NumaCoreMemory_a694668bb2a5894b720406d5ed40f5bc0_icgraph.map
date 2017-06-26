@@ -1,0 +1,3 @@
+<map id="foedus::memory::NumaCoreMemory::get_node_memory" name="foedus::memory::NumaCoreMemory::get_node_memory">
+<area shape="rect" id="node2" href="$classfoedus_1_1thread_1_1Thread.html#a45fb679126e4fd5b02ccb7d1f257e4bf" title="Returns the node&#45;shared memory repository of the NUMA node this thread belongs to. " alt="" coords="237,5,388,47"/>
+</map>

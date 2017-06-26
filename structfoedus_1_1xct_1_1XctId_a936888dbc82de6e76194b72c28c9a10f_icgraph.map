@@ -1,0 +1,29 @@
+<map id="foedus::xct::XctId::get_ordinal" name="foedus::xct::XctId::get_ordinal">
+<area shape="rect" id="node2" href="$classfoedus_1_1snapshot_1_1MergeSort.html#a6c611c17929fbf66fdab84a824a82b3c" title="For debug/test only. " alt="" coords="181,5,370,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1XctId.html#ac151128ff0040de166018da6133f8d85" title="Returns if this XctId is before other in serialization order, meaning this is either an invalid (unus..." alt="" coords="214,261,337,303"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#ad91daff37c2b78b8c6620d67869e9d7f" title="Phase 3 of precommit_xct() " alt="" coords="904,188,1099,229"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1xct_1_1Xct.html#a208310505c3d16cf2dc10f94f968d4a4" title="Called while a successful commit of xct to issue a new xct id. " alt="" coords="683,173,834,215"/>
+<area shape="rect" id="node13" href="$structfoedus_1_1xct_1_1XctId.html#a76fa9521598d6415dcb58cdff12c7cb1" title="Returns &#45;1, 0, 1 when this is less than, same, larger than other in terms of epoch/ordinal. " alt="" coords="200,385,351,441"/>
+<area shape="rect" id="node18" href="$structfoedus_1_1xct_1_1XctId.html#a78db26b61257eee09981c77721ef6595" title="foedus::xct::XctId\l::increment_ordinal" alt="" coords="209,465,341,507"/>
+<area shape="rect" id="node19" href="$namespacefoedus_1_1log.html#a4187bfb9da8c7395e564e79f6928b800" title="foedus::log::on_non\l_durable_meta_log_found" alt="" coords="191,531,360,572"/>
+<area shape="rect" id="node20" href="$namespacefoedus_1_1xct.html#a06f655bd66af3065423366b1976c5733" title="foedus::xct::operator\&lt;\&lt;" alt="" coords="197,597,354,623"/>
+<area shape="rect" id="node21" href="$namespacefoedus_1_1storage_1_1array.html#a0d5e107fe3c1885c8984bacd1f5cf188" title="subroutine of sort_batch " alt="" coords="201,648,349,689"/>
+<area shape="rect" id="node24" href="$namespacefoedus_1_1storage_1_1hash.html#a213ec023dfa3d7901e0c40ce20fc538d" title="subroutine of sort_batch " alt="" coords="201,713,349,755"/>
+<area shape="rect" id="node26" href="$namespacefoedus_1_1storage_1_1masstree.html#ad9efa7b5f1f339fd33444e0e62e46d40" title="subroutine of sort_batch_8bytes " alt="" coords="189,779,362,820"/>
+<area shape="rect" id="node27" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a493bf984062f2615c6788b4c4f6b36df" title="used only in debug mode " alt="" coords="176,844,375,885"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1xct_1_1Xct.html#a054cf2fca2ce0e5047c817ed10ae1a80" title="foedus::xct::Xct::remember\l_previous_xct_id" alt="" coords="433,173,611,215"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1XctId.html#a2878cd14b103f72c8bce5a330e03e2b2" title="Kind of std::max(this, other). " alt="" coords="461,291,583,332"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a777caaecec0e7bb19b1cd2841771f755" title="precommit_xct() if the transaction is read&#45;write " alt="" coords="1155,268,1349,309"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a014506b605e14b3df1b1b7522e8a23b2" title="This is the gut of commit protocol. " alt="" coords="1397,268,1592,309"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1xct_1_1XctManager.html#a486c653445cb64cc9514af3f1031bdf0" title="Prepares the currently running transaction on the thread for commit. " alt="" coords="1640,268,1803,309"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a2376431f079ce60800c9c25d89d74896" title="Phase 1 of precommit_xct() " alt="" coords="904,268,1099,309"/>
+<area shape="rect" id="node12" href="$classfoedus_1_1xct_1_1XctManagerPimpl.html#a9534e63f498a012d9fa401a10e2b4e0b" title="Phase 2 of precommit_xct() for read&#45;write case. " alt="" coords="896,333,1107,375"/>
+<area shape="rect" id="node14" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#a105eb120235425e73380a9b943a9bf66" title="Logically deletes a record of the given key. " alt="" coords="449,357,595,413"/>
+<area shape="rect" id="node15" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ab5ac0d32ded6cfa7bb3df7f28eafb33e" title="Inserts a new record of the given key and payload. " alt="" coords="449,437,595,493"/>
+<area shape="rect" id="node16" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ae3f726ea1ce191d9ea5c41202568623b" title="Overwrites a part of the record of the given key. " alt="" coords="441,517,603,573"/>
+<area shape="rect" id="node17" href="$classfoedus_1_1storage_1_1hash_1_1HashTmpBin.html#ad54d9fdfa4874b6eaa0231bce58fccf8" title="Updates a record of the given key with the given payload, which might change length. " alt="" coords="447,597,597,653"/>
+<area shape="rect" id="node22" href="$classfoedus_1_1storage_1_1array_1_1ArrayPartitioner.html#abcc2f61287dd0e9f643cc7c7b406ed32" title="foedus::storage::array\l::ArrayPartitioner::sort_batch" alt="" coords="427,677,617,719"/>
+<area shape="rect" id="node23" href="$classfoedus_1_1storage_1_1Partitioner.html#a8c8909d8a44ae9d6a4afee0ded0add4c" title="Called from log reducer to sort log entries by keys. " alt="" coords="669,709,848,751"/>
+<area shape="rect" id="node25" href="$classfoedus_1_1storage_1_1hash_1_1HashPartitioner.html#a8255043c6cb91246cbff43cceb88f596" title="foedus::storage::hash\l::HashPartitioner::sort_batch" alt="" coords="428,743,616,784"/>
+<area shape="rect" id="node28" href="$classfoedus_1_1snapshot_1_1LogReducerRef.html#a4ea0f6f073f92ff447cc34429adafbda" title="Append the log entries of one storage in the given buffer to this reducer&#39;s buffer. " alt="" coords="423,844,621,885"/>
+</map>

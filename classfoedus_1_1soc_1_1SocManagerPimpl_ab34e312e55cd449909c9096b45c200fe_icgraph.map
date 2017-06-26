@@ -1,0 +1,6 @@
+<map id="foedus::soc::SocManagerPimpl::wait_for_children_module" name="foedus::soc::SocManagerPimpl::wait_for_children_module">
+<area shape="rect" id="node2" href="$classfoedus_1_1soc_1_1SocManager.html#a7a9cd36f9f5daf08d2424026f611dc11" title="Wait for other engines to finish init/uninit the module. " alt="" coords="256,39,431,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1EnginePimpl.html#a1e2a6a45cbf165080b584269b2bbc5aa" title="foedus::EnginePimpl\l::initialize_modules" alt="" coords="479,5,620,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1EnginePimpl.html#a483875a16cf2f469b8b751c9f6e2d673" title="foedus::EnginePimpl\l::uninitialize_once" alt="" coords="479,71,620,112"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1EnginePimpl.html#a15c27fd38d4219abdf0b2deb5e5f365c" title="foedus::EnginePimpl\l::initialize_once" alt="" coords="668,5,809,47"/>
+</map>

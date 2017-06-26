@@ -1,0 +1,8 @@
+<map id="foedus::proc::ProcManagerPimpl" name="foedus::proc::ProcManagerPimpl">
+<area shape="rect" id="node2" href="$classfoedus_1_1DefaultInitializable.html" title="Typical implementation of Initializable as a skeleton base class. " alt="" coords="873,5,1045,32"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1Initializable.html" title="The pure&#45;virtual interface to initialize/uninitialize non&#45;trivial resources. " alt="" coords="603,36,735,63"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1Engine.html" title="Database engine object that holds all resources and provides APIs. " alt="" coords="905,56,1013,83"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1proc_1_1ProcManagerPimpl_1_1SharedData.html" title="All shared data in this module. " alt="" coords="580,114,759,155"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1proc_1_1ProcManagerControlBlock.html" title="This small control block is used to synchronize the access to the array. " alt="" coords="264,114,443,155"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1soc_1_1SharedMutex.html" title="A mutex that can be placed in shared memory and used from multiple processes. " alt="" coords="5,121,180,148"/>
+</map>

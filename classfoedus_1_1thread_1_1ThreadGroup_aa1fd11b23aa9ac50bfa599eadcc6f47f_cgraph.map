@@ -1,0 +1,6 @@
+<map id="foedus::thread::ThreadGroup::uninitialize_once" name="foedus::thread::ThreadGroup::uninitialize_once">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStackBatch.html#a6c6e566983e136b5c6a63bf110c6cef5" title="A convenience method to uninitialize and delete all Initializable objects in a vector, storing all errors in this batch. " alt="" coords="240,39,421,80"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1ErrorStackBatch.html#a1fe18afaafed459feb5c644ba9d7c56e" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="469,5,633,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1ErrorStackBatch.html#a1127d5a2207c91c4dacb7f2bc0f77d7b" title="If the given ErrorStack is an error, this method adds it to the end of this batch. " alt="" coords="469,71,633,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1ErrorStack.html#a9c7b3a8b3806ff623c7fb4a9db5cbeec" title="Returns if this return code is not kErrorCodeOk. " alt="" coords="681,71,812,112"/>
+</map>

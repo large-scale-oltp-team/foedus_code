@@ -1,0 +1,4 @@
+<map id="foedus::xct::SysxctLockList::assert_last_locked_entry" name="foedus::xct::SysxctLockList::assert_last_locked_entry">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1SysxctLockList.html#adc26bf8b559e20ce48b16e2a3fce38ee" title="Calculate last_locked_entry_ by really checking the whole list. " alt="" coords="237,13,428,54"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1SysxctLockList.html#a7dfb818885a95b3ff1ef8dc3b052baca" title="Only searches among entries at or before &quot;from&quot;. " alt="" coords="476,5,660,61"/>
+</map>

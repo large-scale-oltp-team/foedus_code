@@ -1,0 +1,4 @@
+<map id="foedus::xct::McsRwLock::nreaders" name="foedus::xct::McsRwLock::nreaders">
+<area shape="rect" id="node2" href="$classfoedus_1_1xct_1_1McsImpl_3_01ADAPTOR_00_01McsRwSimpleBlock_01_4.html#af28ba663c64241396718beb6dfd21a4e" title="foedus::xct::McsImpl\l\&lt; ADAPTOR, McsRwSimpleBlock\l \&gt;::acquire_unconditional\l_rw_writer" alt="" coords="219,5,437,76"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1xct_1_1McsImpl_3_01ADAPTOR_00_01McsRwSimpleBlock_01_4.html#a9286b4d7d998f425b6ee284a7416f05f" title="foedus::xct::McsImpl\l\&lt; ADAPTOR, McsRwSimpleBlock\l \&gt;::release_rw_reader" alt="" coords="219,101,437,157"/>
+</map>

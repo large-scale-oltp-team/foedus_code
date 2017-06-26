@@ -1,0 +1,5 @@
+<map id="foedus::xct::McsRwExtendedBlock::set_pred_flag_granted" name="foedus::xct::McsRwExtendedBlock::set_pred_flag_granted">
+<area shape="rect" id="node2" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a5d1515b944f66ecc59a1a79cb6f03914" title="foedus::xct::McsRwExtended\lBlock::pred_flag_is_waiting" alt="" coords="245,5,437,47"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a563136a669b13bec8ecbbbcf5efd2315" title="foedus::xct::McsRwExtended\lBlock::pred_flag_is_granted" alt="" coords="485,5,677,47"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1McsRwExtendedBlock.html#a2dfd1adaadb80aaac9bf600f1e25210f" title="foedus::xct::McsRwExtended\lBlock::read_pred_flags" alt="" coords="725,5,917,47"/>
+</map>

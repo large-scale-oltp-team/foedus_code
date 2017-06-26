@@ -1,0 +1,12 @@
+<map id="foedus::storage::hash::HashIntermediatePage::initialize_volatile_page" name="foedus::storage::hash::HashIntermediatePage::initialize_volatile_page">
+<area shape="rect" id="node2" href="$structfoedus_1_1storage_1_1hash_1_1HashBinRange.html#af492eb6df181653434b727ba29e5c833" title="foedus::storage::hash\l::HashBinRange::contains" alt="" coords="223,5,397,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1storage_1_1hash_1_1HashIntermediatePage.html#a6ddc93fb5df01249140895435819da2f" title="foedus::storage::hash\l::HashIntermediatePage\l::get_level" alt="" coords="229,71,391,127"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1storage_1_1PageHeader.html#a5a84eed10b8675e5df2f35f791991eb5" title="foedus::storage::PageHeader\l::init_volatile" alt="" coords="215,152,405,193"/>
+<area shape="rect" id="node11" href="$structfoedus_1_1storage_1_1PageHeader.html#a1956943904b68b6472f53b4e9ed6df87" title="foedus::storage::PageHeader\l::set_in_layer_level" alt="" coords="215,217,405,259"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1storage_1_1PageHeader.html#ac40b3dad0a38d9a142bd14ea5000b669" title="foedus::storage::PageHeader\l::get_in_layer_level" alt="" coords="457,79,648,120"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1assorted_1_1ProbCounter.html#a8e7b31f9a6b4997f6c0916f7e20d755a" title="foedus::assorted::ProbCounter\l::reset" alt="" coords="453,148,652,189"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1PageVersion.html#ae40168c82f16645e85bb66f9019e53cf" title="used only while page initialization " alt="" coords="457,213,649,255"/>
+<area shape="rect" id="node8" href="$structfoedus_1_1storage_1_1PageVersionStatus.html#af49ef4f3320148130f46f494f1c845aa" title="foedus::storage::PageVersion\lStatus::reset" alt="" coords="700,180,892,221"/>
+<area shape="rect" id="node9" href="$structfoedus_1_1xct_1_1McsWwLock.html#a4114c2dec151ad650a294dedac4f239d" title="used only while page initialization " alt="" coords="711,245,881,287"/>
+<area shape="rect" id="node10" href="$structfoedus_1_1xct_1_1McsWwBlockData.html#a3161e47c41388e9c1b50929f585e366b" title="foedus::xct::McsWwBlockData\l::clear" alt="" coords="940,245,1141,287"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="foedus::ErrorStack::verify" name="foedus::ErrorStack::verify">
+<area shape="rect" id="node2" href="$classfoedus_1_1ErrorStack.html#a0de4b8c0bfcd31e4e8cb1cbaf4b04c13" title="Describe this object to std::cerr and then abort. " alt="" coords="184,129,315,171"/>
+<area shape="rect" id="node3" href="$namespacefoedus.html#acc3806110789c3309a531109b7d46f3f" title="Prints out backtrace. " alt="" coords="363,137,520,163"/>
+<area shape="rect" id="node4" href="$namespacefoedus_1_1assorted.html#aa2bd2568f3a2851d781b7e141073412f" title="Returns the backtrace information of the current stack. " alt="" coords="568,129,712,171"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1assorted_1_1BacktraceContext.html#a3e70d52451e788dc085aec8bacdfad60" title="foedus::assorted::Backtrace\lContext::call_glibc_backtrace" alt="" coords="760,5,953,47"/>
+<area shape="rect" id="node11" href="$namespacefoedus_1_1assorted.html#a8603b2ca5e4a2dec6870a26f554a5e78" title="foedus::assorted::libbt\l_create_state_error" alt="" coords="781,71,932,112"/>
+<area shape="rect" id="node12" href="$namespacefoedus_1_1assorted.html#a401ea26757d96e72c41c71fdfec4cda2" title="foedus::assorted::libbt_full" alt="" coords="770,137,943,163"/>
+<area shape="rect" id="node13" href="$namespacefoedus_1_1assorted.html#a4198696c6cf3296be91bf37f709f748f" title="foedus::assorted::libbt\l_full_error" alt="" coords="781,188,932,229"/>
+<area shape="rect" id="node14" href="$structfoedus_1_1assorted_1_1BacktraceContext.html#a81b13dea0366cfd6550ac20185e2abba" title="foedus::assorted::Backtrace\lContext::get_results" alt="" coords="1001,223,1187,264"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1assorted_1_1BacktraceContext.html#a61e9ff2db58ace64a29940f13806c004" title="foedus::assorted::Backtrace\lContext::release" alt="" coords="1001,5,1187,47"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1assorted_1_1BacktraceContext_1_1GlibcBacktraceInfo.html#a0b04cb8aaae8c393146f430ee8fec8e4" title="foedus::assorted::Backtrace\lContext::GlibcBacktraceInfo\l::parse_symbol" alt="" coords="1001,95,1187,151"/>
+<area shape="rect" id="node8" href="$group__ASSORTED.html#gaaaeeef9a7bd86c89f96e337fdd88caab" title="Demangle the given C++ type name if possible (otherwise the original string). " alt="" coords="1235,163,1417,204"/>
+<area shape="rect" id="node9" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="1465,170,1588,197"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="1636,170,1787,197"/>
+</map>

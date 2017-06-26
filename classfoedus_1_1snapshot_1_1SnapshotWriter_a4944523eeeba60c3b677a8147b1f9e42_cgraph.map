@@ -1,0 +1,12 @@
+<map id="foedus::snapshot::SnapshotWriter::close" name="foedus::snapshot::SnapshotWriter::close">
+<area shape="rect" id="node2" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a7888a3b0c169fbc6b2e6e83c86d5f267" title="Close the file if not yet closed. " alt="" coords="237,35,388,76"/>
+<area shape="rect" id="node4" href="$group__FILESYSTEM.html#ga08865450d848cb894243005bdd226d1e" title="Makes the content and metadata of the file durable all the way up to devices. " alt="" coords="254,115,371,142"/>
+<area shape="rect" id="node11" href="$classfoedus_1_1fs_1_1DirectIoFile.html#a91315b18dee7b839ba47cfa80116295c" title="foedus::fs::DirectIoFile\l::get_path" alt="" coords="237,167,388,208"/>
+<area shape="rect" id="node3" href="$group__ASSORTED.html#gaaa260096daf8620266c2799d1f5a0270" title="Thread&#45;safe strerror(errno). " alt="" coords="461,5,601,47"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1fs_1_1Path.html#a821cee2f2cec808d90e187513064f40f" title="foedus::fs::Path::c_str" alt="" coords="869,130,1020,157"/>
+<area shape="rect" id="node6" href="$group__FILESYSTEM.html#ga87c90d834f65aad6f7b6540ae226f305" title="Returns if the file is a directory. " alt="" coords="454,130,607,157"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1fs_1_1Path.html#a9859706102ecca097e723d762ec468ae" title="foedus::fs::Path::parent_path" alt="" coords="436,210,625,237"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1fs_1_1FileStatus.html#a7b8858f191dee3d9a92cae0cd759c1e5" title="foedus::fs::FileStatus\l::is_directory" alt="" coords="675,123,820,164"/>
+<area shape="rect" id="node8" href="$group__FILESYSTEM.html#gaaa833e3af93824a2485400b32dab7bcd" title="Returns the status of the file. " alt="" coords="686,189,809,215"/>
+<area shape="rect" id="node10" href="$classfoedus_1_1fs_1_1Path.html#a95efbd1ef2b5f97560bdc964ab0b00ed" title="foedus::fs::Path::Path" alt="" coords="673,239,821,266"/>
+</map>

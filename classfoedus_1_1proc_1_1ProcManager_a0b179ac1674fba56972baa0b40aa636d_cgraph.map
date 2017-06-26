@@ -1,0 +1,8 @@
+<map id="foedus::proc::ProcManager::pre_register" name="foedus::proc::ProcManager::pre_register">
+<area shape="rect" id="node2" href="$classfoedus_1_1proc_1_1ProcManager.html#a8e3c2eafb5c5f06dd3b1f9fc2b31826f" title="Pre&#45;register a function pointer as a user procedure so that all SOCs will have it when they are forke..." alt="" coords="232,93,411,135"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1proc_1_1ProcManagerPimpl.html#ae808d0469f96355d2606f68ed0fcebf5" title="foedus::proc::ProcManager\lPimpl::pre_register" alt="" coords="459,93,637,135"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1DefaultInitializable.html#a1abda1e84b8af8bd6916e52fd0a09f3e" title="Returns whether the object has been already initialized or not. " alt="" coords="689,5,861,47"/>
+<area shape="rect" id="node5" href="$group__ERRORCODES.html#gaefc0aeec33bc4adc2f147fd1828b816e" title="Returns the error messages corresponding to ErrorCode enum defined in error_code.xmacro. " alt="" coords="685,71,864,98"/>
+<area shape="rect" id="node6" href="$classfoedus_1_1Engine.html#a5a390a597023f4b5c8cbcdcdd95e17ee" title="Returns if this engine object is a master instance. " alt="" coords="711,123,838,164"/>
+<area shape="rect" id="node7" href="$classfoedus_1_1Engine.html#a6546930099132529543c320327367ef1" title="foedus::Engine::get\l_options" alt="" coords="707,188,842,229"/>
+</map>

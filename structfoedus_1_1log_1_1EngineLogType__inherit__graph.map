@@ -1,0 +1,4 @@
+<map id="foedus::log::EngineLogType" name="foedus::log::EngineLogType">
+<area shape="rect" id="node3" href="$structfoedus_1_1log_1_1EpochMarkerLogType.html" title="A log type to declare a switch of epoch in a logger or the engine. " alt="" coords="11,155,181,196"/>
+<area shape="rect" id="node2" href="$structfoedus_1_1log_1_1BaseLogType.html" title="Base class for log type. " alt="" coords="11,5,181,32"/>
+</map>

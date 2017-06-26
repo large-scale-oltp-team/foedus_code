@@ -1,0 +1,6 @@
+<map id="foedus::memory::PagePool::get_recommended_pages_per_grab" name="foedus::memory::PagePool::get_recommended_pages_per_grab">
+<area shape="rect" id="node2" href="$classfoedus_1_1memory_1_1RoundRobinPageGrabBatch.html#a114c524e1d8efc628c3e7d98f85cfa83" title="Grabs an in&#45;memory page in some NUMA node. " alt="" coords="233,5,427,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1DivvyupPageGrabBatch.html#a3fcf76c5c95efed24463c7c9eb5e8dc0" title="Grabs an in&#45;memory page in specified NUMA node. " alt="" coords="232,71,428,112"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1memory_1_1NumaCoreMemory.html#af7bdd6c02647872c28ecb66d89adb965" title="foedus::memory::NumaCore\lMemory::initialize_once" alt="" coords="238,136,422,177"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1memory_1_1DivvyupPageGrabBatch.html#ad1cb17d3564061683f038da9e30ba305" title="Grabs an in&#45;memory page evenly and contiguously from each NUMA node. " alt="" coords="476,71,672,112"/>
+</map>

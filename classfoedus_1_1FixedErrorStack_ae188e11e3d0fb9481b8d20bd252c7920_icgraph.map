@@ -1,0 +1,6 @@
+<map id="foedus::FixedErrorStack::to_error_stack" name="foedus::FixedErrorStack::to_error_stack">
+<area shape="rect" id="node2" href="$structfoedus_1_1thread_1_1ImpersonateSession.html#a03dead1ca09cc22dce6b8e63622e5ed4" title="Waits until the completion of the asynchronous session and retrieves the result. " alt="" coords="216,79,399,120"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1thread_1_1ThreadPool.html#abc0bb4530f9e58c38b0e3ce0e1058be4" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="453,5,636,47"/>
+<area shape="rect" id="node4" href="$classfoedus_1_1thread_1_1ThreadPool.html#ad660d97b51456a1a4f819087f7dfeee7" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="447,71,643,127"/>
+<area shape="rect" id="node5" href="$classfoedus_1_1thread_1_1ThreadPool.html#a3024f0646533edde18e9718d9180e97e" title="A shorthand for impersonating a session and synchronously waiting for its end. " alt="" coords="448,151,641,207"/>
+</map>

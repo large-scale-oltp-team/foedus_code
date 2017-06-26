@@ -1,0 +1,10 @@
+<map id="foedus::storage::sequential::SequentialRecordIterator::next" name="foedus::storage::sequential::SequentialRecordIterator::next">
+<area shape="rect" id="node2" href="$group__ASSORTED.html#ga34d731a5b871bbd8a43b748808e9ce52" title="8&#45;alignment. " alt="" coords="268,5,428,32"/>
+<area shape="rect" id="node3" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialRecordBatch.html#ad7ab432f1c2eb024c87568e5052f46aa" title="foedus::storage::sequential\l::SequentialRecordBatch\l::get_epoch_from_offset" alt="" coords="259,56,437,112"/>
+<area shape="rect" id="node7" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialRecordBatch.html#a702a47a317faabba66647a7f78b885e0" title="foedus::storage::sequential\l::SequentialRecordBatch\l::get_record_length" alt="" coords="259,136,437,192"/>
+<area shape="rect" id="node8" href="$classfoedus_1_1storage_1_1sequential_1_1SequentialRecordIterator.html#a88cf01187d8d55d46debed957ec6c2aa" title="foedus::storage::sequential\l::SequentialRecordIterator\l::in_epoch_range" alt="" coords="259,216,437,272"/>
+<area shape="rect" id="node9" href="$classfoedus_1_1Epoch.html#a8228a1a49b7db9b93498a778cb40f8e9" title="foedus::Epoch::is_valid" alt="" coords="271,296,425,323"/>
+<area shape="rect" id="node4" href="$structfoedus_1_1xct_1_1XctId.html#af48118bbaf92a957116ae2873fe55b83" title="foedus::xct::XctId\l::get_epoch" alt="" coords="513,27,636,69"/>
+<area shape="rect" id="node6" href="$structfoedus_1_1storage_1_1sequential_1_1SequentialRecordBatch.html#a2ce2080e227f7c556f423378c5696b4a" title="foedus::storage::sequential\l::SequentialRecordBatch\l::get_owner_id_from_offset" alt="" coords="485,93,664,149"/>
+<area shape="rect" id="node5" href="$structfoedus_1_1xct_1_1XctId.html#aa9ea819b1fb68a729e1c92825190a39c" title="foedus::xct::XctId\l::get_epoch_int" alt="" coords="712,27,835,69"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="foedus::memory::NumaCoreMemory::NumaCoreMemory" name="foedus::memory::NumaCoreMemory::NumaCoreMemory">
+<area shape="rect" id="node2" href="$group__THREAD.html#ga3cfa4441e96554e775ec6013c180e192" title="Returns a globally unique ID of Thread (core) for the given node and ordinal in the node..." alt="" coords="249,5,415,47"/>
+<area shape="rect" id="node3" href="$classfoedus_1_1memory_1_1NumaNodeMemory.html#a07b0da28d3afe3b46d80335a5f422d03" title="foedus::memory::NumaNode\lMemory::get_numa_node" alt="" coords="239,71,425,112"/>
+</map>
