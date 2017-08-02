@@ -172,7 +172,6 @@ void test_run(
   bool multiple_loggers,
   bool multiple_partitions) {
   EngineOptions options = get_tiny_options();
-  options.snapshot_.snapshot_interval_milliseconds_ = 10;
   if (multiple_partitions) {
     options.thread_.thread_count_per_group_ = 1;
     options.thread_.group_count_ = 2;
@@ -211,8 +210,8 @@ void test_run(
       EXPECT_TRUE(out.exists());
       COERCE_ERROR(engine.get_thread_pool()->impersonate_synchronous(verify_name));
       EXPECT_TRUE(out.exists());
-      std::this_thread::sleep_for(std::chrono::milliseconds(500));
       engine.get_snapshot_manager()->trigger_snapshot_immediate(true);
+      engine.get_snapshot_manager()->trigger_snapshot_immediate(true);  // log gleaner must be idempotent.
       EXPECT_TRUE(out.exists());
 
       COERCE_ERROR(engine.uninitialize());
