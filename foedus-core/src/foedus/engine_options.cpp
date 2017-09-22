@@ -128,9 +128,19 @@ ErrorStack EngineOptions::prescreen(std::ostream* details_out) const {
   std::stringstream out_buffer;
   const uint64_t kMarginRatio = 4;  // Add 1/4 to be safe
 
+
   // we don't stop prescreening on individual errors so that
   // the user can see all issues at once.
   bool has_any_error = false;
+
+  if (0 < thread_.thread_count_per_group_ % log_.loggers_per_node_) {
+    has_any_error = true;
+    out_buffer
+      << "[FOEDUS] ERROR. "
+      << "The number of loggers per node must be a submultiple "
+      << "of the number of cores in the node. Check the settings in LogOptions"
+      << std::endl;
+  }
 
   if (RUNNING_ON_VALGRIND && memory_.rigorous_page_boundary_check_) {
     out_buffer

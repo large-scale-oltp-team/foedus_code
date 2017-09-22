@@ -476,6 +476,7 @@ int driver_main(int argc, char **argv) {
   }
 
   EngineOptions options;
+  options.prescreen(&std::cout);
   if (FLAGS_suppress_memory_prescreen) {
     options.memory_.suppress_memory_prescreening_ = true;
   }
