@@ -38,7 +38,6 @@
 #include "foedus/debugging/stop_watch.hpp"
 #include "foedus/memory/memory_id.hpp"
 
-
 // this is a quite new flag, so not exists in many environment. define it here.
 #ifndef MAP_HUGE_SHIFT
 #define MAP_HUGE_SHIFT  26
@@ -171,7 +170,8 @@ void AlignedMemory::alloc(
   watch.stop();
 
   if (block_ == nullptr) {
-    LOG(ERROR) << "Aligned memory allocation failed. OS error=" << assorted::os_error() << *this;
+    LOG(ERROR) << "Aligned memory allocation failed. OS error="
+               << assorted::os_error() << *this;
     // also reset the numa_preferred
     if (::numa_available() >= 0) {
       ::numa_set_preferred(original_node);
@@ -179,15 +179,17 @@ void AlignedMemory::alloc(
     return;
   }
 
+
+  bool parallelize = 1024 * 1024 * 1024 < size_ && 1 < init_threads;
   debugging::StopWatch watch2;
-  if (init_threads == 1) {
+  if (!parallelize) {
     // see class comment for why we do this immediately
     std::memset(block_, 0, size_);
   } else {
     std::vector<std::thread> workers;
     workers.reserve(init_threads);
     for (int i = 0; i < init_threads; ++i) {
-      char* ptr = reinterpret_cast<char*>(block_);
+      char *ptr = reinterpret_cast<char *>(block_);
       const size_t begin = size_ * i / init_threads;
       const size_t end = size_ * (i + 1) / init_threads;
       workers.emplace_back(
@@ -204,8 +206,15 @@ void AlignedMemory::alloc(
   if (::numa_available() >= 0) {
     ::numa_set_preferred(original_node);
   }
-  LOG(INFO) << "Allocated memory in " << watch.elapsed_ns() << "+"
-    << watch2.elapsed_ns() << " ns (alloc+memset)." << *this;
+
+  if (!parallelize) {
+    LOG(INFO) << "Allocated memory in " << watch.elapsed_ns() << "+"
+              << watch2.elapsed_ns() << " ns (alloc+memset)." << *this;
+  } else {
+    LOG(INFO) << "Allocated memory in " << watch.elapsed_ns() << "+"
+              << watch2.elapsed_ns() << " ns (alloc+memset). "
+              << "with " << init_threads << " threads." << *this;
+  }
 }
 
 ErrorCode AlignedMemory::assure_capacity(
