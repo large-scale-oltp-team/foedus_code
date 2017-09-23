@@ -172,6 +172,9 @@ ErrorStack SharedMemoryRepo::allocate_shared_memories(
           end - begin));
     }
   }
+  for (auto& t : init_threads) {
+    t.join();
+  }
 
   for (uint16_t node = 0; node < soc_count_; ++node) {
     set_node_memory_anchors(node, options, true);
