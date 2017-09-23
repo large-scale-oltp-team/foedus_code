@@ -476,6 +476,8 @@ class SharedMemoryRepo CXX11_FINAL {
   /** Master process creates shared memories by calling this method*/
   ErrorStack  allocate_shared_memories(uint64_t upid, Eid eid, const EngineOptions& options);
 
+  static void init_region(int numa_node, void* ptr, size_t length);
+
   /**
    * Child processes (emulated or not) set a reference to shared memory and receive
    * the EngnieOption value by calling this method.

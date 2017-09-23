@@ -155,11 +155,34 @@ ErrorStack SharedMemoryRepo::allocate_shared_memories(
     return last_error;
   }
 
+  // parallel memset
+  const uint8_t thread_per_cpu = options.thread_.thread_count_per_group_;
+  std::vector< std::thread > init_threads;
+  init_threads.reserve(soc_count_ * thread_per_cpu);
+  for (uint16_t node = 0; node < soc_count_; ++node) {
+    char* ptr = node_memories_[node].get_block();
+    const size_t size = node_memories_[node].get_size();
+    for (uint8_t core = 0; core < thread_per_cpu; ++core) {
+      const size_t begin = size * core / thread_per_cpu;
+      const size_t end = size * (core + 1) / thread_per_cpu;
+      init_threads.emplace_back(std::thread(
+          SharedMemoryRepo::init_region,
+          node,
+          &ptr[begin],
+          end - begin));
+    }
+  }
+
   for (uint16_t node = 0; node < soc_count_; ++node) {
     set_node_memory_anchors(node, options, true);
   }
 
   return kRetOk;
+}
+
+void SharedMemoryRepo::init_region(int numa_node, void* ptr, size_t length) {
+  memory::ScopedNumaPreferred numa_scope(numa_node, false);
+  std::memset(ptr, 0, length);
 }
 
 ErrorStack SharedMemoryRepo::attach_shared_memories(
