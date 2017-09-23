@@ -147,7 +147,7 @@ ErrorStack SharedMemory::alloc(
     return ERROR_STACK_MSG(kErrorCodeSocShmAllocFailed, str.c_str());
   }
 
-  std::memset(block_, 0, size_);  // see class comment for why we do this immediately
+  // std::memset(block_, 0, size_);  // see class comment for why we do this immediately
   // This memset takes a very long time due to the issue in linux kernel:
   // https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=8382d914ebf72092aa15cdc2a5dcedb2daa0209d
   // In linux 3.15 and later, this problem gets resolved and highly parallelizable.
