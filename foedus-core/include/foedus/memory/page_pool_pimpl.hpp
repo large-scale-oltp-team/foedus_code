@@ -22,6 +22,8 @@
 
 #include <iosfwd>
 #include <string>
+#include <thread>
+#include <vector>
 
 #include "foedus/assert_nd.hpp"
 #include "foedus/fwd.hpp"
@@ -109,14 +111,38 @@ class PagePoolPimpl final : public DefaultInitializable {
 #ifndef NDEBUG
     const uint64_t free_count = get_free_pool_count();
     const uint64_t free_head = free_pool_head();
-    for (uint64_t i = 0; i < free_count; ++i) {
-      uint64_t index = free_head + i;
-      while (index >= free_pool_capacity_) {
-        index -= free_pool_capacity_;
+    if (free_count < 100000) {
+      for (uint64_t i = 0; i < free_count; ++i) {
+        uint64_t index = free_head + i;
+        while (index >= free_pool_capacity_) {
+          index -= free_pool_capacity_;
+        }
+        PagePoolOffset *address = free_pool_ + index;
+        ASSERT_ND(*address >= pages_for_free_pool_);
+        ASSERT_ND(*address < pool_size_);
       }
-      PagePoolOffset* address = free_pool_ + index;
-      ASSERT_ND(*address >= pages_for_free_pool_);
-      ASSERT_ND(*address < pool_size_);
+    } else {
+      const int nworkers = ::numa_num_task_cpus() / ::numa_num_task_nodes();
+      std::vector<std::thread> workers;
+      workers.reserve(nworkers);
+      for (int core = 0; core < nworkers; ++core) {
+        uint64_t begin = free_count * core / nworkers;
+        uint64_t end = free_count * (core + 1) / nworkers;
+        workers.emplace_back(std::thread([&, begin, end]() {
+          for (uint64_t i = begin; i < end; ++i) {
+            uint64_t index = free_head + i;
+            while (index >= free_pool_capacity_) {
+              index -= free_pool_capacity_;
+            }
+            PagePoolOffset *address = free_pool_ + index;
+            ASSERT_ND(*address >= pages_for_free_pool_);
+            ASSERT_ND(*address < pool_size_);
+          }
+        }));
+      }
+      for (auto& w : workers) {
+        w.join();
+      }
     }
 #endif  // NDEBUG
   }
