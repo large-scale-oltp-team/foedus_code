@@ -207,9 +207,9 @@ ErrorStack NumaNodeMemory::allocate_numa_memory_general(
     alignment >= kHugepageSize
     && size >= (1ULL << 30) * 8 / 10) {
     LOG(INFO) << "This is a big memory allocation. Let's use the mmap hugepage (1GB pages)";
-    out->alloc(size, 1ULL << 30, AlignedMemory::kNumaMmapOneGbPages, numa_node_);
+    out->alloc(size, 1ULL << 30, AlignedMemory::kNumaMmapOneGbPages, numa_node_, cores_);
   } else {
-    out->alloc(size, alignment, AlignedMemory::kNumaAllocOnnode, numa_node_);
+    out->alloc(size, alignment, AlignedMemory::kNumaAllocOnnode, numa_node_, cores_);
   }
   if (out->is_null()) {
     return ERROR_STACK(kErrorCodeOutofmemory);

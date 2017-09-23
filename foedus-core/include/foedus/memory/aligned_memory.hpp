@@ -142,7 +142,8 @@ class AlignedMemory CXX11_FINAL {
     uint64_t size,
     uint64_t alignment,
     AllocType alloc_type,
-    int numa_node) CXX11_NOEXCEPT;
+    int numa_node,
+    int init_threads = 1) CXX11_NOEXCEPT;
   /** Short for alloc(kNumaAllocOnnode) */
   void        alloc_onnode(uint64_t size, uint64_t alignment, int numa_node) CXX11_NOEXCEPT {
     alloc(size, alignment, kNumaAllocOnnode, numa_node);

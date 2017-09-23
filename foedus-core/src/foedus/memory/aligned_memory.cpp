@@ -29,11 +29,14 @@
 #include <fstream>
 #include <iostream>
 #include <string>
+#include <thread>
+#include <vector>
 
 #include "foedus/assert_nd.hpp"
 #include "foedus/assorted/assorted_func.hpp"
 #include "foedus/assorted/mod_numa_node.hpp"
 #include "foedus/debugging/stop_watch.hpp"
+#include "foedus/memory/memory_id.hpp"
 
 
 // this is a quite new flag, so not exists in many environment. define it here.
@@ -110,11 +113,17 @@ void* alloc_mmap_1gb_pages(uint64_t size) {
   return alloc_mmap(size, 1ULL << 30);
 }
 
+static void memset_work(int numa_node, char* ptr, size_t len) {
+  memory::ScopedNumaPreferred numa_scope(numa_node, false);
+  std::memset(ptr, 0, len);
+}
+
 void AlignedMemory::alloc(
   uint64_t size,
   uint64_t alignment,
   AllocType alloc_type,
-  int numa_node) noexcept {
+  int numa_node,
+  int init_threads) noexcept {
   release_block();
   ASSERT_ND(block_ == nullptr);
   size_ = size;
@@ -171,7 +180,26 @@ void AlignedMemory::alloc(
   }
 
   debugging::StopWatch watch2;
-  std::memset(block_, 0, size_);  // see class comment for why we do this immediately
+  if (init_threads == 1) {
+    // see class comment for why we do this immediately
+    std::memset(block_, 0, size_);
+  } else {
+    std::vector<std::thread> workers;
+    workers.reserve(init_threads);
+    for (int i = 0; i < init_threads; ++i) {
+      char* ptr = reinterpret_cast<char*>(block_);
+      const size_t begin = size_ * i / init_threads;
+      const size_t end = size_ * (i + 1) / init_threads;
+      workers.emplace_back(
+          std::thread(memset_work,
+                      numa_node,
+                      &ptr[begin],
+                      end - begin));
+    }
+    for (auto& t : workers) {
+      t.join();
+    }
+  }
   watch2.stop();
   if (::numa_available() >= 0) {
     ::numa_set_preferred(original_node);
@@ -179,6 +207,7 @@ void AlignedMemory::alloc(
   LOG(INFO) << "Allocated memory in " << watch.elapsed_ns() << "+"
     << watch2.elapsed_ns() << " ns (alloc+memset)." << *this;
 }
+
 ErrorCode AlignedMemory::assure_capacity(
   uint64_t required_size,
   double expand_margin,
