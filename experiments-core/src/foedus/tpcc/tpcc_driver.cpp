@@ -144,6 +144,7 @@ TpccDriver::Result TpccDriver::run() {
     // then, load data into the tables.
     // this takes long, so it's parallelized.
     std::vector< thread::ImpersonateSession > sessions;
+    sessions.reserve(options.thread_.group_count_ * options.thread_.thread_count_per_group_);
     for (uint16_t node = 0; node < options.thread_.group_count_; ++node) {
       for (uint16_t ordinal = 0; ordinal < options.thread_.thread_count_per_group_; ++ordinal) {
         uint16_t count = sessions.size();
