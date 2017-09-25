@@ -17,7 +17,7 @@
  */
 #ifndef FOEDUS_INITIALIZABLE_HPP_
 #define FOEDUS_INITIALIZABLE_HPP_
-
+#include <iostream>
 #include "foedus/cxx11.hpp"
 #include "foedus/error_stack.hpp"
 namespace foedus {
@@ -172,6 +172,7 @@ class DefaultInitializable : public virtual Initializable {
     }
     ErrorStack init_error = initialize_once();
     if (init_error.is_error()) {
+      std::cout << init_error << std::endl;
       // if error happes in the middle of initialization, we release resources we acquired.
       CHECK_ERROR(uninitialize_once());
       return init_error;
