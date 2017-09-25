@@ -109,9 +109,10 @@ class PagePoolPimpl final : public DefaultInitializable {
   /** Not thread safe. Use it after taking a lock. */
   void                assert_free_pool() const {
 #ifndef NDEBUG
+    constexpr uint64_t parallel_threshold = 1000000;
     const uint64_t free_count = get_free_pool_count();
     const uint64_t free_head = free_pool_head();
-    if (free_count < 1000000) {
+    if (free_count < parallel_threshold) {
       for (uint64_t i = 0; i < free_count; ++i) {
         uint64_t index = free_head + i;
         while (index >= free_pool_capacity_) {
@@ -122,7 +123,8 @@ class PagePoolPimpl final : public DefaultInitializable {
         ASSERT_ND(*address < pool_size_);
       }
     } else {
-      const int nworkers = ::numa_num_task_cpus() / ::numa_num_task_nodes();
+      //const int nworkers = ::numa_num_task_cpus() / ::numa_num_task_nodes();
+      const int nworkers = (free_count + parallel_threshold - 1) / parallel_threshold;
       std::vector<std::thread> workers;
       workers.reserve(nworkers);
       for (int core = 0; core < nworkers; ++core) {
