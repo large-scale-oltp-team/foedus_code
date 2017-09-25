@@ -329,7 +329,7 @@ ErrorStack SocManagerPimpl::wait_for_master_module(bool init, ModuleType desired
   for (uint32_t count = 0;; ++count) {
     if (count > 0 && count % kWarnSleeps == 0) {
       LOG(WARNING) << "Suspiciously long wait for master " << (init ? "" : "un") << "initializing"
-        << " module-" << desired << ". count=" << count;
+        << " module-" << ModuleTypeStrings[desired] << ". count=" << count;
     }
     soc::MasterEngineStatus* status
       = memory_repo_.get_global_memory_anchors()->master_status_memory_;
