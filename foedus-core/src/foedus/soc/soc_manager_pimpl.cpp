@@ -368,7 +368,7 @@ ErrorStack SocManagerPimpl::wait_for_children_module(bool init, ModuleType desir
   for (uint32_t count = 0;; ++count) {
     if (count > 0 && count % kWarnSleeps == 0) {
       LOG(WARNING) << "Suspiciously long wait for child " << (init ? "" : "un") << "initializing"
-        << " module-" << desired << ". count=" << count;
+        << " module-" << ModuleTypeStrings[desired] << ". count=" << count;
     }
     assorted::spinlock_yield();
     std::this_thread::sleep_for(std::chrono::milliseconds(5));
