@@ -39,5 +39,23 @@ enum ModuleType {
   kRestart,
   kDummyTail,
 };
-}  // namespace foedus
+
+static const char *ModuleTypeStrings[] = {
+  "kInvalid",
+  "kSoc",
+  "kDebug",
+  "kProc",
+  "kMemory",
+  "kSavepoint",
+  "kThread",
+  "kLog",
+  "kSnapshot",
+  "kCache",
+  "kStorage",
+  "kXct",
+  "kRestart",
+  "kDummyTail",
+};
+
+} // namespace foedus
 #endif  // FOEDUS_MODULE_TYPE_HPP_
