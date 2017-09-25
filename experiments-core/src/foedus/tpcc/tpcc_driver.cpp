@@ -665,6 +665,8 @@ int driver_main(int argc, char **argv) {
     << ", RLL:" << options.xct_.enable_retrospective_lock_list_
     << std::endl;
 
+  options.prescreen(&std::cout);
+
   TpccDriver::Result result;
   {
     Engine engine(options);
