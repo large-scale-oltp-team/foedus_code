@@ -111,7 +111,7 @@ class PagePoolPimpl final : public DefaultInitializable {
 #ifndef NDEBUG
     const uint64_t free_count = get_free_pool_count();
     const uint64_t free_head = free_pool_head();
-    if (free_count < 100000) {
+    if (free_count < 1000000) {
       for (uint64_t i = 0; i < free_count; ++i) {
         uint64_t index = free_head + i;
         while (index >= free_pool_capacity_) {
