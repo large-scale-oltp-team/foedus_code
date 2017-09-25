@@ -42,7 +42,7 @@ void handle_thread(StoppableThread* me) {
 TEST(StoppableThreadTest, Minimal) {
   for (int sleep_ms = 0; sleep_ms < 50; sleep_ms += 10) {
     StoppableThread th;
-    th.initialize("test", std::move(std::thread(handle_thread, &th)),
+    th.initialize("test", std::thread(handle_thread, &th),
             std::chrono::milliseconds(5));
     EXPECT_FALSE(th.is_stop_requested());
     EXPECT_FALSE(th.is_stopped());
@@ -61,7 +61,7 @@ TEST(StoppableThreadTest, Minimal) {
 
 TEST(StoppableThreadTest, Wakeup) {
   StoppableThread th;
-  th.initialize("test", std::move(std::thread(handle_thread, &th)), std::chrono::milliseconds(5));
+  th.initialize("test", std::thread(handle_thread, &th), std::chrono::milliseconds(5));
   EXPECT_FALSE(th.is_stop_requested());
   EXPECT_FALSE(th.is_stopped());
   EXPECT_FALSE(th.is_stop_requested_weak());
@@ -83,7 +83,7 @@ TEST(StoppableThreadTest, Many) {
     StoppableThread* th = new StoppableThread();
     threads.push_back(th);
     th->initialize("test", i,
-             std::move(std::thread(handle_thread, th)), std::chrono::milliseconds(5));
+             std::thread(handle_thread, th), std::chrono::milliseconds(5));
   }
   std::this_thread::sleep_for(std::chrono::milliseconds(50));
   for (int i = 0; i < kThreads; ++i) {

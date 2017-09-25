@@ -277,7 +277,7 @@ void McsWwOwnerlessImpl::ownerless_acquire_unconditional(McsWwLock* mcs_lock) {
   assert_mcs_aligned(mcs_lock);
   auto* int_address = &(mcs_lock->tail_.word_);
   assert_mcs_aligned(int_address);
-  spin_until([mcs_lock, int_address]{
+  spin_until([int_address]{
     McsWwBlockData old;
     ASSERT_ND(!old.is_valid_relaxed());
     return assorted::raw_atomic_compare_exchange_weak<uint64_t>(

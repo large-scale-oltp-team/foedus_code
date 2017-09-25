@@ -96,7 +96,7 @@ ErrorStack XctManagerPimpl::initialize_once() {
     ASSERT_ND(get_current_global_epoch().is_valid());
     control_block_->requested_global_epoch_ = control_block_->current_global_epoch_.load();
     control_block_->epoch_chime_terminate_requested_ = false;
-    epoch_chime_thread_ = std::move(std::thread(&XctManagerPimpl::handle_epoch_chime, this));
+    epoch_chime_thread_ = std::thread(&XctManagerPimpl::handle_epoch_chime, this);
   }
   return kRetOk;
 }

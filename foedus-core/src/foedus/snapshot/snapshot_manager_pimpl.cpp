@@ -115,9 +115,9 @@ ErrorStack SnapshotManagerPimpl::initialize_once() {
 
   // Launch the daemon thread at last
   if (engine_->is_master()) {
-    snapshot_thread_ = std::move(std::thread(&SnapshotManagerPimpl::handle_snapshot, this));
+    snapshot_thread_ = std::thread(&SnapshotManagerPimpl::handle_snapshot, this);
   } else {
-    snapshot_thread_ = std::move(std::thread(&SnapshotManagerPimpl::handle_snapshot_child, this));
+    snapshot_thread_ = std::thread(&SnapshotManagerPimpl::handle_snapshot_child, this);
   }
   return kRetOk;
 }
