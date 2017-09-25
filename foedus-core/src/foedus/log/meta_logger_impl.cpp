@@ -56,7 +56,7 @@ ErrorStack MetaLogger::initialize_once() {
   ASSERT_ND(control_block_->durable_offset_ == current_file_->get_current_offset());
 
   stop_requested_ = false;
-  logger_thread_ = std::move(std::thread(&MetaLogger::meta_logger_main, this));
+  logger_thread_ = std::thread(&MetaLogger::meta_logger_main, this);
   return kRetOk;
 }
 

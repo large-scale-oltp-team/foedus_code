@@ -39,7 +39,7 @@ MapReduceBase::MapReduceBase(Engine* engine, uint16_t id)
 
 void MapReduceBase::launch_thread() {
   LOG(INFO) << "Launching thread for " << to_string();
-  thread_ = std::move(std::thread(&MapReduceBase::handle, this));
+  thread_ = std::thread(&MapReduceBase::handle, this);
 }
 
 void MapReduceBase::join_thread() {

@@ -127,7 +127,7 @@ ErrorStack Logger::initialize_once() {
   CHECK_ERROR(write_dummy_epoch_mark());
 
   // log file and buffer prepared. let's launch the logger thread
-  logger_thread_ = std::move(std::thread(&Logger::handle_logger, this));
+  logger_thread_ = std::thread(&Logger::handle_logger, this);
 
   assert_consistent();
   return kRetOk;

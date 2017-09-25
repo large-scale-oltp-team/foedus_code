@@ -115,7 +115,7 @@ ErrorStack ThreadPimpl::initialize_once() {
   local_volatile_page_resolver_ = node_memory_->get_volatile_pool()->get_resolver();
 
   raw_thread_set_ = false;
-  raw_thread_ = std::move(std::thread(&ThreadPimpl::handle_tasks, this));
+  raw_thread_ = std::thread(&ThreadPimpl::handle_tasks, this);
   raw_thread_set_ = true;
   return kRetOk;
 }

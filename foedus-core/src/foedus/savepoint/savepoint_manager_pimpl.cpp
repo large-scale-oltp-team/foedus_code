@@ -66,7 +66,7 @@ ErrorStack SavepointManagerPimpl::initialize_once() {
     control_block_->requested_durable_epoch_ = savepoint_.durable_epoch_;
     savepoint_thread_stop_requested_ = false;
     assorted::memory_fence_release();
-    savepoint_thread_ = std::move(std::thread(&SavepointManagerPimpl::savepoint_main, this));
+    savepoint_thread_ = std::thread(&SavepointManagerPimpl::savepoint_main, this);
     control_block_->master_initialized_ = true;
   } else {
     // other engines wait for the master engine until it finishes the initialization of

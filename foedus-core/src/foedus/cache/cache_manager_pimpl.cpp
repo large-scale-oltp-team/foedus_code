@@ -94,7 +94,7 @@ ErrorStack CacheManagerPimpl::initialize_once() {
 
   // launch the cleaner thread
   stop_requested_.store(false);
-  cleaner_ = std::move(std::thread(&CacheManagerPimpl::handle_cleaner, this));
+  cleaner_ = std::thread(&CacheManagerPimpl::handle_cleaner, this);
 
   return kRetOk;
 }

@@ -81,7 +81,6 @@ class ZipfianRandom {
  private:
   assorted::UniformRandom urnd_;
   uint64_t max_;
-  uint64_t base_;
   double theta_;
   double zetan_;
   double alpha_;
