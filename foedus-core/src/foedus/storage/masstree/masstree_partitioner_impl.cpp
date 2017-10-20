@@ -74,6 +74,9 @@ ErrorStack MasstreePartitioner::design_partition(
   MasstreeIntermediatePage* vol = reinterpret_cast<MasstreeIntermediatePage*>(buffers);
   MasstreeIntermediatePage* snp = reinterpret_cast<MasstreeIntermediatePage*>(buffers + 1);
   SnapshotPagePointer snapshot_page_id = control_block->root_page_pointer_.snapshot_pointer_;
+  if (control_block->root_page_pointer_.volatile_pointer_.word == 0) {
+    return kRetOk;
+  }
   MasstreeIntermediatePage* root_volatile = reinterpret_cast<MasstreeIntermediatePage*>(
     resolver.resolve_offset(control_block->root_page_pointer_.volatile_pointer_));
   CHECK_ERROR(read_page_safe(root_volatile, vol));

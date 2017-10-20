@@ -211,6 +211,7 @@ void test_run(
       COERCE_ERROR(engine.get_thread_pool()->impersonate_synchronous(verify_name));
       EXPECT_TRUE(out.exists());
       engine.get_snapshot_manager()->trigger_snapshot_immediate(true);
+      engine.get_snapshot_manager()->trigger_snapshot_immediate(true);  // log gleaner must be idempotent.
       EXPECT_TRUE(out.exists());
 
       COERCE_ERROR(engine.uninitialize());
