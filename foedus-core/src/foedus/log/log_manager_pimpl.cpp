@@ -165,11 +165,12 @@ ErrorStack LogManagerPimpl::uninitialize_once() {
   }
   batch.uninitialize_and_delete_all(&loggers_);
   logger_refs_.clear();
-  if (engine_->is_master()) {
+  if (engine_->is_master() && control_block_ != nullptr) {
     control_block_->uninitialize();
   }
   return SUMMARIZE_ERROR_BATCH(batch);
 }
+
 void LogManagerPimpl::wakeup_loggers() {
   for (LoggerRef& logger : logger_refs_) {
     logger.wakeup();
