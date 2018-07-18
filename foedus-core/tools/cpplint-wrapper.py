@@ -179,7 +179,6 @@ def exec_cpplint(files, cpplint_arguments):
     # sys.stdout.write('Launching cpplint (' + cpplint_file + ') for ' + str(len(files))
     #                  + ' files. arguments: ' + ' '.join(args) + '\n')
     proc = subprocess.Popen(args, bufsize=65536, stderr=subprocess.PIPE, close_fds=True)
-    proc.wait()
     has_error = False
     clean_index = {}
     clean_index.update(index_last)
@@ -199,6 +198,7 @@ def exec_cpplint(files, cpplint_arguments):
               sys.stderr.write('\033[93m' + line + '\033[0m') # Put a color that stands out
             else:
               sys.stderr.write(line) # If the client (kdevelop?) doesn't support, avoid it.
+    proc.wait()
 
     # store the clean list to speed up next execution
     store_dir_index(clean_index, history_file)
