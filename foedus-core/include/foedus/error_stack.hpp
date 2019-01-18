@@ -300,6 +300,7 @@ inline ErrorStack::ErrorStack(const ErrorStack &other, const char* filename,
 }
 
 inline ErrorStack& ErrorStack::operator=(const ErrorStack &other) {
+  clear_custom_message();
   // Invariant: if kErrorCodeOk, no more processing
   if (LIKELY(other.error_code_ == kErrorCodeOk)) {
     this->error_code_ = kErrorCodeOk;
